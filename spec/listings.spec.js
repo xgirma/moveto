@@ -51,12 +51,17 @@ describe("listings", () => {
 
   describe("pages", () => {
     it("get pages", async () => {
-      /* eslint-disable */
-            for (let i = 1; i < data.pages - 1; i += 1) {
-                await scrap(i);
-                await delay(1000);
-            }
-            /* eslint-enable */
+      if(data.pages == 1) {
+        await scrap(1);
+        await delay(1000);
+      } else {
+        /* eslint-disable */
+        for (let i = 1; i < data.pages - 1; i += 1) {
+          await scrap(i);
+          await delay(1000);
+        }
+        /* eslint-enable */
+      }
     }, 600000); // 10 minutes max
   });
 
