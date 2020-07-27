@@ -14,6 +14,7 @@ const details = [];
 
 for (let i = 0; i < links.length; i++) {
     describe("main", () => {
+        console.log(`i: `, i);
         jasmine.DEFAULT_TIMEOUT_INTERVAL = 10000;
         const url = links[i];
         let flag = false;
@@ -23,11 +24,7 @@ for (let i = 0; i < links.length; i++) {
             browser = process.env.GITHUB_ACTIONS
                 ? await chromium.launch()
                 : await chromium.launch({
-                    headless: false,
-                    logger: {
-                      isEnabled: (name, severity) => name === 'browser',
-                      log: (name, severity, message, args) => console.log(`${name} ${message}`)
-                    }
+                    headless: false
                 });
             page = await browser.newPage();
 
@@ -67,7 +64,7 @@ for (let i = 0; i < links.length; i++) {
         });
     });
 
-    if((i+1) === links.length){
-        console.log('details', details);
+    if(links.length === 1 || ((i-1)+1) === links.length){
+        console.log('details: ', details, ' ', i, ' ', links.length);
     }
 }
