@@ -1,0 +1,49 @@
+{
+  "name": "moveto",
+  "version": "1.0.0",
+  "description": "Extract data from moveto.com for selected houses",
+  "main": "index.js",
+  "scripts": {
+    "clean": "npx rimraf data/*",
+    "lint": "npx eslint --ext .js ./ --fix",
+    "constants": "npx jasmine spec/constants.spec.js",
+    "listings": "jasmine spec/listings.spec.js",
+    "main": "jasmine spec/main.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgirma/moveto.git"
+  },
+  "keywords": [],
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xgirma/moveto/issues"
+  },
+  "homepage": "https://github.com/xgirma/moveto#readme",
+  "dependencies": {
+    "chromedriver": "83.0.1",
+    "jasmine": "3.6.1",
+    "playwright": "1.2.1",
+    "rimraf": "3.0.2",
+    "yargs": "^15.4.1",
+    "zipcodes": "^8.0.0"
+  },
+  "devDependencies": {
+    "@types/rimraf": "^3.0.0",
+    "eslint": "7.5.0",
+    "eslint-config-airbnb-base": "14.2.0",
+    "eslint-config-prettier": "6.11.0",
+    "eslint-plugin-import": "2.22.0",
+    "eslint-plugin-prettier": "3.1.4",
+    "husky": "4.2.5",
+    "lint-staged": "10.2.11",
+    "prettier": "2.0.4",
+    "pretty-quick": "2.0.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged --allow-empty"
+    }
+  }
+}
