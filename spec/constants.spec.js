@@ -16,6 +16,7 @@ let browser;
  *  date
  */
 describe("constant", () => {
+  jasmine.DEFAULT_TIMEOUT_INTERVAL = 10000;
   const zip = argv.zip || 27560;
   const { state } = zipcodes.lookup(zip);
 
@@ -26,10 +27,11 @@ describe("constant", () => {
 
     await page
       .goto(home, {
+        timeout: 4500,
         waitUntil: "networkidle",
       })
       .catch(() => {});
-  }, 20000);
+  });
 
   afterAll(() => {
     if (!page.isClosed()) {

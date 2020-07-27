@@ -14,6 +14,7 @@ const details = [];
 
 for (let i = 0; i < links.length; i++) {
     describe("main", () => {
+        jasmine.DEFAULT_TIMEOUT_INTERVAL = 10000;
         const url = links[i];
         let flag = false;
         const detail = [];
@@ -32,11 +33,12 @@ for (let i = 0; i < links.length; i++) {
 
             await page
                 .goto(url, {
-                    waitUntil: "networkidle0",
+                    timeout: 4500,
+                    waitUntil: "networkidle",
                 })
                 .catch(() => {
                 });
-        }, 20000);
+        });
 
         afterAll(() => {
             if (!page.isClosed()) {
@@ -46,26 +48,26 @@ for (let i = 0; i < links.length; i++) {
         });
 
         afterEach(async () => {
-            await delay(60000);
+            await delay(1000);
         });
 
-        it('should be single family home only', () => {
+        it('single family home?', async () => {
             try {
-                if(page.$('.icon-property-single-family') == null){
-                    flag = true;
-                }
+                flag = await page.$('.icon-property-single-family') == null;
             } catch (error) {
                 console.error('Error: when querying for .icon-property-single-family element')
             }
         });
 
         it("status", async () => {
-            if(!flag) {
+            if(flag) {
                 const status = await page.$eval("#dppHeader > div > div.sup > span.text", el => el.textContent);
                 detail.push(status);
             }
         });
     });
-}
 
-console.log(details);
+    if((i+1) === links.length){
+        console.log('details', details);
+    }
+}

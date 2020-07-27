@@ -13,6 +13,8 @@ const links = [];
  * Scrap all listings per page and write to a JSON file
  */
 describe("listings", () => {
+  jasmine.DEFAULT_TIMEOUT_INTERVAL = 10000;
+
   describe("data", () => {
     it("get data", () => {
       const constant = readFileSync(`./data/${zip}/constants.json`);
@@ -26,7 +28,7 @@ describe("listings", () => {
     const host = "https://www.movoto.com";
     const url = `${host}/${data.state.toLowerCase()}/${zip}/p-${no}`;
 
-    await page.goto(url, { waitUntil: "networkidle" }).catch(() => {});
+    await page.goto(url, { timeout: 4500, waitUntil: "networkidle" }).catch(() => {});
 
     const title = await page.$eval("#txtH1", (el) => el.textContent);
     assert.strictEqual(
@@ -51,7 +53,7 @@ describe("listings", () => {
 
   describe("pages", () => {
     it("get pages", async () => {
-      if(data.pages == 1) {
+      if(data.pages === 1) {
         await scrap(1);
         await delay(1000);
       } else {

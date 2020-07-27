@@ -2,5 +2,8 @@
   "spec_dir": "spec",
   "spec_files": ["**/*[sS]pec.js"],
   "stopSpecOnExpectationFailure": false,
-  "random": false
+  "random": false,
+  "showColors": true,
+  "includeStackTrace": true,
+  "defaultTimeoutInterval": 1440000
 }
