@@ -17,7 +17,7 @@ let browser;
  */
 describe("constant", () => {
   jasmine.DEFAULT_TIMEOUT_INTERVAL = 10000;
-  const zip = argv.zip || 27560;
+  const zip = argv.zip || 28521;
   const { state } = zipcodes.lookup(zip);
 
   beforeAll(async () => {

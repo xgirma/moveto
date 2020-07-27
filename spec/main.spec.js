@@ -4,7 +4,7 @@ const {delay} = require("./utils");
 const {chromium} = require("playwright");
 const assert = require("assert");
 
-const zip = argv.zip || "27560";
+const zip = argv.zip || 28521;
 const linksFile = readFileSync(`./data/${zip}/links.json`);
 const links = JSON.parse(linksFile);
 

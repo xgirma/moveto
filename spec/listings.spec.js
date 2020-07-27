@@ -2,7 +2,7 @@ const { writeFileSync, readFileSync, mkdirSync, existsSync } = require("fs");
 const { chromium } = require("playwright");
 const { argv } = require("yargs");
 
-const zip = argv.zip || "27560";
+const zip = argv.zip || 28521;
 const assert = require("assert");
 const { delay } = require("./utils");
 
