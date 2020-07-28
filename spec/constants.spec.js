@@ -9,21 +9,15 @@ const { sortObject } = require("./utils");
 let page;
 let browser;
 
-/**
- * Scrap per zip code
- *  the # of pages
- *  State name
- *  date
- */
 describe("constant", () => {
   jasmine.DEFAULT_TIMEOUT_INTERVAL = 10000;
-  const zip = argv.zip || 28521;
-  const { state } = zipcodes.lookup(zip);
+  const zip = argv.zip || 28685;
+  const { state, city } = zipcodes.lookup(zip);
 
   beforeAll(async () => {
     browser = await chromium.launch({ headless: false });
     page = await browser.newPage();
-    const home = `https://www.movoto.com/${state}/${zip}`;
+    const home = `https://www.movoto.com/${city}-${state}`;
 
     await page
       .goto(home, {
@@ -55,12 +49,12 @@ describe("constant", () => {
       path = `./data/${zip}/constants.json`;
 
       const date = new Date();
-      const data = { zip, state, pages, date };
+      const data = { city, state, zip, pages, date };
       const update = JSON.stringify(sortObject(data), null, 2);
       writeFileSync(path, update, "utf8");
     } catch (error) {
       console.error(error);
     }
-    assert.strictEqual(title, `${zip}, ${state} Real Estate & Homes For Sale`);
+    assert.strictEqual(title, `${city}, ${state} Real Estate & Homes for Sale`);
   });
 });

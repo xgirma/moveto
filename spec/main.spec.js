@@ -1,70 +1,90 @@
-const {argv} = require("yargs");
-const {writeFileSync, readFileSync, mkdirSync, existsSync} = require("fs");
-const {delay} = require("./utils");
-const {chromium} = require("playwright");
+const { argv } = require("yargs");
+const { writeFileSync, readFileSync, mkdirSync, existsSync, appendFileSync } = require("fs");
+const { chromium } = require("playwright");
 const assert = require("assert");
-
-const zip = argv.zip || 28521;
+const { delay } = require("./utils");
+const zip = argv.zip || 28685;
 const linksFile = readFileSync(`./data/${zip}/links.json`);
 const links = JSON.parse(linksFile);
+const path = `./data/${zip}/details.csv`;
 
 let page;
 let browser;
-const details = [];
+let details = [];
 
-for (let i = 0; i < links.length; i++) {
-    describe("main", () => {
-        console.log(`i: `, i);
-        jasmine.DEFAULT_TIMEOUT_INTERVAL = 10000;
-        const url = links[i];
-        let flag = false;
-        const detail = [];
+let link = 0;
 
-        beforeAll(async () => {
-            browser = process.env.GITHUB_ACTIONS
-                ? await chromium.launch()
-                : await chromium.launch({
-                    headless: false
-                });
-            page = await browser.newPage();
+function appendList(line) {
+  const folder = `./data/${zip}`;
 
-            await page
-                .goto(url, {
-                    timeout: 4500,
-                    waitUntil: "networkidle",
-                })
-                .catch(() => {
-                });
-        });
+  try {
+    if (!existsSync(folder)) {
+      mkdirSync(folder);
+    }
 
-        afterAll(() => {
-            if (!page.isClosed()) {
-                browser.close();
-            }
-            details.push(detail);
-        });
+    const update = JSON.stringify(details, null, 2);
+    appendFileSync(path, line, "utf8");
+  } catch (error) {
+    console.error(error);
+  }
+}
 
-        afterEach(async () => {
-            await delay(1000);
-        });
+writeFileSync(path,'', "utf8");
 
-        it('single family home?', async () => {
-            try {
-                flag = await page.$('.icon-property-single-family') == null;
-            } catch (error) {
-                console.error('Error: when querying for .icon-property-single-family element')
-            }
-        });
+do {
+  let line = '';
 
-        it("status", async () => {
-            if(flag) {
-                const status = await page.$eval("#dppHeader > div > div.sup > span.text", el => el.textContent);
-                detail.push(status);
-            }
-        });
+  describe(`abc ${link}`, () => {
+    jasmine.DEFAULT_TIMEOUT_INTERVAL = 10000;
+    const url = links[link];
+    let flag = false;
+
+    beforeAll( async () => {
+      browser = await chromium.launch({headless: false});
+      page = await browser.newPage();
+
+      await page
+          .goto(url, {
+            timeout: 4500,
+            waitUntil: "networkidle",
+          })
+          .catch(() => {});
     });
 
-    if(links.length === 1 || ((i-1)+1) === links.length){
-        console.log('details: ', details, ' ', i, ' ', links.length);
-    }
-}
+    afterAll(() => {
+      if (!flag) {
+        appendList(line + '\n');
+      }
+
+      if (!page.isClosed()) {
+        browser.close();
+      }
+    });
+
+    afterEach(async () => {
+      await delay(1000);
+    });
+
+    it("single family home?", async () => {
+      try {
+        flag = (await page.$(".icon-property-single-family")) == null;
+      } catch (error) {
+        console.error(
+            "Error: when querying for .icon-property-single-family element"
+        );
+      }
+    });
+
+    it("status", async () => {
+      if (!flag) {
+        const status = await page.$eval(
+            "#dppHeader > div > div.sup > span.text",
+            (el) => el.textContent
+        );
+        line += status
+      }
+    });
+  });
+
+  link = link + 1;
+} while (link < links.length);

@@ -7,7 +7,7 @@
     "clean": "npx rimraf data/*",
     "lint": "npx eslint --ext .js ./ --fix",
     "constants": "npx jasmine spec/constants.spec.js",
-    "listings": "jasmine spec/listings.spec.js",
+    "list": "jasmine spec/list.spec.js",
     "main": "jasmine spec/main.spec.js"
   },
   "repository": {
