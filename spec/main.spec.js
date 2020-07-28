@@ -1,8 +1,17 @@
+/* eslint-disable no-loop-func, no-console */
+
 const { argv } = require("yargs");
-const { writeFileSync, readFileSync, mkdirSync, existsSync, appendFileSync } = require("fs");
+const {
+  writeFileSync,
+  readFileSync,
+  mkdirSync,
+  existsSync,
+  appendFileSync,
+} = require("fs");
 const { chromium } = require("playwright");
 const assert = require("assert");
 const { delay } = require("./utils");
+
 const zip = argv.zip || 28685;
 const linksFile = readFileSync(`./data/${zip}/links.json`);
 const links = JSON.parse(linksFile);
@@ -10,7 +19,6 @@ const path = `./data/${zip}/details.csv`;
 
 let page;
 let browser;
-let details = [];
 
 let link = 0;
 
@@ -22,38 +30,37 @@ function appendList(line) {
       mkdirSync(folder);
     }
 
-    const update = JSON.stringify(details, null, 2);
     appendFileSync(path, line, "utf8");
   } catch (error) {
     console.error(error);
   }
 }
 
-writeFileSync(path,'', "utf8");
+writeFileSync(path, "", "utf8");
 
 do {
-  let line = '';
+  let line = "";
 
-  describe(`abc ${link}`, () => {
+  describe("main", () => {
     jasmine.DEFAULT_TIMEOUT_INTERVAL = 10000;
     const url = links[link];
     let flag = false;
 
-    beforeAll( async () => {
-      browser = await chromium.launch({headless: false});
+    beforeAll(async () => {
+      browser = await chromium.launch({ headless: false });
       page = await browser.newPage();
 
       await page
-          .goto(url, {
-            timeout: 4500,
-            waitUntil: "networkidle",
-          })
-          .catch(() => {});
+        .goto(url, {
+          timeout: 4500,
+          waitUntil: "networkidle",
+        })
+        .catch(() => {});
     });
 
     afterAll(() => {
       if (!flag) {
-        appendList(line + '\n');
+        appendList(`${line}\n`);
       }
 
       if (!page.isClosed()) {
@@ -70,7 +77,7 @@ do {
         flag = (await page.$(".icon-property-single-family")) == null;
       } catch (error) {
         console.error(
-            "Error: when querying for .icon-property-single-family element"
+          "Error: when querying for .icon-property-single-family element"
         );
       }
     });
@@ -78,13 +85,24 @@ do {
     it("status", async () => {
       if (!flag) {
         const status = await page.$eval(
-            "#dppHeader > div > div.sup > span.text",
-            (el) => el.textContent
+          "#dppHeader > div > div.sup > span.text",
+          (el) => el.textContent
         );
-        line += status
+        line += status;
+      }
+    });
+
+    it("price", async () => {
+      if (!flag) {
+        const price = await page.$eval(
+          "#dppHeader > div > div.title.dpp-price > span",
+          (el) => el.textContent
+        );
+        const formatted = price.substr(1).replace(",", "");
+        line += `,${formatted}`;
       }
     });
   });
 
-  link = link + 1;
+  link += 1;
 } while (link < links.length);
