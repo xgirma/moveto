@@ -49,7 +49,6 @@ describe("constant", () => {
       }
 
       path = `./data/${zip}/constants.json`;
-
       const date = new Date();
       const data = { city, state, zip, pages, date };
       const update = JSON.stringify(sortObject(data), null, 2);
