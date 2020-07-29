@@ -192,6 +192,16 @@ do {
         isNumber(formattedYears);
       }
     });
+
+    it("hoa", async () => {
+      if(!flag) {
+        const css = ".dpp-column > ul > li:nth-child(8)";
+        const hoa = await page.$eval(css, (el) => el.textContent);
+        const formattedHoa = hoa.replace("HOA Fees", "").substr(3).replace("/month", "").trim();
+        line += `,${formattedHoa}`;
+        // isNumber(formattedHoa); fail when $0 HOV
+      }
+    });
   });
 
   link += 1;
