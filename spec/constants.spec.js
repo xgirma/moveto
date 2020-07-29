@@ -17,7 +17,9 @@ describe("constant", () => {
   const { state, city } = zipcodes.lookup(zip);
 
   beforeAll(async () => {
-    browser = await chromium.launch({ headless: false });
+    browser = process.env.GITHUB_ACTIONS
+        ? await chromium.launch()
+        : await chromium.launch({ headless: false });
     page = await browser.newPage();
     const home = `https://www.movoto.com/${city}-${state}`;
 

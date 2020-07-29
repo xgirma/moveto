@@ -57,7 +57,9 @@ do {
     let flag = false;
 
     beforeAll(async () => {
-      browser = await chromium.launch({ headless: false });
+      browser = process.env.GITHUB_ACTIONS
+          ? await chromium.launch()
+          : await chromium.launch({ headless: false });
       page = await browser.newPage();
 
       await page
@@ -199,7 +201,6 @@ do {
         const hoa = await page.$eval(css, (el) => el.textContent);
         const formattedHoa = hoa.replace("HOA Fees", "").substr(3).replace("/month", "").trim();
         line += `,${formattedHoa}`;
-        // isNumber(formattedHoa); fail when $0 HOV
       }
     });
   });
