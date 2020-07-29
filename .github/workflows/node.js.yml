@@ -34,3 +34,13 @@ jobs:
         run: npm run list
       - name: main
         run: npm run main
+      - name: Commit changes
+      - uses: EndBug/add-and-commit@v4
+        with:
+          author_name: Your Name
+          author_email: e2eboilerplate@gmail.com
+          message: "updates"
+          add: "*"
+        env:
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
