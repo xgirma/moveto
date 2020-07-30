@@ -109,7 +109,7 @@ do {
         const price = formattedPrice.substr(1).replace(",", "");
         flag = price > maxPrice;
         line += `,${price}`;
-        isNumber(price);
+        // isNumber(price);
       }
     });
 
@@ -128,7 +128,7 @@ do {
         const formattedBeds = beds.trim();
         flag = beds < bedsMinimum;
         line += `,${formattedBeds}`;
-        isNumber(formattedBeds);
+        // isNumber(formattedBeds);
       }
     });
 
@@ -139,7 +139,7 @@ do {
         const formattedBaths = baths.trim();
         flag = baths < bathsMinimum;
         line += `,${formattedBaths}`;
-        isNumber(formattedBaths);
+        // isNumber(formattedBaths);
       }
     });
 
@@ -159,7 +159,7 @@ do {
         const value = await page.$eval(css, (el) => el.textContent);
         const formattedValue = value.substr(1).replace("/Sqft", "");
         line += `,${formattedValue}`;
-        isNumber(formattedValue);
+        // isNumber(formattedValue);
       }
     });
 
@@ -169,7 +169,7 @@ do {
         const days = await page.$eval(css, (el) => el.textContent);
         const formattedDays = days.trim();
         line += `,${formattedDays}`;
-        isNumber(formattedDays);
+        // isNumber(formattedDays);
       }
     });
 
@@ -179,7 +179,7 @@ do {
         const lots = await page.$eval(css, (el) => el.textContent);
         const formattedLots = lots.trim().replace(",", "");
         line += `,${formattedLots}`;
-        isNumber(formattedLots);
+        // isNumber(formattedLots);
       }
     });
 
@@ -189,7 +189,7 @@ do {
         const year = await page.$eval(css, (el) => el.textContent);
         const formattedYears = year.replace("Year Built", "").trim();
         line += `,${formattedYears}`;
-        isNumber(formattedYears);
+        // isNumber(formattedYears);
       }
     });
 
