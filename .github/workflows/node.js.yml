@@ -24,6 +24,11 @@ jobs:
         uses: juliangruber/sleep-action@v1
         with:
          time: 10s
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: constants
+          path: data/28685/constants.json
       - uses: actions/checkout@v2
       - run: |
           git config --global user.email "xgirma@gmail.com"
