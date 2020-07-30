@@ -5,23 +5,13 @@ name: moveto
     - cron: 5 3 * * *
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v2
       - name: node
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
-      - name: 'install:linux:dep'
-        run: >
-          sudo apt-get update
-
-          sudo apt-get install libwoff1 libopus0 libwebp6 libwebpdemux2
-          libenchant1c2a libgudev-1.0-0 libsecret-1-0 libhyphen0
-          libgdk-pixbuf2.0-0 libegl1 libgles2 libevent-2.1-6 libnotify4
-          libxslt1.1
-
-          sudo apt-get install xvfb
       - name: 'npm:install'
         run: npm install
         env:
@@ -30,13 +20,20 @@ jobs:
         run: npm run lint --if-present
       - name: constants
         run: npm run constants
-      - name: Commit changes
-      - uses: EndBug/add-and-commit@v4
+      - name: Sleep for 10s
+        uses: juliangruber/sleep-action@v1
         with:
-          author_name: Your Name
-          author_email: e2eboilerplate@gmail.com
-          message: "updates"
-          add: "*"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+         time: 10s
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: constants
+          path: data/*
+      - name: commit data
+        run: |
+          git config --global user.email "xgirma@gmail.com"
+          git config --global user.name "Girma Nigusse"
+          git status
+          git commit -am "generated"
+          git status
+          git push
