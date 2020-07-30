@@ -20,6 +20,10 @@ jobs:
         run: npm run lint --if-present
       - name: constants
         run: npm run constants
+      - name: Sleep for 30 seconds
+        uses: jakejarvis/wait-action@master
+        with:
+          time: '3000s'
       - uses: actions/checkout@v2
       - run: |
           git config user.name Girma Nigusse
