@@ -9,7 +9,6 @@ const {
   appendFileSync,
 } = require("fs");
 const { chromium } = require("playwright");
-const assert = require("assert");
 const zipcodes = require("zipcodes");
 const { delay } = require("./utils");
 
