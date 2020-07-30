@@ -20,6 +20,10 @@ jobs:
         run: npm run lint --if-present
       - name: constants
         run: npm run constants
+      - name: list
+        run: npm run list
+      - name: main
+        run: npm run main
       - name: Sleep for 10s
         uses: juliangruber/sleep-action@v1
         with:
@@ -35,5 +39,4 @@ jobs:
           git config --global user.name "Girma Nigusse"
           git status
           git commit -am "generated"
-          git status
           git push
