@@ -20,14 +20,12 @@ jobs:
         run: npm run lint --if-present
       - name: constants
         run: npm run constants
-      - name: Sleep for 30 seconds
+      - name: 'sleep:7s'
         uses: jakejarvis/wait-action@master
         with:
-          time: '3000s'
+          time: 70s
       - uses: actions/checkout@v2
       - run: |
-          git config user.name Girma Nigusse
-          git config user.email xgirma@gmail.com
           git add .
           git commit -m "generated"
           git push
