@@ -21,7 +21,9 @@ jobs:
           libgdk-pixbuf2.0-0 libegl1 libgles2 libevent-2.1-6 libnotify4
           libxslt1.1
           
-          sudo apt-get -y install xorg xvfb gtk2-engines-pixbuf sudo apt-get -y install dbus-x11 xfonts-base xfonts-100dpi xfonts-75dpi xfonts-cyrillic xfonts-scalable
+          sudo apt-get install xorg xvfb gtk2-engines-pixbuf 
+          
+          sudo apt-get install dbus-x11 xfonts-base xfonts-100dpi xfonts-75dpi xfonts-cyrillic xfonts-scalable
 
           sudo apt-get install xvfb
       - name: 'npm:install'
