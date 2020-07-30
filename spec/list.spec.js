@@ -37,8 +37,8 @@ if (pages === 1) {
 
     beforeAll(async () => {
       browser = process.env.GITHUB_ACTIONS
-          ? await chromium.launch()
-          : await chromium.launch({ headless: false });
+        ? await chromium.launch()
+        : await chromium.launch({ headless: false });
       page = await browser.newPage();
       const url = `${host}/${city}-${state}`;
       await page

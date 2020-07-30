@@ -58,8 +58,8 @@ do {
 
     beforeAll(async () => {
       browser = process.env.GITHUB_ACTIONS
-          ? await chromium.launch()
-          : await chromium.launch({ headless: false });
+        ? await chromium.launch()
+        : await chromium.launch({ headless: false });
       page = await browser.newPage();
 
       await page
@@ -196,10 +196,14 @@ do {
     });
 
     it("hoa", async () => {
-      if(!flag) {
+      if (!flag) {
         const css = ".dpp-column > ul > li:nth-child(8)";
         const hoa = await page.$eval(css, (el) => el.textContent);
-        const formattedHoa = hoa.replace("HOA Fees", "").substr(3).replace("/month", "").trim();
+        const formattedHoa = hoa
+          .replace("HOA Fees", "")
+          .substr(3)
+          .replace("/month", "")
+          .trim();
         line += `,${formattedHoa}`;
       }
     });
