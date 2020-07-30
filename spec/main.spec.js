@@ -57,9 +57,7 @@ do {
     let flag = false;
 
     beforeAll(async () => {
-      browser = process.env.GITHUB_ACTIONS
-          ? await chromium.launch()
-          : await chromium.launch({ headless: false });
+      browser = await chromium.launch({ headless: false });
       page = await browser.newPage();
 
       await page
