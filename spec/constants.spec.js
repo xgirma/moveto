@@ -11,7 +11,7 @@ let page;
 let browser;
 
 describe("constant", () => {
-  jasmine.DEFAULT_TIMEOUT_INTERVAL = 10000;
+  jasmine.DEFAULT_TIMEOUT_INTERVAL = 20000;
   const zip = argv.zip || 28685;
   const { state, city } = zipcodes.lookup(zip);
 
