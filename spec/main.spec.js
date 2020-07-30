@@ -44,10 +44,6 @@ function appendList(line) {
 
 writeFileSync(path, "", "utf8");
 
-function isNumber(value) {
-  assert(Number(value), jasmine.any(Number));
-}
-
 do {
   let line = "";
 
@@ -109,7 +105,6 @@ do {
         const price = formattedPrice.substr(1).replace(",", "");
         flag = price > maxPrice;
         line += `,${price}`;
-        // isNumber(price);
       }
     });
 
@@ -128,7 +123,6 @@ do {
         const formattedBeds = beds.trim();
         flag = beds < bedsMinimum;
         line += `,${formattedBeds}`;
-        // isNumber(formattedBeds);
       }
     });
 
@@ -139,7 +133,6 @@ do {
         const formattedBaths = baths.trim();
         flag = baths < bathsMinimum;
         line += `,${formattedBaths}`;
-        // isNumber(formattedBaths);
       }
     });
 
@@ -149,7 +142,6 @@ do {
         const size = await page.$eval(css, (el) => el.textContent);
         const formattedSize = size.trim();
         line += `,${formattedSize}`;
-        // isNumber(formattedSize);
       }
     });
 
@@ -159,7 +151,6 @@ do {
         const value = await page.$eval(css, (el) => el.textContent);
         const formattedValue = value.substr(1).replace("/Sqft", "");
         line += `,${formattedValue}`;
-        // isNumber(formattedValue);
       }
     });
 
@@ -169,7 +160,6 @@ do {
         const days = await page.$eval(css, (el) => el.textContent);
         const formattedDays = days.trim();
         line += `,${formattedDays}`;
-        // isNumber(formattedDays);
       }
     });
 
@@ -179,7 +169,6 @@ do {
         const lots = await page.$eval(css, (el) => el.textContent);
         const formattedLots = lots.trim().replace(",", "");
         line += `,${formattedLots}`;
-        // isNumber(formattedLots);
       }
     });
 
@@ -189,7 +178,6 @@ do {
         const year = await page.$eval(css, (el) => el.textContent);
         const formattedYears = year.replace("Year Built", "").trim();
         line += `,${formattedYears}`;
-        // isNumber(formattedYears);
       }
     });
 
