@@ -29,10 +29,9 @@ jobs:
         with:
           name: constants
           path: data/28685/constants.json
-      - uses: actions/checkout@v2
+      - name: commit data
       - run: |
           git config --global user.email "xgirma@gmail.com"
           git config --global user.name "Girma Nigusse"
-          git add --all
-          git commit -m "generated"
+          git commit -am "generated"
           git push
