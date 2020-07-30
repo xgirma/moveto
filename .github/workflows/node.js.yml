@@ -23,7 +23,8 @@ jobs:
       - name: 'sleep:7s'
         uses: jakejarvis/wait-action@master
         with:
-          time: 70s
+          time: '70s'
+      - name: push
       - uses: actions/checkout@v2
       - run: |
           git add .
