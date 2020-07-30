@@ -18,10 +18,10 @@ describe("constant", () => {
 
   beforeAll(async () => {
     browser = process.env.GITHUB_ACTIONS
-        ? await chromium.launch()
+        ? await chromium.launch({ headless: false })
         : await chromium.launch({ headless: false });
     page = await browser.newPage();
-    const home = `https://www.movoto.com/${city}-${state}`;
+    const home = `https://www.movoto.com/${city.toLowerCase()}-${state.toLowerCase()}`;
 
     await page
       .goto(home, {

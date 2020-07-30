@@ -30,10 +30,6 @@ jobs:
         run: npm run lint --if-present
       - name: constants
         run: npm run constants
-      - name: list
-        run: npm run list
-      - name: main
-        run: npm run main
       - name: Commit changes
       - uses: EndBug/add-and-commit@v4
         with:
@@ -43,4 +39,4 @@ jobs:
           add: "*"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
- 
+
