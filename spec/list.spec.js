@@ -3,16 +3,15 @@
 const { writeFileSync, readFileSync, mkdirSync, existsSync } = require("fs");
 const { chromium } = require("playwright");
 const { argv } = require("yargs");
+const assert = require("assert");
 
 const zip = argv.zip || 28685;
-const assert = require("assert");
 const { delay } = require("./utils");
-
-const links = [];
 const constant = readFileSync(`./data/${zip}/constants.json`);
 const data = JSON.parse(constant);
 const { pages, city, state } = data;
 const host = "https://www.movoto.com";
+const links = [];
 
 function writeList() {
   const folder = `./data/${zip}`;

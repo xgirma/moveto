@@ -149,7 +149,7 @@ do {
         const size = await page.$eval(css, (el) => el.textContent);
         const formattedSize = size.trim();
         line += `,${formattedSize}`;
-        isNumber(formattedSize);
+        // isNumber(formattedSize);
       }
     });
 
