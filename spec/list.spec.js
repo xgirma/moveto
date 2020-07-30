@@ -7,6 +7,7 @@ const assert = require("assert");
 
 const zip = argv.zip || 28685;
 const { delay } = require("./utils");
+
 const constant = readFileSync(`./data/${zip}/constants.json`);
 const data = JSON.parse(constant);
 const { pages, city, state } = data;

@@ -81,7 +81,9 @@ do {
       try {
         const css =
           ".dpp-header-left > div > span > .icon-property-single-family";
-        flag = (await page.$(css)) == null;
+        if ((await page.$(css)) == null) {
+          flag = true;
+        }
       } catch (error) {
         const errorMessage =
           "Error: when querying for .icon-property-single-family element";
