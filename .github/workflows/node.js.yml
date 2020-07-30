@@ -30,13 +30,3 @@ jobs:
         run: npm run lint --if-present
       - name: constants
         run: npm run constants
-      - name: Commit changes
-      - uses: EndBug/add-and-commit@v4
-        with:
-          author_name: Your Name
-          author_email: e2eboilerplate@gmail.com
-          message: "updates"
-          add: "*"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
