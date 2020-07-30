@@ -28,11 +28,12 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: constants
-          path: data/28685/constants.json
+          path: data/28685/*
       - name: commit data
         run: |
           git config --global user.email "xgirma@gmail.com"
           git config --global user.name "Girma Nigusse"
           git status
           git commit -am "generated"
+          git status
           git push
