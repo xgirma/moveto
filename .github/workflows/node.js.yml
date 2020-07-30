@@ -5,27 +5,13 @@ name: moveto
     - cron: 5 3 * * *
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: macOS
     steps:
       - uses: actions/checkout@v2
       - name: node
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
-      - name: 'install:linux:dep'
-        run: >
-          sudo apt-get update
-
-          sudo apt-get install libwoff1 libopus0 libwebp6 libwebpdemux2
-          libenchant1c2a libgudev-1.0-0 libsecret-1-0 libhyphen0
-          libgdk-pixbuf2.0-0 libegl1 libgles2 libevent-2.1-6 libnotify4
-          libxslt1.1
-          
-          sudo apt-get install xorg xvfb gtk2-engines-pixbuf 
-          
-          sudo apt-get install dbus-x11 xfonts-base xfonts-100dpi xfonts-75dpi xfonts-cyrillic xfonts-scalable
-
-          sudo apt-get install xvfb
       - name: 'npm:install'
         run: npm install
         env:
