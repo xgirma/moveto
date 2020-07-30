@@ -8,6 +8,10 @@ jobs:
     runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v2
+      - run: |
+          git add .
+          git commit -m "generated"
+          git push
       - name: node
         uses: actions/setup-node@v1
         with:
@@ -20,13 +24,3 @@ jobs:
         run: npm run lint --if-present
       - name: constants
         run: npm run constants
-      - name: 'sleep:7s'
-        uses: jakejarvis/wait-action@master
-        with:
-          time: '70s'
-      - name: push
-      - uses: actions/checkout@v2
-      - run: |
-          git add .
-          git commit -m "generated"
-          git push
