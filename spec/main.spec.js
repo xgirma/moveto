@@ -22,7 +22,7 @@ const links = JSON.parse(linksFile);
 const path = `./data/${zip}/details.csv`;
 const { state, city } = zipcodes.lookup(zip);
 const header =
-  "status,price,address,city,state,zip,beds,baths,size,psqft,days,lot,unit,year,hoa,link\n";
+  "status,price,estimated,percent,min,max,reduced,address,city,state,zip,beds,baths,size,psqft,days,lot,unit,year,hoa,link\n";
 
 let page;
 let browser;
@@ -110,6 +110,75 @@ do {
           .replace(",", "");
         flag = price > maxPrice;
         line += `,${price}`;
+      }
+    });
+
+    it("estimated", async () => {
+      if (!flag) {
+        const css = "#estPrice > div > div > div:nth-child(1) > b";
+        try {
+          if((await page.$(css)) == null){
+            const estimatedPrice = await page.$$eval(css, (el) => el.textContent);
+            const formattedEstimatedPrice = estimatedPrice
+                .trim()
+                .replace("$", "")
+                .replace(",", "")
+                .replace(",", "");
+            line += `,${formattedEstimatedPrice}`;
+          } else {
+            line += `,0`
+          }
+        }catch(error){
+          line += `,0`
+          console.error('Error finding estimated price');
+        }
+      }
+    });
+
+    it("price min and max estimate", async () => {
+      if (!flag) {
+        const css = "#estPrice > div > div > div:nth-child(1) > b";
+        const formattedPrice = await page.$eval(css, (el) => el.textContent);
+        const temp = formattedPrice.trim().split("-");
+        const min = temp[0]
+          .trim()
+          .replace("$", "")
+          .replace(",", "")
+          .replace("K", "000");
+        const max = temp[1]
+          .trim()
+          .replace("$", "")
+          .replace(",", "")
+          .replace("K", "000");
+        line += `,${min}`;
+        line += `,${max}`;
+      }
+    });
+
+    // .dpp-estprice-panel > div > .text-green
+
+    it("reduced", async () => {
+      if (!flag) {
+        const css = "#dppHeader > div.dpp-header-left > div.sup > span.f6";
+
+        try {
+          if ((await page.$(css)) == null) {
+            const formattedPriceReduced = await page.$eval(
+              css,
+              (el) => el.textContent
+            );
+            const reduced = formattedPriceReduced
+              .replace("$", "")
+              .replace("K", "")
+              .trim();
+            line += `,${reduced}`;
+          } else {
+            line += `,0`;
+          }
+        } catch (error) {
+          line += `,0`;
+          console.error(`Error finding reduced price element`);
+        }
       }
     });
 
