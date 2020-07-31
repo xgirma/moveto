@@ -23,15 +23,10 @@ jobs:
         run: npm run list -- --zip=27560
       - name: main-Morrisville
         run: npm run main -- --zip=27560
-      - name: Sleep for 10s
+      - name: sleep for 10s
         uses: juliangruber/sleep-action@v1
         with:
          time: 10s
-      - name: Upload artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: constants
-          path: data/*
       - name: commit data
         run: |
           git config --global user.email "xgirma@gmail.com"

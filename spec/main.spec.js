@@ -21,11 +21,11 @@ const linksFile = readFileSync(`./data/${zip}/links.json`);
 const links = JSON.parse(linksFile);
 const path = `./data/${zip}/details.csv`;
 const { state, city } = zipcodes.lookup(zip);
-const header = 'status,price,address,beds,baths,size,psqft,days,lot,year,hoa,link\n';
+const header =
+  "status,price,address,city,state,zip,beds,baths,size,psqft,days,lot,unit,year,hoa,link\n";
 
 let page;
 let browser;
-
 let link = 0;
 
 function appendList(line) {
@@ -104,7 +104,10 @@ do {
       if (!flag) {
         const css = "#dppHeader > div > div.title.dpp-price > span";
         const formattedPrice = await page.$eval(css, (el) => el.textContent);
-        const price = formattedPrice.substr(1).replace(/,(?=.*\.\d+)/g, "");
+        const price = formattedPrice
+          .substr(1)
+          .replace(",", "")
+          .replace(",", "");
         flag = price > maxPrice;
         line += `,${price}`;
       }
@@ -165,7 +168,7 @@ do {
       }
     });
 
-    it("lot acres", async () => {
+    it("lot", async () => {
       if (!flag) {
         const css = ".dpp-column > ul > li:nth-child(7) > span:nth-child(2)";
         const lots = await page.$eval(css, (el) => el.textContent);
@@ -174,7 +177,16 @@ do {
       }
     });
 
-    it("year built", async () => {
+    it("lot unit", async () => {
+      if (!flag) {
+        const css = ".dpp-column > ul > li:nth-child(7) > span:nth-child(1)";
+        const lotsUnits = await page.$eval(css, (el) => el.textContent);
+        const formattedLotsUnits = lotsUnits.replace("Lot", "").trim();
+        line += `,${formattedLotsUnits}`;
+      }
+    });
+
+    it("year", async () => {
       if (!flag) {
         const css = ".dpp-column > ul > li:nth-child(9)";
         const year = await page.$eval(css, (el) => el.textContent);

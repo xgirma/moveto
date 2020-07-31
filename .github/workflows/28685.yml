@@ -22,11 +22,11 @@ jobs:
         run: npm run list
       - name: main
         run: npm run main
-      - name: Sleep for 10s
+      - name: sleep for 10s
         uses: juliangruber/sleep-action@v1
         with:
          time: 10s
-      - name: Upload artifact
+      - name: upload artifact
         uses: actions/upload-artifact@v2
         with:
           name: constants
