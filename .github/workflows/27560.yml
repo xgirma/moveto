@@ -1,8 +1,7 @@
-name: moveto
+name: moveto 27560
 'on':
-  push: null
   schedule:
-    - cron: 5 3 * * *
+    - cron: 5 10 * * *
 jobs:
   build:
     runs-on: macOS-latest
@@ -18,12 +17,6 @@ jobs:
           CI: true
       - name: lint
         run: npm run lint --if-present
-      - name: constants
-        run: npm run constants
-      - name: list
-        run: npm run list
-      - name: main
-        run: npm run main
       - name: constants-Morrisville
         run: npm run constants -- --zip=27560
       - name: list-Morrisville
@@ -45,5 +38,5 @@ jobs:
           git config --global user.name "Girma Nigusse"
           git status
           git add --all
-          git commit -am "generated"
+          git commit -am "generated 27560"
           git push

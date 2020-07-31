@@ -103,7 +103,7 @@ do {
       if (!flag) {
         const css = "#dppHeader > div > div.title.dpp-price > span";
         const formattedPrice = await page.$eval(css, (el) => el.textContent);
-        const price = formattedPrice.substr(1).replace(",", "");
+        const price = formattedPrice.substr(1).replace(/,(?=.*\.\d+)/g, "");
         flag = price > maxPrice;
         line += `,${price}`;
       }
