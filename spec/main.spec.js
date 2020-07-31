@@ -34,7 +34,6 @@ function appendList(line) {
     if (!existsSync(folder)) {
       mkdirSync(folder);
     }
-
     appendFileSync(path, line, "utf8");
   } catch (error) {
     console.error(error);
