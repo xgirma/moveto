@@ -1,6 +1,7 @@
-name: moveto 28685
+name: moveto 27511
 'on':
-  push: null
+  schedule:
+    - cron: 5 23 * * *
 jobs:
   build:
     runs-on: macOS-latest
@@ -16,12 +17,12 @@ jobs:
           CI: true
       - name: lint
         run: npm run lint --if-present
-      - name: constants
-        run: npm run constants
-      - name: list
-        run: npm run list
-      - name: main
-        run: npm run main
+      - name: constants-Morrisville
+        run: npm run constants -- --zip=27511
+      - name: list-Morrisville
+        run: npm run list -- --zip=27511
+      - name: main-Morrisville
+        run: npm run main -- --zip=27511
       - name: Sleep for 10s
         uses: juliangruber/sleep-action@v1
         with:
@@ -37,5 +38,5 @@ jobs:
           git config --global user.name "Girma Nigusse"
           git status
           git add --all
-          git commit -am "generated 28685"
+          git commit -am "generated 27511"
           git push
