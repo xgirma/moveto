@@ -115,10 +115,12 @@ do {
 
     it("estimated", async () => {
       if (!flag) {
-        const css = "#estPrice > div > div > div:nth-child(1) > b";
+        const css = "#estPrice > div > div > div:nth-child(1) > div";
         try {
           if ((await page.$(css)) == null) {
-            const estimatedPrice = await page.$$eval(
+            line += `,0`;
+          } else {
+            const estimatedPrice = await page.$eval(
               css,
               (el) => el.textContent
             );
@@ -128,8 +130,6 @@ do {
               .replace(",", "")
               .replace(",", "");
             line += `,${formattedEstimatedPrice}`;
-          } else {
-            line += `,0`;
           }
         } catch (error) {
           line += `,0`;
@@ -141,7 +141,7 @@ do {
     it("price min and max estimate", async () => {
       if (!flag) {
         const css = "#estPrice > div > div > div:nth-child(1) > b";
-        const formattedPrice = await page.$eval(css, (el) => el.textContent);
+        const formattedPrice = await page.$eval(css, (el) => el.textContent)
         const temp = formattedPrice.trim().split("-");
         const min = temp[0]
           .trim()
@@ -166,6 +166,8 @@ do {
 
         try {
           if ((await page.$(css)) == null) {
+            line += `,0`;
+          } else {
             const formattedPriceReduced = await page.$eval(
               css,
               (el) => el.textContent
@@ -175,8 +177,6 @@ do {
               .replace("K", "")
               .trim();
             line += `,${reduced}`;
-          } else {
-            line += `,0`;
           }
         } catch (error) {
           line += `,0`;

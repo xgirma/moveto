@@ -4,7 +4,7 @@
   "description": "Extract data from moveto.com for selected houses",
   "main": "index.js",
   "scripts": {
-    "clean": "npx rimraf data/*",
+    "clean": "npx rimraf data/**/*",
     "lint": "npx eslint --ext .js ./ --fix",
     "constants": "npx jasmine spec/constants.spec.js",
     "list": "jasmine spec/list.spec.js",
