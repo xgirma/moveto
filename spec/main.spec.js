@@ -22,7 +22,7 @@ const links = JSON.parse(linksFile);
 const path = `./data/${zip}/details.csv`;
 const { state, city } = zipcodes.lookup(zip);
 const header =
-  "status,price,estimated,min,max,reduced,address,city,state,zip,beds,baths,size,psqft,days,lot,unit,year,hoa,link\n";
+  "status,price,estimated,min,max,reduced,address,city,state,zip,beds,baths,size,psqft,days,lot,unit,year,hoa,open,link\n";
 
 let page;
 let browser;
@@ -141,7 +141,7 @@ do {
     it("price min and max estimate", async () => {
       if (!flag) {
         const css = "#estPrice > div > div > div:nth-child(1) > b";
-        const formattedPrice = await page.$eval(css, (el) => el.textContent)
+        const formattedPrice = await page.$eval(css, (el) => el.textContent);
         const temp = formattedPrice.trim().split("-");
         const min = temp[0]
           .trim()
@@ -277,6 +277,23 @@ do {
           .replace("/month", "")
           .trim();
         line += `,${formattedHoa}`;
+      }
+    });
+
+    it("open house", async () => {
+      if (!flag) {
+        const css = "#openHouseTimes > ul > li > a > span";
+        try {
+          if ((await page.$eval(css)) == null) {
+            line += `, `;
+          } else {
+            const open = await page.$(css, (el) => el.textContent);
+            line += `,${open}`;
+          }
+        } catch (error) {
+          line += `, `;
+          console.error("Error finding open house element");
+        }
       }
     });
   });
