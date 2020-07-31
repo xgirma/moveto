@@ -55,6 +55,9 @@ describe("constant", () => {
     } catch (error) {
       console.error(error);
     }
-    assert.strictEqual(title, `${city}, ${state} Real Estate & Homes for Sale`);
+    assert.strictEqual(
+      title.trim(),
+      `${city}, ${state} Real Estate & Homes for Sale`
+    );
   });
 });
