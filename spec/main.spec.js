@@ -21,7 +21,8 @@ const linksFile = readFileSync(`./data/${zip}/links.json`);
 const links = JSON.parse(linksFile);
 const path = `./data/${zip}/details.csv`;
 const { state, city } = zipcodes.lookup(zip);
-const header = 'status,price,address,beds,baths,size,psqft,days,lot,year,hoa,link\n';
+const header =
+  "status,price,address,beds,baths,size,psqft,days,lot,year,hoa,link\n";
 
 let page;
 let browser;
