@@ -22,7 +22,7 @@ const links = JSON.parse(linksFile);
 const path = `./data/${zip}/details.csv`;
 const { state, city } = zipcodes.lookup(zip);
 const header =
-  "status,price,estimated,percent,min,max,reduced,address,city,state,zip,beds,baths,size,psqft,days,lot,unit,year,hoa,link\n";
+  "status,price,estimated,min,max,reduced,address,city,state,zip,beds,baths,size,psqft,days,lot,unit,year,hoa,link\n";
 
 let page;
 let browser;
@@ -117,20 +117,23 @@ do {
       if (!flag) {
         const css = "#estPrice > div > div > div:nth-child(1) > b";
         try {
-          if((await page.$(css)) == null){
-            const estimatedPrice = await page.$$eval(css, (el) => el.textContent);
+          if ((await page.$(css)) == null) {
+            const estimatedPrice = await page.$$eval(
+              css,
+              (el) => el.textContent
+            );
             const formattedEstimatedPrice = estimatedPrice
-                .trim()
-                .replace("$", "")
-                .replace(",", "")
-                .replace(",", "");
+              .trim()
+              .replace("$", "")
+              .replace(",", "")
+              .replace(",", "");
             line += `,${formattedEstimatedPrice}`;
           } else {
-            line += `,0`
+            line += `,0`;
           }
-        }catch(error){
-          line += `,0`
-          console.error('Error finding estimated price');
+        } catch (error) {
+          line += `,0`;
+          console.error("Error finding estimated price");
         }
       }
     });
