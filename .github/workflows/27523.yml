@@ -17,11 +17,11 @@ jobs:
           CI: true
       - name: lint
         run: npm run lint --if-present
-      - name: constants-Morrisville
+      - name: constants
         run: npm run constants -- --zip=27523
-      - name: list-Morrisville
+      - name: list
         run: npm run list -- --zip=27523
-      - name: main-Morrisville
+      - name: main
         run: npm run main -- --zip=27523
       - name: sleep for 10s
         uses: juliangruber/sleep-action@v1
