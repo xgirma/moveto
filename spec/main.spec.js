@@ -10,7 +10,7 @@ const {
 } = require("fs");
 const { chromium } = require("playwright");
 const zipcodes = require("zipcodes");
-const { delay } = require("./utils");
+const { delay, addReporter } = require("./utils");
 
 const maxPrice = argv.maxprice || 500000;
 const zip = argv.zip || 28685;
@@ -78,7 +78,7 @@ do {
       await delay(1000);
     });
 
-    it("single family home?", async () => {
+    it(`single family home? ${url}`, async () => {
       try {
         const css =
           ".dpp-header-left > div > span > .icon-property-single-family";
@@ -92,7 +92,7 @@ do {
       }
     });
 
-    it("status", async () => {
+    it(`status: ${url}`, async () => {
       if (!flag) {
         const css = "#dppHeader > div > div.sup > span.text";
         const status = await page.$eval(css, (el) => el.textContent);
@@ -100,7 +100,7 @@ do {
       }
     });
 
-    it("price", async () => {
+    it(`price: ${url}`, async () => {
       if (!flag) {
         const css = "#dppHeader > div > div.title.dpp-price > span";
         const formattedPrice = await page.$eval(css, (el) => el.textContent);
@@ -113,7 +113,7 @@ do {
       }
     });
 
-    it("estimated", async () => {
+    it(`estimated: ${url}`, async () => {
       if (!flag) {
         const css = "#estPrice > div > div > div:nth-child(1) > div";
         try {
@@ -138,7 +138,7 @@ do {
       }
     });
 
-    it("price min and max estimate", async () => {
+    it(`price min and max estimate: ${url}`, async () => {
       if (!flag) {
         const css = "#estPrice > div > div > div:nth-child(1) > b";
         const formattedPrice = await page.$eval(css, (el) => el.textContent);
@@ -158,9 +158,7 @@ do {
       }
     });
 
-    // .dpp-estprice-panel > div > .text-green
-
-    it("reduced", async () => {
+    it(`reduced: ${url}`, async () => {
       if (!flag) {
         const css = "#dppHeader > div.dpp-header-left > div.sup > span.f6";
 
@@ -185,7 +183,7 @@ do {
       }
     });
 
-    it("address", async () => {
+    it(`address: ${url}`, async () => {
       if (!flag) {
         const css = ".dpp-header-title > .title";
         const address = await page.$eval(css, (el) => el.textContent);
@@ -193,7 +191,7 @@ do {
       }
     });
 
-    it("beds", async () => {
+    it(`beds: ${url}`, async () => {
       if (!flag) {
         const css = ".dpp-basic > div:nth-child(1) > b";
         const beds = await page.$eval(css, (el) => el.textContent);
@@ -203,7 +201,7 @@ do {
       }
     });
 
-    it("baths", async () => {
+    it(`baths: ${url}`, async () => {
       if (!flag) {
         const css = "#dppHeader > div > div.sub > div > div:nth-child(2) > b";
         const baths = await page.$eval(css, (el) => el.textContent);
@@ -213,7 +211,7 @@ do {
       }
     });
 
-    it("size in sqft", async () => {
+    it(`size in sqft: ${url}`, async () => {
       if (!flag) {
         const css = "#dppHeader > div > div.sub > div > div:nth-child(3) > b";
         const size = await page.$eval(css, (el) => el.textContent);
@@ -222,7 +220,7 @@ do {
       }
     });
 
-    it("price per a sqft", async () => {
+    it(`price per a sqft: ${url}`, async () => {
       if (!flag) {
         const css = ".dpp-column > ul > li:nth-child(1) > span:nth-child(2)";
         const value = await page.$eval(css, (el) => el.textContent);
@@ -231,7 +229,7 @@ do {
       }
     });
 
-    it("days in moveto", async () => {
+    it(`days in moveto: ${url}`, async () => {
       if (!flag) {
         const css = ".dpp-column > ul > li:nth-child(3) > span:nth-child(2)";
         const days = await page.$eval(css, (el) => el.textContent);
@@ -240,7 +238,7 @@ do {
       }
     });
 
-    it("lot", async () => {
+    it(`lot: ${url}`, async () => {
       if (!flag) {
         const css = ".dpp-column > ul > li:nth-child(7) > span:nth-child(2)";
         const lots = await page.$eval(css, (el) => el.textContent);
@@ -249,7 +247,7 @@ do {
       }
     });
 
-    it("lot unit", async () => {
+    it(`lot unit: ${url}`, async () => {
       if (!flag) {
         const css = ".dpp-column > ul > li:nth-child(7) > span:nth-child(1)";
         const lotsUnits = await page.$eval(css, (el) => el.textContent);
@@ -258,7 +256,7 @@ do {
       }
     });
 
-    it("year", async () => {
+    it(`year: ${url}`, async () => {
       if (!flag) {
         const css = ".dpp-column > ul > li:nth-child(9)";
         const year = await page.$eval(css, (el) => el.textContent);
@@ -267,7 +265,7 @@ do {
       }
     });
 
-    it("hoa", async () => {
+    it(`hoa: ${url}`, async () => {
       if (!flag) {
         const css = ".dpp-column > ul > li:nth-child(8)";
         const hoa = await page.$eval(css, (el) => el.textContent);
@@ -280,7 +278,7 @@ do {
       }
     });
 
-    it("open house", async () => {
+    it(`open house: ${url}`, async () => {
       if (!flag) {
         const css = "#openHouseTimes > ul > li > a > span";
         try {

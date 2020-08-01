@@ -4,5 +4,8 @@
   "stopSpecOnExpectationFailure": false,
   "random": false,
   "showColors": true,
-  "includeStackTrace": true
+  "includeStackTrace": true,
+  "helpers": [
+    "helpers/**/*.js"
+  ]
 }
