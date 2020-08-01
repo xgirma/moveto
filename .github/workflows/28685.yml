@@ -33,7 +33,7 @@ jobs:
         with:
           time: 10s
       - name: npm run for sale
-          run: npm run forsale
+        run: npm run forsale
       - name: upload artifact
         uses: actions/upload-artifact@v2
         with:
