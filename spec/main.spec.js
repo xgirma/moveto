@@ -217,7 +217,7 @@ do {
       if (!flag) {
         const css = "#dppHeader > div > div.sub > div > div:nth-child(3) > b";
         const size = await page.$eval(css, (el) => el.textContent);
-        const formattedSize = size.trim();
+        const formattedSize = size.trim().replace(",", "");
         line += `,${formattedSize}`;
       }
     });
