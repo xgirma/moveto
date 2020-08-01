@@ -10,7 +10,7 @@ const {
 } = require("fs");
 const { chromium } = require("playwright");
 const zipcodes = require("zipcodes");
-const { delay, addReporter } = require("./utils");
+const { delay } = require("./utils");
 
 const maxPrice = argv.maxprice || 500000;
 const zip = argv.zip || 28685;

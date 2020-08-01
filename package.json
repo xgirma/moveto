@@ -43,15 +43,14 @@
     "prettier": "2.0.4",
     "pretty-quick": "2.0.1"
   },
+  "lint-staged": {
+    "spec/**/*.{js}": [
+      "eslint . --fix", "git add", "prettier --write"
+    ]
+  },
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
     }
-  },
-  "lint-staged": {
-    "*.{js}": [
-      "eslint --fix",
-      "prettier --write"
-    ]
   }
 }
