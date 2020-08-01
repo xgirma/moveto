@@ -45,7 +45,7 @@
   },
   "lint-staged": {
     "spec/**/*.{js}": [
-      "eslint . --fix", "git add", "prettier --write"
+      "eslint . --fix", "prettier --write"
     ]
   },
   "husky": {
