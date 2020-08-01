@@ -10,7 +10,7 @@
     "list": "jasmine spec/list.spec.js",
     "main": "jasmine spec/main.spec.js",
     "details": "node lib/details.js",
-    "forSale": "node lib/for_sale.js"
+    "forsale": "node lib/for_sale.js"
   },
   "repository": {
     "type": "git",

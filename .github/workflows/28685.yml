@@ -26,6 +26,14 @@ jobs:
         uses: juliangruber/sleep-action@v1
         with:
          time: 10s
+      - name: npm run details
+        run: npm run details
+      - name: sleep for 10s
+        uses: juliangruber/sleep-action@v1
+        with:
+          time: 10s
+      - name: npm run for sale
+          run: npm run forsale
       - name: upload artifact
         uses: actions/upload-artifact@v2
         with:
