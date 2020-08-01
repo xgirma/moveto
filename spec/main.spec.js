@@ -1,5 +1,4 @@
 /* eslint-disable no-loop-func, no-console */
-
 const { argv } = require("yargs");
 const {
   writeFileSync,
@@ -174,7 +173,10 @@ do {
               .replace("$", "")
               .replace("K", "")
               .trim();
-            line += `,${reduced}`;
+            const final = formattedPriceReduced.endsWith("K")
+              ? `${reduced}000`
+              : reduced;
+            line += `,${final}`;
           }
         } catch (error) {
           line += `,0`;
@@ -282,7 +284,7 @@ do {
       if (!flag) {
         const css = "#openHouseTimes > ul > li > a > span";
         try {
-          if ((await page.$eval(css)) == null) {
+          if ((await page.$(css)) == null) {
             line += `, `;
           } else {
             const open = await page.$(css, (el) => el.textContent);

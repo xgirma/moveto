@@ -1,7 +1,7 @@
 status,price,estimated,min,max,reduced,address,city,state,zip,beds,baths,size,psqft,days,lot,unit,year,hoa,open,link
-FOR SALE,403900,404395,339000,467000,0,201 E Wind Ln,Cary,NC,27519,3,3,2609,155,Listed Today,4792,Sqft,1985,301, ,https://www.movoto.com/home/201-e-wind-ln-cary-nc-27518-413_2305406
-FOR SALE,337500,344955,296000,388000,0,406 Brook Creek Dr,Cary,NC,27519,3,2,1885,179,Listed Today,10454,Sqft,1994,47, ,https://www.movoto.com/home/406-brook-creek-dr-cary-nc-27519-413_2334255
-FOR SALE,360000,416416,359000,428000,0,207 Castlebury Creek Ct,Cary,NC,27519,4,3,2288,157,Listed Today,0.26,Acres,1998,47, ,https://www.movoto.com/home/207-castlebury-creek-ct-cary-nc-27519-413_2334239
+FOR SALE,403900,404395,339000,467000,0,201 E Wind Ln,Cary,NC,27519,3,3,2609,155,Listed Today,4792,Sqft,1985,301,monday,https://www.movoto.com/home/201-e-wind-ln-cary-nc-27518-413_2305406
+FOR SALE,337500,344955,296000,388000,0,406 Brook Creek Dr,Cary,NC,27519,3,2,1885,179,Listed Today,10454,Sqft,1994,47,tusday,https://www.movoto.com/home/406-brook-creek-dr-cary-nc-27519-413_2334255
+FOR SALE,360000,416416,359000,428000,0,207 Castlebury Creek Ct,Cary,NC,27519,4,3,2288,157,Listed Today,0.26,Acres,1998,47,friday,https://www.movoto.com/home/207-castlebury-creek-ct-cary-nc-27519-413_2334239
 FOR SALE,329000,306504,293000,329000,0,110 Bebington Dr,Cary,NC,27519,3,3,1892,174,Listed Today,7405,Sqft,1993,13, ,https://www.movoto.com/home/110-bebington-dr-cary-nc-27513-413_2334237
 FOR SALE,389000,359961,338000,389000,0,224 Custer Trl,Cary,NC,27519,4,3,1967,198,Listed Today,10454,Sqft,1992,13, ,https://www.movoto.com/home/224-custer-trl-cary-nc-27513-pid_zt2x43b5jh
 FOR SALE,299900,351321,299000,402000,0,1203 Pond St,Cary,NC,27519,4,3,1941,155,Listed Today,0.48,Acres,1964,0, ,https://www.movoto.com/home/1203-pond-st-cary-nc-27511-413_2334229
@@ -69,3 +69,47 @@ FOR SALE,400000,373173,277000,472000,0,316 Tweed Cir,Cary,NC,27519,3,3,2347,170,
 FOR SALE,287500,264535,205000,302000,2,106 Tayport Ct,Cary,NC,27519,3,2,1385,208,28,0.78,Acres,1978,0, ,https://www.movoto.com/home/106-tayport-ct-cary-nc-27511-413_2328936
 FOR SALE,339900,378100,340000,414000,0,247 Joshua Ln,Cary,NC,27519,4,3,1900,179,30,3920,Sqft,2004,185, ,https://www.movoto.com/home/247-joshua-ln-cary-nc-27519-413_2328295
 FOR SALE,489900,453140,375000,539000,0,304 N West St,Cary,NC,27519,3,3,2780,176,63,6534,Sqft,2020,0, ,https://www.movoto.com/home/304-n-west-st-cary-nc-27513-413_2321937
+SALE PENDING,268000,265205,231000,298000,0,1012 Delight Dr,Morrisville,NC,27560,3,3,1,711,157,71960,Sqft,2018,140, ,https://www.movoto.com/home/1012-delight-dr-morrisville-nc-27560-413_2332873
+SALE PENDING,429900,539550,432000,590000,0,1413 Hemby Ridge Ln,Morrisville,NC,27560,4,3,3,597,120,86534,Sqft,2008,70, ,https://www.movoto.com/home/1413-hemby-ridge-ln-morrisville-nc-27560-413_2199548
+IN CONTRACT,390000,487672,389000,503000,0,2023 Addenbrock Dr,Morrisville,NC,27560,4,3,2,594,150,87841,Sqft,2007,65, ,https://www.movoto.com/home/2023-addenbrock-dr-morrisville-nc-27560-413_2332569
+IN CONTRACT,379900,377304,344000,416000,0,1520 Alemany St,Morrisville,NC,27560,3,3,2,388,159,143049,Sqft,2012,143, ,https://www.movoto.com/home/1520-alemany-st-morrisville-nc-27560-413_2172936
+SALE PENDING,325000,0,286000,326000,0,1012 Excite Ave,Morrisville,NC,27560,3,3,2,000,163,142962,Sqft,2019,140, ,https://www.movoto.com/home/1012-excite-ave-morrisville-nc-27560-413_2331243
+IN CONTRACT,375000,350667,311000,433000,0,1048 Gold Rock Ln,Morrisville,NC,27560,3,3,2,487,151,154356,Sqft,2007,70, ,https://www.movoto.com/home/1048-gold-rock-ln-morrisville-nc-27560-413_2180300
+IN CONTRACT,244000,247128,237000,257000,0,1613 Grace Point Rd,Morrisville,NC,27560,3,3,1,471,166,152614,Sqft,2010,126, ,https://www.movoto.com/home/1613-grace-point-rd-morrisville-nc-27560-413_2331092
+IN CONTRACT,285000,323568,285000,369000,0,711 Keystone Park Dr #69,Morrisville,NC,27560,4,4,2,247,127,191699,Sqft,2009,154, ,https://www.movoto.com/home/711-keystone-park-dr-apt-69-morrisville-nc-27560-413_2330393
+SALE PENDING,240000,244272,234000,254000,0,208 Tylerway Ln,Morrisville,NC,27560,3,3,1,454,165,201742,Sqft,2003,132, ,https://www.movoto.com/home/208-tylerway-ln-morrisville-nc-27560-413_2330300
+IN CONTRACT,469900,497367,471000,547000,0,108 Legislative Pl,Morrisville,NC,27560,4,3,2,943,160,219583,Sqft,2010,40, ,https://www.movoto.com/home/108-legislative-pl-morrisville-nc-27560-413_2330045
+SALE PENDING,300000,322452,298000,374000,0,1100 Checkerberry Dr,Morrisville,NC,27560,3,3,1,908,157,213485,Sqft,2008,145, ,https://www.movoto.com/home/1100-checkerberry-dr-morrisville-nc-27560-413_2330016
+IN CONTRACT,389900,428260,388000,468000,0,109 Cotten Square Ln,Morrisville,NC,27560,5,3,2,660,147,215663,Sqft,2015,67, ,https://www.movoto.com/home/109-cotten-square-ln-morrisville-nc-27560-413_2253582
+SALE PENDING,216000,267712,217000,295000,0,402 Misty Groves Cir,Morrisville,NC,27560,3,3,1,504,144,231307,Sqft,1999,175, ,https://www.movoto.com/home/402-misty-groves-cir-morrisville-nc-27560-413_2329360
+IN CONTRACT,400000,443552,401000,494000,0,302 Shakespeare St,Morrisville,NC,27560,5,3,2,656,151,258712,Sqft,2003,40, ,https://www.movoto.com/home/302-shakespeare-st-morrisville-nc-27560-413_2329141
+IN CONTRACT,325000,281750,249000,326000,0,105 Downing Grove Ct,Morrisville,NC,27560,3,2,1,750,186,259583,Sqft,2001,33, ,https://www.movoto.com/home/105-downing-grove-ct-morrisville-nc-27560-413_2329062
+SALE PENDING,469900,588965,470000,641000,10,112 Carter Grove Ct,Morrisville,NC,27560,5,3,3,485,135,276970,Sqft,2012,40, ,https://www.movoto.com/home/112-carter-grove-ct-morrisville-nc-27560-413_2328974
+SALE PENDING,294000,307157,280000,333000,0,252 Durants Neck Ln,Morrisville,NC,27560,3,3,1,697,173,272614,Sqft,2015,130, ,https://www.movoto.com/home/252-durants-neck-ln-morrisville-nc-27560-413_2328960
+IN CONTRACT,347000,335826,296000,388000,0,120 Prestonian Pl,Morrisville,NC,27560,3,3,2,073,167,282614,Sqft,1999,205, ,https://www.movoto.com/home/120-prestonian-pl-morrisville-nc-27560-413_2328662
+IN CONTRACT,300000,306912,280000,364000,0,5539 Jessip St,Morrisville,NC,27560,3,3,2,208,136,283136,Sqft,2016,143, ,https://www.movoto.com/home/5539-jessip-st-morrisville-nc-27560-413_2328568
+SALE PENDING,244000,249275,227000,289000,0,1812 Grace Point Rd,Morrisville,NC,27560,3,3,1,475,165,302614,Sqft,2009,126, ,https://www.movoto.com/home/1812-grace-point-rd-morrisville-nc-27560-413_2328136
+IN CONTRACT,314900,352053,311000,387000,0,1013 Havenbrook Dr,Morrisville,NC,27560,4,4,2,301,137,341742,Sqft,2012,158, ,https://www.movoto.com/home/1013-havenbrook-dr-morrisville-nc-27560-413_2327577
+SALE PENDING,263000,257765,225000,279000,0,502 Caraleigh Ct,Morrisville,NC,27560,3,3,1,663,158,342962,Sqft,2002,110, ,https://www.movoto.com/home/502-caraleigh-ct-morrisville-nc-27560-413_2327572
+IN CONTRACT,268000,263640,228000,284000,0,309 Durston Loop,Morrisville,NC,27560,3,3,1,690,159,342614,Sqft,2000,100, ,https://www.movoto.com/home/309-durston-loop-morrisville-nc-27560-413_2327393
+IN CONTRACT,295000,326344,268000,384000,0,214 Station Dr,Morrisville,NC,27560,3,3,2,147,137,355227,Sqft,2011,30, ,https://www.movoto.com/home/214-station-dr-morrisville-nc-27560-413_2327170
+SALE PENDING,325000,339520,325000,350000,0,1046 Myers Point Dr,Morrisville,NC,27560,4,4,2,122,153,351830,Sqft,2020,130, ,https://www.movoto.com/home/1046-myers-point-dr-morrisville-nc-27560-413_2327137
+SALE PENDING,444990,549270,445000,589000,0,421 Willingham Rd,Morrisville,NC,27560,5,4,3,590,124,365663,Sqft,2004,40, ,https://www.movoto.com/home/421-willingham-rd-morrisville-nc-27560-413_2327006
+IN CONTRACT,360000,326001,301000,378000,0,1204 Midvale Ave,Morrisville,NC,27560,3,3,1,929,187,363485,Sqft,2018,108, ,https://www.movoto.com/home/1204-midvale-ave-morrisville-nc-27560-413_2326788
+SALE PENDING,325000,345420,315000,396000,0,356 Durants Neck Ln,Morrisville,NC,27560,3,3,2,020,161,382614,Sqft,2016,130, ,https://www.movoto.com/home/356-durants-neck-ln-morrisville-nc-27560-413_2326490
+SALE PENDING,310000,264099,236000,311000,5,116 Rama Ct,Morrisville,NC,27560,3,2,1,661,187,3910454,Sqft,2001,75, ,https://www.movoto.com/home/116-rama-ct-morrisville-nc-27560-413_2326356
+SALE PENDING,270000,250155,232000,270000,0,1215 Neighborly Way,Morrisville,NC,27560,3,3,1,635,165,401830,Sqft,2018,140, ,https://www.movoto.com/home/1215-neighborly-way-morrisville-nc-27560-413_2160592
+IN CONTRACT,429900,473025,425000,524000,10,155 Prestonian Pl,Morrisville,NC,27560,3,3,2,975,145,413485,Sqft,1999,205, ,https://www.movoto.com/home/155-prestonian-pl-morrisville-nc-27560-413_2326058
+IN CONTRACT,295000,323466,251000,364000,0,411 Stockton Gorge Rd,Morrisville,NC,27560,3,3,1,859,159,422614,Sqft,2010,126, ,https://www.movoto.com/home/411-stockton-gorge-rd-morrisville-nc-27560-413_2325790
+SALE PENDING,384900,0,285000,385000,0,1204 Circandian Ct,Morrisville,NC,27560,3,3,2,278,169,447841,Sqft,2013,166, ,https://www.movoto.com/home/1204-circandian-ct-morrisville-nc-27560-413_2325332
+SALE PENDING,300000,313500,299000,323000,0,439 Excalibur Dr,Morrisville,NC,27560,3,4,2,375,126,453920,Sqft,2015,165, ,https://www.movoto.com/home/439-excalibur-dr-morrisville-nc-27560-413_2325185
+SALE PENDING,230000,247618,203000,275000,0,302 Walnut Woods Dr,Morrisville,NC,27560,3,3,1,538,150,461307,Sqft,2004,70, ,https://www.movoto.com/home/302-walnut-woods-dr-morrisville-nc-27560-413_2325004
+SALE PENDING,295000,0,261000,331000,0,5352 Jessip St,Morrisville,NC,27560,3,3,2,005,147,472570,Sqft,2015,146, ,https://www.movoto.com/home/5352-jessip-st-morrisville-nc-27560-413_2324908
+SALE PENDING,303000,292539,270000,339000,0,402 Meeting Hall Dr,Morrisville,NC,27560,3,3,1,731,175,483485,Sqft,2003,70, ,https://www.movoto.com/home/402-meeting-hall-dr-morrisville-nc-27560-413_2324688
+SALE PENDING,485000,594880,486000,655000,0,1121 Hope Springs Ln,Morrisville,NC,27560,5,3,3,520,138,499583,Sqft,2013,49, ,https://www.movoto.com/home/1121-hope-springs-ln-morrisville-nc-27560-413_2324514
+IN CONTRACT,365000,331143,274000,364000,0,1068 Gold Rock Ln,Morrisville,NC,27560,3,3,2,193,166,497405,Sqft,2007,70, ,https://www.movoto.com/home/1068-gold-rock-ln-morrisville-nc-27560-413_2153883
+IN CONTRACT,310000,317893,290000,377000,0,214 Hamlet Pl,Morrisville,NC,27560,3,3,2,287,136,493049,Sqft,2015,149, ,https://www.movoto.com/home/214-hamlet-pl-morrisville-nc-27560-413_2324409
+SALE PENDING,279000,297093,279000,317000,0,128 Kathleen Ct,Morrisville,NC,27560,3,3,1,779,157,492614,Sqft,2012,129, ,https://www.movoto.com/home/128-kathleen-ct-morrisville-nc-27560-413_2093908
+IN CONTRACT,385000,362234,326000,427000,0,1004 Oatney Ridge Ln,Morrisville,NC,27560,4,4,2,606,148,505227,Sqft,2015,70, ,https://www.movoto.com/home/1004-oatney-ridge-ln-morrisville-nc-27560-413_2324102
+IN CONTRACT,369900,393057,334000,444000,3,1028 Gold Rock Ln,Morrisville,NC,27560,3,3,2,569,144,684356,Sqft,2007,70, ,https://www.movoto.com/home/1028-gold-rock-ln-morrisville-nc-27560-413_2188334
+SALE PENDING,379900,640915,379000,969000,10,900 Kirkeenan Cir,Morrisville,NC,27560,4,4,2,981,127,713485,Sqft,2002,80, ,https://www.movoto.com/home/900-kirkeenan-cir-morrisville-nc-27560-413_2320281
