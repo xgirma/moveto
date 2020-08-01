@@ -45,7 +45,8 @@
   },
   "lint-staged": {
     "spec/**/*.{js}": [
-      "eslint . --fix", "prettier --write"
+      "eslint . --fix",
+      "prettier --write"
     ]
   },
   "husky": {
