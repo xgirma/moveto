@@ -29,12 +29,14 @@ jobs:
           time: 10s
       - name: generate README.md
         run: npm run readme
-      - name: git pull
-        run: git pull
       - name: git set user.email
         run: git config --global user.email "xgirma@gmail.com"
       - name: git set user.name
         run: git config --global user.email "Girma Nigusse"
+      - name: git set rebase false
+        run: git config pull.rebase false
+      - name: git pull
+        run: git pull
       - name: git status
         run: git status
       - name: git add
