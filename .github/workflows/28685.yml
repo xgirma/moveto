@@ -1,7 +1,7 @@
 name: '28685'
 'on':
   schedule:
-    - crone: 0 16 * * *
+    - cron: 0 16 * * *
 jobs:
   build:
     runs-on: macOS-latest
