@@ -71,7 +71,7 @@ Extract RTP listing data from moveto.com
 ## Traphill, 28685
 ```json
 {
-  "date": "2020-08-02T04:14:01.516Z",
+  "date": "2020-08-02T04:19:36.732Z",
   "listings": 1,
   "coming_soon": 0,
   "price_reduced": 0,
