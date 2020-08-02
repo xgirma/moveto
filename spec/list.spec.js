@@ -40,7 +40,7 @@ if (pages === 1) {
       page = await browser.newPage();
       const url = `${host}/${city}-${state}`;
       await page
-        .goto(url, { timeout: 4500, waitUntil: "networkidle" })
+        .goto(url, { timeout: 30000, waitUntil: "networkidle" })
         .catch(() => {});
     });
 
@@ -75,7 +75,7 @@ if (pages === 1) {
 } else {
   for (let i = 1; i < data.pages - 1; i += 1) {
     describe("multiple page", () => {
-      jasmine.DEFAULT_TIMEOUT_INTERVAL = 1000000;
+      jasmine.DEFAULT_TIMEOUT_INTERVAL = 60000;
       let browser;
       let page;
 
@@ -115,7 +115,7 @@ if (pages === 1) {
 
       it("should write", async () => {
         writeList();
-        await delay(10000);
+        await delay(30000);
       });
     });
   }
