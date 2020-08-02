@@ -71,14 +71,14 @@ Extract RTP listing data from moveto.com
 ## Traphill, 28685
 ```json
 {
-  "date": "2020-08-02T17:19:49.091Z",
-  "listings": 1,
-  "coming_soon": 0,
-  "price_reduced": 0,
-  "for_sale": 1,
-  "open_house": 0,
-  "under_contract": 0,
-  "sale_pending": 0,
+  "date": "2020-08-02T20:37:50.164Z",
+  "listings": undefined,
+  "coming_soon": undefined,
+  "price_reduced": undefined,
+  "for_sale": undefined,
+  "open_house": undefined,
+  "under_contract": undefined,
+  "sale_pending": undefined,
   "city": "Traphill",
   "state": "NC",
   "zip": 28685
