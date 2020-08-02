@@ -1,4 +1,3 @@
-/* eslint-disable no-loop-func, no-console */
 const { argv } = require("yargs");
 const {
   writeFileSync,
@@ -46,7 +45,7 @@ appendList(header);
 do {
   let line = "";
 
-  describe("main", () => {
+  describe("house", () => {
     jasmine.DEFAULT_TIMEOUT_INTERVAL = 60000;
     const url = links[link];
     let flag = false;

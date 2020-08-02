@@ -1,5 +1,3 @@
-/* eslint-disable no-console */
-
 const { writeFileSync, readFileSync, mkdirSync, existsSync } = require("fs");
 const { chromium } = require("playwright");
 const { argv } = require("yargs");
