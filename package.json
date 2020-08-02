@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/xgirma/moveto#readme",
   "dependencies": {
-    "chromedriver": "83.0.1",
+    "chromedriver": "84.0.1",
     "csv-parse": "4.11.1",
     "csvtojson": "2.0.10",
     "jasmine": "3.6.1",
