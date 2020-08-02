@@ -12,7 +12,8 @@
     "details": "node lib/details.js",
     "forsale": "node lib/for_sale.js",
     "summary": "node lib/summary.js",
-    "readme": "node lib/readme.js"
+    "readme": "node lib/readme.js",
+    "workflow": "node lib/workflow.js"
   },
   "repository": {
     "type": "git",
@@ -30,6 +31,7 @@
     "csv-parse": "^4.11.1",
     "csvtojson": "^2.0.10",
     "jasmine": "3.6.1",
+    "js-yaml": "^3.14.0",
     "playwright": "1.2.1",
     "rimraf": "3.0.2",
     "yargs": "15.4.1",

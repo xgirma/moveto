@@ -7,3 +7,4 @@ Extract data from moveto.com for selected zip codes
     npm run details -- --zip=288685
     npm run forsale -- --zip=228685
     npm run readme
+    npm run workflow

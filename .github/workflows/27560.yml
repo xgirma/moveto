@@ -1,7 +1,7 @@
-name: moveto 27560
+name: '27560'
 'on':
   schedule:
-    - cron: 5 12 * * *
+    - crone: 0 12 * * *
 jobs:
   build:
     runs-on: macOS-latest
@@ -11,47 +11,33 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
-      - name: 'npm:install'
+      - name: npm install
         run: npm install
         env:
           CI: true
       - name: lint
         run: npm run lint --if-present
-      - name: constants
+      - name: generate constants
         run: npm run constants -- --zip=27560
-      - name: list
+      - name: generate list
         run: npm run list -- --zip=27560
-      - name: main
+      - name: generate main
         run: npm run main -- --zip=27560
       - name: sleep for 10s
         uses: juliangruber/sleep-action@v1
         with:
-         time: 10s
-      - name: npm run details
-        run: npm run details
-      - name: sleep for 10s
-        uses: juliangruber/sleep-action@v1
-        with:
           time: 10s
-      - name: npm run for sale
-        run: npm run forsale
-      - name: sleep for 10s
-        uses: juliangruber/sleep-action@v1
-        with:
-          time: 10s
-      - name: npm run summary
-        run: npm run summary
-      - name: sleep for 10s
-        uses: juliangruber/sleep-action@v1
-        with:
-          time: 10s
-      - name: npm run readme
+      - name: generate README.md
         run: npm run readme
-      - name: commit change
-        run: |
-          git config --global user.email "xgirma@gmail.com"
-          git config --global user.name "Girma Nigusse"
-          git status
-          git add --all
-          git commit -am "generated 27560"
-          git push
+      - name: git set user.email
+        run: git config --global user.email "xgirma@gmail.com"
+      - name: git set user.name
+        run: git config --global user.email "Girma Nigusse"
+      - name: git status
+        run: git status
+      - name: git add
+        run: git add --all
+      - name: git commit
+        run: git commit -am "generate data for 27560"
+      - name: commit data
+        run: git push
