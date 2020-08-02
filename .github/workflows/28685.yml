@@ -1,6 +1,6 @@
 name: '28685'
 'on':
-  pull: null
+  push: null
   schedule:
     - cron: 0 16 * * *
 jobs:
