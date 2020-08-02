@@ -35,6 +35,12 @@ jobs:
           time: 10s
       - name: npm run for sale
         run: npm run forsale
+      - name: sleep for 10s
+        uses: juliangruber/sleep-action@v1
+        with:
+          time: 10s
+      - name: npm run summary
+        run: npm run summary
       - name: commit data
         run: |
           git config --global user.email "xgirma@gmail.com"

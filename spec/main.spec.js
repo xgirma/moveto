@@ -47,7 +47,7 @@ do {
   let line = "";
 
   describe("main", () => {
-    jasmine.DEFAULT_TIMEOUT_INTERVAL = 10000;
+    jasmine.DEFAULT_TIMEOUT_INTERVAL = 100000;
     const url = links[link];
     let flag = false;
 
