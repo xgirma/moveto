@@ -7,11 +7,12 @@
     "clean": "npx rimraf data/**/*",
     "lint": "npx eslint --ext .js ./ --fix",
     "constants": "npx jasmine spec/constants.spec.js",
-    "list": "jasmine spec/list.spec.js",
-    "main": "jasmine spec/main.spec.js",
+    "list": "npx jasmine spec/list.spec.js",
+    "main": "npx jasmine spec/main.spec.js",
     "details": "node lib/details.js",
     "forsale": "node lib/for_sale.js",
-    "summary": "node lib/summary.js"
+    "summary": "node lib/summary.js",
+    "readme": "node lib/readme.js"
   },
   "repository": {
     "type": "git",
@@ -29,14 +30,12 @@
     "csv-parse": "^4.11.1",
     "csvtojson": "^2.0.10",
     "jasmine": "3.6.1",
-    "neat-csv": "^5.2.0",
     "playwright": "1.2.1",
     "rimraf": "3.0.2",
     "yargs": "15.4.1",
     "zipcodes": "^8.0.0"
   },
   "devDependencies": {
-    "@types/rimraf": "3.0.0",
     "eslint": "7.6.0",
     "eslint-config-airbnb-base": "14.2.0",
     "eslint-config-prettier": "6.11.0",

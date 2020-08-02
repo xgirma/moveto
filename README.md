@@ -1,6 +1,86 @@
 # moveto
-Extract data from moveto.com for selected houses
+Extract RTP listing data from moveto.com
+## Cary, 27511
+```json
+{
+  "date": "2020-07-31T23:15:25.617Z",
+  "listings": 91,
+  "coming_soon": 0,
+  "price_reduced": 13,
+  "for_sale": 60,
+  "open_house": 3,
+  "under_contract": 21,
+  "sale_pending": 23,
+  "city": "Cary",
+  "state": "NC",
+  "zip": 27511
+}
+```
 
-    npm run constants  -- --zip=28685
-    npm run list  -- --zip=28685
-    npm run main  -- --zip=28685 --maxprice=500000 --beds=3 --baths=3
+## Cary, 27513
+```json
+{
+  "date": "2020-08-01T01:18:17.219Z",
+  "listings": 97,
+  "coming_soon": 0,
+  "price_reduced": 13,
+  "for_sale": 60,
+  "open_house": 3,
+  "under_contract": 21,
+  "sale_pending": 23,
+  "city": "Cary",
+  "state": "NC",
+  "zip": 27513
+}
+```
+
+## Cary, 27519
+```json
+{
+  "date": "2020-08-01T05:15:59.403Z",
+  "listings": 114,
+  "coming_soon": 10,
+  "price_reduced": 13,
+  "for_sale": 60,
+  "open_house": 3,
+  "under_contract": 21,
+  "sale_pending": 23,
+  "city": "Cary",
+  "state": "NC",
+  "zip": 27519
+}
+```
+
+## Morrisville, 27560
+```json
+{
+  "date": "2020-07-31T13:59:16.927Z",
+  "listings": 102,
+  "coming_soon": 0,
+  "price_reduced": 13,
+  "for_sale": 60,
+  "open_house": 3,
+  "under_contract": 21,
+  "sale_pending": 23,
+  "city": "Morrisville",
+  "state": "NC",
+  "zip": 27560
+}
+```
+
+## Traphill, 28685
+```json
+{
+  "date": "2020-08-01T23:18:39.560Z",
+  "listings": 1,
+  "coming_soon": 0,
+  "price_reduced": 0,
+  "for_sale": 1,
+  "open_house": 0,
+  "under_contract": 0,
+  "sale_pending": 0,
+  "city": "Traphill",
+  "state": "NC",
+  "zip": 28685
+}
+```

@@ -40,12 +40,18 @@ jobs:
           time: 10s
       - name: npm run summary
         run: npm run summary
+      - name: sleep for 10s
+        uses: juliangruber/sleep-action@v1
+        with:
+          time: 10s
+      - name: npm run readme
+        run: npm run readme
       - name: upload artifact
         uses: actions/upload-artifact@v2
         with:
           name: constants
           path: data/*
-      - name: commit data
+      - name: commit change
         run: |
           git config --global user.email "xgirma@gmail.com"
           git config --global user.name "Girma Nigusse"

@@ -41,7 +41,13 @@ jobs:
           time: 10s
       - name: npm run summary
         run: npm run summary
-      - name: commit data
+      - name: sleep for 10s
+        uses: juliangruber/sleep-action@v1
+        with:
+          time: 10s
+      - name: npm run readme
+        run: npm run readme
+      - name: commit change
         run: |
           git config --global user.email "xgirma@gmail.com"
           git config --global user.name "Girma Nigusse"
