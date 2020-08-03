@@ -22,7 +22,7 @@ jobs:
       - name: generate list
         run: npm run list -- --zip=27560
       - name: generate main
-        if: '${{ failure() }}'
+        if: ${{ failure() }}
         run: npm run main -- --zip=27560
       - name: sleep for 10s
         uses: juliangruber/sleep-action@v1
