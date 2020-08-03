@@ -13,7 +13,10 @@
     "forsale": "node lib/for_sale.js",
     "summary": "node lib/summary.js",
     "readme": "node lib/readme.js",
-    "workflow": "node lib/workflow.js"
+    "workflow": "node lib/workflow.js",
+    "byprice": "node lib/by_price.js --zip=27519",
+    "bysize": "node lib/by_size.js --zip=27519",
+    "byyear": "node lib/by_year.js --zip=27519"
   },
   "repository": {
     "type": "git",

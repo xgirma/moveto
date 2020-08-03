@@ -13,15 +13,15 @@ function delay(time) {
   });
 }
 
-function sortAscending(data, column) {
+function sortDescending(data, column) {
   return data.sort((a, b) => {
-    return parseInt(b[column], 2) - parseInt(a[column], 2);
+    return parseInt(b[column], 10) - parseInt(a[column], 10);
   });
 }
 
-function sortDescending(data, column) {
+function sortAscending(data, column) {
   return data.sort((a, b) => {
-    return Number(b[column]) - Number(a[column]);
+    return parseInt(a[column], 10) - parseInt(b[column], 10);
   });
 }
 
