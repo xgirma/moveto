@@ -73,7 +73,7 @@ do {
     });
 
     afterEach(async () => {
-      await delay(1000);
+      await delay(500);
     });
 
     it(`single family home? ${url}`, async () => {
