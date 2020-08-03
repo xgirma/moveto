@@ -13,4 +13,16 @@ function delay(time) {
   });
 }
 
-module.exports = { delay, sortObject };
+function sortAscending(data, column) {
+  return data.sort((a, b) => {
+    return parseInt(b[column], 2) - parseInt(a[column], 2);
+  });
+}
+
+function sortDescending(data, column) {
+  return data.sort((a, b) => {
+    return Number(b[column]) - Number(a[column]);
+  });
+}
+
+module.exports = { delay, sortObject, sortAscending, sortDescending };

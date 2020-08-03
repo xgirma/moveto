@@ -1,6 +1,5 @@
 name: '28685'
 'on':
-  push: null
   schedule:
     - cron: 0 16 * * *
 jobs:
@@ -30,6 +29,12 @@ jobs:
           time: 10s
       - name: generate details
         run: npm run details
+      - name: sleep for 10s
+        uses: juliangruber/sleep-action@v1
+        with:
+          time: 10s
+      - name: generate for sale
+        run: npm run forsale
       - name: sleep for 10s
         uses: juliangruber/sleep-action@v1
         with:
