@@ -58,7 +58,7 @@ jobs:
         with:
           time: 10s
       - name: sort by year
-        run: npm run year
+        run: npm run byyear
       - name: sleep for 10s
         uses: juliangruber/sleep-action@v1
         with:
