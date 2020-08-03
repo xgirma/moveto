@@ -25,10 +25,12 @@ jobs:
         if: always()
         run: npm run main -- --zip=27519
       - name: sleep for 10s
+        if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
       - name: generate details
+        if: always()
         run: npm run details
       - name: sleep for 10s
         uses: juliangruber/sleep-action@v1

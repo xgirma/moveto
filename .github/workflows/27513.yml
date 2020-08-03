@@ -1,5 +1,6 @@
 name: '27513'
 'on':
+  push: null
   schedule:
     - cron: 0 4 * * *
 jobs:
@@ -25,10 +26,12 @@ jobs:
         if: always()
         run: npm run main -- --zip=27513
       - name: sleep for 10s
+        if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
       - name: generate details
+        if: always()
         run: npm run details
       - name: sleep for 10s
         uses: juliangruber/sleep-action@v1
