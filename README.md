@@ -20,8 +20,8 @@ Extract RTP listing data from moveto.com
 ## Cary, 27513
 ```json
 {
-  "date": "2020-08-01T01:18:17.219Z",
-  "listings": 97,
+  "date": "2020-08-03T23:18:27.835Z",
+  "listings": 74,
   "coming_soon": 0,
   "price_reduced": 13,
   "for_sale": 60,
