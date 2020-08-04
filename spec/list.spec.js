@@ -113,7 +113,7 @@ if (pages === 1) {
 
       it("should write", async () => {
         writeList();
-        await delay(30000);
+        await delay(5000);
       });
     });
   }
