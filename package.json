@@ -6,9 +6,9 @@
   "scripts": {
     "clean": "npx rimraf data/**/*",
     "lint": "npx eslint --ext .js ./ --fix",
-    "constants": "npx jasmine spec/constants.spec.js",
-    "list": "npx jasmine spec/list.spec.js",
-    "main": "npx jasmine spec/main.spec.js",
+    "constants": "npx jasmine spec/constants.spec.js --zip=27560",
+    "list": "npx jasmine spec/list.spec.js --zip=27560",
+    "main": "npx jasmine spec/main.spec.js --zip=27560",
     "details": "node lib/details.js",
     "forsale": "node lib/for_sale.js",
     "summary": "node lib/summary.js",
