@@ -21,7 +21,7 @@ Extract RTP listing data from moveto.com
 ```json
 {
   "date": "2020-08-03T23:18:27.835Z",
-  "listings": 74,
+  "listings": 0,
   "coming_soon": 0,
   "price_reduced": 13,
   "for_sale": 60,
