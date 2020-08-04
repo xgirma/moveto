@@ -54,8 +54,8 @@ Extract RTP listing data from moveto.com
 ## Morrisville, 27560
 ```json
 {
-  "date": "2020-08-04T03:16:58.828Z",
-  "listings": 18,
+  "date": "2020-08-04T12:05:33.542Z",
+  "listings": 111,
   "coming_soon": 0,
   "price_reduced": 13,
   "for_sale": 60,
