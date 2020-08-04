@@ -54,8 +54,8 @@ Extract RTP listing data from moveto.com
 ## Morrisville, 27560
 ```json
 {
-  "date": "2020-07-31T13:59:16.927Z",
-  "listings": 102,
+  "date": "2020-08-04T03:16:58.828Z",
+  "listings": 18,
   "coming_soon": 0,
   "price_reduced": 13,
   "for_sale": 60,
@@ -71,7 +71,7 @@ Extract RTP listing data from moveto.com
 ## Traphill, 28685
 ```json
 {
-  "date": "2020-08-03T16:22:23.218Z",
+  "date": "2020-08-04T03:15:49.093Z",
   "listings": 1,
   "coming_soon": 0,
   "price_reduced": 0,
