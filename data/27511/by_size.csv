@@ -6,7 +6,7 @@ price,estimated,min,max,reduced,address,city,state,zip,beds,baths,size,psqft,day
 468000,564189,469000,647000,7,106 Scots Fir Ln,Cary,NC,27519,4,3,3083,152,25,9148,Sqft,1999,50,,https://www.movoto.com/home/106-scots-fir-ln-cary-nc-27518-pid_ceqy43b5jh
 498000,527046,494000,566000,20,108 Bergeron Way,Cary,NC,27519,5,4,3029,164,13,0.30,Acres,1996,55,,https://www.movoto.com/home/108-bergeron-way-cary-nc-27519-413_2331863
 490000,464836,444000,491000,0,313 Millsfield Dr,Cary,NC,27519,5,3,2942,167,20,6534,Sqft,2006,56,,https://www.movoto.com/home/313-millsfield-dr-cary-nc-27519-413_2330453
-465000,484300,406000,528000,0,109 Overview Ln,Cary,NC,27519,4,3,2900,160,16,0.38,Acres,1979,29,,https://www.movoto.com/home/109-overview-ln-cary-nc-27511-413_2331057
+465000,484300,[406000](www.google.com),528000,0,109 Overview Ln,Cary,NC,27519,4,3,2900,160,16,0.38,Acres,1979,29,,https://www.movoto.com/home/109-overview-ln-cary-nc-27511-413_2331057
 469900,0,430000,619000,0,125 Hidden Rock Ct,Cary,NC,27519,4,3,2828,166,2,0.49,Acres,1995,0,,https://www.movoto.com/home/125-hidden-rock-ct-cary-nc-27513-413_2333894
 499900,530536,409000,652000,10,1623 Vineyard Mist Dr,Cary,NC,27519,3,3,2822,177,17,6970,Sqft,2017,240,,https://www.movoto.com/home/1623-vineyard-mist-dr-cary-nc-27519-413_2148417
 489900,453140,375000,539000,0,304 N West St,Cary,NC,27519,3,3,2780,176,63,6534,Sqft,2020,0,,https://www.movoto.com/home/304-n-west-st-cary-nc-27513-413_2321937
