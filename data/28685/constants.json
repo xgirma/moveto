@@ -1,7 +1,14 @@
 {
   "city": "Traphill",
-  "date": "August 5th 2020, 8:11:55 pm EST",
+  "contract": 0,
+  "date": "August 5th 2020, 9:08:13 pm EST",
+  "listings": 1,
+  "open": 0,
   "pages": 1,
+  "pending": 0,
+  "reduced": 0,
+  "sale": 1,
+  "soon": 0,
   "state": "NC",
   "zip": 28685
 }

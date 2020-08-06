@@ -54,7 +54,8 @@ function clean() {
     }
   });
 
-  const update = JSON.stringify("[]", null, 2);
+  const content = [];
+  const update = JSON.stringify(content, null, 2);
   try {
     writeFileSync(linksJson, update, "utf8");
   } catch (error) {
