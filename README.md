@@ -59,13 +59,13 @@ Extract RTP listing data from moveto.com.
 ```json
 {
   "date": "2020-08-05T12:05:13.596Z",
-  "listings": 118,
+  "listings": 0,
   "coming_soon": 0,
-  "price_reduced": 13,
-  "for_sale": 60,
-  "open_house": 3,
-  "under_contract": 21,
-  "sale_pending": 23,
+  "price_reduced": 0,
+  "for_sale": 0,
+  "open_house": 0,
+  "under_contract": 0,
+  "sale_pending": 0,
   "city": "Morrisville",
   "state": "NC",
   "zip": 27560
