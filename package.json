@@ -9,7 +9,7 @@
     "pages": "npx jasmine spec/pages.spec.js",
     "links": "npx jasmine spec/links.spec.js",
     "houses": "npx jasmine spec/houses.spec.js",
-    "calssify": "node lib/calssify.js",
+    "classify": "node lib/calssify.js",
     "classify:sale": "node lib/sale_classify.js",
     "summary": "node lib/summary.js",
     "readme": "node lib/readme.js",

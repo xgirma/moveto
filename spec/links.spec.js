@@ -75,7 +75,7 @@ if (pages === 1) {
   });
 } else {
   for (let i = 1; i < data.pages - 1; i += 1) {
-    describe("links: multiple page", () => {
+    describe(`links: multiple page ${i}`, () => {
       jasmine.DEFAULT_TIMEOUT_INTERVAL = 60000;
       let browser;
       let page;

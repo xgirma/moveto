@@ -1,7 +1,7 @@
-name: '28685'
+name: '27560'
 'on':
   schedule:
-    - cron: 0 16 * * *
+    - cron: 0 12 * * *
 jobs:
   build:
     runs-on: macOS-latest
@@ -18,13 +18,13 @@ jobs:
       - name: lint
         run: npm run lint --if-present
       - name: generate constants
-        run: npm run constants -- --zip=28685
+        run: npm run constants -- --zip=27560
       - name: generate list
         if: always()
-        run: npm run list -- --zip=28685
+        run: npm run list -- --zip=27560
       - name: generate main
         if: always()
-        run: npm run main -- --zip=28685
+        run: npm run main -- --zip=27560
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
@@ -109,7 +109,7 @@ jobs:
         run: git add --all
       - name: git commit
         if: always()
-        run: git commit -am "generate data for 28685"
+        run: git commit -am "generate data for 27560"
       - name: commit data
         if: always()
         run: git push
