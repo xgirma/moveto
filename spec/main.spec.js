@@ -392,7 +392,7 @@ do {
 
     it(`open house: ${url}`, async () => {
       if (!flag) {
-        const css = "#openHouseTimes > ul > li > a > span";
+        const css = "#dppTags > .openhouse";
         try {
           if ((await page.$(css)) == null) {
             line += `, `;
