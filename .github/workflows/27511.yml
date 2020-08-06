@@ -58,6 +58,7 @@ jobs:
         if: always()
         run: npm run byprice
       - name: sleep for 10s
+        if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s

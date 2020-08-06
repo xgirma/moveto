@@ -20,7 +20,7 @@ const links = JSON.parse(linksFile);
 const path = `./data/${zip}/details.csv`;
 const { state, city } = zipcodes.lookup(zip);
 const header =
-  "status,price,estimated,min,max,reduced,address,city,state,zip,beds,baths,size,value,days,lot,unit,year,hoa,open,link\n";
+  "Status,Price,Est.,Min.,Max.,Reduced,Address,City,State,Zip,Bed,Bath,Size,Value,Days,Lot,unit,Year,HOA,Open,Link\n";
 
 let page;
 let browser;

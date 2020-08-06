@@ -16,8 +16,7 @@
     "workflow": "node lib/workflow.js",
     "byprice": "node lib/by_price.js",
     "bysize": "node lib/by_size.js",
-    "byyear": "node lib/by_year.js",
-    "docbyprice": "node lib/doc_by_price.js"
+    "byyear": "node lib/by_year.js"
   },
   "repository": {
     "type": "git",
@@ -37,6 +36,7 @@
     "jasmine": "3.6.1",
     "js-yaml": "3.14.0",
     "markdown-table": "2.0.0",
+    "moment": "^2.27.0",
     "playwright": "1.2.1",
     "rimraf": "3.0.2",
     "yargs": "15.4.1",

@@ -1,3 +1,6 @@
+const { argv } = require("yargs");
+const { writeFileSync } = require("fs");
+
 function sortObject(obj) {
   const keys = Object.keys(obj).sort();
   const newObj = {};
@@ -25,4 +28,38 @@ function sortAscending(data, column) {
   });
 }
 
-module.exports = { delay, sortObject, sortAscending, sortDescending };
+function clean() {
+  const zip = argv.zip || 28685;
+  const path = `./data/${zip}`;
+  const linksJson = `${path}/links.json`;
+  const csvFiles = [
+    `${path}/by_price.csv`,
+    `${path}/by_size.csv`,
+    `${path}/by_year.csv`,
+    `${path}/coming_soon.csv`,
+    `${path}/details.csv`,
+    `${path}/for_sale.csv`,
+    `${path}/in_contract.csv`,
+    `${path}/listed_today.csv`,
+    `${path}/open_house.csv`,
+    `${path}/price_reduced.csv`,
+    `${path}/sale_pending.csv`,
+  ];
+
+  csvFiles.forEach((file) => {
+    try {
+      writeFileSync(file, "", "utf8");
+    } catch (error) {
+      console.error("Faild to clean links");
+    }
+  });
+
+  const update = JSON.stringify("[]", null, 2);
+  try {
+    writeFileSync(linksJson, update, "utf8");
+  } catch (error) {
+    console.error("Faild to clean links");
+  }
+}
+
+module.exports = { clean, delay, sortObject, sortAscending, sortDescending };

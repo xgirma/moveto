@@ -4,8 +4,9 @@ const { chromium } = require("playwright");
 const { argv } = require("yargs");
 const assert = require("assert");
 const zipcodes = require("zipcodes");
+const moment = require("moment");
 
-const { sortObject } = require("./utils");
+const { clean, sortObject } = require("./utils");
 
 let page;
 let browser;
@@ -26,6 +27,7 @@ describe("constant", () => {
         waitUntil: "networkidle",
       })
       .catch(() => {});
+    clean();
   });
 
   afterAll(() => {
@@ -48,8 +50,11 @@ describe("constant", () => {
       }
 
       path = `./data/${zip}/constants.json`;
-      const date = new Date();
-      const data = { city, state, zip, pages, date };
+      const date = moment
+        .utc()
+        .subtract(5, "hours")
+        .format("MMMM Do YYYY, h:mm:ss a");
+      const data = { city, state, zip, pages, date: `${date} EST` };
       const update = JSON.stringify(sortObject(data), null, 2);
       writeFileSync(path, update, "utf8");
     } catch (error) {
