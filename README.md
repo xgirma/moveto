@@ -75,12 +75,12 @@ Extract RTP listing data from moveto.com.
 ## Traphill, 28685
 ```json
 {
-  "date": "August 5th 2020, 11:00:36 pm EST",
+  "date": "August 5th 2020, 11:32:05 pm EST",
   "listings": 1,
   "coming_soon": 0,
-  "price_reduced": 0,
+  "price_reduced": 1,
   "for_sale": 1,
-  "open_house": 0,
+  "open_house": 1,
   "under_contract": 0,
   "sale_pending": 0,
   "city": "Traphill",
