@@ -199,13 +199,12 @@ do {
               css,
               (el) => el.textContent
             );
+            const shortend = formattedPriceReduced.endsWith("K");
             const reduced = formattedPriceReduced
               .replace("$", "")
               .replace("K", "")
               .trim();
-            const final = formattedPriceReduced.endsWith("K")
-              ? `${reduced}000`
-              : reduced;
+            const final = shortend ? `${reduced}000` : reduced;
             line += `,${final}`;
           }
         } catch (error) {
