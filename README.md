@@ -25,13 +25,13 @@ Extract RTP listing data from moveto.com.
 ```json
 {
   "date": "2020-08-05T04:06:24.742Z",
-  "listings": 108,
+  "listings": 0,
   "coming_soon": 0,
-  "price_reduced": 13,
-  "for_sale": 60,
-  "open_house": 3,
-  "under_contract": 21,
-  "sale_pending": 23,
+  "price_reduced": 0,
+  "for_sale": 0,
+  "open_house": 0,
+  "under_contract": 0,
+  "sale_pending": 0,
   "city": "Cary",
   "state": "NC",
   "zip": 27513
@@ -75,12 +75,12 @@ Extract RTP listing data from moveto.com.
 ## Traphill, 28685
 ```json
 {
-  "date": "August 5th 2020, 9:08:13 pm EST",
+  "date": "August 5th 2020, 9:31:35 pm EST",
   "listings": 1,
   "coming_soon": 0,
-  "price_reduced": 0,
+  "price_reduced": 1,
   "for_sale": 1,
-  "open_house": 0,
+  "open_house": 1,
   "under_contract": 0,
   "sale_pending": 0,
   "city": "Traphill",
