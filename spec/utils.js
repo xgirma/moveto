@@ -34,6 +34,7 @@ function clean() {
   const linksJson = `${path}/links.json`;
   const csvFiles = [
     `${path}/by_price.csv`,
+    `${path}/by_days.csv`,
     `${path}/by_size.csv`,
     `${path}/by_year.csv`,
     `${path}/coming_soon.csv`,

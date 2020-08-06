@@ -2,14 +2,13 @@ const { writeFileSync, readFileSync, mkdirSync, existsSync } = require("fs");
 const { chromium } = require("playwright");
 const { argv } = require("yargs");
 const assert = require("assert");
-
-const zip = argv.zip || 28685;
 const { delay } = require("./utils");
 
-const constant = readFileSync(`./data/${zip}/constants.json`);
+const host = "https://www.movoto.com";
+const zip = argv.zip || 28685;
+const constant = readFileSync(`./data/${zip}/pages.json`);
 const data = JSON.parse(constant);
 const { pages, city, state } = data;
-const host = "https://www.movoto.com";
 const links = [];
 
 function writeList() {
@@ -27,8 +26,26 @@ function writeList() {
   }
 }
 
+async function getLinksList(page) {
+  const title = await page.$eval("#txtH1", (el) => el.textContent);
+  assert.strictEqual(
+    title.trim(),
+    `${city}, ${state} Real Estate & Homes for Sale`
+  );
+
+  const cardLink = await page.evaluate(() =>
+    Array.from(document.querySelectorAll(".card-link")).map((d) =>
+      d.getAttribute("href")
+    )
+  );
+
+  cardLink.forEach((card) => {
+    links.push(card);
+  });
+}
+
 if (pages === 1) {
-  describe("single page", () => {
+  describe("links: single page", () => {
     jasmine.DEFAULT_TIMEOUT_INTERVAL = 100000;
     let browser;
     let page;
@@ -49,21 +66,7 @@ if (pages === 1) {
     });
 
     it(`should get a list of links`, async () => {
-      const title = await page.$eval("#txtH1", (el) => el.textContent);
-      assert.strictEqual(
-        title.trim(),
-        `${city}, ${state} Real Estate & Homes for Sale`
-      );
-
-      const cardLink = await page.evaluate(() =>
-        Array.from(document.querySelectorAll(".card-link")).map((d) =>
-          d.getAttribute("href")
-        )
-      );
-
-      cardLink.forEach((card) => {
-        links.push(card);
-      });
+      await getLinksList(page);
     });
 
     it("should write", async () => {
@@ -72,7 +75,7 @@ if (pages === 1) {
   });
 } else {
   for (let i = 1; i < data.pages - 1; i += 1) {
-    describe("multiple page", () => {
+    describe("links: multiple page", () => {
       jasmine.DEFAULT_TIMEOUT_INTERVAL = 60000;
       let browser;
       let page;
@@ -93,22 +96,7 @@ if (pages === 1) {
       });
 
       it("should get a list of links", async () => {
-        const title = await page.$eval("#txtH1", (el) => el.textContent);
-
-        assert.strictEqual(
-          title.trim(),
-          `${city}, ${state} Real Estate & Homes for Sale`
-        );
-
-        const cardLink = await page.evaluate(() =>
-          Array.from(document.querySelectorAll(".card-link")).map((d) =>
-            d.getAttribute("href")
-          )
-        );
-
-        cardLink.forEach((card) => {
-          links.push(card);
-        });
+        await getLinksList(page);
       });
 
       it("should write", async () => {

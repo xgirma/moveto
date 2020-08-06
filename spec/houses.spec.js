@@ -18,9 +18,8 @@ const bathsMinimum = argv.baths || 2;
 const linksFile = readFileSync(`./data/${zip}/links.json`);
 const links = JSON.parse(linksFile);
 const path = `./data/${zip}/details.csv`;
-const { state, city } = zipcodes.lookup(zip);
 const header =
-  "Status,Price,Est.,Min.,Max.,Reduced,Address,City,State,Zip,Bed,Bath,Size,Value,Days,Lot,unit,Year,HOA,Open,Link\n";
+  "Status,Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,unit,Year,HOA,Open,Link\n";
 
 let page;
 let browser;
@@ -195,16 +194,14 @@ do {
           if ((await page.$(css)) == null) {
             line += `,0`;
           } else {
-            const formattedPriceReduced = await page.$eval(
-              css,
-              (el) => el.textContent
-            );
-            const shortend = formattedPriceReduced.endsWith("K");
-            const reduced = formattedPriceReduced
+            const priceReduced = await page.$eval(css, (el) => el.textContent);
+
+            const shortened = priceReduced.trim().endsWith("K");
+            const reduced = priceReduced
               .replace("$", "")
               .replace("K", "")
               .trim();
-            const final = shortend ? `${reduced}000` : reduced;
+            const final = shortened ? `${reduced}000` : reduced;
             line += `,${final}`;
           }
         } catch (error) {
@@ -220,7 +217,7 @@ do {
           const css = ".dpp-header-title > .title";
           if ((await page.$(css)) != null) {
             const address = await page.$eval(css, (el) => el.textContent);
-            line += `,${address.trim()},${city},${state},${zip}`;
+            line += `,${address.trim()}`;
           } else {
             line += `,`;
           }
@@ -396,7 +393,7 @@ do {
           if ((await page.$(css)) == null) {
             line += `, `;
           } else {
-            const open = await page.$(css, (el) => el.textContent);
+            const open = await page.$eval(css, (el) => el.textContent);
             line += `,${open}`;
           }
         } catch (error) {

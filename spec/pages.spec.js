@@ -6,15 +6,16 @@ const assert = require("assert");
 const zipcodes = require("zipcodes");
 const moment = require("moment");
 
+const zip = argv.zip || 28685;
+const { state, city } = zipcodes.lookup(zip);
+
 const { clean, sortObject } = require("./utils");
 
 let page;
 let browser;
 
-describe("constant", () => {
+describe("pages", () => {
   jasmine.DEFAULT_TIMEOUT_INTERVAL = 60000;
-  const zip = argv.zip || 28685;
-  const { state, city } = zipcodes.lookup(zip);
 
   beforeAll(async () => {
     browser = await chromium.launch({ headless: false });
@@ -36,7 +37,7 @@ describe("constant", () => {
     }
   });
 
-  it("init", async () => {
+  it("get pages", async () => {
     const folder = `./data/${zip}`;
     let path;
 
@@ -49,7 +50,7 @@ describe("constant", () => {
         mkdirSync(folder);
       }
 
-      path = `./data/${zip}/constants.json`;
+      path = `./data/${zip}/pages.json`;
       const date = moment
         .utc()
         .subtract(5, "hours")
