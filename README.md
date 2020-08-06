@@ -41,14 +41,14 @@ Extract RTP listing data from moveto.com.
 ## Cary, 27519
 ```json
 {
-  "date": "2020-08-05T08:06:46.301Z",
-  "listings": 88,
-  "coming_soon": 10,
-  "price_reduced": 13,
-  "for_sale": 60,
-  "open_house": 3,
-  "under_contract": 21,
-  "sale_pending": 23,
+  "date": "August 6th 2020, 3:02:14 am EST",
+  "listings": 72,
+  "coming_soon": 0,
+  "price_reduced": 0,
+  "for_sale": 0,
+  "open_house": 0,
+  "under_contract": 0,
+  "sale_pending": 0,
   "city": "Cary",
   "state": "NC",
   "zip": 27519
