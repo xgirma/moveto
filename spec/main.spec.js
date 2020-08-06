@@ -132,7 +132,7 @@ do {
 
     it(`estimated: ${url}`, async () => {
       if (!flag) {
-        const css = "#estPrice > div > div > div:nth-child(1) > div";
+        const css = ".dpp-estprice-panel > div > .text-green";
         try {
           if ((await page.$(css)) == null) {
             line += `,0`;
