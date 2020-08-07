@@ -17,30 +17,30 @@ jobs:
           CI: true
       - name: lint
         run: npm run lint --if-present
-      - name: generate constants
-        run: npm run constants -- --zip=27519
-      - name: generate list
+      - name: generate pages
+        run: npm run pages -- --zip=27519
+      - name: generate links
         if: always()
-        run: npm run list -- --zip=27519
-      - name: generate main
+        run: npm run links -- --zip=27519
+      - name: generate houese
         if: always()
-        run: npm run main -- --zip=27519
+        run: npm run houses -- --zip=27519
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: generate details
+      - name: generate classify
         if: always()
-        run: npm run details
+        run: npm run classify
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: generate for sale
+      - name: 'generate for classify:sale'
         if: always()
-        run: npm run forsale
+        run: 'npm run classify:sale'
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
