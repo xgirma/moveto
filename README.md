@@ -9,9 +9,9 @@ Extract RTP listing data from moveto.com.
 {
   "date": "August 7th 2020, 11:52:41 am EST",
   "listings": 76,
-  "coming_soon": 0,
+  "coming_soon": 10,
   "price_reduced": 0,
-  "for_sale": 0,
+  "for_sale": 66,
   "open_house": 0,
   "under_contract": 0,
   "sale_pending": 0,
@@ -41,11 +41,11 @@ Extract RTP listing data from moveto.com.
 ## Cary, 27519, NC - Aug 7th 2020
 ```json
 {
-  "date": "August 7th 2020, 3:03:17 am EST",
-  "listings": 69,
-  "coming_soon": 0,
+  "date": "August 7th 2020, 1:28:44 pm EST",
+  "listings": 140,
+  "coming_soon": 12,
   "price_reduced": 0,
-  "for_sale": 0,
+  "for_sale": 128,
   "open_house": 0,
   "under_contract": 0,
   "sale_pending": 0,
