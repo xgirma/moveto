@@ -7,7 +7,6 @@ const {
   appendFileSync,
 } = require("fs");
 const { chromium } = require("playwright");
-const zipcodes = require("zipcodes");
 const { delay } = require("./utils");
 
 const maxPrice = argv.maxprice || 500000;
