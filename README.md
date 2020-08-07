@@ -58,7 +58,7 @@ Extract RTP listing data from moveto.com.
 ## Morrisville, 27560, NC - Aug 6th 2020
 ```json
 {
-  "date": "August 6th 2020, 6:57:56 pm EST",
+  "date": "August 6th 2020, 7:35:51 pm EST",
   "listings": undefined,
   "coming_soon": undefined,
   "price_reduced": undefined,
