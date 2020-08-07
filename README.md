@@ -72,10 +72,10 @@ Extract RTP listing data from moveto.com.
 }
 ```
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27560/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27560/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27560/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27560/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27560/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27560/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27560/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27560/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27560/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27560/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27560/in_contract.csv)
-## Traphill, 28685, NC - Aug 6th 2020
+## Traphill, 28685, NC - Aug 7th 2020
 ```json
 {
-  "date": "August 6th 2020, 4:18:16 pm EST",
+  "date": "August 7th 2020, 11:12:35 am EST",
   "listings": 1,
   "coming_soon": 0,
   "price_reduced": 0,
