@@ -21,15 +21,15 @@ Extract RTP listing data from moveto.com.
 }
 ```
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27511/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27511/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27511/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27511/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27511/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27511/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27511/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27511/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27511/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27511/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27511/in_contract.csv)
-## Cary, 27513, NC - Aug 6th 2020
+## Cary, 27513, NC - Aug 7th 2020
 ```json
 {
-  "date": "August 6th 2020, 11:14:41 pm EST",
-  "listings": 67,
-  "coming_soon": 0,
+  "date": "August 7th 2020, 3:03:35 pm EST",
+  "listings": 18,
+  "coming_soon": 7,
   "price_reduced": 0,
-  "for_sale": 0,
-  "open_house": 0,
+  "for_sale": 11,
+  "open_house": 3,
   "under_contract": 0,
   "sale_pending": 0,
   "city": "Cary",
