@@ -4,15 +4,15 @@ Extract RTP listing data from moveto.com.
   Default: Maximum price: _500,000_, Zip: _28685_, Beds: _3_, Baths: _2_ 
 
   Change the default as shown [here](https://github.com/xgirma/moveto/blob/master/HOWTO.md)
-## Cary, 27511, NC - Aug 6th 2020
+## Cary, 27511, NC - Aug 7th 2020
 ```json
 {
-  "date": "August 6th 2020, 6:39:57 pm EST",
-  "listings": 10,
-  "coming_soon": 1,
+  "date": "August 7th 2020, 11:52:41 am EST",
+  "listings": 76,
+  "coming_soon": 0,
   "price_reduced": 0,
-  "for_sale": 9,
-  "open_house": 2,
+  "for_sale": 0,
+  "open_house": 0,
   "under_contract": 0,
   "sale_pending": 0,
   "city": "Cary",
