@@ -32,7 +32,7 @@ jobs:
           time: 10s
       - name: generate classify
         if: always()
-        run: npm run classify
+        run: npm run classify -- --zip=28685
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
@@ -40,7 +40,7 @@ jobs:
           time: 10s
       - name: 'generate for classify:sale'
         if: always()
-        run: 'npm run classify:sale'
+        run: 'npm run classify:sale --zip=28685'
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
@@ -56,7 +56,7 @@ jobs:
           time: 10s
       - name: sort by price
         if: always()
-        run: npm run byprice
+        run: npm run byprice --zip=28685
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
@@ -64,7 +64,7 @@ jobs:
           time: 10s
       - name: sort by size
         if: always()
-        run: npm run bysize
+        run: npm run bysize --zip=28685
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
@@ -72,7 +72,7 @@ jobs:
           time: 10s
       - name: sort by year
         if: always()
-        run: npm run byyear
+        run: npm run byyear --zip=28685
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
@@ -80,7 +80,7 @@ jobs:
           time: 10s
       - name: sort by days
         if: always()
-        run: npm run bydays
+        run: npm run bydays --zip=28685
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
