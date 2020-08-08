@@ -21,9 +21,9 @@ function generateChartSvg() {
   const config = {
     f: d3.format(".1f"),
     margin: { top: 0, right: 0, bottom: 0, left: 0 },
-    width: 900,
-    height: 75,
-    barHeight: 25,
+    width: 1000,
+    height: 80,
+    barHeight: 35,
     colors: ["#d17905", "#f4c63d", "#f05b4f", "#d70206"],
     ...sample,
   };
@@ -73,7 +73,8 @@ function generateChartSvg() {
     .attr("class", "text-percent")
     .attr("text-anchor", "middle")
     .attr("x", (d) => xScale(d.cumulative) + xScale(d.value) / 2)
-    .attr("y", h / 2 - halfBarHeight * 1.1)
+    .attr("y", h / 2 - halfBarHeight * 1.1 - 2)
+    .style("fill", (d, i) => colors[i])
     .text((d) => `${f(d.percent)} %`);
 
   // add the labels
@@ -85,7 +86,7 @@ function generateChartSvg() {
     .attr("class", "text-label")
     .attr("text-anchor", "middle")
     .attr("x", (d) => xScale(d.cumulative) + xScale(d.value) / 2)
-    .attr("y", h / 2 + halfBarHeight * 1.1 + 20)
+    .attr("y", h / 2 + halfBarHeight * 1.1 + 13)
     .style("fill", (d, i) => colors[i])
     .text((d) => d.label);
 
