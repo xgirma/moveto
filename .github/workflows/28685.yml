@@ -88,6 +88,14 @@ jobs:
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
+      - name: plot svg chart for 28685
+        if: always()
+        run: npm run chart -- --zip=28685
+      - name: sleep for 10s
+        if: always()
+        uses: juliangruber/sleep-action@v1
+        with:
+          time: 10s
       - name: generate README.md
         if: always()
         run: npm run readme

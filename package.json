@@ -17,7 +17,8 @@
     "byprice": "node lib/by_price.js",
     "bysize": "node lib/by_size.js",
     "byyear": "node lib/by_year.js",
-    "bydays": "node lib/by_days.js"
+    "bydays": "node lib/by_days.js",
+    "chart": "node chart/chart.js"
   },
   "repository": {
     "type": "git",
@@ -34,8 +35,10 @@
     "chromedriver": "84.0.1",
     "csv-parse": "4.12.0",
     "csvtojson": "2.0.10",
+    "d3": "^5.16.0",
     "jasmine": "3.6.1",
     "js-yaml": "3.14.0",
+    "jsdom": "^16.3.0",
     "markdown-table": "2.0.0",
     "moment": "^2.27.0",
     "playwright": "1.3.0",
