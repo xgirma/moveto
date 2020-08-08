@@ -9,7 +9,6 @@ Extract RTP listing data from moveto.com.
 ![Cary, 27511, NC :](https://github.com/xgirma/moveto/workflows/Cary,%2027511,%20NC%20:/badge.svg)
 
 ![Alt text](https://github.com/xgirma/moveto/blob/master/data/27511/chart.png)
-<img src=https://github.com/xgirma/moveto/blob/master/data/27511/chart.png>
 
 ```json
 {
@@ -32,7 +31,6 @@ Extract RTP listing data from moveto.com.
 ![Cary, 27513, NC :](https://github.com/xgirma/moveto/workflows/Cary,%2027513,%20NC%20:/badge.svg)
 
 ![Alt text](https://github.com/xgirma/moveto/blob/master/data/27513/chart.png)
-<img src=https://github.com/xgirma/moveto/blob/master/data/27513/chart.png>
 
 ```json
 {
@@ -55,7 +53,6 @@ Extract RTP listing data from moveto.com.
 ![Cary, 27519, NC :](https://github.com/xgirma/moveto/workflows/Cary,%2027519,%20NC%20:/badge.svg)
 
 ![Alt text](https://github.com/xgirma/moveto/blob/master/data/27519/chart.png)
-<img src=https://github.com/xgirma/moveto/blob/master/data/27519/chart.png>
 
 ```json
 {
@@ -78,7 +75,6 @@ Extract RTP listing data from moveto.com.
 ![Morrisville, 27560, NC :](https://github.com/xgirma/moveto/workflows/Morrisville,%2027560,%20NC%20:/badge.svg)
 
 ![Alt text](https://github.com/xgirma/moveto/blob/master/data/27560/chart.png)
-<img src=https://github.com/xgirma/moveto/blob/master/data/27560/chart.png>
 
 ```json
 {
@@ -101,7 +97,6 @@ Extract RTP listing data from moveto.com.
 ![Traphill, 28685, NC :](https://github.com/xgirma/moveto/workflows/Traphill,%2028685,%20NC%20:/badge.svg)
 
 ![Alt text](https://github.com/xgirma/moveto/blob/master/data/28685/chart.png)
-<img src=https://github.com/xgirma/moveto/blob/master/data/28685/chart.png>
 
 ```json
 {
