@@ -18,7 +18,8 @@
     "bysize": "node lib/by_size.js",
     "byyear": "node lib/by_year.js",
     "bydays": "node lib/by_days.js",
-    "chart": "node chart/chart.js"
+    "chart": "node chart/chart.js",
+    "svgpng": "node chart/svg_to_png.js"
   },
   "repository": {
     "type": "git",
@@ -43,6 +44,7 @@
     "moment": "^2.27.0",
     "playwright": "1.3.0",
     "rimraf": "3.0.2",
+    "sharp": "^0.25.4",
     "yargs": "15.4.1",
     "zipcodes": "8.0.0"
   },
