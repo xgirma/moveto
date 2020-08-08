@@ -8,11 +8,11 @@ Extract RTP listing data from moveto.com.
 ```json
 {
   "date": "August 7th 2020, 11:52:41 am EST",
-  "listings": 76,
-  "coming_soon": 10,
-  "price_reduced": 22,
-  "for_sale": 66,
-  "open_house": 10,
+  "listings": 0,
+  "coming_soon": 0,
+  "price_reduced": 0,
+  "for_sale": 0,
+  "open_house": 0,
   "under_contract": 0,
   "sale_pending": 0,
   "city": "Cary",
