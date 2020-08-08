@@ -1,14 +1,14 @@
 {
   "city": "Morrisville",
-  "contract": 0,
+  "contract": 21,
   "date": "August 8th 2020, 7:06:52 am EST",
-  "listings": 116,
-  "open": 0,
+  "listings": 113,
+  "open": 6,
   "pages": 6,
-  "pending": 0,
-  "reduced": 0,
-  "sale": 0,
-  "soon": 0,
+  "pending": 32,
+  "reduced": 26,
+  "sale": 57,
+  "soon": 3,
   "state": "NC",
   "zip": 27560
 }
