@@ -17,12 +17,12 @@ jobs:
           CI: true
       - name: lint
         run: npm run lint --if-present
-      - name: generate pages
+      - name: count the number of listing pages for 27560
         run: npm run pages -- --zip=27560
-      - name: generate links
+      - name: scrap links for all listings within 27560
         if: always()
         run: npm run links -- --zip=27560
-      - name: generate houese
+      - name: scrap details for all houses in 27560
         if: always()
         run: npm run houses -- --zip=27560
       - name: sleep for 10s
@@ -30,7 +30,9 @@ jobs:
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: generate classify
+      - name: >-
+          classify 27560 data into for sale, coming soon, sale pending, and in
+          contract
         if: always()
         run: npm run classify -- --zip=27560
       - name: sleep for 10s
@@ -38,7 +40,7 @@ jobs:
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: 'generate for classify:sale'
+      - name: 'classify 27560 data into price reduced, open house, and listed today'
         if: always()
         run: 'npm run classify:sale -- --zip=27560'
       - name: sleep for 10s
@@ -46,7 +48,7 @@ jobs:
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: generate summary
+      - name: generate summary data for 27560
         if: always()
         run: npm run summary
       - name: sleep for 10s
@@ -54,7 +56,7 @@ jobs:
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: sort by price
+      - name: sort data for 27560 by price
         if: always()
         run: npm run byprice -- --zip=27560
       - name: sleep for 10s
@@ -62,7 +64,7 @@ jobs:
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: sort by size
+      - name: sort data for 27560 by size
         if: always()
         run: npm run bysize -- --zip=27560
       - name: sleep for 10s
@@ -70,7 +72,7 @@ jobs:
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: sort by year
+      - name: sort data for 27560 by year
         if: always()
         run: npm run byyear -- --zip=27560
       - name: sleep for 10s
@@ -78,7 +80,7 @@ jobs:
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: sort by days
+      - name: sort data for 27560 by days
         if: always()
         run: npm run bydays -- --zip=27560
       - name: sleep for 10s
