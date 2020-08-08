@@ -73,7 +73,7 @@ Extract RTP listing data from moveto.com.
 }
 ```
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27519/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27519/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27519/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27519/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27519/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27519/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27519/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27519/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27519/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27519/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27519/in_contract.csv)
-## Morrisville, 27560, NC - Aug 7th 2020 
+## Morrisville, 27560, NC - Aug 8th 2020 
  
 ![Morrisville, 27560, NC :](https://github.com/xgirma/moveto/workflows/Morrisville,%2027560,%20NC%20:/badge.svg)
 
@@ -82,14 +82,14 @@ Extract RTP listing data from moveto.com.
 
 ```json
 {
-  "date": "August 7th 2020, 7:05:15 am EST",
-  "listings": 117,
-  "coming_soon": 3,
-  "price_reduced": 27,
-  "for_sale": 61,
-  "open_house": 5,
-  "under_contract": 21,
-  "sale_pending": 32,
+  "date": "August 8th 2020, 7:06:52 am EST",
+  "listings": 116,
+  "coming_soon": 0,
+  "price_reduced": 0,
+  "for_sale": 0,
+  "open_house": 0,
+  "under_contract": 0,
+  "sale_pending": 0,
   "city": "Morrisville",
   "state": "NC",
   "zip": 27560
