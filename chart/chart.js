@@ -89,6 +89,11 @@ function generateChartSvg() {
     .style("fill", (d, i) => colors[i])
     .text((d) => d.label);
 
+  svg
+    // Solve the namespace issue (xmlns and xlink)
+    .attr("xmlns", "http://www.w3.org/2000/svg")
+    .attr("xmlns:xlink", "http://www.w3.org/1999/xlink");
+
   fs.writeFileSync(`${path}/chart.svg`, body.node().innerHTML);
 }
 
