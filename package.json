@@ -12,7 +12,7 @@
     "classify": "node lib/calssify.js",
     "classify:sale": "node lib/sale_classify.js",
     "summary": "node lib/summary.js",
-    "readme": "node lib/readme.js",
+    "readme": "node lib/create_readme.js",
     "workflow": "node lib/workflow.js",
     "byprice": "node lib/by_price.js",
     "bysize": "node lib/by_size.js",
@@ -56,7 +56,7 @@
     "pretty-quick": "2.0.1"
   },
   "lint-staged": {
-    "spec/**/*.{js}": [
+    "./**/*.{js}": [
       "eslint . --fix",
       "prettier --write"
     ]
