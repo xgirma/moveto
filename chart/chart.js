@@ -21,8 +21,8 @@ function generateChartSvg() {
   const config = {
     f: d3.format(".1f"),
     margin: { top: 0, right: 0, bottom: 0, left: 0 },
-    width: 800,
-    height: 200,
+    width: 900,
+    height: 150,
     barHeight: 50,
     colors: ["#d17905", "#f4c63d", "#f05b4f", "#d70206"],
     ...sample,
