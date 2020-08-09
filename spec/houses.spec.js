@@ -150,7 +150,6 @@ do {
 
     it(`price min and max estimate: ${url}`, async () => {
       if (!flag) {
-        // const css = "#estPrice > div > div > div:nth-child(1) > b";
         const css = "css=div div.dpp-estprice-panel > div > b";
         try {
           if ((await page.$(css)) != null) {

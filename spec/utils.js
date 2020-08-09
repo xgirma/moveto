@@ -1,5 +1,5 @@
 const { argv } = require("yargs");
-const { writeFileSync } = require("fs");
+const { existsSync, writeFileSync } = require("fs");
 
 function sortObject(obj) {
   const keys = Object.keys(obj).sort();
@@ -49,7 +49,9 @@ function clean() {
 
   csvFiles.forEach((file) => {
     try {
-      writeFileSync(file, "", "utf8");
+      if (existsSync(file)) {
+        writeFileSync(file, "", "utf8");
+      }
     } catch (error) {
       console.error("Faild to clean links");
     }
@@ -64,4 +66,15 @@ function clean() {
   }
 }
 
-module.exports = { clean, delay, sortObject, sortAscending, sortDescending };
+function isNumeric(value) {
+  return !Number.isNaN(Number(value));
+}
+
+module.exports = {
+  clean,
+  delay,
+  isNumeric,
+  sortObject,
+  sortAscending,
+  sortDescending,
+};

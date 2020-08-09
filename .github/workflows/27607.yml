@@ -1,7 +1,7 @@
-name: 'Cary, 27511, NC :'
+name: 'Raleigh, 27607, NC :'
 'on':
   schedule:
-    - cron: 0 2 * * *
+    - cron: 0 14 * * *
 jobs:
   build:
     runs-on: macOS-latest
@@ -17,38 +17,38 @@ jobs:
           CI: true
       - name: lint
         run: npm run lint --if-present
-      - name: count the number of listing pages for 27511
-        run: npm run pages -- --zip=27511
-      - name: scrap links for all listings within 27511
+      - name: count the number of listing pages for 27607
+        run: npm run pages -- --zip=27607
+      - name: scrap links for all listings within 27607
         if: always()
-        run: npm run links -- --zip=27511
-      - name: scrap details for all houses in 27511
+        run: npm run links -- --zip=27607
+      - name: scrap details for all houses in 27607
         if: always()
-        run: npm run houses -- --zip=27511
+        run: npm run houses -- --zip=27607
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
       - name: >-
-          classify 27511 data into for sale, coming soon, sale pending, and in
+          classify 27607 data into for sale, coming soon, sale pending, and in
           contract
         if: always()
-        run: npm run classify -- --zip=27511
+        run: npm run classify -- --zip=27607
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: 'classify 27511 data into price reduced, open house, and listed today'
+      - name: 'classify 27607 data into price reduced, open house, and listed today'
         if: always()
-        run: 'npm run classify:sale -- --zip=27511'
+        run: 'npm run classify:sale -- --zip=27607'
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: generate summary data for 27511
+      - name: generate summary data for 27607
         if: always()
         run: npm run summary
       - name: sleep for 10s
@@ -56,41 +56,41 @@ jobs:
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: sort data for 27511 by price
+      - name: sort data for 27607 by price
         if: always()
-        run: npm run byprice -- --zip=27511
+        run: npm run byprice -- --zip=27607
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: sort data for 27511 by size
+      - name: sort data for 27607 by size
         if: always()
-        run: npm run bysize -- --zip=27511
+        run: npm run bysize -- --zip=27607
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: sort data for 27511 by year
+      - name: sort data for 27607 by year
         if: always()
-        run: npm run byyear -- --zip=27511
+        run: npm run byyear -- --zip=27607
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: sort data for 27511 by days
+      - name: sort data for 27607 by days
         if: always()
-        run: npm run bydays -- --zip=27511
+        run: npm run bydays -- --zip=27607
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: plot svg chart for 27511
+      - name: plot svg chart for 27607
         if: always()
-        run: npm run chart -- --zip=27511
+        run: npm run chart -- --zip=27607
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
@@ -119,7 +119,7 @@ jobs:
         run: git add --all
       - name: git commit
         if: always()
-        run: git commit -am "generate data for 27511"
+        run: git commit -am "generate data for 27607"
       - name: commit data
         if: always()
         run: git push

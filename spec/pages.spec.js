@@ -2,14 +2,13 @@
 const { writeFileSync, mkdirSync, existsSync } = require("fs");
 const { chromium } = require("playwright");
 const { argv } = require("yargs");
-const assert = require("assert");
 const zipcodes = require("zipcodes");
 const moment = require("moment");
 
 const zip = argv.zip || 28685;
 const { state, city } = zipcodes.lookup(zip);
 
-const { clean, sortObject } = require("./utils");
+const { clean, isNumeric, sortObject } = require("./utils");
 
 let page;
 let browser;
@@ -20,7 +19,7 @@ describe("pages", () => {
   beforeAll(async () => {
     browser = await chromium.launch({ headless: false });
     page = await browser.newPage();
-    const home = `https://www.movoto.com/${city.toLowerCase()}-${state.toLowerCase()}`;
+    const home = `https://www.movoto.com/${state.toLowerCase()}/${zip}`;
 
     await page
       .goto(home, {
@@ -40,10 +39,23 @@ describe("pages", () => {
   it("get pages", async () => {
     const folder = `./data/${zip}`;
     let path;
+    const css = ".paging.v2 > a";
+    let pagesCount = 0;
 
-    const pagesCount = await page.$$eval(".paging.v2 > a", (p) => p.length);
-    const title = await page.$eval("#txtH1", (el) => el.textContent);
+    if ((await page.$$(css)) != null) {
+      const navigation = await page.$$(css);
+      for (let i = 0; i < navigation.length - 2; i += 1) {
+        const list = `.paging.v2 > a[data-page="${i + 1}"]`;
+        const textContent = await page.$eval(list, (el) => el.textContent);
+        if (isNumeric(textContent) && textContent > 0) {
+          pagesCount += 1;
+        }
+      }
+    }
+
     const pages = pagesCount || 1;
+
+    const title = await page.$eval("#txtH1", (el) => el.textContent);
 
     try {
       if (!existsSync(folder)) {
@@ -61,9 +73,6 @@ describe("pages", () => {
     } catch (error) {
       console.error(error);
     }
-    assert.strictEqual(
-      title.trim(),
-      `${city}, ${state} Real Estate & Homes for Sale`
-    );
+    expect(title.trim()).toContain(`${zip}`);
   });
 });

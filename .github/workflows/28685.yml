@@ -1,7 +1,7 @@
 name: 'Traphill, 28685, NC :'
 'on':
   schedule:
-    - cron: 0 15 * * *
+    - cron: 0 16 * * *
 jobs:
   build:
     runs-on: macOS-latest
