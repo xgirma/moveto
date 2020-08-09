@@ -1,5 +1,6 @@
 name: 'Cary, 27511, NC :'
 'on':
+  pull: null
   schedule:
     - cron: 0 3 * * *
 jobs:
