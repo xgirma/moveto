@@ -3,9 +3,10 @@ const { chromium } = require("playwright");
 const { argv } = require("yargs");
 const assert = require("assert");
 const { delay } = require("./utils");
+const { DEFAULT_ZIP } = require("./constants");
 
 const host = "https://www.movoto.com";
-const zip = argv.zip || 28685;
+const zip = argv.zip || DEFAULT_ZIP;
 const constant = readFileSync(`./data/${zip}/pages.json`);
 const data = JSON.parse(constant);
 const { pages, city, state } = data;

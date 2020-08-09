@@ -8,11 +8,12 @@ const {
 } = require("fs");
 const { chromium } = require("playwright");
 const { delay } = require("./utils");
+const { MAX_PRICE, DEFAULT_ZIP, BATHS, BEDS } = require("./constants");
 
-const maxPrice = argv.maxprice || 500000;
-const zip = argv.zip || 28685;
-const bedsMinimum = argv.beds || 3;
-const bathsMinimum = argv.baths || 2;
+const maxPrice = argv.maxprice || MAX_PRICE;
+const zip = argv.zip || DEFAULT_ZIP;
+const bedsMinimum = argv.beds || BEDS;
+const bathsMinimum = argv.baths || BATHS;
 
 const linksFile = readFileSync(`./data/${zip}/links.json`);
 const links = JSON.parse(linksFile);
