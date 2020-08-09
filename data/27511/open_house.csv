@@ -1,9 +1,9 @@
-Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,unit,Year,HOA,Open,Link
-339900,0,340000,362000,0,509 Catlin Rd,4,3,1934,176,1,0.35,Acres,1994,17,Open 8/9,https://www.movoto.com/home/509-catlin-rd-cary-nc-27519-413_2335786
-419900,388962,372000,427000,0,212 Custer Trl,4,3,2401,175,2,0.27,Acres,1990,13,Open 8/9,https://www.movoto.com/home/212-custer-trl-cary-nc-27513-413_2335385
-350000,374486,330000,400000,0,703 Kildaire Farm Rd,5,3,2326,150,3,0.31,Acres,1966,0,Open 8/9,https://www.movoto.com/home/703-kildaire-farm-rd-cary-nc-27511-413_2335173
-439900,413138,367000,469000,10000,100 Queensferry Rd,4,3,2321,190,22,0.48,Acres,1978,8,Open 8/9,https://www.movoto.com/home/100-queensferry-rd-cary-nc-27511-413_2195485
-469900,472590,438000,502000,0,737 Toms Creek Rd,4,3,2670,176,22,0.25,Acres,2015,99,Open 8/9,https://www.movoto.com/home/737-toms-creek-rd-cary-nc-27519-413_2331416
-283999,320436,285000,378000,2000,134 Braeside Ct,4,4,1978,144,30,1307,Sqft,2006,155,Open 8/9,https://www.movoto.com/home/134-braeside-ct-cary-nc-27519-413_2329885
-355000,0,334000,431000,10000,120 Franklin Hills Pt,3,3,2113,168,30,0.28,Acres,2007,187,Open 8/9,https://www.movoto.com/home/120-franklin-hills-pt-cary-nc-27519-413_2329783
-495000,418600,356000,494000,50000,109 Putney Dr,4,3,2600,190,208,8015,Sqft,2021,40,Open 8/9,https://www.movoto.com/home/109-putney-dr-cary-nc-27518-413_2296285
+Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,Year,HOA,Open,Link
+389900,333900,311000,391000,,323 Stromer Dr,4,3,2100,186,1,0.25,Acres,1995,0,Open 8/9,https://www.movoto.com/home/323-stromer-dr-cary-nc-27513-413_2335797
+339900,,340000,362000,,509 Catlin Rd,4,3,1934,176,1,0.35,Acres,1994,17,Open 8/9,https://www.movoto.com/home/509-catlin-rd-cary-nc-27519-413_2335786
+419900,403368,363000,463000,,212 Custer Trl,4,3,2401,175,3,0.27,Acres,1990,13,Open 8/9,https://www.movoto.com/home/212-custer-trl-cary-nc-27513-413_2335385
+350000,372160,330000,393000,,703 Kildaire Farm Rd,5,3,2326,150,3,0.31,Acres,1966,0,Open 8/9,https://www.movoto.com/home/703-kildaire-farm-rd-cary-nc-27511-413_2335173
+439900,410817,367000,469000,10000,100 Queensferry Rd,4,3,2321,190,23,0.48,Acres,1978,8,Open 8/9,https://www.movoto.com/home/100-queensferry-rd-cary-nc-27511-413_2195485
+469900,499290,438000,601000,,737 Toms Creek Rd,4,3,2670,176,23,0.25,Acres,2015,99,Open 8/9,https://www.movoto.com/home/737-toms-creek-rd-cary-nc-27519-413_2331416
+283999,298678,281000,313000,2000,134 Braeside Ct,4,4,1978,144,30,1307,Sqft,2006,155,Open 8/9,https://www.movoto.com/home/134-braeside-ct-cary-nc-27519-413_2329885
+355000,,334000,431000,10000,120 Franklin Hills Pt,3,3,2113,168,31,0.28,Acres,2007,187,Open 8/9,https://www.movoto.com/home/120-franklin-hills-pt-cary-nc-27519-413_2329783
