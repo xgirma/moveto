@@ -63,16 +63,17 @@ if (pages === 1) {
       }
     });
 
-    it(`should get a list of links`, async () => {
+    it(`should get links`, async () => {
       await getLinksList(page);
     });
 
-    it("should write", async () => {
+    it("should write links", async () => {
       writeList();
+      await delay(5000);
     });
   });
 } else {
-  for (let i = 1; i < data.pages - 1; i += 1) {
+  for (let i = 1; i <= data.pages; i += 1) {
     const url = `${host}/${state}/${zip}/p-${i}`;
 
     describe(`links: for ${url}`, () => {
@@ -95,11 +96,11 @@ if (pages === 1) {
         }
       });
 
-      it("should get a list of links", async () => {
+      it("should get links", async () => {
         await getLinksList(page);
       });
 
-      it("should write", async () => {
+      it("should write links", async () => {
         writeList();
         await delay(5000);
       });
