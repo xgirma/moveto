@@ -1,6 +1,5 @@
 name: 'Morrisville, 27560, NC :'
 'on':
-  push: null
   schedule:
     - cron: 0 12 * * *
 jobs:
