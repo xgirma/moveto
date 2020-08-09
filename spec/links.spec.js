@@ -1,7 +1,6 @@
 const { writeFileSync, readFileSync, mkdirSync, existsSync } = require("fs");
 const { chromium } = require("playwright");
 const { argv } = require("yargs");
-const assert = require("assert");
 const { delay } = require("./utils");
 const { DEFAULT_ZIP } = require("./constants");
 
@@ -9,7 +8,7 @@ const host = "https://www.movoto.com";
 const zip = argv.zip || DEFAULT_ZIP;
 const constant = readFileSync(`./data/${zip}/pages.json`);
 const data = JSON.parse(constant);
-const { pages, city, state } = data;
+const { pages, state } = data;
 const links = [];
 
 function writeList() {
@@ -29,10 +28,7 @@ function writeList() {
 
 async function getLinksList(page) {
   const title = await page.$eval("#txtH1", (el) => el.textContent);
-  assert.strictEqual(
-    title.trim(),
-    `${city}, ${state} Real Estate & Homes for Sale`
-  );
+  expect(title.trim()).toContain(`${zip}`);
 
   const cardLink = await page.evaluate(() =>
     Array.from(document.querySelectorAll(".card-link")).map((d) =>
@@ -46,7 +42,8 @@ async function getLinksList(page) {
 }
 
 if (pages === 1) {
-  describe("links: single page", () => {
+  const url = `${host}/${state}/${zip}/p-1`;
+  describe(`links: for ${url}`, () => {
     jasmine.DEFAULT_TIMEOUT_INTERVAL = 100000;
     let browser;
     let page;
@@ -54,7 +51,7 @@ if (pages === 1) {
     beforeAll(async () => {
       browser = await chromium.launch({ headless: false });
       page = await browser.newPage();
-      const url = `${host}/${city}-${state}`;
+
       await page
         .goto(url, { timeout: 30000, waitUntil: "networkidle" })
         .catch(() => {});
@@ -76,7 +73,9 @@ if (pages === 1) {
   });
 } else {
   for (let i = 1; i < data.pages - 1; i += 1) {
-    describe(`links: multiple page ${i}`, () => {
+    const url = `${host}/${state}/${zip}/p-${i}`;
+
+    describe(`links: for ${url}`, () => {
       jasmine.DEFAULT_TIMEOUT_INTERVAL = 60000;
       let browser;
       let page;
@@ -84,7 +83,7 @@ if (pages === 1) {
       beforeAll(async () => {
         browser = await chromium.launch({ headless: false });
         page = await browser.newPage();
-        const url = `${host}/${city}-${state}/p-${i}`;
+
         await page
           .goto(url, { timeout: 4500, waitUntil: "networkidle" })
           .catch(() => {});

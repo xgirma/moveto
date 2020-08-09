@@ -1,5 +1,7 @@
 const { argv } = require("yargs");
-const { existsSync, writeFileSync } = require("fs");
+const { existsSync, writeFileSync, unlinkSync } = require("fs");
+
+const { DEFAULT_ZIP } = require("./constants");
 
 function sortObject(obj) {
   const keys = Object.keys(obj).sort();
@@ -29,9 +31,11 @@ function sortAscending(data, column) {
 }
 
 function clean() {
-  const zip = argv.zip || 28685;
+  const zip = argv.zip || DEFAULT_ZIP;
   const path = `./data/${zip}`;
-  const linksJson = `${path}/links.json`;
+  const links = `${path}/links.json`;
+  const chart = `${path}/chart.svg`;
+
   const csvFiles = [
     `${path}/by_price.csv`,
     `${path}/by_days.csv`,
@@ -60,9 +64,15 @@ function clean() {
   const content = [];
   const update = JSON.stringify(content, null, 2);
   try {
-    writeFileSync(linksJson, update, "utf8");
+    if (existsSync(links)) {
+      writeFileSync(links, update, "utf8");
+    }
+
+    if (existsSync(chart)) {
+      unlinkSync(chart);
+    }
   } catch (error) {
-    console.error("Faild to clean links");
+    console.error("Failed to clean links.json or chart.csv");
   }
 }
 
