@@ -10,14 +10,14 @@ Extract RTP listing data from moveto.com.
 
 ```json
 {
-  "date": "August 9th 2020, 11:55:15 am EST",
-  "listings": undefined,
-  "coming_soon": undefined,
-  "price_reduced": undefined,
-  "for_sale": undefined,
-  "open_house": undefined,
-  "under_contract": undefined,
-  "sale_pending": undefined,
+  "date": "August 9th 2020, 2:44:34 pm EST",
+  "listings": 0,
+  "coming_soon": 0,
+  "price_reduced": 0,
+  "for_sale": 0,
+  "open_house": 0,
+  "under_contract": 0,
+  "sale_pending": 0,
   "city": "Apex",
   "state": "NC",
   "zip": 27502
@@ -33,13 +33,13 @@ Extract RTP listing data from moveto.com.
 ```json
 {
   "date": "August 9th 2020, 11:40:25 am EST",
-  "listings": undefined,
-  "coming_soon": undefined,
-  "price_reduced": undefined,
-  "for_sale": undefined,
-  "open_house": undefined,
-  "under_contract": undefined,
-  "sale_pending": undefined,
+  "listings": 0,
+  "coming_soon": 0,
+  "price_reduced": 0,
+  "for_sale": 0,
+  "open_house": 0,
+  "under_contract": 0,
+  "sale_pending": 0,
   "city": "Cary",
   "state": "NC",
   "zip": 27511
@@ -55,13 +55,13 @@ Extract RTP listing data from moveto.com.
 ```json
 {
   "date": "August 9th 2020, 11:41:12 am EST",
-  "listings": undefined,
-  "coming_soon": undefined,
-  "price_reduced": undefined,
-  "for_sale": undefined,
-  "open_house": undefined,
-  "under_contract": undefined,
-  "sale_pending": undefined,
+  "listings": 0,
+  "coming_soon": 0,
+  "price_reduced": 0,
+  "for_sale": 0,
+  "open_house": 0,
+  "under_contract": 0,
+  "sale_pending": 0,
   "city": "Cary",
   "state": "NC",
   "zip": 27513
