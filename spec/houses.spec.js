@@ -18,8 +18,7 @@ const linksFile = readFileSync(`./data/${zip}/links.json`);
 const links = JSON.parse(linksFile);
 const path = `./data/${zip}/details.csv`;
 const header =
-  "Status,Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,unit,Year,HOA,Open,Link\n";
-
+  "Status,Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,Year,HOA,Open,Link\n";
 let page;
 let browser;
 let link = 0;
@@ -76,101 +75,95 @@ do {
 
     it(`single family home? ${url}`, async () => {
       try {
-        const css =
-          ".dpp-header-left > div > span > .icon-property-single-family";
+        const css = "css=header .icon-property-single-family";
         if ((await page.$(css)) == null) {
           flag = true;
+        } else {
+          console.info("Flag: Not a single family house");
         }
       } catch (error) {
-        const errorMessage =
-          "Error: when querying for .icon-property-single-family element";
-        console.error(errorMessage);
+        console.error(error.message);
       }
     });
 
     it(`status: ${url}`, async () => {
       if (!flag) {
-        const css = "#dppHeader > div > div.sup > span.text";
+        const css = "css=header .text";
         try {
           if ((await page.$(css)) != null) {
             const status = await page.$eval(css, (el) => el.textContent);
             line += status;
           } else {
+            console.info("Error: status not found");
             line += ",";
           }
         } catch (error) {
-          console.error(`Error could not found element for status`);
+          console.error(error.message);
         }
       }
     });
 
     it(`price: ${url}`, async () => {
       if (!flag) {
-        const css = "#dppHeader > div > div.title.dpp-price > span";
+        const css = "div.title.dpp-price";
         try {
           if ((await page.$(css)) != null) {
-            const formattedPrice = await page.$eval(
-              css,
-              (el) => el.textContent
-            );
-            const price = formattedPrice
+            const price = await page.$eval(css, (el) => el.textContent);
+            const formattedPrice = price
+              .trim()
               .substr(1)
               .replace(",", "")
               .replace(",", "");
-            flag = price > maxPrice;
-            line += `,${price}`;
+            flag = formattedPrice > maxPrice;
+            line += `,${formattedPrice}`;
           } else {
+            console.info("Error: price not found");
             line += ",";
           }
         } catch (error) {
-          console.error(`Error could not found element for price`);
+          console.error(error.message);
         }
       }
     });
 
     it(`estimated: ${url}`, async () => {
       if (!flag) {
-        const css = ".dpp-estprice-panel > div > .text-green";
+        const css = "css=div div.dpp-estprice-panel > div > div.text-green";
         try {
           if ((await page.$(css)) == null) {
-            line += `,0`;
+            line += `,`;
+            console.error("Error finding estimated price");
           } else {
-            const estimatedPrice = await page.$eval(
-              css,
-              (el) => el.textContent
-            );
-            const formattedEstimatedPrice = estimatedPrice
+            const estimated = await page.$eval(css, (el) => el.textContent);
+            const formattedEstimated = estimated
               .trim()
-              .replace("$", "")
+              .substr(1)
               .replace(",", "")
               .replace(",", "");
-            line += `,${formattedEstimatedPrice}`;
+            line += `,${formattedEstimated}`;
           }
         } catch (error) {
-          line += `,0`;
-          console.error("Error finding estimated price");
+          console.error(error.message);
         }
       }
     });
 
     it(`price min and max estimate: ${url}`, async () => {
       if (!flag) {
-        const css = "#estPrice > div > div > div:nth-child(1) > b";
+        // const css = "#estPrice > div > div > div:nth-child(1) > b";
+        const css = "css=div div.dpp-estprice-panel > div > b";
         try {
           if ((await page.$(css)) != null) {
-            const formattedPrice = await page.$eval(
-              css,
-              (el) => el.textContent
-            );
-            const temp = formattedPrice.trim().split("-");
+            const range = await page.$eval(css, (el) => el.textContent);
+            const temp = range.trim().split("-");
             const min = temp[0]
               .trim()
-              .replace("$", "")
+              .substr(1)
               .replace(",", "")
               .replace("K", "000");
             const max = temp[1]
               .trim()
-              .replace("$", "")
+              .substr(1)
               .replace(",", "")
               .replace("K", "000");
             line += `,${min}`;
@@ -178,34 +171,35 @@ do {
           } else {
             line += `,`;
             line += `,`;
+            console.info("Error finding min/max estimated price");
           }
         } catch (error) {
-          console.error("Error finding min/max estimated price");
+          console.error(error.message);
         }
       }
     });
 
     it(`reduced: ${url}`, async () => {
       if (!flag) {
-        const css = "#dppHeader > div.dpp-header-left > div.sup > span.f6";
+        const css = "css=header .f6";
 
         try {
           if ((await page.$(css)) == null) {
-            line += `,0`;
+            line += `,`;
+            console.info("No price reduction for this property");
           } else {
-            const priceReduced = await page.$eval(css, (el) => el.textContent);
+            const reduced = await page.$eval(css, (el) => el.textContent);
 
-            const shortened = priceReduced.trim().endsWith("K");
-            const reduced = priceReduced
-              .replace("$", "")
-              .replace("K", "")
+            const formattedReduced = reduced
+              .trim()
+              .substr(1)
+              .replace("K", "000")
               .trim();
-            const final = shortened ? `${reduced}000` : reduced;
-            line += `,${final}`;
+
+            line += `,${formattedReduced}`;
           }
         } catch (error) {
-          line += `,0`;
-          console.error(`Error finding reduced price element`);
+          console.error(error.message);
         }
       }
     });
@@ -213,15 +207,16 @@ do {
     it(`address: ${url}`, async () => {
       if (!flag) {
         try {
-          const css = ".dpp-header-title > .title";
+          const css = "css=header div.title";
           if ((await page.$(css)) != null) {
             const address = await page.$eval(css, (el) => el.textContent);
             line += `,${address.trim()}`;
           } else {
             line += `,`;
+            console.info("Error finding address element");
           }
         } catch (error) {
-          console.error("Error finding address element");
+          console.error(error.message);
         }
       }
     });
@@ -229,7 +224,7 @@ do {
     it(`beds: ${url}`, async () => {
       if (!flag) {
         try {
-          const css = ".dpp-basic > div:nth-child(1) > b";
+          const css = "css=header .dpp-basic > div:nth-child(1) > b";
           if ((await page.$(css)) != null) {
             const beds = await page.$eval(css, (el) => el.textContent);
             const formattedBeds = beds.trim();
@@ -237,9 +232,10 @@ do {
             line += `,${formattedBeds}`;
           } else {
             line += `,`;
+            console.info("Error finding beds element");
           }
         } catch (error) {
-          console.log("Error finding beds element");
+          console.error(error.message);
         }
       }
     });
@@ -247,7 +243,8 @@ do {
     it(`baths: ${url}`, async () => {
       if (!flag) {
         try {
-          const css = "#dppHeader > div > div.sub > div > div:nth-child(2) > b";
+          const css =
+            "css=header #dppHeader > div > div.sub > div > div:nth-child(2) > b";
           if ((await page.$(css)) != null) {
             const baths = await page.$eval(css, (el) => el.textContent);
             const formattedBaths = baths.trim();
@@ -255,9 +252,10 @@ do {
             line += `,${formattedBaths}`;
           } else {
             line += `,`;
+            console.info("Error finding baths element");
           }
         } catch (error) {
-          console.error("Error finding baths element");
+          console.error(error.message);
         }
       }
     });
@@ -265,139 +263,193 @@ do {
     it(`size in sqft: ${url}`, async () => {
       if (!flag) {
         try {
-          const css = "#dppHeader > div > div.sub > div > div:nth-child(3) > b";
+          const css =
+            "css=header #dppHeader > div > div.sub > div > div:nth-child(3) > b";
           if ((await page.$(css)) !== null) {
             const size = await page.$eval(css, (el) => el.textContent);
             const formattedSize = size.trim().replace(",", "");
             line += `,${formattedSize}`;
           } else {
-            line += `,$`;
+            line += `,`;
+            console.info("Error finding size in Sqft");
           }
         } catch (error) {
-          console.error("Error finding size in sqft");
+          console.error(error.message);
         }
       }
     });
 
-    it(`price per a sqft: ${url}`, async () => {
+    it(`value per a Sqft: ${url}`, async () => {
+      let value = ",";
+
       if (!flag) {
-        try {
-          const css = ".dpp-column > ul > li:nth-child(1) > span:nth-child(2)";
-          if ((await page.$(css)) != null) {
-            const value = await page.$eval(css, (el) => el.textContent);
-            const formattedValue = value.substr(1).replace("/Sqft", "");
-            line += `,${formattedValue}`;
-          } else {
-            line += `,`;
+        const count = await page.$$(".dpp-column > ul > li");
+
+        for (let i = 1; i < count.length; i += 1) {
+          const css = `.dpp-column > ul > li:nth-child(${i}) > span:nth-child(1)`;
+          const heading = await page.$eval(css, (el) => el.textContent);
+          if (heading.startsWith("Home Value")) {
+            try {
+              const span = `.dpp-column > ul > li:nth-child(${i}) > span:nth-child(2)`;
+              if ((await page.$(span)) != null) {
+                const text = await page.$eval(span, (el) => el.textContent);
+                const formattedValue = text.substr(1).replace("/Sqft", "");
+                value = `,${formattedValue}`;
+              } else {
+                console.info("Error finding price per a Sqft element");
+              }
+            } catch (error) {
+              console.error(error.message);
+            }
           }
-        } catch (error) {
-          console.error("Error finding price per a sqft element");
         }
       }
+
+      line += value;
     });
 
     it(`days in moveto: ${url}`, async () => {
+      let days = ",";
+
       if (!flag) {
-        try {
-          const css = ".dpp-column > ul > li:nth-child(3) > span:nth-child(2)";
-          if ((await page.$(css)) != null) {
-            const days = await page.$eval(css, (el) => el.textContent);
-            const formattedDays = days.trim();
-            line += `,${formattedDays}`;
-          } else {
-            line += `,$`;
+        const count = await page.$$(".dpp-column > ul > li");
+
+        for (let i = 1; i < count.length; i += 1) {
+          const css = `.dpp-column > ul > li:nth-child(${i}) > span:nth-child(1)`;
+          const heading = await page.$eval(css, (el) => el.textContent);
+          if (heading.startsWith("Days On Movoto")) {
+            try {
+              const span = `.dpp-column > ul > li:nth-child(${i}) > span:nth-child(2)`;
+              if ((await page.$(span)) != null) {
+                const value = await page.$eval(span, (el) => el.textContent);
+                days = `,${value.trim()}`;
+              } else {
+                console.info("Error finding Days On Movoto element");
+              }
+            } catch (error) {
+              console.error(error.message);
+            }
           }
-        } catch (error) {
-          console.error("Error finding says in moveto element");
         }
       }
+
+      line += days;
     });
 
     it(`lot: ${url}`, async () => {
-      if (!flag) {
-        try {
-          const css = ".dpp-column > ul > li:nth-child(7) > span:nth-child(2)";
-          if ((await page.$(css)) != null) {
-            const lots = await page.$eval(css, (el) => el.textContent);
-            const formattedLots = lots.trim().replace(",", "");
-            line += `,${formattedLots}`;
-          } else {
-            line += `,`;
-          }
-        } catch (error) {
-          console.log("Error finding lot element");
-        }
-      }
-    });
+      let lotSize = ",";
+      let sizeUnit = ",";
 
-    it(`lot unit: ${url}`, async () => {
       if (!flag) {
-        try {
-          const css = ".dpp-column > ul > li:nth-child(7) > span:nth-child(1)";
-          if ((await page.$(css)) != null) {
-            const lotsUnits = await page.$eval(css, (el) => el.textContent);
-            const formattedLotsUnits = lotsUnits.replace("Lot", "").trim();
-            line += `,${formattedLotsUnits}`;
-          } else {
-            line += `,`;
+        const count = await page.$$(".dpp-column > ul > li");
+
+        for (let i = 1; i < count.length; i += 1) {
+          const css = `.dpp-column > ul > li:nth-child(${i}) > span:nth-child(1)`;
+          const heading = await page.$eval(css, (el) => el.textContent);
+          if (heading.startsWith("Lot")) {
+            const parts = heading.split(" ");
+
+            try {
+              const span = `.dpp-column > ul > li:nth-child(${i}) > span:nth-child(2)`;
+              if ((await page.$(span)) != null) {
+                const value = await page.$eval(span, (el) => el.textContent);
+                const formattedValue = value
+                  .trim()
+                  .replace(",", "")
+                  .replace(",", "");
+                lotSize = `,${formattedValue}`;
+                sizeUnit = `,${parts[1]}`;
+              } else {
+                console.info("Error finding lot size element");
+              }
+            } catch (error) {
+              console.error(error.message);
+            }
           }
-        } catch (error) {
-          console.error("Error finding lot unit element");
         }
+
+        line += lotSize;
+        line += sizeUnit;
       }
     });
 
     it(`year: ${url}`, async () => {
+      let year = ",";
+
       if (!flag) {
-        try {
-          const css = ".dpp-column > ul > li:nth-child(9)";
-          if ((await page.$(css)) != null) {
-            const year = await page.$eval(css, (el) => el.textContent);
-            const formattedYears = year.replace("Year Built", "").trim();
-            line += `,${formattedYears}`;
-          } else {
-            line += `,`;
+        const count = await page.$$(".dpp-column > ul > li");
+
+        for (let i = 1; i < count.length; i += 1) {
+          const css = `.dpp-column > ul > li:nth-child(${i}) > span:nth-child(1)`;
+          const heading = await page.$eval(css, (el) => el.textContent);
+
+          if (heading.includes("Year")) {
+            try {
+              const span = `.dpp-column > ul > li:nth-child(${i})`;
+              if ((await page.$(span)) != null) {
+                const text = await page.$eval(span, (el) => el.textContent);
+                const formattedYear = text.replace("Year Built", "").trim();
+                year = `,${formattedYear}`;
+              } else {
+                console.info("Error finding Year Built element ", i);
+              }
+            } catch (error) {
+              console.error(error.message);
+            }
           }
-        } catch (error) {
-          console.error("Error finding year element");
         }
       }
+
+      line += year;
     });
 
     it(`hoa: ${url}`, async () => {
+      let hoaFee = ",";
+
       if (!flag) {
-        try {
-          const css = ".dpp-column > ul > li:nth-child(8)";
-          if ((await page.$(css)) != null) {
-            const hoa = await page.$eval(css, (el) => el.textContent);
-            const formattedHoa = hoa
-              .replace("HOA Fees", "")
-              .substr(3)
-              .replace("/month", "")
-              .trim();
-            line += `,${formattedHoa}`;
-          } else {
-            line += `,`;
+        const count = await page.$$(".dpp-column > ul > li");
+
+        for (let i = 1; i < count.length; i += 1) {
+          const css = `.dpp-column > ul > li:nth-child(${i}) > span:nth-child(1)`;
+          const heading = await page.$eval(css, (el) => el.textContent);
+          if (heading.includes("HOA")) {
+            try {
+              const span = `.dpp-column > ul > li:nth-child(${i})`;
+              if ((await page.$(span)) != null) {
+                const hoa = await page.$eval(span, (el) => el.textContent);
+                const formattedHoa = hoa
+                  .replace("HOA Fees", "")
+                  .trim()
+                  .substr(1)
+                  .replace("/month", "")
+                  .trim();
+                hoaFee = `,${formattedHoa}`;
+              } else {
+                console.info("Error finding HOA Fees element");
+              }
+            } catch (error) {
+              console.error(error.message);
+            }
           }
-        } catch (error) {
-          console.error("Error finding hoa element");
         }
       }
+
+      line += hoaFee;
     });
 
     it(`open house: ${url}`, async () => {
       if (!flag) {
-        const css = "#dppTags > .openhouse";
+        const css = "css=div #dppTags > .openhouse";
         try {
           if ((await page.$(css)) == null) {
             line += `, `;
+            console.info("Error finding open house element");
           } else {
             const open = await page.$eval(css, (el) => el.textContent);
             line += `,${open}`;
           }
         } catch (error) {
-          line += `, `;
-          console.error("Error finding open house element");
+          console.error(error.message);
         }
       }
     });

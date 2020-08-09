@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 const d3 = require("d3");
 const jsdom = require("jsdom");
-const fs = require("fs");
+const { readFileSync, writeFileSync } = require("fs");
 const { argv } = require("yargs");
 
 const sampleData = require("./sample_data");
@@ -11,7 +11,7 @@ function generateChartSvg() {
   const { JSDOM } = jsdom;
   const zip = argv.zip || 28685;
   const path = `./data/${zip}`;
-  const constant = fs.readFileSync(`./data/${zip}/pages.json`);
+  const constant = readFileSync(`./data/${zip}/pages.json`);
   const sample = sampleData(JSON.parse(constant));
 
   const { document } = new JSDOM("").window;
@@ -90,12 +90,12 @@ function generateChartSvg() {
     .style("fill", (d, i) => colors[i])
     .text((d) => d.label);
 
+  // Solve the namespace issue (xmlns and xlink)
   svg
-    // Solve the namespace issue (xmlns and xlink)
     .attr("xmlns", "http://www.w3.org/2000/svg")
     .attr("xmlns:xlink", "http://www.w3.org/1999/xlink");
 
-  fs.writeFileSync(`${path}/chart.svg`, body.node().innerHTML);
+  writeFileSync(`${path}/chart.svg`, body.node().innerHTML);
 }
 
 generateChartSvg();

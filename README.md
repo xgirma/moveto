@@ -98,7 +98,7 @@ Extract RTP listing data from moveto.com.
 
 ```json
 {
-  "date": "August 8th 2020, 11:12:22 am EST",
+  "date": "August 8th 2020, 9:47:08 pm EST",
   "listings": 1,
   "coming_soon": 0,
   "price_reduced": 0,
