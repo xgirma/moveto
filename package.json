@@ -12,13 +12,13 @@
     "classify": "node lib/calssify.js",
     "classify:sale": "node lib/sale_classify.js",
     "summary": "node lib/summary.js",
-    "readme": "node lib/create_readme.js",
     "workflow": "node lib/workflow.js",
     "byprice": "node lib/by_price.js",
     "bysize": "node lib/by_size.js",
     "byyear": "node lib/by_year.js",
     "bydays": "node lib/by_days.js",
-    "chart": "node chart/chart.js"
+    "chart": "node chart/chart.js",
+    "readme": "node lib/create_readme.js"
   },
   "repository": {
     "type": "git",

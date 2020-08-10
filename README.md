@@ -10,14 +10,14 @@ Extract RTP listing data from moveto.com.
 
 ```json
 {
-  "date": "August 9th 2020, 4:40:32 pm EST",
-  "listings": 0,
-  "coming_soon": 0,
-  "price_reduced": 0,
-  "for_sale": 0,
-  "open_house": 0,
-  "under_contract": 0,
-  "sale_pending": 0,
+  "date": "August 9th 2020, 6:48:57 pm EST",
+  "listings": undefined,
+  "coming_soon": undefined,
+  "price_reduced": undefined,
+  "for_sale": undefined,
+  "open_house": undefined,
+  "under_contract": undefined,
+  "sale_pending": undefined,
   "city": "Apex",
   "state": "NC",
   "zip": 27502
@@ -32,14 +32,14 @@ Extract RTP listing data from moveto.com.
 
 ```json
 {
-  "date": "August 9th 2020, 5:04:19 pm EST",
-  "listings": 0,
-  "coming_soon": 0,
-  "price_reduced": 0,
-  "for_sale": 0,
-  "open_house": 0,
-  "under_contract": 0,
-  "sale_pending": 0,
+  "date": "August 9th 2020, 6:49:21 pm EST",
+  "listings": undefined,
+  "coming_soon": undefined,
+  "price_reduced": undefined,
+  "for_sale": undefined,
+  "open_house": undefined,
+  "under_contract": undefined,
+  "sale_pending": undefined,
   "city": "Cary",
   "state": "NC",
   "zip": 27511
@@ -54,14 +54,14 @@ Extract RTP listing data from moveto.com.
 
 ```json
 {
-  "date": "August 9th 2020, 11:41:12 am EST",
-  "listings": 0,
-  "coming_soon": 0,
-  "price_reduced": 0,
-  "for_sale": 0,
-  "open_house": 0,
-  "under_contract": 0,
-  "sale_pending": 0,
+  "date": "August 9th 2020, 6:49:35 pm EST",
+  "listings": undefined,
+  "coming_soon": undefined,
+  "price_reduced": undefined,
+  "for_sale": undefined,
+  "open_house": undefined,
+  "under_contract": undefined,
+  "sale_pending": undefined,
   "city": "Cary",
   "state": "NC",
   "zip": 27513
@@ -76,7 +76,7 @@ Extract RTP listing data from moveto.com.
 
 ```json
 {
-  "date": "August 9th 2020, 11:57:16 am EST",
+  "date": "August 9th 2020, 6:50:07 pm EST",
   "listings": undefined,
   "coming_soon": undefined,
   "price_reduced": undefined,
@@ -186,14 +186,14 @@ Extract RTP listing data from moveto.com.
 
 ```json
 {
-  "date": "August 9th 2020, 12:29:35 pm EST",
-  "listings": undefined,
-  "coming_soon": undefined,
-  "price_reduced": undefined,
-  "for_sale": undefined,
-  "open_house": undefined,
-  "under_contract": undefined,
-  "sale_pending": undefined,
+  "date": "August 9th 2020, 7:53:23 pm EST",
+  "listings": 1,
+  "coming_soon": 0,
+  "price_reduced": 0,
+  "for_sale": 1,
+  "open_house": 0,
+  "under_contract": 0,
+  "sale_pending": 0,
   "city": "Traphill",
   "state": "NC",
   "zip": 28685

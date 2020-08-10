@@ -33,7 +33,6 @@ function sortAscending(data, column) {
 function clean() {
   const zip = argv.zip || DEFAULT_ZIP;
   const path = `./data/${zip}`;
-  const links = `${path}/links.json`;
   const chart = `${path}/chart.svg`;
 
   const csvFiles = [
@@ -61,13 +60,7 @@ function clean() {
     }
   });
 
-  const content = [];
-  const update = JSON.stringify(content, null, 2);
   try {
-    if (existsSync(links)) {
-      writeFileSync(links, update, "utf8");
-    }
-
     if (existsSync(chart)) {
       unlinkSync(chart);
     }

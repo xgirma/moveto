@@ -69,7 +69,7 @@ if (pages === 1) {
 
     it("should write links", async () => {
       writeList();
-      await delay(5000);
+      await delay(500);
     });
   });
 } else {
@@ -102,7 +102,7 @@ if (pages === 1) {
 
       it("should write links", async () => {
         writeList();
-        await delay(5000);
+        await delay(500);
       });
     });
   }
