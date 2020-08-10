@@ -8,7 +8,7 @@ const {
 } = require("fs");
 const { chromium } = require("playwright");
 const { delay } = require("./utils");
-const { MAX_PRICE, DEFAULT_ZIP, BATHS, BEDS } = require("./constants");
+const { MAX_PRICE, DEFAULT_ZIP, BATHS, BEDS } = require("./defaults");
 
 const maxPrice = argv.maxprice || MAX_PRICE;
 const zip = argv.zip || DEFAULT_ZIP;

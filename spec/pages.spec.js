@@ -6,7 +6,7 @@ const zipcodes = require("zipcodes");
 const moment = require("moment");
 
 const { clean, isNumeric, sortObject } = require("./utils");
-const { DEFAULT_ZIP } = require("./constants");
+const { DEFAULT_ZIP } = require("./defaults");
 
 const zip = argv.zip || DEFAULT_ZIP;
 const { state, city } = zipcodes.lookup(zip);

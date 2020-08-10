@@ -1,7 +1,7 @@
 const { argv } = require("yargs");
 const { existsSync, writeFileSync, unlinkSync } = require("fs");
 
-const { DEFAULT_ZIP } = require("./constants");
+const { DEFAULT_ZIP } = require("./defaults");
 
 function sortObject(obj) {
   const keys = Object.keys(obj).sort();

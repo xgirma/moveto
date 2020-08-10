@@ -2,7 +2,7 @@ const { writeFileSync, readFileSync, mkdirSync, existsSync } = require("fs");
 const { chromium } = require("playwright");
 const { argv } = require("yargs");
 const { delay } = require("./utils");
-const { DEFAULT_ZIP } = require("./constants");
+const { DEFAULT_ZIP } = require("./defaults");
 
 const host = "https://www.movoto.com";
 const zip = argv.zip || DEFAULT_ZIP;
