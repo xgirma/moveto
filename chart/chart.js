@@ -6,10 +6,11 @@ const { argv } = require("yargs");
 
 const sampleData = require("./sample_data");
 const groupData = require("./group_data");
+const { DEFAULT_ZIP } = require("../spec/defaults");
 
 function generateChartSvg() {
   const { JSDOM } = jsdom;
-  const zip = argv.zip || 28685;
+  const zip = argv.zip || DEFAULT_ZIP;
   const path = `./data/${zip}`;
   const constant = readFileSync(`./data/${zip}/pages.json`);
   const sample = sampleData(JSON.parse(constant));

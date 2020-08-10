@@ -55,7 +55,7 @@ jobs:
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
-          time: 10s
+          time: 30s
       - name: sort data for 27523 by price
         if: always()
         run: npm run byprice -- --zip=27523
@@ -95,7 +95,7 @@ jobs:
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
-          time: 10s
+          time: 60s
       - name: generate README.md
         if: always()
         run: npm run readme
