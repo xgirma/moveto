@@ -114,20 +114,20 @@ Extract RTP listing data from moveto.com.
 ![Cary, 27519, NC houses](https://github.com/xgirma/moveto/blob/master/data/27519/chart.svg)
 
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27519/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27519/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27519/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27519/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27519/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27519/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27519/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27519/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27519/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27519/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27519/in_contract.csv)
-## Apex, 27523, NC - Aug 9th 2020 
+## Apex, 27523, NC - Aug 10th 2020 
  
 ![Apex, 27523, NC :](https://github.com/xgirma/moveto/workflows/Apex,%2027523,%20NC%20:/badge.svg)
 
 ```json
 {
-  "date": "August 9th 2020, 11:54:38 am EST",
-  "listings": undefined,
-  "coming_soon": undefined,
-  "price_reduced": undefined,
-  "for_sale": undefined,
-  "open_house": undefined,
-  "under_contract": undefined,
-  "sale_pending": undefined,
+  "date": "August 10th 2020, 5:05:58 am EST",
+  "listings": 83,
+  "coming_soon": 1,
+  "price_reduced": 14,
+  "for_sale": 26,
+  "open_house": 0,
+  "under_contract": 12,
+  "sale_pending": 44,
   "city": "Apex",
   "state": "NC",
   "zip": 27523
