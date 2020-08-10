@@ -1,7 +1,14 @@
 {
   "city": "Raleigh",
-  "date": "August 9th 2020, 11:56:21 am EST",
+  "contract": 12,
+  "date": "August 10th 2020, 9:19:39 am EST",
+  "listings": 26,
+  "open": 0,
   "pages": 2,
+  "pending": 11,
+  "reduced": 2,
+  "sale": 3,
+  "soon": 0,
   "state": "NC",
   "zip": 27607
 }

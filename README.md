@@ -158,20 +158,20 @@ Extract RTP listing data from moveto.com.
 ![Morrisville, 27560, NC houses](https://github.com/xgirma/moveto/blob/master/data/27560/chart.svg)
 
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27560/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27560/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27560/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27560/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27560/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27560/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27560/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27560/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27560/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27560/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27560/in_contract.csv)
-## Raleigh, 27607, NC - Aug 9th 2020 
+## Raleigh, 27607, NC - Aug 10th 2020 
  
 ![Raleigh, 27607, NC :](https://github.com/xgirma/moveto/workflows/Raleigh,%2027607,%20NC%20:/badge.svg)
 
 ```json
 {
-  "date": "August 9th 2020, 11:56:21 am EST",
-  "listings": undefined,
-  "coming_soon": undefined,
-  "price_reduced": undefined,
-  "for_sale": undefined,
-  "open_house": undefined,
-  "under_contract": undefined,
-  "sale_pending": undefined,
+  "date": "August 10th 2020, 9:19:39 am EST",
+  "listings": 26,
+  "coming_soon": 0,
+  "price_reduced": 2,
+  "for_sale": 3,
+  "open_house": 0,
+  "under_contract": 12,
+  "sale_pending": 11,
   "city": "Raleigh",
   "state": "NC",
   "zip": 27607
