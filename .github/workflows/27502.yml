@@ -1,6 +1,5 @@
 name: 'Apex, 27502, NC :'
 'on':
-  push: null
   schedule:
     - cron: 0 0 * * *
 jobs:
