@@ -50,7 +50,7 @@ jobs:
           time: 10s
       - name: generate summary data for 27607
         if: always()
-        run: npm run summary
+        run: npm run summary -- --zip=27607
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
@@ -99,6 +99,11 @@ jobs:
       - name: generate README.md
         if: always()
         run: npm run readme
+      - name: sleep for 10s
+        if: always()
+        uses: juliangruber/sleep-action@v1
+        with:
+          time: 20s
       - name: git set user.email
         if: always()
         run: git config --global user.email "xgirma@gmail.com"
