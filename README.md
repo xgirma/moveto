@@ -10,14 +10,14 @@ Extract RTP listing data from moveto.com.
 
 ```json
 {
-  "date": "August 10th 2020, 2:16:16 pm EST",
-  "listings": 173,
-  "coming_soon": 6,
-  "price_reduced": 59,
-  "for_sale": 98,
-  "open_house": 1,
-  "under_contract": 10,
-  "sale_pending": 59,
+  "date": "August 10th 2020, 7:06:52 pm EST",
+  "listings": 130,
+  "coming_soon": 0,
+  "price_reduced": 0,
+  "for_sale": 0,
+  "open_house": 0,
+  "under_contract": 0,
+  "sale_pending": 0,
   "city": "Apex",
   "state": "NC",
   "zip": 27502

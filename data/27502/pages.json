@@ -1,14 +1,14 @@
 {
   "city": "Apex",
-  "contract": 10,
-  "date": "August 10th 2020, 2:16:16 pm EST",
-  "listings": 173,
-  "open": 1,
+  "contract": 0,
+  "date": "August 10th 2020, 7:06:52 pm EST",
+  "listings": 130,
+  "open": 0,
   "pages": 9,
-  "pending": 59,
-  "reduced": 59,
-  "sale": 98,
-  "soon": 6,
+  "pending": 0,
+  "reduced": 0,
+  "sale": 0,
+  "soon": 0,
   "state": "NC",
   "zip": 27502
 }
