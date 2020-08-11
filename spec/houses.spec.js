@@ -62,7 +62,10 @@ do {
 
     afterAll(() => {
       if (!flag) {
-        appendList(`${line},${url}\n`);
+        const parts = line.split(",");
+        if (parts.length === 17) {
+          appendList(`${line},${url}\n`);
+        }
       }
 
       if (!page.isClosed()) {
