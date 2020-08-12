@@ -1,26 +1,27 @@
 Year,Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,HOA,Open,Link
-2021,489515,426964,415000,489000,,79 Elk River Dr,3,3,2468,198,145,7100,Sqft,210,,https://www.movoto.com/home/79-elk-river-dr-apex-nc-27523-413_2308582
-2021,483830,341712,295000,484000,,75 Elk River Dr,3,3,2034,238,152,6752,Sqft,210,,https://www.movoto.com/home/75-elk-river-dr-apex-nc-27502-413_2307158
-2020,393049,,370000,411000,,925 Haybeck Ln #101,3,3,2760,142,2,3049,Sqft,146,,https://www.movoto.com/home/925-haybeck-ln-apt-101-apex-nc-27523-413_2336024
-2020,359260,397818,345000,440000,,1003 Lathrop Ln #LOT 39,3,4,2502,144,5,2178,Sqft,115,,https://www.movoto.com/home/1003-lathrop-ln-lot-39-apex-nc-27523-413_2335190
-2020,359720,,342000,387000,,1649 Wimberly Rd #39,4,4,2405,150,12,2178,Sqft,146,,https://www.movoto.com/home/1649-wimberly-rd-apt-39-apex-nc-27523-413_2333918
-2020,404990,408738,292000,596000,,1185 St Cloud Loop #LOT 57,3,2,1689,240,28,0.31,Acres,140,,https://www.movoto.com/home/1185-st-cloud-loop-lot-57-apex-nc-27523-413_2330625
-2020,396156,,367000,416000,1000,923 Haybeck Ln #102,4,4,2582,153,33,4008,Sqft,146,,https://www.movoto.com/home/923-haybeck-ln-apt-102-apex-nc-27523-413_2329706
-2020,311570,311488,286000,349000,2000,1023 Larabee Ln #LOT 189,3,3,1984,157,54,218,Sqft,115,,https://www.movoto.com/home/1023-larabee-ln-lot-189-apex-nc-27523-413_2325522
-2020,373312,,350000,397000,10000,1639 Wimberly Rd #35,4,4,2465,151,80,3049,Sqft,146,,https://www.movoto.com/home/1639-wimberly-rd-apt-35-apex-nc-27523-413_2320834
-2020,372631,401736,373000,426000,7000,1633 Wimberly Rd #32,4,4,2643,141,86,2047,Sqft,146,,https://www.movoto.com/home/1633-wimberly-rd-apt-32-apex-nc-27523-413_2319658
-2020,423070,420489,371000,460000,5000,1113 Russet Ln #138,3,4,2459,172,119,3485,Sqft,60,,https://www.movoto.com/home/1113-russet-ln-apt-138-apex-nc-27523-413_2313364
-2020,382546,,354000,394000,3000,802 Patriot Summit Ln #87,4,4,2643,145,158,2265,Sqft,146,,https://www.movoto.com/home/802-patriot-summit-ln-apt-87-apex-nc-27523-413_2306047
-2020,344300,317250,300000,345000,5000,1327 Brown Velvet Ln #330,3,4,2115,163,158,3920,Sqft,60,,https://www.movoto.com/home/1327-brown-velvet-ln-apt-330-apex-nc-27523-413_2305837
-2020,369871,,348000,395000,10000,935 Haybeck Ln #97,3,4,2451,151,302,3877,Sqft,146,,https://www.movoto.com/home/935-haybeck-ln-apt-97-apex-nc-27523-413_2283836
-2020,374289,,350000,397000,10000,943 Haybeck Ln #93,4,4,2465,152,302,3093,Sqft,146,,https://www.movoto.com/home/943-haybeck-ln-apt-93-apex-nc-27523-413_2283818
-2019,500000,707850,500000,1.03M,12000,400 Echo Park Pl #LOT 118,3,3,2925,171,100,0.33,Acres,140,,https://www.movoto.com/home/400-echo-park-pl-lot-118-apex-nc-27523-413_2252095
-2018,475000,442400,406000,476000,,2117 Turling Way,5,3,2800,170,9,7405,Sqft,65,,https://www.movoto.com/home/2117-turling-way-apex-nc-27523-413_2334612
-2018,412000,375760,349000,429000,,415 Hopwood Way,4,3,2440,169,11,3920,Sqft,150,,https://www.movoto.com/home/415-hopwood-way-apex-nc-27502-413_2174122
-2018,339000,302539,277000,339000,6000,841 Salem Pointe Pl,3,3,1927,176,44,2614,Sqft,120,,https://www.movoto.com/home/841-salem-pointe-pl-apex-nc-27523-413_2209083
-2017,439900,454508,412000,519000,,513 Rowanwood Way,4,4,3071,143,9,3920,Sqft,150,,https://www.movoto.com/home/513-rowanwood-way-apex-nc-27523-413_2116773
-2017,345000,331823,316000,345000,,1125 Little Gem Ln,4,4,2227,155,16,3049,Sqft,152,,https://www.movoto.com/home/1125-little-gem-ln-apex-nc-27523-413_2294177
-2017,399000,366300,359000,398000,,813 Tunisian Dr,3,4,2475,161,35,2657,Sqft,125,,https://www.movoto.com/home/813-tunisian-dr-apex-nc-27523-413_2329289
-2017,480900,460460,429000,503000,4000,2420 Emily Brook Way,4,4,2860,168,50,7405,Sqft,60,,https://www.movoto.com/home/2420-emily-brook-way-apex-nc-27523-413_2326301
-2007,425000,,418000,497000,,2033 Patapsco Dr,4,3,2921,145,24,7405,Sqft,55,,https://www.movoto.com/home/2033-patapsco-dr-apex-nc-27523-413_2312206
-1968,325000,456729,325000,527000,25000,4300 Green Level West Rd,3,2,1673,194,29,0.85,Acres,0,,https://www.movoto.com/home/4300-green-level-west-rd-apex-nc-27523-413_2330519
+2021,489515,424496,405000,489000,,79 Elk River Dr,3,3,2468,198,146,7100,Sqft,210,,https://www.movoto.com/home/79-elk-river-dr-apex-nc-27523-413_2308582
+2021,483830,329508,311000,484000,,75 Elk River Dr,3,3,2034,238,153,6752,Sqft,210,,https://www.movoto.com/home/75-elk-river-dr-apex-nc-27502-413_2307158
+2020,393049,,392000,444000,,925 Haybeck Ln #101,3,3,2760,142,3,3049,Sqft,146,,https://www.movoto.com/home/925-haybeck-ln-apt-101-apex-nc-27523-413_2336024
+2020,359260,395316,345000,435000,,1003 Lathrop Ln #LOT 39,3,4,2502,144,6,2178,Sqft,115,,https://www.movoto.com/home/1003-lathrop-ln-lot-39-apex-nc-27523-413_2335190
+2020,359720,,342000,387000,,1649 Wimberly Rd #39,4,4,2405,150,13,2178,Sqft,146,,https://www.movoto.com/home/1649-wimberly-rd-apt-39-apex-nc-27523-413_2333918
+2020,404990,359757,291000,532000,,1185 St Cloud Loop #LOT 57,3,2,1689,240,29,0.31,Acres,140,,https://www.movoto.com/home/1185-st-cloud-loop-lot-57-apex-nc-27523-413_2330625
+2020,396156,,367000,416000,1000,923 Haybeck Ln #102,4,4,2582,153,34,4008,Sqft,146,,https://www.movoto.com/home/923-haybeck-ln-apt-102-apex-nc-27523-413_2329706
+2020,311570,309504,286000,345000,2000,1023 Larabee Ln #LOT 189,3,3,1984,157,55,218,Sqft,115,,https://www.movoto.com/home/1023-larabee-ln-lot-189-apex-nc-27523-413_2325522
+2020,373312,,350000,397000,10000,1639 Wimberly Rd #35,4,4,2465,151,81,3049,Sqft,146,,https://www.movoto.com/home/1639-wimberly-rd-apt-35-apex-nc-27523-413_2320834
+2020,372631,401736,373000,426000,7000,1633 Wimberly Rd #32,4,4,2643,141,87,2047,Sqft,146,,https://www.movoto.com/home/1633-wimberly-rd-apt-32-apex-nc-27523-413_2319658
+2020,423070,368850,349000,423000,5000,1113 Russet Ln #138,3,4,2459,172,120,3485,Sqft,60,,https://www.movoto.com/home/1113-russet-ln-apt-138-apex-nc-27523-413_2313364
+2020,382546,,354000,394000,3000,802 Patriot Summit Ln #87,4,4,2643,145,159,2265,Sqft,146,,https://www.movoto.com/home/802-patriot-summit-ln-apt-87-apex-nc-27523-413_2306047
+2020,344300,357435,319000,396000,5000,1327 Brown Velvet Ln #330,3,4,2115,163,159,3920,Sqft,60,,https://www.movoto.com/home/1327-brown-velvet-ln-apt-330-apex-nc-27523-413_2305837
+2020,369871,,348000,395000,10000,935 Haybeck Ln #97,3,4,2451,151,303,3877,Sqft,146,,https://www.movoto.com/home/935-haybeck-ln-apt-97-apex-nc-27523-413_2283836
+2020,374289,,350000,397000,10000,943 Haybeck Ln #93,4,4,2465,152,303,3093,Sqft,146,,https://www.movoto.com/home/943-haybeck-ln-apt-93-apex-nc-27523-413_2283818
+2019,500000,593775,500000,702000,12000,400 Echo Park Pl #LOT 118,3,3,2925,171,101,0.33,Acres,140,,https://www.movoto.com/home/400-echo-park-pl-lot-118-apex-nc-27523-413_2252095
+2018,475000,453600,420000,493000,,2117 Turling Way,5,3,2800,170,10,7405,Sqft,65,,https://www.movoto.com/home/2117-turling-way-apex-nc-27523-413_2334612
+2018,412000,373320,349000,425000,,415 Hopwood Way,4,3,2440,169,12,3920,Sqft,150,,https://www.movoto.com/home/415-hopwood-way-apex-nc-27502-413_2174122
+2018,334900,302539,277000,335000,4000,841 Salem Pointe Pl,3,3,1927,174,45,2614,Sqft,120,,https://www.movoto.com/home/841-salem-pointe-pl-apex-nc-27523-413_2209083
+2017,439900,454508,412000,519000,,513 Rowanwood Way,4,4,3071,143,10,3920,Sqft,150,,https://www.movoto.com/home/513-rowanwood-way-apex-nc-27523-413_2116773
+2017,345000,331823,316000,345000,,1125 Little Gem Ln,4,4,2227,155,17,3049,Sqft,152,,https://www.movoto.com/home/1125-little-gem-ln-apex-nc-27523-413_2294177
+2017,498000,483042,462000,510000,12000,708 Vine Pond Ct,5,4,3038,164,27,7841,Sqft,68,,https://www.movoto.com/home/708-vine-pond-ct-apex-nc-27523-413_2330901
+2017,399000,366300,359000,398000,,813 Tunisian Dr,3,4,2475,161,36,2657,Sqft,125,,https://www.movoto.com/home/813-tunisian-dr-apex-nc-27523-413_2329289
+2017,480900,460460,429000,503000,4000,2420 Emily Brook Way,4,4,2860,168,51,7405,Sqft,60,,https://www.movoto.com/home/2420-emily-brook-way-apex-nc-27523-413_2326301
+2007,425000,,418000,497000,,2033 Patapsco Dr,4,3,2921,145,25,7405,Sqft,55,,https://www.movoto.com/home/2033-patapsco-dr-apex-nc-27523-413_2312206
+1968,325000,458402,325000,534000,25000,4300 Green Level West Rd,3,2,1673,194,30,0.85,Acres,0,,https://www.movoto.com/home/4300-green-level-west-rd-apex-nc-27523-413_2330519
