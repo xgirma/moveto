@@ -48,20 +48,20 @@ Extract RTP listing data from moveto.com.
 ![Cary, 27511, NC houses](https://github.com/xgirma/moveto/blob/master/data/27511/chart.svg)
 
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27511/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27511/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27511/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27511/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27511/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27511/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27511/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27511/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27511/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27511/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27511/in_contract.csv)
-## Cary, 27513, NC - Aug 11th 2020 
+## Cary, 27513, NC - Aug 12th 2020 
  
 ![Cary, 27513, NC :](https://github.com/xgirma/moveto/workflows/Cary,%2027513,%20NC%20:/badge.svg)
 
 ```json
 {
-  "date": "August 11th 2020, 11:14:37 pm EST",
-  "listings": 80,
-  "coming_soon": 8,
-  "price_reduced": 12,
-  "for_sale": 29,
-  "open_house": 1,
-  "under_contract": 28,
-  "sale_pending": 15,
+  "date": "August 12th 2020, 11:24:05 pm EST",
+  "listings": 71,
+  "coming_soon": 9,
+  "price_reduced": 11,
+  "for_sale": 27,
+  "open_house": 2,
+  "under_contract": 24,
+  "sale_pending": 11,
   "city": "Cary",
   "state": "NC",
   "zip": 27513
