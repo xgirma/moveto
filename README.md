@@ -165,13 +165,13 @@ Extract RTP listing data from moveto.com.
 ```json
 {
   "date": "August 13th 2020, 9:21:42 am EST",
-  "listings": 28,
-  "coming_soon": 2,
-  "price_reduced": 1,
-  "for_sale": 3,
-  "open_house": 1,
-  "under_contract": 13,
-  "sale_pending": 10,
+  "listings": 0,
+  "coming_soon": 0,
+  "price_reduced": 0,
+  "for_sale": 0,
+  "open_house": 0,
+  "under_contract": 0,
+  "sale_pending": 0,
   "city": "Raleigh",
   "state": "NC",
   "zip": 27607
