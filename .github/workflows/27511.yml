@@ -1,6 +1,6 @@
 name: 'Cary, 27511, NC :'
 'on':
-  push: null
+  push:null
   schedule:
     - cron: 0 2 * * *
 jobs:
@@ -110,7 +110,7 @@ jobs:
         run: git config --global user.email "xgirma@gmail.com"
       - name: git set user.name
         if: always()
-        run: git config --global user.email "Girma Nigusse"
+        run: git config --global user.name "Girma Nigusse"
       - name: git set rebase false
         if: always()
         run: git config pull.rebase false
