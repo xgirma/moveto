@@ -4,20 +4,20 @@ Extract RTP listing data from moveto.com.
   Default: Maximum price: _500,000_, Zip: _28685_, Beds: _3_, Baths: _2_ 
 
   Change the default as shown [here](https://github.com/xgirma/moveto/blob/master/HOWTO.md)
-## Apex, 27502, NC - Aug 13th 2020 
+## Apex, 27502, NC - Aug 14th 2020 
  
 ![Apex, 27502, NC :](https://github.com/xgirma/moveto/workflows/Apex,%2027502,%20NC%20:/badge.svg)
 
 ```json
 {
-  "date": "August 13th 2020, 7:11:45 pm EST",
-  "listings": 100,
-  "coming_soon": 4,
-  "price_reduced": 52,
-  "for_sale": 92,
-  "open_house": 15,
-  "under_contract": 0,
-  "sale_pending": 4,
+  "date": "August 14th 2020, 7:12:52 pm EST",
+  "listings": 123,
+  "coming_soon": 5,
+  "price_reduced": 67,
+  "for_sale": 109,
+  "open_house": 23,
+  "under_contract": 7,
+  "sale_pending": 2,
   "city": "Apex",
   "state": "NC",
   "zip": 27502
@@ -33,13 +33,13 @@ Extract RTP listing data from moveto.com.
 ```json
 {
   "date": "August 12th 2020, 9:31:49 pm EST",
-  "listings": 46,
-  "coming_soon": 5,
-  "price_reduced": 5,
-  "for_sale": 10,
+  "listings": 0,
+  "coming_soon": 0,
+  "price_reduced": 0,
+  "for_sale": 0,
   "open_house": 0,
-  "under_contract": 20,
-  "sale_pending": 11,
+  "under_contract": 0,
+  "sale_pending": 0,
   "city": "Cary",
   "state": "NC",
   "zip": 27511
