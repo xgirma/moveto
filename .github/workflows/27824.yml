@@ -1,4 +1,4 @@
-name: 'Traphill, 28685, NC :'
+name: 'Engelhard, 27824, NC :'
 'on':
   schedule:
     - cron: 0 16 * * *
@@ -17,80 +17,80 @@ jobs:
           CI: true
       - name: lint
         run: npm run lint --if-present
-      - name: count the number of listing pages for 28685
-        run: npm run pages -- --zip=28685
-      - name: scrap links for all listings within 28685
+      - name: count the number of listing pages for 27824
+        run: npm run pages -- --zip=27824
+      - name: scrap links for all listings within 27824
         if: always()
-        run: npm run links -- --zip=28685
-      - name: scrap details for all houses in 28685
+        run: npm run links -- --zip=27824
+      - name: scrap details for all houses in 27824
         if: always()
-        run: npm run houses -- --zip=28685
+        run: npm run houses -- --zip=27824
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
       - name: >-
-          classify 28685 data into for sale, coming soon, sale pending, and in
+          classify 27824 data into for sale, coming soon, sale pending, and in
           contract
         if: always()
-        run: npm run classify -- --zip=28685
+        run: npm run classify -- --zip=27824
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: 'classify 28685 data into price reduced, open house, and listed today'
+      - name: 'classify 27824 data into price reduced, open house, and listed today'
         if: always()
-        run: 'npm run classify:sale -- --zip=28685'
+        run: 'npm run classify:sale -- --zip=27824'
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: generate summary data for 28685
+      - name: generate summary data for 27824
         if: always()
-        run: npm run summary -- --zip=28685
+        run: npm run summary -- --zip=27824
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 30s
-      - name: sort data for 28685 by price
+      - name: sort data for 27824 by price
         if: always()
-        run: npm run byprice -- --zip=28685
+        run: npm run byprice -- --zip=27824
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: sort data for 28685 by size
+      - name: sort data for 27824 by size
         if: always()
-        run: npm run bysize -- --zip=28685
+        run: npm run bysize -- --zip=27824
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: sort data for 28685 by year
+      - name: sort data for 27824 by year
         if: always()
-        run: npm run byyear -- --zip=28685
+        run: npm run byyear -- --zip=27824
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: sort data for 28685 by days
+      - name: sort data for 27824 by days
         if: always()
-        run: npm run bydays -- --zip=28685
+        run: npm run bydays -- --zip=27824
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
         with:
           time: 10s
-      - name: plot svg chart for 28685
+      - name: plot svg chart for 27824
         if: always()
-        run: npm run chart -- --zip=28685
+        run: npm run chart -- --zip=27824
       - name: sleep for 10s
         if: always()
         uses: juliangruber/sleep-action@v1
@@ -124,7 +124,7 @@ jobs:
         run: git add --all
       - name: git commit
         if: always()
-        run: git commit -am "generate data for 28685"
+        run: git commit -am "generate data for 27824"
       - name: commit data
         if: always()
         run: git push

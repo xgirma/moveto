@@ -18,6 +18,7 @@
     "byyear": "node lib/by_year.js",
     "bydays": "node lib/by_days.js",
     "chart": "node chart/chart.js",
+    "doc:coming:soon": "node docs/comming_soon.js",
     "readme": "node lib/create_readme.js"
   },
   "repository": {
