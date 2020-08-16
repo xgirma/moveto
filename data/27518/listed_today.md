@@ -1,2 +1,2 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Lot | Lot Unit | Year | HOA | Open |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :-- | :------- | :--- | :-- | :--- |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |

@@ -3,7 +3,7 @@ const parse = require("csv-parse");
 const { argv } = require("yargs");
 const table = require("markdown-table");
 
-const { bubbleSort } = require("../spec/utils");
+const { bubbleSort, formatNumber } = require("../spec/utils");
 const { DEFAULT_ZIP } = require("../spec/defaults");
 
 const zip = argv.zip || DEFAULT_ZIP;
@@ -16,7 +16,25 @@ function comingSoonDoc() {
       console.error(`Error parsing data from csv`);
     }
 
+    const header = [
+      "Price",
+      "Est.",
+      "Address",
+      "Bed",
+      "Bath",
+      "Size",
+      "Value",
+      "Days",
+      "Lot",
+      "Year",
+      "HOA",
+      "Open",
+    ];
+    rows.shift();
+
     rows.forEach((row) => {
+      row[0] = formatNumber(row[0]);
+      row[1] = formatNumber(row[1]);
       row.splice(2, 3);
       row[0] = `[${row[0]}](${row[13]})`;
       row[8] = `${row[8]} ${row[9]}`;
@@ -24,11 +42,6 @@ function comingSoonDoc() {
       row.pop();
     });
 
-    rows[0][0] = "Price";
-    rows[0][7] = "Lot";
-
-    const header = rows[0];
-    rows.shift();
     const content = bubbleSort(rows);
     content.unshift(header);
 
