@@ -136,18 +136,18 @@ Extract RTP listing data from moveto.com.
 ![Apex, 27523, NC houses](https://github.com/xgirma/moveto/blob/master/data/27523/chart.svg)
 
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27523/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27523/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27523/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27523/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27523/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27523/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27523/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27523/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27523/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27523/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27523/in_contract.csv)
-## Morrisville, 27560, NC - Aug 15th 2020 
+## Morrisville, 27560, NC - Aug 16th 2020 
  
 ![Morrisville, 27560, NC :](https://github.com/xgirma/moveto/workflows/Morrisville,%2027560,%20NC%20:/badge.svg)
 
 ```json
 {
-  "date": "August 15th 2020, 7:04:47 am EST",
-  "listings": 116,
+  "date": "August 16th 2020, 7:04:51 am EST",
+  "listings": 117,
   "coming_soon": 3,
-  "price_reduced": 23,
-  "for_sale": 47,
-  "open_house": 4,
+  "price_reduced": 24,
+  "for_sale": 48,
+  "open_house": 3,
   "under_contract": 32,
   "sale_pending": 34,
   "city": "Morrisville",
