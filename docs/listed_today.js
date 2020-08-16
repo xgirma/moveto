@@ -37,7 +37,6 @@ function listedTodayDoc() {
       row[1] = formatNumber(row[1]);
       row.splice(2, 3);
       row[0] = `[${row[0]}](${row[13]})`;
-      row[8] = `${row[8]} ${row[9]}`;
       row.splice(9, 1);
       row.pop();
     });
