@@ -1,21 +1,21 @@
 Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,Year,HOA,Open,Link
-264998,243999,216000,265000,,103 Glen Bonnie Ln,3,2,1291,205,4,9583,Sqft,1979,28,,https://www.movoto.com/home/103-glen-bonnie-ln-cary-nc-27511-413_2336222
-290000,266640,245000,314000,,1436 Lake Pine Dr,4,2,1515,191,6,0.40,Acres,1980,0,,https://www.movoto.com/home/1436-lake-pine-dr-cary-nc-27511-413_2335999
-299900,329970,301000,369000,,1203 Pond St,4,3,1941,155,14,0.48,Acres,1964,0,,https://www.movoto.com/home/1203-pond-st-cary-nc-27511-413_2334229
-389900,363769,336000,389000,,103 Dannor Ct,4,3,2317,168,15,0.34,Acres,1984,0,,https://www.movoto.com/home/103-dannor-ct-cary-nc-27511-413_2334203
+264998,243999,216000,265000,,103 Glen Bonnie Ln,3,2,1291,,,,,,,,https://www.movoto.com/home/103-glen-bonnie-ln-cary-nc-27511-413_2336222
+290000,266640,245000,314000,,1436 Lake Pine Dr,4,2,1515,191,7,0.40,Acres,1980,0,,https://www.movoto.com/home/1436-lake-pine-dr-cary-nc-27511-413_2335999
+325000,349197,303000,397000,5000,1217 Wellington Ln,4,3,2091,,,,,,,,https://www.movoto.com/home/1217-wellington-ln-cary-nc-27511-413_2335524
+299900,355203,301000,402000,,1203 Pond St,4,3,1941,,,,,,,,https://www.movoto.com/home/1203-pond-st-cary-nc-27511-413_2334229
+389900,354501,306000,389000,,103 Dannor Ct,4,3,2317,168,16,0.34,Acres,1984,0,,https://www.movoto.com/home/103-dannor-ct-cary-nc-27511-413_2334203
 329900,,328000,396000,,902 Pamlico Dr,4,3,1962,,,,,,,,https://www.movoto.com/home/902-pamlico-dr-cary-nc-27511-413_2333896
-425000,402270,367000,425000,,1416 Kildaire Farm Rd,4,3,2530,168,16,0.35,Acres,1979,4,,https://www.movoto.com/home/1416-kildaire-farm-rd-cary-nc-27511-413_2333726
-289900,311344,287000,348000,,1211 Selwyn Ln,3,2,1769,164,20,0.25,Acres,1978,28,,https://www.movoto.com/home/1211-selwyn-ln-cary-nc-27511-pid_gopy43b5jh
-460000,460324,425000,475000,,105 Sedgman Ct,4,3,2932,157,27,0.27,Acres,1994,90,,https://www.movoto.com/home/105-sedgman-ct-cary-nc-27511-413_2331830
-295000,264152,240000,295000,,1812 Tarbert Dr,3,2,1484,199,28,0.27,Acres,1977,0,,https://www.movoto.com/home/1812-tarbert-dr-cary-nc-27511-413_2169702
-280000,381120,281000,405000,20000,454 Pebble Creek Dr,3,4,2382,118,28,1742,Sqft,1975,158,,https://www.movoto.com/home/454-pebble-creek-dr-cary-nc-27511-413_2331511
-314900,252486,230000,315000,,1128 Manchester Dr,3,2,1521,207,29,0.51,Acres,1975,0,,https://www.movoto.com/home/1128-manchester-dr-cary-nc-27511-413_2331309
-214900,257004,215000,289000,,308 Black Bird Ct,3,3,1452,148,29,1307,Sqft,1999,86,,https://www.movoto.com/home/308-black-bird-ct-cary-nc-27511-413_2331131
-274900,260832,240000,307000,10000,1203 Gatehouse Dr,3,2,1482,185,30,0.37,Acres,1976,0,,https://www.movoto.com/home/1203-gatehouse-dr-cary-nc-27511-413_2330957
-287500,367025,259000,623000,2000,106 Tayport Ct,3,2,1385,,,,,,,,https://www.movoto.com/home/106-tayport-ct-cary-nc-27511-413_2328936
-400000,393456,363000,445000,,402 Woodland Ct,4,3,2342,171,42,0.42,Acres,1976,27,,https://www.movoto.com/home/402-woodland-ct-cary-nc-27511-413_2282240
-340000,,297000,365000,,604 Brookgreen Dr,4,2,1833,185,50,0.29,Acres,1966,0,,https://www.movoto.com/home/604-brookgreen-dr-cary-nc-27511-413_2327260
-319000,286825,266000,326000,10000,1432 Lake Pine Dr,3,2,1639,,,,,,,,https://www.movoto.com/home/1432-lake-pine-dr-cary-nc-27511-413_2325310
-237500,223750,200000,246000,,125 Ellsworth Pl,3,2,1250,190,60,8712,Sqft,1992,14,,https://www.movoto.com/home/125-ellsworth-pl-cary-nc-27511-413_2325019
-309000,,310000,402000,10000,216 Harbor Creek Dr,4,3,2244,,,,,,,,https://www.movoto.com/home/216-harbor-creek-dr-cary-nc-27511-413_2169472
-475000,513540,460000,574000,10000,109 Drysdale Ct,3,3,3170,,,,,,,,https://www.movoto.com/home/109-drysdale-ct-cary-nc-27511-413_2309844
+425000,402270,367000,425000,,1416 Kildaire Farm Rd,4,3,2530,,,,,,,,https://www.movoto.com/home/1416-kildaire-farm-rd-cary-nc-27511-413_2333726
+289900,311344,287000,348000,,1211 Selwyn Ln,3,2,1769,164,21,0.25,Acres,1978,28,,https://www.movoto.com/home/1211-selwyn-ln-cary-nc-27511-pid_gopy43b5jh
+460000,436868,369000,475000,,105 Sedgman Ct,4,3,2932,157,28,0.27,Acres,1994,90,,https://www.movoto.com/home/105-sedgman-ct-cary-nc-27511-413_2331830
+295000,277508,257000,295000,,1812 Tarbert Dr,3,2,1484,,,,,,,,https://www.movoto.com/home/1812-tarbert-dr-cary-nc-27511-413_2169702
+280000,369210,281000,405000,20000,454 Pebble Creek Dr,3,4,2382,118,29,1742,Sqft,1975,158,,https://www.movoto.com/home/454-pebble-creek-dr-cary-nc-27511-413_2331511
+314900,270738,230000,315000,,1128 Manchester Dr,3,2,1521,207,30,0.51,Acres,1975,0,,https://www.movoto.com/home/1128-manchester-dr-cary-nc-27511-413_2331309
+214900,247416,215000,291000,,308 Black Bird Ct,3,3,1464,,,,,,,,https://www.movoto.com/home/308-black-bird-ct-cary-nc-27511-413_2331131
+274900,260832,240000,307000,10000,1203 Gatehouse Dr,3,2,1482,185,31,0.37,Acres,1976,0,,https://www.movoto.com/home/1203-gatehouse-dr-cary-nc-27511-413_2330957
+287500,367025,259000,623000,2000,106 Tayport Ct,3,2,1385,208,43,0.78,Acres,1978,0,,https://www.movoto.com/home/106-tayport-ct-cary-nc-27511-413_2328936
+400000,391114,340000,445000,,402 Woodland Ct,4,3,2342,,,,,,,,https://www.movoto.com/home/402-woodland-ct-cary-nc-27511-413_2282240
+340000,,297000,365000,,604 Brookgreen Dr,4,2,1833,185,51,0.29,Acres,1966,0,,https://www.movoto.com/home/604-brookgreen-dr-cary-nc-27511-413_2327260
+237500,223750,200000,246000,,125 Ellsworth Pl,3,2,1250,,,,,,,,https://www.movoto.com/home/125-ellsworth-pl-cary-nc-27511-413_2325019
+309000,,310000,402000,10000,216 Harbor Creek Dr,4,3,2244,138,65,3049,Sqft,2000,253,,https://www.movoto.com/home/216-harbor-creek-dr-cary-nc-27511-413_2169472
+475000,488180,399000,574000,10000,109 Drysdale Ct,3,3,3170,150,144,0.33,Acres,1991,90,,https://www.movoto.com/home/109-drysdale-ct-cary-nc-27511-413_2309844

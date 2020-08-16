@@ -1,16 +1,14 @@
 Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,Year,HOA,Open,Link
-245000,224400,204000,251000,,1218 Selwyn Ln,3,2,1275,192,Listed Today,7405,Sqft,1978,28,,https://www.movoto.com/home/1218-selwyn-ln-cary-nc-27511-413_2337111
-289900,253400,227000,290000,,103 Tayport Ct,3,2,1400,207,Listed Today,0.40,Acres,2012,0,,https://www.movoto.com/home/103-tayport-ct-cary-nc-27511-413_2337031
-313000,,285000,351000,,112 Coatbridge Cir,3,3,1762,178,1,0.30,Acres,1979,0,,https://www.movoto.com/home/112-coatbridge-cir-cary-nc-27511-413_2336924
-273500,,225000,276000,,306 Two Creeks Rd,3,2,1387,197,1,9583,Sqft,1977,28,,https://www.movoto.com/home/306-two-creeks-rd-cary-nc-27511-413_2336796
-325000,342924,303000,397000,5000,1217 Wellington Ln,4,3,2091,,,,,,,,https://www.movoto.com/home/1217-wellington-ln-cary-nc-27511-413_2335524
-325000,332264,284000,389000,,111 Leeward Ct,3,3,2026,160,11,6534,Sqft,1987,14,,https://www.movoto.com/home/111-leeward-ct-cary-nc-27511-413_2334902
-335000,361900,335000,412000,10000,291 High Meadow Dr,3,2,2068,,,,,,,,https://www.movoto.com/home/291-high-meadow-dr-cary-nc-27511-413_2333554
-439900,396891,360000,469000,10000,100 Queensferry Rd,4,3,2321,190,28,0.48,Acres,1978,8,,https://www.movoto.com/home/100-queensferry-rd-cary-nc-27511-413_2195485
-465000,452400,383000,525000,,109 Overview Ln,4,3,2900,160,30,0.38,Acres,1979,29,,https://www.movoto.com/home/109-overview-ln-cary-nc-27511-413_2331057
-400000,413072,364000,462000,,316 Tweed Cir,3,3,2347,170,41,4356,Sqft,1985,340,,https://www.movoto.com/home/316-tweed-cir-cary-nc-27511-413_2325306
+245000,224400,204000,251000,,1218 Selwyn Ln,3,2,1275,192,1,7405,Sqft,1978,28,,https://www.movoto.com/home/1218-selwyn-ln-cary-nc-27511-413_2337111
+289900,253400,227000,290000,,103 Tayport Ct,3,2,1400,,,,,,,,https://www.movoto.com/home/103-tayport-ct-cary-nc-27511-413_2337031
+313000,,285000,351000,,112 Coatbridge Cir,3,3,1762,178,2,0.30,Acres,1979,0,,https://www.movoto.com/home/112-coatbridge-cir-cary-nc-27511-413_2336924
+273500,,225000,276000,,306 Two Creeks Rd,3,2,1387,197,2,9583,Sqft,1977,28,,https://www.movoto.com/home/306-two-creeks-rd-cary-nc-27511-413_2336796
+325000,344420,308000,389000,,111 Leeward Ct,3,3,2026,160,12,6534,Sqft,1987,14,,https://www.movoto.com/home/111-leeward-ct-cary-nc-27511-413_2334902
+335000,361900,335000,412000,10000,291 High Meadow Dr,3,2,2068,162,18,0.27,Acres,1978,28,,https://www.movoto.com/home/291-high-meadow-dr-cary-nc-27511-413_2333554
+439900,394570,337000,469000,10000,100 Queensferry Rd,4,3,2321,190,29,0.48,Acres,1978,8,,https://www.movoto.com/home/100-queensferry-rd-cary-nc-27511-413_2195485
+400000,398990,364000,462000,,316 Tweed Cir,3,3,2347,170,42,4356,Sqft,1985,340,,https://www.movoto.com/home/316-tweed-cir-cary-nc-27511-413_2325306
 345000,355209,345000,379000,15000,1304 Lake Pine Dr,4,2,2127,,,,,,,,https://www.movoto.com/home/1304-lake-pine-dr-cary-nc-27511-413_2328019
-325000,324815,282000,403000,,905 Griffis St,4,3,1945,167,74,0.37,Acres,1971,0,Open 8/16,https://www.movoto.com/home/905-griffis-st-cary-nc-27511-413_2322232
-284900,359050,286000,413000,5000,106 Silver Fox Ct,4,2,2150,133,96,6098,Sqft,1987,14,,https://www.movoto.com/home/106-silver-fox-ct-cary-nc-27511-413_2239594
-350000,373100,322000,431000,,1119 Ralph Dr,4,3,2132,164,99,0.55,Acres,1974,0,,https://www.movoto.com/home/1119-ralph-dr-cary-nc-27511-pid_5qsy43b5jh
-387500,377140,349000,421000,2000,110 Prestwick Pl,3,3,2180,178,169,3049,Sqft,1984,340,,https://www.movoto.com/home/110-prestwick-pl-cary-nc-27511-413_2261077
+325000,330650,282000,403000,,905 Griffis St,4,3,1945,167,75,0.37,Acres,1971,0,Open 8/16,https://www.movoto.com/home/905-griffis-st-cary-nc-27511-413_2322232
+284900,354750,286000,413000,5000,106 Silver Fox Ct,4,2,2150,133,97,6098,Sqft,1987,14,,https://www.movoto.com/home/106-silver-fox-ct-cary-nc-27511-413_2239594
+350000,379496,322000,431000,,1119 Ralph Dr,4,3,2132,164,100,0.55,Acres,1974,0,,https://www.movoto.com/home/1119-ralph-dr-cary-nc-27511-pid_5qsy43b5jh
+387500,359700,349000,388000,2000,110 Prestwick Pl,3,3,2180,178,170,3049,Sqft,1984,340,,https://www.movoto.com/home/110-prestwick-pl-cary-nc-27511-413_2261077
