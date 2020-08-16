@@ -26,7 +26,7 @@ Extract RTP listing data from moveto.com.
 ![Apex, 27502, NC houses](https://github.com/xgirma/moveto/blob/master/data/27502/chart.svg)
 
 #### Documents
-[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27502/coming_soon.md)
+[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27502/coming_soon.md) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27502/listed_today.md)
 #### Data
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27502/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27502/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27502/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27502/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27502/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27502/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27502/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27502/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27502/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27502/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27502/in_contract.csv)
 ## Cary, 27511, NC - Aug 15th 2020 
@@ -51,7 +51,7 @@ Extract RTP listing data from moveto.com.
 ![Cary, 27511, NC houses](https://github.com/xgirma/moveto/blob/master/data/27511/chart.svg)
 
 #### Documents
-[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27511/coming_soon.md)
+[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27511/coming_soon.md) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27511/listed_today.md)
 #### Data
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27511/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27511/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27511/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27511/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27511/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27511/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27511/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27511/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27511/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27511/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27511/in_contract.csv)
 ## Cary, 27513, NC - Aug 15th 2020 
@@ -76,7 +76,7 @@ Extract RTP listing data from moveto.com.
 ![Cary, 27513, NC houses](https://github.com/xgirma/moveto/blob/master/data/27513/chart.svg)
 
 #### Documents
-[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27513/coming_soon.md)
+[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27513/coming_soon.md) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27513/listed_today.md)
 #### Data
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27513/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27513/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27513/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27513/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27513/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27513/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27513/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27513/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27513/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27513/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27513/in_contract.csv)
 ## Cary, 27518, NC - Aug 16th 2020 
@@ -101,7 +101,7 @@ Extract RTP listing data from moveto.com.
 ![Cary, 27518, NC houses](https://github.com/xgirma/moveto/blob/master/data/27518/chart.svg)
 
 #### Documents
-[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27518/coming_soon.md)
+[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27518/coming_soon.md) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27518/listed_today.md)
 #### Data
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27518/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27518/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27518/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27518/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27518/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27518/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27518/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27518/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27518/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27518/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27518/in_contract.csv)
 ## Cary, 27519, NC - Aug 16th 2020 
@@ -126,7 +126,7 @@ Extract RTP listing data from moveto.com.
 ![Cary, 27519, NC houses](https://github.com/xgirma/moveto/blob/master/data/27519/chart.svg)
 
 #### Documents
-[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27519/coming_soon.md)
+[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27519/coming_soon.md) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27519/listed_today.md)
 #### Data
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27519/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27519/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27519/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27519/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27519/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27519/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27519/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27519/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27519/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27519/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27519/in_contract.csv)
 ## Apex, 27523, NC - Aug 16th 2020 
@@ -151,7 +151,7 @@ Extract RTP listing data from moveto.com.
 ![Apex, 27523, NC houses](https://github.com/xgirma/moveto/blob/master/data/27523/chart.svg)
 
 #### Documents
-[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27523/coming_soon.md)
+[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27523/coming_soon.md) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27523/listed_today.md)
 #### Data
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27523/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27523/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27523/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27523/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27523/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27523/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27523/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27523/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27523/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27523/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27523/in_contract.csv)
 ## Morrisville, 27560, NC - Aug 16th 2020 
@@ -176,7 +176,7 @@ Extract RTP listing data from moveto.com.
 ![Morrisville, 27560, NC houses](https://github.com/xgirma/moveto/blob/master/data/27560/chart.svg)
 
 #### Documents
-[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27560/coming_soon.md)
+[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27560/coming_soon.md) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27560/listed_today.md)
 #### Data
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27560/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27560/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27560/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27560/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27560/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27560/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27560/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27560/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27560/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27560/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27560/in_contract.csv)
 ## Raleigh, 27607, NC - Aug 16th 2020 
@@ -201,7 +201,7 @@ Extract RTP listing data from moveto.com.
 ![Raleigh, 27607, NC houses](https://github.com/xgirma/moveto/blob/master/data/27607/chart.svg)
 
 #### Documents
-[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27607/coming_soon.md)
+[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27607/coming_soon.md) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27607/listed_today.md)
 #### Data
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27607/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27607/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27607/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27607/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27607/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27607/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27607/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27607/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27607/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27607/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27607/in_contract.csv)
 ## Engelhard, 27824, NC - Aug 16th 2020 
@@ -226,6 +226,6 @@ Extract RTP listing data from moveto.com.
 ![Engelhard, 27824, NC houses](https://github.com/xgirma/moveto/blob/master/data/27824/chart.svg)
 
 #### Documents
-[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27824/coming_soon.md)
+[Coming soon](https://github.com/xgirma/moveto/blob/master/data/27824/coming_soon.md) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27824/listed_today.md)
 #### Data
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27824/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27824/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27824/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27824/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27824/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27824/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27824/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27824/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27824/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27824/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27824/in_contract.csv)
