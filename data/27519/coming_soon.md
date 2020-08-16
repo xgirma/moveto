@@ -1,0 +1,5 @@
+| Price                                                                                    | Est.   | Bed | Bath | Size | Value | Days         | Lot       | Year | HOA |
+| :--------------------------------------------------------------------------------------- | :----- | :-- | :--- | :--- | :---- | :----------- | :-------- | :--- | :-- |
+| \![249900](https://www.movoto.com/home/2031-summerhouse-rd-cary-nc-27519-pid_hosx43b5jh) |        | 3   | 3    | 1750 | 143   | Listed Today | 1307 Sqft | 2013 | 160 |
+| \![370000](https://www.movoto.com/home/804-transom-view-way-cary-nc-27519-413_2335805)   | 381600 | 3   | 3    | 2400 | 154   | 8            | 5227 Sqft | 2013 | 190 |
+| \![424900](https://www.movoto.com/home/5013-lake-grove-blvd-cary-nc-27519-413_2331776)   | 462924 | 3   | 3    | 2338 | 182   | 28           | 6970 Sqft | 2007 | 70  |
