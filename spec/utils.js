@@ -73,7 +73,7 @@ function isNumeric(value) {
   return !Number.isNaN(Number(value));
 }
 
-const bubbleSort = (inputArr) => {
+function bubbleSort(inputArr) {
   const len = inputArr.length;
   let swapped;
   do {
@@ -88,12 +88,16 @@ const bubbleSort = (inputArr) => {
     }
   } while (swapped);
   return inputArr;
-};
+}
 
 function formatNumber(num) {
   return Number(num)
     .toFixed(2)
     .replace(/\d(?=(\d{3})+\.)/g, "$&,");
+}
+
+function truncate(str, n = 19) {
+  return str.length > n ? `${str.substr(0, n - 1)} ...` : str;
 }
 
 module.exports = {
@@ -105,4 +109,5 @@ module.exports = {
   sortObject,
   sortAscending,
   sortDescending,
+  truncate,
 };
