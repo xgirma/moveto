@@ -1,9 +1,9 @@
-| Price      | Est.   | Address               | Bed | Bath | Size | Value | Lot               | Unit  | Year |
-| :--------- | :----- | :-------------------- | :-- | :--- | :--- | :---- | :---------------- | :---- | :--- |
-| [469900]() | 629018 | 205 King George Loop  | 5   | 4    | 3722 | 126   | Listed Today 0.34 | Acres | 1986 |
-| [349900]() | 349434 | 113 Flora Mcdonald Ln | 3   | 3    | 2157 | 162   | 7 0.30            | Acres | 1978 |
-| [333000]() | 378015 | 1534 Dirkson Ct       | 4   | 3    | 2291 | 145   | 3 0.33            | Acres | 1978 |
-| [315000]() | 294810 | 1607 Dunblane Ct      | 4   | 2    | 1585 | 199   | 1 0.29            | Acres | 1976 |
-| [299999]() | 352600 | 235 Harbor Creek Dr   | 4   | 3    | 2150 | 140   | 3 3049            | Sqft  | 2000 |
-| [228000]() | 262975 | 107 Clancy Cir        | 3   | 3    | 1675 | 136   | Listed Today 3920 | Sqft  | 1984 |
-| [208000]() | 204951 | 112 Charter Ct        | 3   | 3    | 1289 | 161   | 18 1307           | Sqft  | 1994 |
+| Price                                                                                 | Est.   | Address               | Bed | Bath | Size | Value | Lot          | Lot Unit   | Year | HOA | Open |
+| :------------------------------------------------------------------------------------ | :----- | :-------------------- | :-- | :--- | :--- | :---- | :----------- | :--------- | :--- | :-- | :--- |
+| [469900](https://www.movoto.com/home/205-king-george-loop-cary-nc-27511-413_2337383)  | 629018 | 205 King George Loop  | 5   | 4    | 3722 | 126   | Listed Today | 0.34 Acres | 1986 | 14  |      |
+| [349900](https://www.movoto.com/home/113-flora-mcdonald-ln-cary-nc-27511-413_2335997) | 349434 | 113 Flora Mcdonald Ln | 3   | 3    | 2157 | 162   | 7            | 0.30 Acres | 1978 | 28  |      |
+| [333000](https://www.movoto.com/home/1534-dirkson-ct-cary-nc-27511-413_2336513)       | 378015 | 1534 Dirkson Ct       | 4   | 3    | 2291 | 145   | 3            | 0.33 Acres | 1978 | 0   |      |
+| [315000](https://www.movoto.com/home/1607-dunblane-ct-cary-nc-27511-413_2337121)      | 294810 | 1607 Dunblane Ct      | 4   | 2    | 1585 | 199   | 1            | 0.29 Acres | 1976 | 0   |      |
+| [299999](https://www.movoto.com/home/235-harbor-creek-dr-cary-nc-27511-413_2336595)   | 352600 | 235 Harbor Creek Dr   | 4   | 3    | 2150 | 140   | 3            | 3049 Sqft  | 2000 | 239 |      |
+| [228000](https://www.movoto.com/home/107-clancy-cir-cary-nc-27511-413_2241220)        | 262975 | 107 Clancy Cir        | 3   | 3    | 1675 | 136   | Listed Today | 3920 Sqft  | 1984 | 325 |      |
+| [208000](https://www.movoto.com/home/112-charter-ct-cary-nc-27511-413_2333526)        | 204951 | 112 Charter Ct        | 3   | 3    | 1289 | 161   | 18           | 1307 Sqft  | 1994 | 221 |      |

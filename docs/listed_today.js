@@ -18,11 +18,10 @@ function listedTodayDoc() {
 
     rows.forEach((row) => {
       row.splice(2, 3);
-      row[0] = `\\![${row[0]}](${row[12]})`;
-      row.splice(11, 2);
-      row[7] = `${row[7]} ${row[8]}`;
-      row.splice(8, 1);
-      row.splice(10, 1);
+      row[0] = `[${row[0]}](${row[13]})`;
+      row[8] = `${row[8]} ${row[9]}`;
+      row.splice(9, 1);
+      row.pop();
     });
 
     rows[0][0] = "Price";
