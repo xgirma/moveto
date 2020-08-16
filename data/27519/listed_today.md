@@ -1,2 +1,2 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Lot | Unit | Year | Link |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :-- | :--- | :--- | :--- |
+| Price | Est. | Address | Bed | Bath | Size | Value | Lot | Unit | Year |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :-- | :--- | :--- |

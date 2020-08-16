@@ -1,5 +1,5 @@
-| Price      | Est.   | Address              | Bed | Bath | Size | Value | Lot               | Unit | Year | Link                                                                         |
-| :--------- | :----- | :------------------- | :-- | :--- | :--- | :---- | :---------------- | :--- | :--- | :--------------------------------------------------------------------------- |
-| [424900]() | 462924 | 5013 Lake Grove Blvd | 3   | 3    | 2338 | 182   | 28 6970           | Sqft | 2007 | https://www.movoto.com/home/5013-lake-grove-blvd-cary-nc-27519-413_2331776   |
-| [370000]() | 381600 | 804 Transom View Way | 3   | 3    | 2400 | 154   | 8 5227            | Sqft | 2013 | https://www.movoto.com/home/804-transom-view-way-cary-nc-27519-413_2335805   |
-| [249900]() |        | 2031 Summerhouse Rd  | 3   | 3    | 1750 | 143   | Listed Today 1307 | Sqft | 2013 | https://www.movoto.com/home/2031-summerhouse-rd-cary-nc-27519-pid_hosx43b5jh |
+| Price      | Est.   | Address              | Bed | Bath | Size | Value | Lot               | Unit | Year |
+| :--------- | :----- | :------------------- | :-- | :--- | :--- | :---- | :---------------- | :--- | :--- |
+| [424900]() | 462924 | 5013 Lake Grove Blvd | 3   | 3    | 2338 | 182   | 28 6970           | Sqft | 2007 |
+| [370000]() | 381600 | 804 Transom View Way | 3   | 3    | 2400 | 154   | 8 5227            | Sqft | 2013 |
+| [249900]() |        | 2031 Summerhouse Rd  | 3   | 3    | 1750 | 143   | Listed Today 1307 | Sqft | 2013 |

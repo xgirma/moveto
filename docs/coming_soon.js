@@ -22,6 +22,7 @@ function comingSoonDoc() {
       row.splice(11, 2);
       row[7] = `${row[7]} ${row[8]}`;
       row.splice(8, 1);
+      row.splice(10, 1);
     });
 
     rows[0][0] = "Price";
