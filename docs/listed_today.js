@@ -3,7 +3,7 @@ const parse = require("csv-parse");
 const { argv } = require("yargs");
 const table = require("markdown-table");
 
-const { sortAscending } = require("../spec/utils");
+const { bubbleSort } = require("../spec/utils");
 const { DEFAULT_ZIP } = require("../spec/defaults");
 
 const zip = argv.zip || DEFAULT_ZIP;
@@ -24,10 +24,13 @@ function listedTodayDoc() {
       row.splice(8, 1);
     });
 
-    const content = sortAscending(rows, 0);
-
     rows[0][0] = "Price";
     rows[0][7] = "Lot";
+
+    const header = rows[0];
+    rows.shift();
+    const content = bubbleSort(rows);
+    content.unshift(header);
 
     try {
       writeFileSync(

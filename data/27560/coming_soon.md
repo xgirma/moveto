@@ -1,5 +1,5 @@
-| Price                                                                                            | Est.   | Bed | Bath | Size | Value | Days | Lot       | Year | HOA |
-| :----------------------------------------------------------------------------------------------- | :----- | :-- | :--- | :--- | :---- | :--- | :-------- | :--- | :-- |
-| \![379500](https://www.movoto.com/home/1021-lakebrink-dr-morrisville-nc-27560-413_2336062)       | 380016 | 3   | 3    | 2184 | 174   | 7    | 3049 Sqft | 2018 | 108 |
-| \![310000](https://www.movoto.com/home/339-scotlow-way-morrisville-nc-27560-413_2333803)         | 327096 | 3   | 3    | 1848 | 168   | 17   | 2614 Sqft | 2012 | 109 |
-| \![430000](https://www.movoto.com/home/1404-everette-fields-rd-morrisville-nc-27560-413_2333392) | 450047 | 4   | 3    | 2663 |       |      |           |      |     |
+| Price      | Est.   | Address                 | Bed | Bath | Size | Value | Lot     | Unit | Year | Link                                                                                 |
+| :--------- | :----- | :---------------------- | :-- | :--- | :--- | :---- | :------ | :--- | :--- | :----------------------------------------------------------------------------------- |
+| [430000]() | 450047 | 1404 Everette Fields Rd | 4   | 3    | 2663 |       |         |      |      | https://www.movoto.com/home/1404-everette-fields-rd-morrisville-nc-27560-413_2333392 |
+| [379500]() | 380016 | 1021 Lakebrink Dr       | 3   | 3    | 2184 | 174   | 7 3049  | Sqft | 2018 | https://www.movoto.com/home/1021-lakebrink-dr-morrisville-nc-27560-413_2336062       |
+| [310000]() | 327096 | 339 Scotlow Way         | 3   | 3    | 1848 | 168   | 17 2614 | Sqft | 2012 | https://www.movoto.com/home/339-scotlow-way-morrisville-nc-27560-413_2333803         |

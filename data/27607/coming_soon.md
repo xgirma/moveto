@@ -1,4 +1,4 @@
-| Price                                                                                    | Est.   | Bed | Bath | Size | Value | Days | Lot        | Year | HOA |
-| :--------------------------------------------------------------------------------------- | :----- | :-- | :--- | :--- | :---- | :--- | :--------- | :--- | :-- |
-| \![320000](https://www.movoto.com/home/1547-crafton-way-raleigh-nc-27607-pid_jzg443b5jh) | 258368 | 3   | 3    | 1468 | 218   | 1    | 1307 Sqft  | 2013 | 181 |
-| \![500000](https://www.movoto.com/home/1704-dixie-trl-raleigh-nc-27607-413_2336272)      | 736144 | 4   | 3    | 2648 | 189   | 5    | 0.29 Acres | 1964 | 0   |
+| Price      | Est.   | Address          | Bed | Bath | Size | Value | Lot    | Unit  | Year | Link                                                                         |
+| :--------- | :----- | :--------------- | :-- | :--- | :--- | :---- | :----- | :---- | :--- | :--------------------------------------------------------------------------- |
+| [500000]() | 736144 | 1704 Dixie Trl   | 4   | 3    | 2648 | 189   | 5 0.29 | Acres | 1964 | https://www.movoto.com/home/1704-dixie-trl-raleigh-nc-27607-413_2336272      |
+| [320000]() | 258368 | 1547 Crafton Way | 3   | 3    | 1468 | 218   | 1 1307 | Sqft  | 2013 | https://www.movoto.com/home/1547-crafton-way-raleigh-nc-27607-pid_jzg443b5jh |
