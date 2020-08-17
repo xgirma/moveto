@@ -33,17 +33,22 @@ function comingSoonDoc() {
     rows.shift();
 
     rows.forEach((row) => {
-      row[0] = formatNumber(row[0]);
+      row[0] = Number(row[0]);
       row[1] = formatNumber(row[1]);
       row[2] = truncate(row[2]);
       row.splice(2, 3);
-      row[0] = `[${row[0]}](${row[13]})`;
       row[7] = row[7] === "Listed Today" ? "New" : row[7];
       row.splice(9, 1);
-      row.pop();
     });
 
     const content = bubbleSort(rows);
+
+    rows.forEach((row) => {
+      row[0] = formatNumber(row[0]);
+      row[0] = `[${row[0]}](${row[12]})`;
+      row.pop();
+    });
+
     content.unshift(header);
 
     try {

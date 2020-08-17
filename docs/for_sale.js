@@ -3,15 +3,15 @@ const parse = require("csv-parse");
 const { argv } = require("yargs");
 const table = require("markdown-table");
 
-const { bubbleSort, formatNumber, truncate } = require("../spec/utils");
+const { bubbleSort, formatNumber } = require("../spec/utils");
 const { DEFAULT_ZIP } = require("../spec/defaults");
 
 const zip = argv.zip || DEFAULT_ZIP;
 const path = `./data/${zip}`;
-const listedToday = readFileSync(`${path}/listed_today.csv`);
+const forSale = readFileSync(`${path}/for_sale.csv`);
 
-function listedTodayDoc() {
-  parse(listedToday, { trim: true }, (error, rows) => {
+function forSaleDoc() {
+  parse(forSale, { trim: true }, (error, rows) => {
     if (error) {
       console.error(`Error parsing data from csv`);
     }
@@ -19,7 +19,7 @@ function listedTodayDoc() {
     const header = [
       "Price",
       "Est.",
-      "Address",
+      "Reduced",
       "Bed",
       "Bath",
       "Size",
@@ -30,13 +30,14 @@ function listedTodayDoc() {
       "HOA",
       "Open",
     ];
+
     rows.shift();
 
     rows.forEach((row) => {
-      row[0] = formatNumber(row[0]);
+      row[0] = Number(row[0]);
       row[1] = formatNumber(row[1]);
-      row[2] = truncate(row[2]);
-      row.splice(2, 3);
+      row[2] = formatNumber(row[2]);
+      row.splice(3, 3);
       row[7] = row[7] === "Listed Today" ? "New" : row[7];
       row.splice(9, 1);
     });
@@ -53,7 +54,7 @@ function listedTodayDoc() {
 
     try {
       writeFileSync(
-        `${path}/listed_today.md`,
+        `${path}/for_sale.md`,
         table(content, { align: "l" }),
         "utf8"
       );
@@ -64,4 +65,4 @@ function listedTodayDoc() {
   });
 }
 
-listedTodayDoc();
+forSaleDoc();

@@ -1,16 +1,16 @@
-| Reduced                                                                                        | Price      | Est.       | Address                | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
-| :--------------------------------------------------------------------------------------------- | :--------- | :--------- | :--------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
-| [7,000.00](https://www.movoto.com/home/1633-wimberly-rd-apt-32-apex-nc-27523-413_2319658)      | 372,631.00 | 393,807.00 | 1633 Wimberly Rd # ... | 4   | 4    | 2643 |       |      |      |      |     |           |
-| [5,000.00](https://www.movoto.com/home/1113-russet-ln-apt-138-apex-nc-27523-413_2313364)       | 423,070.00 | 390,981.00 | 1113 Russet Ln #138    | 3   | 4    | 2459 |       |      |      |      |     |           |
-| [4,000.00](https://www.movoto.com/home/841-salem-pointe-pl-apex-nc-27523-413_2209083)          | 334,900.00 | 281,342.00 | 841 Salem Pointe Pl    | 3   | 3    | 1927 | 174   | 49   | 2614 | 2018 | 120 |           |
-| [4,000.00](https://www.movoto.com/home/2420-emily-brook-way-apex-nc-27523-413_2326301)         | 480,900.00 | 471,900.00 | 2420 Emily Brook W ... | 4   | 4    | 2860 | 168   | 55   | 7405 | 2017 | 60  | Open 8/16 |
-| [3,000.00](https://www.movoto.com/home/802-patriot-summit-ln-apt-87-apex-nc-27523-413_2306047) | 382,546.00 | 0.00       | 802 Patriot Summit ... | 4   | 4    | 2643 | 145   | 163  | 2265 | 2020 | 146 |           |
-| [25,000.00](https://www.movoto.com/home/4300-green-level-west-rd-apex-nc-27523-413_2330519)    | 325,000.00 | 408,212.00 | 4300 Green Level W ... | 3   | 2    | 1673 |       |      |      |      |     |           |
-| [2,000.00](https://www.movoto.com/home/1023-larabee-ln-lot-189-apex-nc-27523-413_2325522)      | 311,570.00 | 303,552.00 | 1023 Larabee Ln #L ... | 3   | 3    | 1984 | 157   | 59   | 218  | 2020 | 115 |           |
-| [12,000.00](https://www.movoto.com/home/400-echo-park-pl-lot-118-apex-nc-27523-413_2252095)    | 500,000.00 | 614,250.00 | 400 Echo Park Pl # ... | 3   | 3    | 2925 |       |      |      |      |     |           |
-| [100.00](https://www.movoto.com/home/1125-little-gem-ln-apex-nc-27523-413_2294177)             | 344,900.00 | 351,866.00 | 1125 Little Gem Ln     | 4   | 4    | 2227 | 155   | 21   | 3049 | 2017 | 152 | Open 8/16 |
-| [10,000.00](https://www.movoto.com/home/943-haybeck-ln-apt-93-apex-nc-27523-413_2283818)       | 374,289.00 | 0.00       | 943 Haybeck Ln #93     | 4   | 4    | 2465 | 152   | 307  | 3093 | 2020 | 146 |           |
-| [10,000.00](https://www.movoto.com/home/935-haybeck-ln-apt-97-apex-nc-27523-413_2283836)       | 369,871.00 | 0.00       | 935 Haybeck Ln #97     | 3   | 4    | 2451 |       |      |      |      |     |           |
-| [10,000.00](https://www.movoto.com/home/885-tunisian-dr-apex-nc-27523-413_2331807)             | 359,900.00 | 390,609.00 | 885 Tunisian Dr        | 4   | 4    | 2553 | 141   | 28   | 1742 | 2018 | 119 |           |
-| [10,000.00](https://www.movoto.com/home/1639-wimberly-rd-apt-35-apex-nc-27523-413_2320834)     | 373,312.00 | 0.00       | 1639 Wimberly Rd # ... | 4   | 4    | 2465 | 151   | 85   | 3049 | 2020 | 146 |           |
-| [1,000.00](https://www.movoto.com/home/923-haybeck-ln-apt-102-apex-nc-27523-413_2329706)       | 396,156.00 | 0.00       | 923 Haybeck Ln #102    | 4   | 4    | 2582 |       |      |      |      |     |           |
+| Reduced                                                                                        | Price      | Est.       | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
+| :--------------------------------------------------------------------------------------------- | :--------- | :--------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
+| [25,000.00](https://www.movoto.com/home/4300-green-level-west-rd-apex-nc-27523-413_2330519)    | 325,000.00 | 408,212.00 | 3   | 2    | 1673 |       |      |      |      |     |           |
+| [12,000.00](https://www.movoto.com/home/400-echo-park-pl-lot-118-apex-nc-27523-413_2252095)    | 500,000.00 | 614,250.00 | 3   | 3    | 2925 |       |      |      |      |     |           |
+| [10,000.00](https://www.movoto.com/home/885-tunisian-dr-apex-nc-27523-413_2331807)             | 359,900.00 | 390,609.00 | 4   | 4    | 2553 | 141   | 28   | 1742 | 2018 | 119 |           |
+| [10,000.00](https://www.movoto.com/home/1639-wimberly-rd-apt-35-apex-nc-27523-413_2320834)     | 373,312.00 | 0.00       | 4   | 4    | 2465 | 151   | 85   | 3049 | 2020 | 146 |           |
+| [10,000.00](https://www.movoto.com/home/935-haybeck-ln-apt-97-apex-nc-27523-413_2283836)       | 369,871.00 | 0.00       | 3   | 4    | 2451 |       |      |      |      |     |           |
+| [10,000.00](https://www.movoto.com/home/943-haybeck-ln-apt-93-apex-nc-27523-413_2283818)       | 374,289.00 | 0.00       | 4   | 4    | 2465 | 152   | 307  | 3093 | 2020 | 146 |           |
+| [7,000.00](https://www.movoto.com/home/1633-wimberly-rd-apt-32-apex-nc-27523-413_2319658)      | 372,631.00 | 393,807.00 | 4   | 4    | 2643 |       |      |      |      |     |           |
+| [5,000.00](https://www.movoto.com/home/1113-russet-ln-apt-138-apex-nc-27523-413_2313364)       | 423,070.00 | 390,981.00 | 3   | 4    | 2459 |       |      |      |      |     |           |
+| [4,000.00](https://www.movoto.com/home/841-salem-pointe-pl-apex-nc-27523-413_2209083)          | 334,900.00 | 281,342.00 | 3   | 3    | 1927 | 174   | 49   | 2614 | 2018 | 120 |           |
+| [4,000.00](https://www.movoto.com/home/2420-emily-brook-way-apex-nc-27523-413_2326301)         | 480,900.00 | 471,900.00 | 4   | 4    | 2860 | 168   | 55   | 7405 | 2017 | 60  | Open 8/16 |
+| [3,000.00](https://www.movoto.com/home/802-patriot-summit-ln-apt-87-apex-nc-27523-413_2306047) | 382,546.00 | 0.00       | 4   | 4    | 2643 | 145   | 163  | 2265 | 2020 | 146 |           |
+| [2,000.00](https://www.movoto.com/home/1023-larabee-ln-lot-189-apex-nc-27523-413_2325522)      | 311,570.00 | 303,552.00 | 3   | 3    | 1984 | 157   | 59   | 218  | 2020 | 115 |           |
+| [1,000.00](https://www.movoto.com/home/923-haybeck-ln-apt-102-apex-nc-27523-413_2329706)       | 396,156.00 | 0.00       | 4   | 4    | 2582 |       |      |      |      |     |           |
+| [100.00](https://www.movoto.com/home/1125-little-gem-ln-apex-nc-27523-413_2294177)             | 344,900.00 | 351,866.00 | 4   | 4    | 2227 | 155   | 21   | 3049 | 2017 | 152 | Open 8/16 |
