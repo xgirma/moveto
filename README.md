@@ -104,20 +104,20 @@ Extract RTP listing data from moveto.com.
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27518/coming_soon.md) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27518/listed_today.md) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27518/price_reduced.md) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27518/for_sale.md) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27518/open_house.md)
 #### Data
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27518/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27518/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27518/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27518/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27518/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27518/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27518/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27518/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27518/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27518/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27518/in_contract.csv)
-## Cary, 27519, NC - Aug 16th 2020 
+## Cary, 27519, NC - Aug 17th 2020 
  
 ![Cary, 27519, NC :](https://github.com/xgirma/moveto/workflows/Cary,%2027519,%20NC%20:/badge.svg)
 
 ```json
 {
-  "date": "August 16th 2020, 3:17:06 am EST",
-  "listings": 95,
-  "coming_soon": 3,
+  "date": "August 17th 2020, 3:17:24 am EST",
+  "listings": 99,
+  "coming_soon": 2,
   "price_reduced": 26,
-  "for_sale": 63,
-  "open_house": 5,
-  "under_contract": 3,
-  "sale_pending": 26,
+  "for_sale": 60,
+  "open_house": 1,
+  "under_contract": 10,
+  "sale_pending": 27,
   "city": "Cary",
   "state": "NC",
   "zip": 27519
