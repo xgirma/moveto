@@ -211,10 +211,10 @@ Extract RTP listing data from moveto.com.
 ```json
 {
   "date": "August 16th 2020, 12:10:26 pm EST",
-  "listings": 2,
+  "listings": 0,
   "coming_soon": 0,
-  "price_reduced": 1,
-  "for_sale": 2,
+  "price_reduced": 0,
+  "for_sale": 0,
   "open_house": 0,
   "under_contract": 0,
   "sale_pending": 0,
