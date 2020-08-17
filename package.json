@@ -22,6 +22,7 @@
     "doc:listed:today": "node docs/listed_today.js",
     "doc:price:reduced": "node docs/price_reduced.js",
     "doc:for:sale": "node docs/for_sale.js",
+    "doc:open:house": "node docs/open_house.js",
     "readme": "node lib/create_readme.js"
   },
   "repository": {
