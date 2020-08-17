@@ -1,87 +1,91 @@
 Status,Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,Year,HOA,Open,Link
-FOR SALE,385000,,311000,384000,,1265 Russet Ln,3,3,2076,185,1,3572,Sqft,2018,58, ,https://www.movoto.com/home/1265-russet-ln-apex-nc-27523-413_2337281
-FOR SALE,352480,372798,345000,435000,,1021 Lathrop Ln #LOT 47,4,4,2502,141,1,2178,Sqft,2020,115, ,https://www.movoto.com/home/1021-lathrop-ln-lot-47-apex-nc-27523-413_2337056
-FOR SALE,345000,,317000,413000,,1141 Little Gem Ln,4,4,2230,155,1,2614,Sqft,2018,152,Open 8/16,https://www.movoto.com/home/1141-little-gem-ln-apex-nc-27523-413_2337023
-FOR SALE,350290,369371,342000,431000,,1035 Lathrop Ln #LOT 53,3,4,2479,141,2,2178,Sqft,2020,115, ,https://www.movoto.com/home/1035-lathrop-ln-lot-53-apex-nc-27523-413_2336872
-FOR SALE,308130,303552,280000,345000,,1028 Lathrop Ln #LOT 167,3,4,1984,155,2,218,Sqft,2020,115, ,https://www.movoto.com/home/1028-lathrop-ln-lot-167-apex-nc-27523-413_2336868
-FOR SALE,359900,352434,329000,376000,,849 Tunisian Dr,4,4,2334,,,,,,, ,https://www.movoto.com/home/849-tunisian-dr-apex-nc-27523-413_2336571
+FOR SALE,385000,,311000,384000,,1265 Russet Ln,3,3,2076,,,,,,, ,https://www.movoto.com/home/1265-russet-ln-apex-nc-27523-413_2337281
+FOR SALE,352480,372798,345000,435000,,1021 Lathrop Ln #LOT 47,4,4,2502,141,2,2178,Sqft,2020,115, ,https://www.movoto.com/home/1021-lathrop-ln-lot-47-apex-nc-27523-413_2337056
+FOR SALE,345000,,317000,413000,,1141 Little Gem Ln,4,4,2230,155,2,2614,Sqft,2018,152, ,https://www.movoto.com/home/1141-little-gem-ln-apex-nc-27523-413_2337023
+FOR SALE,350290,369371,342000,431000,,1035 Lathrop Ln #LOT 53,3,4,2479,141,3,2178,Sqft,2020,115, ,https://www.movoto.com/home/1035-lathrop-ln-lot-53-apex-nc-27523-413_2336872
+FOR SALE,308130,303552,280000,345000,,1028 Lathrop Ln #LOT 167,3,4,1984,155,3,218,Sqft,2020,115, ,https://www.movoto.com/home/1028-lathrop-ln-lot-167-apex-nc-27523-413_2336868
+FOR SALE,359900,352434,329000,376000,,849 Tunisian Dr,4,4,2334,154,4,2614,Sqft,2017,119, ,https://www.movoto.com/home/849-tunisian-dr-apex-nc-27523-413_2336571
 FOR SALE,393049,,392000,444000,,925 Haybeck Ln #101,3,3,2760,,,,,,, ,https://www.movoto.com/home/925-haybeck-ln-apt-101-apex-nc-27523-413_2336024
-Coming Soon - 08/07,349000,343350,323000,398000,,729 Bay Bouquet Ln,4,3,2289,152,8,6534,Sqft,2011,46, ,https://www.movoto.com/home/729-bay-bouquet-ln-apex-nc-27523-413_2335814
+Coming Soon - 08/07,349000,343350,323000,398000,,729 Bay Bouquet Ln,4,3,2289,152,9,6534,Sqft,2011,46, ,https://www.movoto.com/home/729-bay-bouquet-ln-apex-nc-27523-413_2335814
 FOR SALE,359260,372798,345000,435000,,1003 Lathrop Ln #LOT 39,3,4,2502,,,,,,, ,https://www.movoto.com/home/1003-lathrop-ln-lot-39-apex-nc-27523-413_2335190
-FOR SALE,475000,453600,406000,515000,,2117 Turling Way,5,3,2800,170,14,7405,Sqft,2018,65, ,https://www.movoto.com/home/2117-turling-way-apex-nc-27523-413_2334612
-FOR SALE,439900,439153,433000,445000,,513 Rowanwood Way,4,4,3071,143,14,3920,Sqft,2017,150, ,https://www.movoto.com/home/513-rowanwood-way-apex-nc-27523-413_2116773
-FOR SALE,359720,,339000,387000,,1649 Wimberly Rd #39,4,4,2405,150,17,2178,Sqft,2020,146, ,https://www.movoto.com/home/1649-wimberly-rd-apt-39-apex-nc-27523-413_2333918
-FOR SALE,344900,351866,316000,412000,100,1125 Little Gem Ln,4,4,2227,155,21,3049,Sqft,2017,152,Open 8/16,https://www.movoto.com/home/1125-little-gem-ln-apex-nc-27523-413_2294177
-FOR SALE,359900,390609,360000,411000,10000,885 Tunisian Dr,4,4,2553,141,28,1742,Sqft,2018,119, ,https://www.movoto.com/home/885-tunisian-dr-apex-nc-27523-413_2331807
-FOR SALE,425000,,418000,532000,,2033 Patapsco Dr,4,3,2921,145,29,7405,Sqft,2007,55, ,https://www.movoto.com/home/2033-patapsco-dr-apex-nc-27523-413_2312206
-FOR SALE,404990,358068,291000,532000,,1185 St Cloud Loop #LOT 57,3,2,1689,240,33,0.31,Acres,2020,140, ,https://www.movoto.com/home/1185-st-cloud-loop-lot-57-apex-nc-27523-413_2330625
-FOR SALE,325000,408212,321000,534000,25000,4300 Green Level West Rd,3,2,1673,,,,,,, ,https://www.movoto.com/home/4300-green-level-west-rd-apex-nc-27523-413_2330519
-FOR SALE,396156,,367000,478000,1000,923 Haybeck Ln #102,4,4,2582,,,,,,, ,https://www.movoto.com/home/923-haybeck-ln-apt-102-apex-nc-27523-413_2329706
-FOR SALE,399000,366300,349000,398000,,813 Tunisian Dr,3,4,2475,161,40,2657,Sqft,2017,125, ,https://www.movoto.com/home/813-tunisian-dr-apex-nc-27523-413_2329289
-FOR SALE,334900,281342,272000,335000,4000,841 Salem Pointe Pl,3,3,1927,174,49,2614,Sqft,2018,120, ,https://www.movoto.com/home/841-salem-pointe-pl-apex-nc-27523-413_2209083
-FOR SALE,480900,471900,435000,526000,4000,2420 Emily Brook Way,4,4,2860,168,55,7405,Sqft,2017,60,Open 8/16,https://www.movoto.com/home/2420-emily-brook-way-apex-nc-27523-413_2326301
-FOR SALE,311570,303552,280000,345000,2000,1023 Larabee Ln #LOT 189,3,3,1984,157,59,218,Sqft,2020,115, ,https://www.movoto.com/home/1023-larabee-ln-lot-189-apex-nc-27523-413_2325522
-FOR SALE,373312,,350000,397000,10000,1639 Wimberly Rd #35,4,4,2465,151,85,3049,Sqft,2020,146, ,https://www.movoto.com/home/1639-wimberly-rd-apt-35-apex-nc-27523-413_2320834
+FOR SALE,475000,445200,406000,515000,,2117 Turling Way,5,3,2800,,,,,,, ,https://www.movoto.com/home/2117-turling-way-apex-nc-27523-413_2334612
+FOR SALE,439900,439153,433000,445000,,513 Rowanwood Way,4,4,3071,143,15,3920,Sqft,2017,150, ,https://www.movoto.com/home/513-rowanwood-way-apex-nc-27523-413_2116773
+FOR SALE,359720,,339000,387000,,1649 Wimberly Rd #39,4,4,2405,150,18,2178,Sqft,2020,146, ,https://www.movoto.com/home/1649-wimberly-rd-apt-39-apex-nc-27523-413_2333918
+FOR SALE,344900,351866,316000,412000,100,1125 Little Gem Ln,4,4,2227,155,22,3049,Sqft,2017,152, ,https://www.movoto.com/home/1125-little-gem-ln-apex-nc-27523-413_2294177
+FOR SALE,359900,390609,360000,411000,10000,885 Tunisian Dr,4,4,2553,,,,,,, ,https://www.movoto.com/home/885-tunisian-dr-apex-nc-27523-413_2331807
+FOR SALE,425000,,418000,532000,,2033 Patapsco Dr,4,3,2921,,,,,,, ,https://www.movoto.com/home/2033-patapsco-dr-apex-nc-27523-413_2312206
+FOR SALE,404990,358068,291000,532000,,1185 St Cloud Loop #LOT 57,3,2,1689,240,34,0.31,Acres,2020,140, ,https://www.movoto.com/home/1185-st-cloud-loop-lot-57-apex-nc-27523-413_2330625
+FOR SALE,325000,434980,325000,534000,25000,4300 Green Level West Rd,3,2,1673,194,35,0.85,Acres,1968,0, ,https://www.movoto.com/home/4300-green-level-west-rd-apex-nc-27523-413_2330519
+FOR SALE,396156,,367000,478000,1000,923 Haybeck Ln #102,4,4,2582,153,39,4008,Sqft,2020,146, ,https://www.movoto.com/home/923-haybeck-ln-apt-102-apex-nc-27523-413_2329706
+FOR SALE,399000,366300,349000,398000,,813 Tunisian Dr,3,4,2475,161,41,2657,Sqft,2017,125, ,https://www.movoto.com/home/813-tunisian-dr-apex-nc-27523-413_2329289
+FOR SALE,334900,281342,272000,335000,4000,841 Salem Pointe Pl,3,3,1927,174,50,2614,Sqft,2018,120, ,https://www.movoto.com/home/841-salem-pointe-pl-apex-nc-27523-413_2209083
+FOR SALE,311570,303552,280000,345000,2000,1023 Larabee Ln #LOT 189,3,3,1984,,,,,,, ,https://www.movoto.com/home/1023-larabee-ln-lot-189-apex-nc-27523-413_2325522
+FOR SALE,373312,,350000,397000,10000,1639 Wimberly Rd #35,4,4,2465,151,86,3049,Sqft,2020,146, ,https://www.movoto.com/home/1639-wimberly-rd-apt-35-apex-nc-27523-413_2320834
 FOR SALE,372631,393807,373000,426000,7000,1633 Wimberly Rd #32,4,4,2643,,,,,,, ,https://www.movoto.com/home/1633-wimberly-rd-apt-32-apex-nc-27523-413_2319658
-FOR SALE,500000,614250,500000,708000,12000,400 Echo Park Pl #LOT 118,3,3,2925,,,,,,, ,https://www.movoto.com/home/400-echo-park-pl-lot-118-apex-nc-27523-413_2252095
-FOR SALE,423070,390981,349000,455000,5000,1113 Russet Ln #138,3,4,2459,,,,,,, ,https://www.movoto.com/home/1113-russet-ln-apt-138-apex-nc-27523-413_2313364
-FOR SALE,489515,417092,375000,489000,,79 Elk River Dr,3,3,2468,198,150,7100,Sqft,2021,210, ,https://www.movoto.com/home/79-elk-river-dr-apex-nc-27523-413_2308582
-FOR SALE,483830,339678,291000,484000,,75 Elk River Dr,3,3,2034,,,,,,, ,https://www.movoto.com/home/75-elk-river-dr-apex-nc-27502-413_2307158
-FOR SALE,382546,,373000,426000,3000,802 Patriot Summit Ln #87,4,4,2643,145,163,2265,Sqft,2020,146, ,https://www.movoto.com/home/802-patriot-summit-ln-apt-87-apex-nc-27523-413_2306047
-FOR SALE,369871,,370000,453000,10000,935 Haybeck Ln #97,3,4,2451,,,,,,, ,https://www.movoto.com/home/935-haybeck-ln-apt-97-apex-nc-27523-413_2283836
-FOR SALE,374289,,350000,397000,10000,943 Haybeck Ln #93,4,4,2465,152,307,3093,Sqft,2020,146, ,https://www.movoto.com/home/943-haybeck-ln-apt-93-apex-nc-27523-413_2283818
-SALE PENDING,308080,311488,280000,345000,,1033 Larabee Ln #LOT 193,3,4,1984,155,1,218,Sqft,2020,115, ,https://www.movoto.com/home/1033-larabee-ln-lot-193-apex-nc-27523-413_2337180
-SALE PENDING,294070,311488,280000,345000,,1035 Larabee Ln #LOT 194,3,4,1984,148,1,218,Sqft,2020,115, ,https://www.movoto.com/home/1035-larabee-ln-lot-194-apex-nc-27523-413_2337188
-SALE PENDING,309900,311488,280000,345000,,1027 Larabee Ln #LOT 190,3,4,1984,156,1,218,Sqft,2020,115, ,https://www.movoto.com/home/1027-larabee-ln-lot-190-apex-nc-27523-413_2337186
-IN CONTRACT,450000,466560,417000,531000,,1013 Holtridge Dr,4,3,2916,154,15,7405,Sqft,2008,55, ,https://www.movoto.com/home/1013-holtridge-dr-apex-nc-27523-413_2334515
-SALE PENDING,299900,279344,209000,394000,,1405 Farrington Rd,3,2,1264,237,15,1.79,Acres,1920,0, ,https://www.movoto.com/home/1405-farrington-rd-apex-nc-27523-413_2334476
-IN CONTRACT,412000,346480,344000,412000,,415 Hopwood Way,4,3,2440,169,16,3920,Sqft,2018,150, ,https://www.movoto.com/home/415-hopwood-way-apex-nc-27502-413_2174122
-IN CONTRACT,345000,348992,324000,400000,,728 Blossom Bay Ln,4,3,2296,150,21,5663,Sqft,2012,46, ,https://www.movoto.com/home/728-blossom-bay-ln-apex-nc-27523-413_2160221
-SALE PENDING,385627,,331000,431000,,931 Haybeck Ln #98,3,4,2332,,,,,,, ,https://www.movoto.com/home/931-haybeck-ln-apt-98-apex-nc-27523-413_2333246
-SALE PENDING,480000,378106,363000,479000,20000,8517 Pinefield Rd,3,3,1949,,,,,,, ,https://www.movoto.com/home/8517-pinefield-rd-apex-nc-27523-413_2333162
-SALE PENDING,255000,251544,196000,289000,,1033 Earnest Jones Rd,3,2,1128,226,26,1.00,Acre,1976,0, ,https://www.movoto.com/home/1033-earnest-jones-rd-apex-nc-27523-413_2331917
-SALE PENDING,439990,419919,383000,449000,,309 Brook Pine Trl,4,3,2641,167,29,6098,Sqft,2019,90, ,https://www.movoto.com/home/309-brook-pine-trl-apex-nc-27523-413_2331730
-SALE PENDING,345000,326096,284000,377000,,2015 Battlewood Rd,3,3,1832,188,30,0.25,Acres,1997,90, ,https://www.movoto.com/home/2015-battlewood-rd-apex-nc-27523-413_2161261
-SALE PENDING,498000,480004,462000,510000,12000,708 Vine Pond Ct,5,4,3038,,,,,,, ,https://www.movoto.com/home/708-vine-pond-ct-apex-nc-27523-413_2330901
-SALE PENDING,297000,311488,280000,345000,,1026 Lathrop Ln #LOT 168,4,4,1984,,,,,,, ,https://www.movoto.com/home/1026-lathrop-ln-lot-168-apex-nc-27523-413_2330731
-SALE PENDING,305000,311488,280000,345000,,1022 Lathrop Ln #LOT 170,3,4,1984,154,32,218,Sqft,2020,115, ,https://www.movoto.com/home/1022-lathrop-ln-lot-170-apex-nc-27523-413_2330729
-SALE PENDING,297000,311488,280000,345000,,1032 Lathrop Ln #LOT 165,4,4,1984,150,32,218,Sqft,2020,115, ,https://www.movoto.com/home/1032-lathrop-ln-lot-165-apex-nc-27523-413_2330727
-SALE PENDING,355000,375300,353000,435000,,1039 Lathrop Ln #LOT 55,3,4,2502,142,33,2178,Sqft,2020,115, ,https://www.movoto.com/home/1039-lathrop-ln-lot-55-apex-nc-27523-413_2330558
-SALE PENDING,306999,,271000,334000,,1147 Little Gem Ln,3,3,1808,170,34,2178,Sqft,2018,152, ,https://www.movoto.com/home/1147-little-gem-ln-apex-nc-27523-413_2330514
-IN CONTRACT,435000,,432000,490000,5000,7904 Secluded Acres Rd,3,2,2485,175,34,1.96,Acres,1986,0, ,https://www.movoto.com/home/7904-secluded-acres-rd-apex-nc-27523-413_2330511
-IN CONTRACT,320000,300587,280000,345000,,2802 Lanasa Ln #296,3,3,1867,171,36,2004,Sqft,2018,152, ,https://www.movoto.com/home/2802-lanasa-ln-apt-296-apex-nc-27523-413_2330279
-IN CONTRACT,275000,,274000,332000,,848 Queen City Cres,4,3,2063,133,37,1873,Sqft,2007,155, ,https://www.movoto.com/home/848-queen-city-cres-apex-nc-27523-413_2329891
-IN CONTRACT,435000,401320,366000,442000,10000,2214 Walden Creek Dr,4,3,2540,171,46,0.25,Acres,1997,37, ,https://www.movoto.com/home/2214-walden-creek-dr-apex-nc-27523-413_2328179
-SALE PENDING,303500,311488,280000,345000,,1006 Lathrop Ln #LOT 177,3,4,1984,153,47,218,Sqft,2020,115, ,https://www.movoto.com/home/1006-lathrop-ln-lot-177-apex-nc-27523-413_2327879
-SALE PENDING,302000,311488,280000,345000,,1011 Larabee Ln #LOT 183,3,4,1984,,,,,,, ,https://www.movoto.com/home/1011-larabee-ln-lot-183-apex-nc-27523-413_2327881
-SALE PENDING,484940,510300,467000,583000,,309 Quiet Rock Dr #LOT 110,4,3,2430,200,49,0.40,Acres,2020,140, ,https://www.movoto.com/home/309-quiet-rock-dr-lot-110-apex-nc-27523-413_2327658
-SALE PENDING,309990,311488,280000,345000,,1034 Lathrop Ln #LOT 164,3,4,1984,,,,,,, ,https://www.movoto.com/home/1034-lathrop-ln-lot-164-apex-nc-27523-413_2327232
-SALE PENDING,294000,311488,280000,345000,,1015 Larabee Ln #LOT 185,3,4,1984,148,51,218,Sqft,2020,115, ,https://www.movoto.com/home/1015-larabee-ln-lot-185-apex-nc-27523-413_2327227
-SALE PENDING,294000,311488,280000,345000,,1013 Larabee Ln #LOT 184,3,4,1984,148,51,218,Sqft,2020,115, ,https://www.movoto.com/home/1013-larabee-ln-lot-184-apex-nc-27523-413_2327229
-SALE PENDING,324000,371850,325000,431000,,1019 Lathrop Ln #LOT 46,4,4,2479,,,,,,, ,https://www.movoto.com/home/1019-lathrop-ln-lot-46-apex-nc-27523-413_2327224
-SALE PENDING,303000,311488,280000,345000,,1016 Lathrop Ln #LOT 172,3,4,1984,153,51,218,Sqft,2020,115, ,https://www.movoto.com/home/1016-lathrop-ln-lot-172-apex-nc-27523-413_2327191
-SALE PENDING,429900,427460,416000,448000,,1021 Dotson Way,4,4,2948,,,,,,, ,https://www.movoto.com/home/1021-dotson-way-apex-nc-27523-413_2325700
-SALE PENDING,301210,297600,280000,345000,,1019 Larabee Ln #LOT 187,3,3,1984,152,60,2178,Sqft,2020,115, ,https://www.movoto.com/home/1019-larabee-ln-lot-187-apex-nc-27523-413_2325374
-SALE PENDING,299990,311488,280000,345000,,1012 Lathrop Ln #LOT 174,4,4,1984,151,60,218,Sqft,2020,115, ,https://www.movoto.com/home/1012-lathrop-ln-lot-174-apex-nc-27523-413_2325368
-SALE PENDING,347510,375300,348000,435000,,1025 Lathrop Ln #LOT 49,4,3,2502,139,60,2178,Sqft,2020,115, ,https://www.movoto.com/home/1025-lathrop-ln-lot-49-apex-nc-27523-413_2325361
-SALE PENDING,369278,,370000,426000,,1635 Wimberly Rd #33,4,4,2643,140,61,2047,Sqft,2020,146, ,https://www.movoto.com/home/1635-wimberly-rd-apt-33-apex-nc-27523-413_2325068
-SALE PENDING,436200,386781,297000,532000,,1033 St Cloud Loop #LOT 32,3,2,1689,258,61,0.28,Acres,2020,140, ,https://www.movoto.com/home/1033-st-cloud-loop-lot-32-apex-nc-27523-413_2325036
-SALE PENDING,349129,,339000,387000,,1637 Wimberly Rd #34,4,4,2405,145,62,2091,Sqft,2020,146, ,https://www.movoto.com/home/1637-wimberly-rd-apt-34-apex-nc-27523-413_2324973
-SALE PENDING,309000,266266,259000,309000,,2535 Sunnybranch Ln,3,3,1729,,,,,,, ,https://www.movoto.com/home/2535-sunnybranch-ln-apex-nc-27523-413_2324969
-IN CONTRACT,354900,351728,326000,373000,9000,866 Tunisian Dr,4,4,2314,,,,,,, ,https://www.movoto.com/home/866-tunisian-dr-apex-nc-27523-413_2321711
-SALE PENDING,375000,430782,339000,570000,5000,2005 Fitchburg Ct,4,3,2354,159,79,0.25,Acres,1997,37, ,https://www.movoto.com/home/2005-fitchburg-ct-apex-nc-27523-413_2321534
-SALE PENDING,330000,359252,317000,392000,15000,2017 Battlewood Rd,4,4,2204,,,,,,, ,https://www.movoto.com/home/2017-battlewood-rd-apex-nc-27523-413_2320038
-SALE PENDING,379182,,378000,444000,,929 Haybeck Ln #99,3,3,2760,137,94,3006,Sqft,2020,146, ,https://www.movoto.com/home/929-haybeck-ln-apt-99-apex-nc-27523-413_2318932
-SALE PENDING,440890,463258,402000,510000,3000,317 Brook Pine Trail Gm #GM  378,4,3,2774,159,100,6098,Sqft,2020,65, ,https://www.movoto.com/home/317-brook-pine-trail-gm-apt-gm-378-apex-nc-27523-413_2317741
-SALE PENDING,488850,508760,480000,537000,,2212 Tuftin Trace Gm #GM  318,5,4,3160,155,100,6970,Sqft,2020,65, ,https://www.movoto.com/home/2212-tuftin-trace-gm-apt-gm-318-apex-nc-27523-413_2317730
-SALE PENDING,495205,512236,464000,564000,,774 Orange Oak Lane,5,4,3242,,,,,,, ,https://www.movoto.com/home/774-orange-oak-lane-apex-nc-27523-413_2317307
-SALE PENDING,469590,486167,374000,669000,9000,1041 St Cloud Loop #LOT 34,3,3,2123,221,104,0.33,Acres,2020,140, ,https://www.movoto.com/home/1041-st-cloud-loop-lot-34-apex-nc-27523-413_2316971
-SALE PENDING,484020,498964,458000,549000,22000,528 Pointe Grove Ln #LOT 27-PRESALE,4,4,3158,153,124,9670,Sqft,2019,67, ,https://www.movoto.com/home/528-pointe-grove-ln-lot-27-presale-apex-nc-27523-413_2313417
+FOR SALE,423070,390981,349000,455000,5000,1113 Russet Ln #138,3,4,2459,172,125,3485,Sqft,2020,60, ,https://www.movoto.com/home/1113-russet-ln-apt-138-apex-nc-27523-413_2313364
+FOR SALE,489515,407220,375000,489000,,79 Elk River Dr,3,3,2468,,,,,,, ,https://www.movoto.com/home/79-elk-river-dr-apex-nc-27523-413_2308582
+FOR SALE,483830,343746,295000,484000,,75 Elk River Dr,3,3,2034,238,158,6752,Sqft,2021,210, ,https://www.movoto.com/home/75-elk-river-dr-apex-nc-27502-413_2307158
+FOR SALE,382546,,373000,426000,3000,802 Patriot Summit Ln #87,4,4,2643,,,,,,, ,https://www.movoto.com/home/802-patriot-summit-ln-apt-87-apex-nc-27523-413_2306047
+FOR SALE,369871,,370000,453000,10000,935 Haybeck Ln #97,3,4,2451,151,308,3877,Sqft,2020,146, ,https://www.movoto.com/home/935-haybeck-ln-apt-97-apex-nc-27523-413_2283836
+FOR SALE,374289,,350000,397000,10000,943 Haybeck Ln #93,4,4,2465,152,308,3093,Sqft,2020,146, ,https://www.movoto.com/home/943-haybeck-ln-apt-93-apex-nc-27523-413_2283818
+SALE PENDING,308080,311488,280000,345000,,1033 Larabee Ln #LOT 193,3,4,1984,155,2,218,Sqft,2020,115, ,https://www.movoto.com/home/1033-larabee-ln-lot-193-apex-nc-27523-413_2337180
+SALE PENDING,294070,311488,280000,345000,,1035 Larabee Ln #LOT 194,3,4,1984,148,2,218,Sqft,2020,115, ,https://www.movoto.com/home/1035-larabee-ln-lot-194-apex-nc-27523-413_2337188
+SALE PENDING,309900,311488,280000,345000,,1027 Larabee Ln #LOT 190,3,4,1984,156,2,218,Sqft,2020,115, ,https://www.movoto.com/home/1027-larabee-ln-lot-190-apex-nc-27523-413_2337186
+IN CONTRACT,450000,466560,417000,531000,,1013 Holtridge Dr,4,3,2916,,,,,,, ,https://www.movoto.com/home/1013-holtridge-dr-apex-nc-27523-413_2334515
+SALE PENDING,299900,279344,209000,394000,,1405 Farrington Rd,3,2,1264,237,16,1.79,Acres,1920,0, ,https://www.movoto.com/home/1405-farrington-rd-apex-nc-27523-413_2334476
+IN CONTRACT,412000,346480,344000,412000,,415 Hopwood Way,4,3,2440,169,17,3920,Sqft,2018,150, ,https://www.movoto.com/home/415-hopwood-way-apex-nc-27502-413_2174122
+IN CONTRACT,345000,348992,324000,400000,,728 Blossom Bay Ln,4,3,2296,150,22,5663,Sqft,2012,46, ,https://www.movoto.com/home/728-blossom-bay-ln-apex-nc-27523-413_2160221
+SALE PENDING,385627,,331000,431000,,931 Haybeck Ln #98,3,4,2332,165,22,3920,Sqft,2020,146, ,https://www.movoto.com/home/931-haybeck-ln-apt-98-apex-nc-27523-413_2333246
+SALE PENDING,480000,378106,363000,479000,20000,8517 Pinefield Rd,3,3,1949,246,23,2.49,Acres,1987,0, ,https://www.movoto.com/home/8517-pinefield-rd-apex-nc-27523-413_2333162
+SALE PENDING,255000,251544,196000,289000,,1033 Earnest Jones Rd,3,2,1128,226,27,1.00,Acre,1976,0, ,https://www.movoto.com/home/1033-earnest-jones-rd-apex-nc-27523-413_2331917
+SALE PENDING,439990,430483,383000,486000,,309 Brook Pine Trl,4,3,2641,167,30,6098,Sqft,2019,90, ,https://www.movoto.com/home/309-brook-pine-trl-apex-nc-27523-413_2331730
+SALE PENDING,345000,326096,284000,377000,,2015 Battlewood Rd,3,3,1832,188,31,0.25,Acres,1997,90, ,https://www.movoto.com/home/2015-battlewood-rd-apex-nc-27523-413_2161261
+SALE PENDING,498000,473928,462000,498000,12000,708 Vine Pond Ct,5,4,3038,,,,,,, ,https://www.movoto.com/home/708-vine-pond-ct-apex-nc-27523-413_2330901
+SALE PENDING,297000,311488,280000,345000,,1026 Lathrop Ln #LOT 168,4,4,1984,150,33,218,Sqft,2020,115, ,https://www.movoto.com/home/1026-lathrop-ln-lot-168-apex-nc-27523-413_2330731
+SALE PENDING,305000,311488,280000,345000,,1022 Lathrop Ln #LOT 170,3,4,1984,154,33,218,Sqft,2020,115, ,https://www.movoto.com/home/1022-lathrop-ln-lot-170-apex-nc-27523-413_2330729
+SALE PENDING,297000,311488,280000,345000,,1032 Lathrop Ln #LOT 165,4,4,1984,150,33,218,Sqft,2020,115, ,https://www.movoto.com/home/1032-lathrop-ln-lot-165-apex-nc-27523-413_2330727
+SALE PENDING,355000,375300,353000,435000,,1039 Lathrop Ln #LOT 55,3,4,2502,142,34,2178,Sqft,2020,115, ,https://www.movoto.com/home/1039-lathrop-ln-lot-55-apex-nc-27523-413_2330558
+SALE PENDING,306999,,271000,334000,,1147 Little Gem Ln,3,3,1808,170,35,2178,Sqft,2018,152, ,https://www.movoto.com/home/1147-little-gem-ln-apex-nc-27523-413_2330514
+IN CONTRACT,435000,,432000,490000,5000,7904 Secluded Acres Rd,3,2,2485,,,,,,, ,https://www.movoto.com/home/7904-secluded-acres-rd-apex-nc-27523-413_2330511
+IN CONTRACT,320000,300587,280000,345000,,2802 Lanasa Ln #296,3,3,1867,,,,,,, ,https://www.movoto.com/home/2802-lanasa-ln-apt-296-apex-nc-27523-413_2330279
+IN CONTRACT,275000,,274000,332000,,848 Queen City Cres,4,3,2063,133,38,1873,Sqft,2007,155, ,https://www.movoto.com/home/848-queen-city-cres-apex-nc-27523-413_2329891
+IN CONTRACT,435000,416560,366000,442000,10000,2214 Walden Creek Dr,4,3,2540,171,47,0.25,Acres,1997,37, ,https://www.movoto.com/home/2214-walden-creek-dr-apex-nc-27523-413_2328179
+SALE PENDING,303500,311488,280000,345000,,1006 Lathrop Ln #LOT 177,3,4,1984,153,48,218,Sqft,2020,115, ,https://www.movoto.com/home/1006-lathrop-ln-lot-177-apex-nc-27523-413_2327879
+SALE PENDING,302000,311488,280000,345000,,1011 Larabee Ln #LOT 183,3,4,1984,152,48,218,Sqft,2020,115, ,https://www.movoto.com/home/1011-larabee-ln-lot-183-apex-nc-27523-413_2327881
+SALE PENDING,484940,510300,467000,583000,,309 Quiet Rock Dr #LOT 110,4,3,2430,200,50,0.40,Acres,2020,140, ,https://www.movoto.com/home/309-quiet-rock-dr-lot-110-apex-nc-27523-413_2327658
+SALE PENDING,309990,311488,280000,345000,,1034 Lathrop Ln #LOT 164,3,4,1984,156,52,218,Sqft,2020,115, ,https://www.movoto.com/home/1034-lathrop-ln-lot-164-apex-nc-27523-413_2327232
+SALE PENDING,294000,311488,280000,345000,,1015 Larabee Ln #LOT 185,3,4,1984,148,52,218,Sqft,2020,115, ,https://www.movoto.com/home/1015-larabee-ln-lot-185-apex-nc-27523-413_2327227
+SALE PENDING,294000,311488,280000,345000,,1013 Larabee Ln #LOT 184,3,4,1984,148,52,218,Sqft,2020,115, ,https://www.movoto.com/home/1013-larabee-ln-lot-184-apex-nc-27523-413_2327229
+SALE PENDING,324000,371850,325000,431000,,1019 Lathrop Ln #LOT 46,4,4,2479,131,52,2178,Sqft,2020,115, ,https://www.movoto.com/home/1019-lathrop-ln-lot-46-apex-nc-27523-413_2327224
+SALE PENDING,303000,311488,280000,345000,,1016 Lathrop Ln #LOT 172,3,4,1984,153,52,218,Sqft,2020,115, ,https://www.movoto.com/home/1016-lathrop-ln-lot-172-apex-nc-27523-413_2327191
+IN CONTRACT,480900,471900,435000,526000,4000,2420 Emily Brook Way,4,4,2860,168,56,7405,Sqft,2017,60, ,https://www.movoto.com/home/2420-emily-brook-way-apex-nc-27523-413_2326301
+SALE PENDING,429900,427460,416000,448000,,1021 Dotson Way,4,4,2948,146,59,6098,Sqft,2007,150, ,https://www.movoto.com/home/1021-dotson-way-apex-nc-27523-413_2325700
+SALE PENDING,301210,297600,280000,345000,,1019 Larabee Ln #LOT 187,3,3,1984,152,61,2178,Sqft,2020,115, ,https://www.movoto.com/home/1019-larabee-ln-lot-187-apex-nc-27523-413_2325374
+SALE PENDING,299990,311488,280000,345000,,1012 Lathrop Ln #LOT 174,4,4,1984,151,61,218,Sqft,2020,115, ,https://www.movoto.com/home/1012-lathrop-ln-lot-174-apex-nc-27523-413_2325368
+SALE PENDING,347510,375300,348000,435000,,1025 Lathrop Ln #LOT 49,4,3,2502,139,61,2178,Sqft,2020,115, ,https://www.movoto.com/home/1025-lathrop-ln-lot-49-apex-nc-27523-413_2325361
+SALE PENDING,369278,,370000,426000,,1635 Wimberly Rd #33,4,4,2643,140,62,2047,Sqft,2020,146, ,https://www.movoto.com/home/1635-wimberly-rd-apt-33-apex-nc-27523-413_2325068
+SALE PENDING,436200,386781,297000,532000,,1033 St Cloud Loop #LOT 32,3,2,1689,258,62,0.28,Acres,2020,140, ,https://www.movoto.com/home/1033-st-cloud-loop-lot-32-apex-nc-27523-413_2325036
+SALE PENDING,349129,,339000,387000,,1637 Wimberly Rd #34,4,4,2405,145,63,2091,Sqft,2020,146, ,https://www.movoto.com/home/1637-wimberly-rd-apt-34-apex-nc-27523-413_2324973
+SALE PENDING,309000,266266,259000,309000,,2535 Sunnybranch Ln,3,3,1729,179,63,2178,Sqft,2018,183, ,https://www.movoto.com/home/2535-sunnybranch-ln-apex-nc-27523-413_2324969
+IN CONTRACT,354900,351728,326000,373000,9000,866 Tunisian Dr,4,4,2314,153,80,2178,Sqft,2017,119, ,https://www.movoto.com/home/866-tunisian-dr-apex-nc-27523-413_2321711
+SALE PENDING,375000,515526,339000,742000,5000,2005 Fitchburg Ct,4,3,2354,159,80,0.25,Acres,1997,37, ,https://www.movoto.com/home/2005-fitchburg-ct-apex-nc-27523-413_2321534
+SALE PENDING,330000,359252,317000,392000,15000,2017 Battlewood Rd,4,4,2204,150,89,0.25,Acres,1999,45, ,https://www.movoto.com/home/2017-battlewood-rd-apex-nc-27523-413_2320038
+SALE PENDING,379182,,378000,444000,,929 Haybeck Ln #99,3,3,2760,,,,,,, ,https://www.movoto.com/home/929-haybeck-ln-apt-99-apex-nc-27523-413_2318932
+SALE PENDING,440890,452162,402000,510000,3000,317 Brook Pine Trail Gm #GM  378,4,3,2774,159,101,6098,Sqft,2020,65, ,https://www.movoto.com/home/317-brook-pine-trail-gm-apt-gm-378-apex-nc-27523-413_2317741
+SALE PENDING,488850,502440,480000,537000,,2212 Tuftin Trace Gm #GM  318,5,4,3160,155,101,6970,Sqft,2020,65, ,https://www.movoto.com/home/2212-tuftin-trace-gm-apt-gm-318-apex-nc-27523-413_2317730
+SALE PENDING,495205,512236,464000,564000,,774 Orange Oak Lane,5,4,3242,153,103,7579,Sqft,2020,58, ,https://www.movoto.com/home/774-orange-oak-lane-apex-nc-27523-413_2317307
+SALE PENDING,469590,486167,374000,669000,9000,1041 St Cloud Loop #LOT 34,3,3,2123,221,105,0.33,Acres,2020,140, ,https://www.movoto.com/home/1041-st-cloud-loop-lot-34-apex-nc-27523-413_2316971
+SALE PENDING,500000,614250,500000,708000,12000,400 Echo Park Pl #LOT 118,3,3,2925,171,106,0.33,Acres,2019,140, ,https://www.movoto.com/home/400-echo-park-pl-lot-118-apex-nc-27523-413_2252095
+SALE PENDING,484020,498964,458000,549000,22000,528 Pointe Grove Ln #LOT 27-PRESALE,4,4,3158,153,125,9670,Sqft,2019,67, ,https://www.movoto.com/home/528-pointe-grove-ln-lot-27-presale-apex-nc-27523-413_2313417
 SALE PENDING,307000,311488,280000,345000,,1008 Lathrop Ln,3,4,1984,,,,,,, ,https://www.movoto.com/home/1008-lathrop-ln-apex-nc-27523-413_2311393
-SALE PENDING,346000,371850,347000,431000,,1023 Lathrop Ln #LOT 48,4,4,2479,,,,,,, ,https://www.movoto.com/home/1023-lathrop-ln-lot-48-apex-nc-27523-413_2311038
+SALE PENDING,346000,371850,347000,431000,,1023 Lathrop Ln #LOT 48,4,4,2479,140,139,2178,Sqft,2020,115, ,https://www.movoto.com/home/1023-lathrop-ln-lot-48-apex-nc-27523-413_2311038
 SALE PENDING,294000,311488,280000,345000,,1014 Lathrop Ln #LOT 173,3,4,1984,,,,,,, ,https://www.movoto.com/home/1014-lathrop-ln-lot-173-apex-nc-27523-413_2311037
-SALE PENDING,296780,311488,280000,345000,,1017 Larabee Ln #LOT 186,3,4,1984,150,142,218,Sqft,2020,115, ,https://www.movoto.com/home/1017-larabee-ln-lot-186-apex-nc-27523-413_2310412
+SALE PENDING,296780,311488,280000,345000,,1017 Larabee Ln #LOT 186,3,4,1984,150,143,218,Sqft,2020,115, ,https://www.movoto.com/home/1017-larabee-ln-lot-186-apex-nc-27523-413_2310412
 SALE PENDING,298000,311488,280000,345000,4000,1021 Larabee Ln,3,4,1984,,,,,,, ,https://www.movoto.com/home/1021-larabee-ln-apex-nc-27523-413_2310095
-SALE PENDING,299990,311488,280000,345000,,1010 Lathrop Ln #LOT 175,3,4,1984,151,143,218,Sqft,2020,115, ,https://www.movoto.com/home/1010-lathrop-ln-lot-175-apex-nc-27523-413_2310085
-IN CONTRACT,425000,444260,426000,469000,15000,482 Nc 751 Hwy,3,2,2290,186,155,6.96,Acres,1969,0, ,https://www.movoto.com/home/482-nc-751-hwy-apex-nc-27523-413_2291733
-SALE PENDING,344300,342630,324000,391000,5000,1327 Brown Velvet Ln #330,3,4,2115,,,,,,, ,https://www.movoto.com/home/1327-brown-velvet-ln-apt-330-apex-nc-27523-413_2305837
+SALE PENDING,299990,311488,280000,345000,,1010 Lathrop Ln #LOT 175,3,4,1984,151,144,218,Sqft,2020,115, ,https://www.movoto.com/home/1010-lathrop-ln-lot-175-apex-nc-27523-413_2310085
+IN CONTRACT,425000,444260,426000,469000,15000,482 Nc 751 Hwy,3,2,2290,,,,,,, ,https://www.movoto.com/home/482-nc-751-hwy-apex-nc-27523-413_2291733
+SALE PENDING,344300,342630,324000,391000,5000,1327 Brown Velvet Ln #330,3,4,2115,163,164,3920,Sqft,2020,60, ,https://www.movoto.com/home/1327-brown-velvet-ln-apt-330-apex-nc-27523-413_2305837
+SALE PENDING,322990,371850,322000,431000,,1017 Lathrop Ln,3,4,2479,130,193,2178,Sqft,2020,115, ,https://www.movoto.com/home/1017-lathrop-ln-apex-nc-27523-413_2300188
+SALE PENDING,484914,474336,445000,539000,,704 White Oak Pond Road Homesite 114 #HOME 114,5,4,2928,166,211,8973,Sqft,2020,68, ,https://www.movoto.com/home/704-white-oak-pond-road-homesite-114-apt-home-114-apex-nc-27523-413_2297239
+IN CONTRACT,400000,390744,369000,446000,,1232 Russet Ln,4,4,2412,166,240,3485,Sqft,2019,60, ,https://www.movoto.com/home/1232-russet-ln-apex-nc-27523-413_2293478
+SALE PENDING,438130,349668,268000,556000,,473 Duggins Point Gm #GM  134,3,2,1766,248,270,7841,Sqft,2020,89, ,https://www.movoto.com/home/473-duggins-point-gm-apt-gm-134-apex-nc-27523-413_2289695
