@@ -29,7 +29,9 @@
     "type": "git",
     "url": "git+https://github.com/xgirma/moveto.git"
   },
-  "keywords": ["real estate"],
+  "keywords": [
+    "real estate"
+  ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "bugs": {

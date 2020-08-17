@@ -1,5 +1,5 @@
 | Price                                                                               | Est.       | Address         | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
 | :---------------------------------------------------------------------------------- | :--------- | :-------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [400,000.00](https://www.movoto.com/home/105-fawn-ct-cary-nc-27513-413_2336095)     | 520,300.00 | 105 Fawn Ct     | 4   | 4    | 3025 |       |      |      |      |     |      |
-| [375,000.00](https://www.movoto.com/home/215-mccleary-ct-cary-nc-27513-413_2336366) | 406,458.00 | 215 Mccleary Ct | 4   | 3    | 2509 | 149   | 4    | 9583 | 1996 | 13  |      |
-| [350,000.00](https://www.movoto.com/home/230-dutchess-dr-cary-nc-27513-413_2337214) | 359,100.00 | 230 Dutchess Dr | 4   | 3    | 1995 | 175   | 1    | 0.30 | 1996 | 0   |      |
+| [400,000.00](https://www.movoto.com/home/105-fawn-ct-cary-nc-27513-413_2336095)     | 550,550.00 | 105 Fawn Ct     | 4   | 4    | 3025 | 132   | 7    | 0.44 | 1986 | 0   |      |
+| [375,000.00](https://www.movoto.com/home/215-mccleary-ct-cary-nc-27513-413_2336366) | 406,458.00 | 215 Mccleary Ct | 4   | 3    | 2509 | 149   | 5    | 9583 | 1996 | 13  |      |
+| [350,000.00](https://www.movoto.com/home/230-dutchess-dr-cary-nc-27513-413_2337214) | 357,105.00 | 230 Dutchess Dr | 4   | 3    | 1995 | 175   | 2    | 0.30 | 1996 | 0   |      |
