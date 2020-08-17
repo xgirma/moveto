@@ -1,0 +1,13 @@
+| Reduced                                                                                | Price      | Est.       | Address                | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :------------------------------------------------------------------------------------- | :--------- | :--------- | :--------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [500.00](https://www.movoto.com/home/101-pinehill-way-cary-nc-27513-413_2320575)       | 450,000.00 | 0.00       | 101 Pinehill Way       | 4   | 3    | 2494 | 180   | 86   | 0.34 | 1988 | 21  |      |
+| [5,000.00](https://www.movoto.com/home/524-cedar-ridge-rd-cary-nc-27513-413_2133553)   | 429,900.00 | 499,748.00 | 524 Cedar Ridge Rd     | 4   | 3    | 2474 |       |      |      |      |     |      |
+| [5,000.00](https://www.movoto.com/home/1113-laurel-twist-rd-cary-nc-27513-413_2132772) | 360,000.00 | 334,884.00 | 1113 Laurel Twist  ... | 3   | 3    | 1947 | 185   | 22   | 3049 | 2017 | 150 |      |
+| [400.00](https://www.movoto.com/home/320-barthel-dr-cary-nc-27513-413_2334906)         | 444,500.00 | 473,880.00 | 320 Barthel Dr         | 4   | 3    | 2872 |       |      |      |      |     |      |
+| [28,000.00](https://www.movoto.com/home/103-roebling-ln-cary-nc-27513-413_2319752)     | 479,000.00 | 500,484.00 | 103 Roebling Ln        | 4   | 3    | 2796 | 171   | 90   | 0.31 | 1996 | 33  |      |
+| [17,000.00](https://www.movoto.com/home/1133-evans-rd-cary-nc-27513-413_2060271)       | 415,000.00 | 842,160.00 | 1133 Evans Rd          | 5   | 3    | 3480 | 119   | 1588 | 0.97 | 1965 | 0   |      |
+| [15,000.00](https://www.movoto.com/home/705-modena-dr-cary-nc-27513-413_2329174)       | 470,000.00 | 367,233.00 | 705 Modena Dr          | 3   | 3    | 2199 | 214   | 40   | 0.70 | 1995 | 0   |      |
+| [12,000.00](https://www.movoto.com/home/308-tecumseh-ct-cary-nc-27513-413_2313026)     | 355,000.00 | 418,880.00 | 308 Tecumseh Ct        | 4   | 3    | 2464 | 144   | 127  | 0.29 | 2000 | 0   |      |
+| [10,000.00](https://www.movoto.com/home/322-stromer-dr-cary-nc-27513-pid_9fiy43b5jh)   | 415,000.00 | 481,468.00 | 322 Stromer Dr         | 4   | 3    | 2561 |       |      |      |      |     |      |
+| [10,000.00](https://www.movoto.com/home/309-middleton-ave-cary-nc-27513-413_2228546)   | 270,000.00 | 228,072.00 | 309 Middleton Ave      | 4   | 2    | 1326 | 204   | 137  | 0.33 | 1961 | 0   |      |
+| [1,000.00](https://www.movoto.com/home/118-oak-hill-loop-cary-nc-27513-413_2311312)    | 266,000.00 | 375,882.00 | 118 Oak Hill Loop      | 3   | 3    | 2054 |       |      |      |      |     |      |
