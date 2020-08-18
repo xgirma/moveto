@@ -1,7 +1,5 @@
-| Price                                                                                    | Est.       | Address             | Bed | Bath | Size | Value | Days | Lot   | Year | HOA | Open |
-| :--------------------------------------------------------------------------------------- | :--------- | :------------------ | :-- | :--- | :--- | :---- | :--- | :---- | :--- | :-- | :--- |
-| [450,000.00](https://www.movoto.com/home/1014-brittley-way-apex-nc-27502-pid_bjvx43b5jh) | 391,530.00 | 1014 Brittley Way   | 4   | 3    | 2526 | 178   | 1    | 10454 | 1996 | 80  |      |
-| [370,000.00](https://www.movoto.com/home/703-cameron-glen-dr-apex-nc-27502-413_2335367)  | 341,385.00 | 703 Cameron Glen Dr | 3   | 3    | 2069 | 179   | 9    | 0.27  | 1999 | 30  |      |
-| [350,000.00](https://www.movoto.com/home/1225-anora-dr-apex-nc-27502-413_2337160)        | 328,846.00 | 1225 Anora Dr       | 4   | 2    | 1981 | 177   | 1    | 0.34  | 1999 | 40  |      |
-| [338,900.00](https://www.movoto.com/home/2408-fordcrest-dr-apex-nc-27502-413_2157981)    | 328,686.00 | 2408 Fordcrest Dr   | 4   | 3    | 1889 | 179   | 25   | 9148  | 1997 | 54  |      |
-| [250,000.00](https://www.movoto.com/home/111-sweet-tart-ln-apex-nc-27502-413_2335684)    | 202,293.00 | 111 Sweet Tart Ln   | 3   | 2    | 1197 | 209   | 8    | 8276  | 1998 | 22  |      |
+| Price                                                                                   | Est.       | Address             | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :-------------------------------------------------------------------------------------- | :--------- | :------------------ | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [370,000.00](https://www.movoto.com/home/703-cameron-glen-dr-apex-nc-27502-413_2335367) | 337,247.00 | 703 Cameron Glen Dr | 3   | 3    | 2069 | 179   | 11   | 0.27 | 1999 | 30  |      |
+| [350,000.00](https://www.movoto.com/home/1225-anora-dr-apex-nc-27502-413_2337160)       | 330,827.00 | 1225 Anora Dr       | 4   | 2    | 1981 | 177   | 3    | 0.34 | 1999 | 40  |      |
+| [250,000.00](https://www.movoto.com/home/111-sweet-tart-ln-apex-nc-27502-413_2335684)   | 202,293.00 | 111 Sweet Tart Ln   | 3   | 2    | 1197 | 209   | 10   | 8276 | 1998 | 22  |      |

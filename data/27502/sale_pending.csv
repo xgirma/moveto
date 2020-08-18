@@ -1,11 +1,65 @@
 Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,Year,HOA,Open,Link
-326440,331823,327000,339000,3000,2810 Dallas Valley Ln #78,4,4,2227,147,43,1917,Sqft,2020,125,,https://www.movoto.com/home/2810-dallas-valley-ln-apt-78-apex-nc-27502-413_2328853
-438500,471240,434000,526000,10000,304 Kellyridge Dr,4,4,2856,154,50,0.25,Acres,1998,48,,https://www.movoto.com/home/304-kellyridge-dr-apex-nc-27502-413_2327283
-306565,404855,307000,461000,,1147 Chestnut Bluff Run,3,3,2165,,,,,,,,https://www.movoto.com/home/1147-chestnut-bluff-run-apex-nc-27502-413_2324357
-309900,347900,310000,384000,,101 Kinship Ln,4,3,1988,156,71,9148,Sqft,2001,31,,https://www.movoto.com/home/101-kinship-ln-apex-nc-27502-413_2323225
-399900,427631,397000,509000,10000,2053 Tordelo Pl,5,3,2389,167,72,6970,Sqft,2013,77,,https://www.movoto.com/home/2053-tordelo-pl-apex-nc-27502-413_2323065
-486975,470778,455000,486000,,1513 Armscroft Ln,4,4,3057,159,73,6970,Sqft,2020,66,,https://www.movoto.com/home/1513-armscroft-ln-apex-nc-27502-413_2322758
-309880,,299000,310000,,2274 Red Knot Ln #62,4,4,2094,148,77,1742,Sqft,2020,140,,https://www.movoto.com/home/2274-red-knot-ln-apt-62-apex-nc-27502-413_2322078
-307900,,299000,308000,6000,2272 Red Knot Ln #61,4,4,2109,146,78,1742,Sqft,2020,140,,https://www.movoto.com/home/2272-red-knot-ln-apt-61-apex-nc-27502-413_2322005
-499178,511336,476000,565000,,1509 Armscroft Ln,5,3,3176,157,87,7405,Sqft,2020,66,,https://www.movoto.com/home/1509-armscroft-ln-apex-nc-27502-413_2320285
-309900,,299000,310000,10000,2255 Red Knot Ln #74,4,4,2109,147,108,1742,Sqft,2020,140,,https://www.movoto.com/home/2255-red-knot-ln-apt-74-apex-nc-27502-413_2316035
+385000,374647,354000,396000,,3000 Commodore Dr,3,3,2327,165,16,0.26,Acres,2000,31,,https://www.movoto.com/home/3000-commodore-dr-apex-nc-27502-413_2334526
+313405,358872,314000,366000,,1286 Barn Cat Way Lot 214 - Sandberg #LOT 214 - SANDBERG,4,4,2361,133,33,2614,Sqft,2020,199,,https://www.movoto.com/home/1286-barn-cat-way-lot-214-sandberg-lot-214-sandberg-apex-nc-27502-413_2330985
+295090,277760,255000,321000,,1137 Chestnut Bluff Run,3,3,1736,170,53,3267,Sqft,2020,62,,https://www.movoto.com/home/1137-chestnut-bluff-run-apex-nc-27502-413_2327053
+348100,360282,348000,387000,100,1012 Drayman Pl,4,4,2418,,,,,,,,https://www.movoto.com/home/1012-drayman-pl-apex-nc-27502-413_2326739
+299000,273612,266000,299000,11000,2847 Dallas Valley Ln #50,3,3,1812,165,63,1917,Sqft,2020,125,,https://www.movoto.com/home/2847-dallas-valley-ln-apt-50-apex-nc-27502-413_2325147
+329900,329688,319000,338000,,2843 Dallas Valley Ln #48,3,4,2169,,,,,,,,https://www.movoto.com/home/2843-dallas-valley-ln-apt-48-apex-nc-27502-413_2325140
+291840,277760,255000,321000,2000,1149 Chestnut Bluff Run,3,3,1736,168,67,3267,Sqft,2020,167,,https://www.movoto.com/home/1149-chestnut-bluff-run-apex-nc-27502-413_2324377
+299690,313920,288000,363000,,1133 Chestnut Bluff Run,3,3,1962,153,67,3267,Sqft,2020,167,,https://www.movoto.com/home/1133-chestnut-bluff-run-apex-nc-27502-413_2324367
+303465,370215,303000,439000,,1161 Chestnut Bluff Run,3,3,2165,,,,,,,,https://www.movoto.com/home/1161-chestnut-bluff-run-apex-nc-27502-413_2324360
+306565,370215,307000,439000,,1147 Chestnut Bluff Run,3,3,2165,,,,,,,,https://www.movoto.com/home/1147-chestnut-bluff-run-apex-nc-27502-413_2324357
+309900,339948,310000,384000,,101 Kinship Ln,4,3,1988,156,73,9148,Sqft,2001,31,,https://www.movoto.com/home/101-kinship-ln-apex-nc-27502-413_2323225
+399900,427631,397000,509000,10000,2053 Tordelo Pl,5,3,2389,,,,,,,,https://www.movoto.com/home/2053-tordelo-pl-apex-nc-27502-413_2323065
+486975,470778,455000,486000,,1513 Armscroft Ln,4,4,3057,159,75,6970,Sqft,2020,66,,https://www.movoto.com/home/1513-armscroft-ln-apex-nc-27502-413_2322758
+309880,,299000,310000,,2274 Red Knot Ln #62,4,4,2094,148,79,1742,Sqft,2020,140,,https://www.movoto.com/home/2274-red-knot-ln-apt-62-apex-nc-27502-413_2322078
+307900,,299000,308000,6000,2272 Red Knot Ln #61,4,4,2109,146,80,1742,Sqft,2020,140,,https://www.movoto.com/home/2272-red-knot-ln-apt-61-apex-nc-27502-413_2322005
+329900,,318000,359000,8000,2200 Red Knot Ln #31,4,4,2242,147,80,1742,Sqft,2020,140,,https://www.movoto.com/home/2200-red-knot-ln-apt-31-apex-nc-27502-413_2321965
+499178,511336,476000,565000,,1509 Armscroft Ln,5,3,3176,157,89,7405,Sqft,2020,66,,https://www.movoto.com/home/1509-armscroft-ln-apex-nc-27502-413_2320285
+498136,522747,486000,553000,,1506 Armscroft Ln,4,4,3057,163,89,8276,Sqft,2020,66,,https://www.movoto.com/home/1506-armscroft-ln-apex-nc-27502-413_2320279
+326000,,322000,359000,4000,1486 Salem Creek Dr #22,3,3,2161,151,89,2614,Sqft,2020,100,,https://www.movoto.com/home/1486-salem-creek-dr-apt-22-apex-nc-27502-413_2320203
+318990,,299000,318000,3000,2253 Red Knot Ln #75,4,4,2094,152,89,1742,Sqft,2020,140,,https://www.movoto.com/home/2253-red-knot-ln-apt-75-apex-nc-27502-413_2320200
+422920,453180,407000,554000,,2907 Winter Crop Way,4,3,2730,155,90,5663,Sqft,2020,100,,https://www.movoto.com/home/2907-winter-crop-way-apex-nc-27502-413_2320024
+471990,487792,420000,547000,14000,1887 Rothesay Dr,5,3,2836,166,97,0.26,Acres,2020,68,,https://www.movoto.com/home/1887-rothesay-dr-apex-nc-27502-413_2318635
+397990,413406,384000,438000,25000,2913 Thirlestane Dr #182,4,3,2702,147,99,4835,Sqft,2020,68,,https://www.movoto.com/home/2913-thirlestane-dr-apt-182-apex-nc-27502-413_2318328
+324990,358872,326000,366000,5000,1308 Barn Cat Way Lot 223- Sandberg 3 #LOT 223- SANDBERG 3,4,4,2361,138,103,1742,Sqft,2020,199,,https://www.movoto.com/home/1308-barn-cat-way-lot-223-sandberg-3-lot-223-sandberg-3-apex-nc-27502-413_2317599
+334990,350816,335000,358000,5000,1294 Barn Cat Way Lot 217- Gibbons 3 #LOT 217- GIBBONS 3,4,4,2308,,,,,,,,https://www.movoto.com/home/1294-barn-cat-way-lot-217-gibbons-3-lot-217-gibbons-3-apex-nc-27502-413_2317597
+329990,354150,331000,361000,3000,1300 Barn Cat Way,4,4,2361,,,,,,,,https://www.movoto.com/home/1300-barn-cat-way-apex-nc-27502-413_2317431
+399990,472850,400000,521000,15000,1997 Kings Knot Ct #101,4,3,2702,,,,,,,,https://www.movoto.com/home/1997-kings-knot-ct-apt-101-apex-nc-27502-413_2317271
+398410,403614,375000,427000,5000,2945 Baronial St #209,4,3,2638,151,105,4356,Sqft,2020,68,,https://www.movoto.com/home/2945-baronial-st-apt-209-apex-nc-27502-413_2317125
+334990,365256,334000,372000,5000,1314 Barn Cat Way Lot 226 - Sandberg #LOT 226 - SANDBERG,4,4,2403,139,105,2614,Sqft,2020,199,,https://www.movoto.com/home/1314-barn-cat-way-lot-226-sandberg-lot-226-sandberg-apex-nc-27502-413_2317078
+495605,511336,476000,565000,,1522 Armscroft Ln,5,4,3176,156,109,7405,Sqft,2019,66,,https://www.movoto.com/home/1522-armscroft-ln-apex-nc-27502-413_2316322
+429990,485144,430000,527000,10000,2917 Thirlestane Dr #181,4,4,3256,132,110,4487,Sqft,2020,69,,https://www.movoto.com/home/2917-thirlestane-dr-apt-181-apex-nc-27502-413_2316134
+309900,,299000,310000,10000,2255 Red Knot Ln #74,4,4,2109,147,110,1742,Sqft,2020,140,,https://www.movoto.com/home/2255-red-knot-ln-apt-74-apex-nc-27502-413_2316035
+309900,,299000,310000,10000,2263 Red Knot Ln #70,4,4,2109,147,110,1742,Sqft,2020,140,,https://www.movoto.com/home/2263-red-knot-ln-apt-70-apex-nc-27502-413_2316024
+295895,,275000,296000,,2208 Red Knot Ln #35,4,4,1923,154,111,1742,Sqft,2020,140,,https://www.movoto.com/home/2208-red-knot-ln-apt-35-apex-nc-27502-413_2315939
+393350,373552,353000,394000,,2920 Early Planting Avenue,4,3,2524,156,112,4792,Sqft,2020,100,,https://www.movoto.com/home/2920-early-planting-avenue-apex-nc-27502-413_2315705
+499990,421498,394000,501000,15000,1102 Tringham Ct #12,4,3,2737,183,117,8712,Sqft,2020,99,,https://www.movoto.com/home/1102-tringham-ct-apt-12-apex-nc-27502-413_2302417
+448070,424886,411000,447000,800,1447 Tinos Overlook Way,5,3,2759,,,,,,,,https://www.movoto.com/home/1447-tinos-overlook-way-apex-nc-27502-413_2314655
+409990,403728,367000,443000,10000,2183 Mckenzie Ridge Ln,4,3,2588,158,123,5358,Sqft,2017,56,,https://www.movoto.com/home/2183-mckenzie-ridge-ln-apex-nc-27502-413_2313864
+379435,369277,303000,439000,,3518 Barn Rd,3,3,2063,184,124,4356,Sqft,2020,62,,https://www.movoto.com/home/3518-barn-rd-apex-nc-27502-413_2313769
+417637,406196,379000,426000,,3530 Barn Rd,4,3,2492,,,,,,,,https://www.movoto.com/home/3530-barn-rd-apex-nc-27502-413_2313764
+305000,273612,266000,304000,5000,2859 Dallas Valley Ln #55,3,3,1812,168,129,1742,Sqft,2020,125,,https://www.movoto.com/home/2859-dallas-valley-ln-apt-55-apex-nc-27502-413_2313127
+339000,,336000,391000,900,1636 Brussels Dr #7,3,3,2284,,,,,,,,https://www.movoto.com/home/1636-brussels-dr-apt-7-apex-nc-27502-413_2312792
+309000,,308000,331000,4000,1638 Brussels Dr #6,3,3,1938,159,130,2614,Sqft,2020,100,,https://www.movoto.com/home/1638-brussels-dr-apt-6-apex-nc-27502-413_2312790
+438459,424886,411000,447000,,2912 Lemnos Dr,5,3,2759,159,132,5663,Sqft,2020,65,,https://www.movoto.com/home/2912-lemnos-dr-apex-nc-27502-413_2312514
+373260,310116,265000,373000,,1384 Herb Garden Way,3,3,1803,207,161,4356,Sqft,2020,100,,https://www.movoto.com/home/1384-herb-garden-way-apex-nc-27502-413_2306769
+329900,329574,318000,359000,9000,2276 Red Knot Ln #63,4,4,2242,147,164,1742,Sqft,2020,140,,https://www.movoto.com/home/2276-red-knot-ln-apt-63-apex-nc-27502-413_2306366
+309900,299442,299000,310000,4000,2270 Red Knot Ln #60,4,4,2094,,,,,,,,https://www.movoto.com/home/2270-red-knot-ln-apt-60-apex-nc-27502-413_2306310
+288670,273702,274000,289000,1000,2266 Red Knot Ln #58,4,4,1914,151,173,1612,Sqft,2020,140,,https://www.movoto.com/home/2266-red-knot-ln-apt-58-apex-nc-27502-413_2304023
+339990,329574,318000,359000,85,2251 Red Knot Ln #76,4,4,2242,152,179,1742,Sqft,2020,140,,https://www.movoto.com/home/2251-red-knot-ln-apt-76-apex-nc-27502-413_2303083
+311335,299442,299000,312000,14000,2257 Red Knot Ln #73,4,4,2094,149,179,1742,Sqft,2020,140,,https://www.movoto.com/home/2257-red-knot-ln-apt-73-apex-nc-27502-413_2303030
+450705,479808,450000,509000,,1903 Kings Knot Ct #S124,4,4,3264,138,186,4748,Sqft,2020,68,,https://www.movoto.com/home/1903-kings-knot-ct-apt-s124-apex-nc-27502-413_2301895
+339900,,339000,395000,,321 Chapel Valley Ln,4,3,2321,146,192,0.26,Acres,2005,16,,https://www.movoto.com/home/321-chapel-valley-ln-apex-nc-27502-413_2299817
+336205,329574,318000,359000,,2267 Red Knot Ln #68,4,4,2242,150,196,1742,Sqft,2020,140,,https://www.movoto.com/home/2267-red-knot-ln-apt-68-apex-nc-27502-413_2299864
+459465,512775,458000,574000,,1321 Soaring Silo Way Lot 293- Tyson B #LOT 293- TYSON B,4,4,3225,142,206,6970,Sqft,2020,100,,https://www.movoto.com/home/1321-soaring-silo-way-lot-293-tyson-b-lot-293-tyson-b-apex-nc-27502-413_2298137
+495895,504405,483000,544000,,1533 Armscroft Ln,3,4,3057,,,,,,,,https://www.movoto.com/home/1533-armscroft-ln-apex-nc-27502-413_2296416
+433360,465310,433000,489000,,1333 Soaring Silo Way 296 - Huntley A #296 - HLEY A,4,3,2945,147,223,7405,Sqft,2020,100,,https://www.movoto.com/home/1333-soaring-silo-way-296-huntley-a-apt-296-hley-a-apex-nc-27502-413_2295211
+442275,462480,408000,524000,,2913 Mavisbank Cir #G320,3,3,2460,180,268,6534,Sqft,2020,69,,https://www.movoto.com/home/2913-mavisbank-cir-apt-g320-apex-nc-27502-413_2290287
+302000,269837,263000,302000,13000,2875 Dallas Valley Ln #62,3,3,1787,,,,,,,,https://www.movoto.com/home/2875-dallas-valley-ln-apt-62-apex-nc-27502-413_2283264
+324000,327972,319000,339000,9000,2871 Dallas Valley Ln #60,3,4,2172,149,312,1917,Sqft,2019,125,,https://www.movoto.com/home/2871-dallas-valley-ln-apt-60-apex-nc-27502-413_2283219
+459990,532000,459000,553000,5000,1505 Tinos Overlook Way,6,4,3500,131,327,6098,Sqft,2020,65,,https://www.movoto.com/home/1505-tinos-overlook-way-apex-nc-27502-413_2187051
+480442,504405,480000,544000,6000,1535 Bicknor Dr,3,4,3057,157,381,7405,Sqft,2019,66,,https://www.movoto.com/home/1535-bicknor-dr-apex-nc-27502-413_2270833
+300000,272102,265000,299000,10000,2880 Dallas Valley Ln #75,3,3,1802,166,393,1742,Sqft,2019,125,,https://www.movoto.com/home/2880-dallas-valley-ln-apt-75-apex-nc-27502-413_2268498
+325985,350465,326000,365000,,1059 Platform Dr,3,4,2417,135,428,2222,Sqft,2019,163,,https://www.movoto.com/home/1059-platform-dr-apex-nc-27502-413_2261771
+284990,279200,251000,291000,5000,438 Oak Pine Dr #379,3,4,1745,163,485,784,Sqft,2020,111,,https://www.movoto.com/home/438-oak-pine-dr-apt-379-apex-nc-27502-413_2249896
