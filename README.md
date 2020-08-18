@@ -129,20 +129,20 @@ Extract RTP listing data from moveto.com.
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27519/coming_soon.md) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27519/listed_today.md) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27519/price_reduced.md) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27519/for_sale.md) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27519/open_house.md)
 #### Data
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27519/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27519/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27519/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27519/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27519/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27519/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27519/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27519/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27519/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27519/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27519/in_contract.csv)
-## Apex, 27523, NC - Aug 17th 2020 
+## Apex, 27523, NC - Aug 18th 2020 
  
 ![Apex, 27523, NC :](https://github.com/xgirma/moveto/workflows/Apex,%2027523,%20NC%20:/badge.svg)
 
 ```json
 {
-  "date": "August 17th 2020, 5:13:20 am EST",
-  "listings": 90,
+  "date": "August 18th 2020, 5:09:52 am EST",
+  "listings": 37,
   "coming_soon": 1,
-  "price_reduced": 12,
-  "for_sale": 28,
+  "price_reduced": 11,
+  "for_sale": 26,
   "open_house": 0,
-  "under_contract": 11,
-  "sale_pending": 50,
+  "under_contract": 2,
+  "sale_pending": 8,
   "city": "Apex",
   "state": "NC",
   "zip": 27523
