@@ -1,4 +1,3 @@
-| Price                                                                                      | Est.       | Address              | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :----------------------------------------------------------------------------------------- | :--------- | :------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [370,000.00](https://www.movoto.com/home/804-transom-view-way-cary-nc-27519-413_2335805)   | 381,600.00 | 804 Transom View Way | 3   | 3    | 2400 | 154   | 10   | 5227 | 2013 | 190 |      |
-| [249,900.00](https://www.movoto.com/home/2031-summerhouse-rd-cary-nc-27519-pid_hosx43b5jh) | 0.00       | 2031 Summerhouse Rd  | 3   | 3    | 1750 | 143   | 2    | 1307 | 2013 | 160 |      |
+| Price                                                                                      | Est. | Address             | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :----------------------------------------------------------------------------------------- | :--- | :------------------ | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [249,900.00](https://www.movoto.com/home/2031-summerhouse-rd-cary-nc-27519-pid_hosx43b5jh) | 0.00 | 2031 Summerhouse Rd | 3   | 3    | 1750 | 143   | 3    | 1307 | 2013 | 160 |      |

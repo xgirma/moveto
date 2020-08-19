@@ -1,5 +1,2 @@
-| Price                                                                      | Est.       | Address       | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :------------------------------------------------------------------------- | :--------- | :------------ | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [NaN](https://www.movoto.com/home/210-adobe-pl-cary-nc-27519-413_2337486)  | 361,424.00 | 210 Adobe Pl  | 3   | 3    | 1844 | 200   | New  | 4356 | 2020 | 154 |      |
-| [NaN](https://www.movoto.com/home/136-ashlar-ct-cary-nc-27519-413_2337485) | 363,268.00 | 136 Ashlar Ct | 3   | 3    | 1844 | 196   | New  | 4356 | 2020 | 154 |      |
-| [NaN](https://www.movoto.com/home/110-ashlar-ct-cary-nc-27519-413_2337505) | 361,298.00 | 110 Ashlar Ct | 3   | 3    | 1834 | 194   | New  | 4356 | 2020 | 154 |      |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
