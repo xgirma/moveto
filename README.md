@@ -179,20 +179,20 @@ Extract RTP listing data from moveto.com.
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27560/coming_soon.md) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27560/listed_today.md) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27560/price_reduced.md) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27560/for_sale.md) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27560/open_house.md)
 #### Data
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27560/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27560/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27560/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27560/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27560/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27560/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27560/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27560/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27560/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27560/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27560/in_contract.csv)
-## Raleigh, 27607, NC - Aug 17th 2020 
+## Raleigh, 27607, NC - Aug 19th 2020 
  
 ![Raleigh, 27607, NC :](https://github.com/xgirma/moveto/workflows/Raleigh,%2027607,%20NC%20:/badge.svg)
 
 ```json
 {
-  "date": "August 17th 2020, 9:13:57 am EST",
-  "listings": 0,
-  "coming_soon": 0,
-  "price_reduced": 0,
-  "for_sale": 0,
+  "date": "August 19th 2020, 9:13:43 am EST",
+  "listings": 22,
+  "coming_soon": 2,
+  "price_reduced": 1,
+  "for_sale": 2,
   "open_house": 0,
-  "under_contract": 0,
-  "sale_pending": 0,
+  "under_contract": 9,
+  "sale_pending": 9,
   "city": "Raleigh",
   "state": "NC",
   "zip": 27607

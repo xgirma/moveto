@@ -1,2 +1,4 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
+| Price                                                                                      | Est.       | Address          | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :----------------------------------------------------------------------------------------- | :--------- | :--------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [500,000.00](https://www.movoto.com/home/1704-dixie-trl-raleigh-nc-27607-413_2336272)      | 762,624.00 | 1704 Dixie Trl   | 4   | 3    | 2648 | 189   | 8    | 0.29 | 1964 | 0   |      |
+| [320,000.00](https://www.movoto.com/home/1547-crafton-way-raleigh-nc-27607-pid_jzg443b5jh) | 259,836.00 | 1547 Crafton Way | 3   | 3    | 1468 | 218   | 4    | 1307 | 2013 | 181 |      |
