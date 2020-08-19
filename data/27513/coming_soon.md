@@ -1,6 +1,5 @@
-| Price                                                                                | Est.       | Address          | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :----------------------------------------------------------------------------------- | :--------- | :--------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [439,900.00](https://www.movoto.com/home/108-southwick-ct-cary-nc-27513-413_2337623) | 424,999.00 | 108 Southwick Ct | 4   | 4    | 2707 |       |      |      |      |     |      |
-| [400,000.00](https://www.movoto.com/home/105-fawn-ct-cary-nc-27513-413_2336095)      | 514,250.00 | 105 Fawn Ct      | 4   | 4    | 3025 | 132   | 8    | 0.44 | 1986 | 0   |      |
-| [375,000.00](https://www.movoto.com/home/215-mccleary-ct-cary-nc-27513-413_2336366)  | 459,147.00 | 215 Mccleary Ct  | 4   | 3    | 2509 | 149   | 6    | 9583 | 1996 | 13  |      |
-| [350,000.00](https://www.movoto.com/home/230-dutchess-dr-cary-nc-27513-413_2337214)  | 347,130.00 | 230 Dutchess Dr  | 4   | 3    | 1995 | 175   | 3    | 0.30 | 1996 | 0   |      |
+| Price                                                                                   | Est.       | Address          | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
+| :-------------------------------------------------------------------------------------- | :--------- | :--------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
+| [439,900.00](https://www.movoto.com/home/108-southwick-ct-cary-nc-27513-413_2337623)    | 424,999.00 | 108 Southwick Ct | 4   | 4    | 2707 |       |      |      |      |     | Open 8/22 |
+| [400,000.00](https://www.movoto.com/home/105-fawn-ct-cary-nc-27513-413_2336095)         | 514,250.00 | 105 Fawn Ct      | 4   | 4    | 3025 |       |      |      |      |     |           |
+| [315,000.00](https://www.movoto.com/home/1303-castalia-dr-cary-nc-27513-pid_pgdy43b5jh) | 230,860.00 | 1303 Castalia Dr | 3   | 2    | 1358 | 232   | New  | 0.33 | 1983 | 0   |           |
