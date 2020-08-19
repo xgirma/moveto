@@ -4,20 +4,20 @@ Extract RTP listing data from moveto.com.
   Default: Maximum price: _500,000_, Zip: _28685_, Beds: _3_, Baths: _2_ 
 
   Change the default as shown [here](https://github.com/xgirma/moveto/blob/master/HOWTO.md)
-## Apex, 27502, NC - Aug 17th 2020 
+## Apex, 27502, NC - Aug 18th 2020 
  
 ![Apex, 27502, NC :](https://github.com/xgirma/moveto/workflows/Apex,%2027502,%20NC%20:/badge.svg)
 
 ```json
 {
-  "date": "August 17th 2020, 7:08:20 pm EST",
-  "listings": 164,
+  "date": "August 18th 2020, 7:06:29 pm EST",
+  "listings": 94,
   "coming_soon": 3,
-  "price_reduced": 55,
-  "for_sale": 88,
-  "open_house": 3,
-  "under_contract": 8,
-  "sale_pending": 64,
+  "price_reduced": 56,
+  "for_sale": 87,
+  "open_house": 5,
+  "under_contract": 2,
+  "sale_pending": 2,
   "city": "Apex",
   "state": "NC",
   "zip": 27502
