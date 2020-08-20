@@ -1,5 +1,5 @@
-| Price                                                                                   | Est.       | Address          | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
-| :-------------------------------------------------------------------------------------- | :--------- | :--------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
-| [439,900.00](https://www.movoto.com/home/108-southwick-ct-cary-nc-27513-413_2337623)    | 424,999.00 | 108 Southwick Ct | 4   | 4    | 2707 |       |      |      |      |     | Open 8/22 |
-| [400,000.00](https://www.movoto.com/home/105-fawn-ct-cary-nc-27513-413_2336095)         | 514,250.00 | 105 Fawn Ct      | 4   | 4    | 3025 |       |      |      |      |     |           |
-| [315,000.00](https://www.movoto.com/home/1303-castalia-dr-cary-nc-27513-pid_pgdy43b5jh) | 230,860.00 | 1303 Castalia Dr | 3   | 2    | 1358 | 232   | New  | 0.33 | 1983 | 0   |           |
+| Price                                                                                  | Est.       | Address            | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
+| :------------------------------------------------------------------------------------- | :--------- | :----------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
+| [439,900.00](https://www.movoto.com/home/108-southwick-ct-cary-nc-27513-413_2337623)   | 446,655.00 | 108 Southwick Ct   | 4   | 4    | 2707 | 163   | 2    | 0.30 | 1992 | 13  | Open 8/22 |
+| [400,000.00](https://www.movoto.com/home/105-fawn-ct-cary-nc-27513-413_2336095)        | 490,050.00 | 105 Fawn Ct        | 4   | 4    | 3025 | 132   | 10   | 0.44 | 1986 | 0   |           |
+| [285,900.00](https://www.movoto.com/home/113-wood-hollow-dr-cary-nc-27513-413_2337960) | 0.00       | 113 Wood Hollow Dr | 3   | 3    | 1539 | 186   | New  | 0.27 | 1990 | 0   |           |
