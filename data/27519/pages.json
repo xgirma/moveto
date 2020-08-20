@@ -1,14 +1,14 @@
 {
   "city": "Cary",
-  "contract": 7,
+  "contract": 0,
   "date": "August 19th 2020, 3:18:13 am EST",
-  "listings": 97,
-  "open": 5,
+  "listings": 61,
+  "open": 6,
   "pages": 7,
-  "pending": 31,
-  "reduced": 25,
+  "pending": 0,
+  "reduced": 28,
   "sale": 58,
-  "soon": 1,
+  "soon": 3,
   "state": "NC",
   "zip": 27519
 }
