@@ -1,7 +1,4 @@
-| Price                                                                                              | Est.       | Address                 | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :------------------------------------------------------------------------------------------------- | :--------- | :---------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [430,000.00](https://www.movoto.com/home/1404-everette-fields-rd-morrisville-nc-27560-413_2333392) | 455,962.00 | 1404 Everette Fields Rd | 4   | 3    | 2698 |       |      |      |      |     |      |
-| [379,500.00](https://www.movoto.com/home/1021-lakebrink-dr-morrisville-nc-27560-413_2336062)       | 362,544.00 | 1021 Lakebrink Dr       | 3   | 3    | 2184 | 174   | 10   | 3049 | 2018 | 108 |      |
-| [339,900.00](https://www.movoto.com/home/102-fairwood-dr-morrisville-nc-27560-413_2337816)         | 370,922.00 | 102 Fairwood Dr         | 4   | 3    | 1942 | 175   | New  | 0.35 | 1992 | 0   |      |
-| [310,000.00](https://www.movoto.com/home/339-scotlow-way-morrisville-nc-27560-413_2333803)         | 328,944.00 | 339 Scotlow Way         | 3   | 3    | 1848 |       |      |      |      |     |      |
-| [276,500.00](https://www.movoto.com/home/108-apricot-cir-morrisville-nc-27560-413_2337840)         | 272,646.00 | 108 Apricot Cir         | 3   | 3    | 1683 | 164   | New  | 3485 | 2002 | 110 |      |
+| Price                                                                                      | Est.       | Address         | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :----------------------------------------------------------------------------------------- | :--------- | :-------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [339,900.00](https://www.movoto.com/home/102-fairwood-dr-morrisville-nc-27560-413_2337816) | 374,806.00 | 102 Fairwood Dr | 4   | 3    | 1942 | 175   | 1    | 0.35 | 1992 | 0   |      |
+| [276,500.00](https://www.movoto.com/home/108-apricot-cir-morrisville-nc-27560-413_2337840) | 272,646.00 | 108 Apricot Cir | 3   | 3    | 1683 | 164   | New  | 3485 | 2002 | 110 |      |
