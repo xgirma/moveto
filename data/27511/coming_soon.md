@@ -1,9 +1,9 @@
 | Price                                                                                     | Est.       | Address               | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
 | :---------------------------------------------------------------------------------------- | :--------- | :-------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
-| [469,900.00](https://www.movoto.com/home/205-king-george-loop-cary-nc-27511-413_2337383)  | 625,296.00 | 205 King George Loop  | 5   | 4    | 3722 | 126   | 4    | 0.34 | 1986 | 14  |           |
 | [425,000.00](https://www.movoto.com/home/200-coventry-ln-cary-nc-27511-413_2337631)       | 353,124.00 | 200 Coventry Ln       | 3   | 2    | 2308 |       |      |      |      |     |           |
-| [349,900.00](https://www.movoto.com/home/113-flora-mcdonald-ln-cary-nc-27511-413_2335997) | 351,591.00 | 113 Flora Mcdonald Ln | 3   | 3    | 2157 |       |      |      |      |     |           |
-| [333,000.00](https://www.movoto.com/home/1534-dirkson-ct-cary-nc-27511-413_2336513)       | 388,080.00 | 1534 Dirkson Ct       | 4   | 3    | 2310 | 144   | 7    | 0.33 | 1978 | 0   |           |
-| [315,000.00](https://www.movoto.com/home/1607-dunblane-ct-cary-nc-27511-413_2337121)      | 250,430.00 | 1607 Dunblane Ct      | 4   | 2    | 1585 | 199   | 5    | 0.29 | 1976 | 0   |           |
-| [299,999.00](https://www.movoto.com/home/235-harbor-creek-dr-cary-nc-27511-413_2336595)   | 352,600.00 | 235 Harbor Creek Dr   | 4   | 3    | 2150 |       |      |      |      |     |           |
-| [208,000.00](https://www.movoto.com/home/112-charter-ct-cary-nc-27511-413_2333526)        | 189,483.00 | 112 Charter Ct        | 3   | 3    | 1289 | 161   | 22   | 1307 | 1994 | 221 | Open 8/29 |
+| [349,900.00](https://www.movoto.com/home/113-flora-mcdonald-ln-cary-nc-27511-413_2335997) | 351,591.00 | 113 Flora Mcdonald Ln | 3   | 3    | 2157 | 162   | 12   | 0.30 | 1978 | 28  |           |
+| [333,000.00](https://www.movoto.com/home/1534-dirkson-ct-cary-nc-27511-413_2336513)       | 388,080.00 | 1534 Dirkson Ct       | 4   | 3    | 2310 | 144   | 8    | 0.33 | 1978 | 0   | Open 8/26 |
+| [315,000.00](https://www.movoto.com/home/1607-dunblane-ct-cary-nc-27511-413_2337121)      | 250,430.00 | 1607 Dunblane Ct      | 4   | 2    | 1585 |       |      |      |      |     |           |
+| [300,000.00](https://www.movoto.com/home/1435-huntly-ct-cary-nc-27511-413_2236980)        | 272,025.00 | 1435 Huntly Ct        | 3   | 2    | 1395 |       |      |      |      |     |           |
+| [299,999.00](https://www.movoto.com/home/235-harbor-creek-dr-cary-nc-27511-413_2336595)   | 367,650.00 | 235 Harbor Creek Dr   | 4   | 3    | 2150 | 140   | 8    | 3049 | 2000 | 239 |           |
+| [208,000.00](https://www.movoto.com/home/112-charter-ct-cary-nc-27511-413_2333526)        | 201,084.00 | 112 Charter Ct        | 3   | 3    | 1289 | 161   | 23   | 1307 | 1994 | 221 | Open 8/29 |
