@@ -1,2 +1,4 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
+| Price                                                                          | Est.       | Address           | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
+| :----------------------------------------------------------------------------- | :--------- | :---------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
+| [NaN](https://www.movoto.com/home/632-chronicle-dr-cary-nc-27513-413_2111240)  | 556,686.00 | 632 Chronicle Dr  | 4   | 4    | 3294 | 144   | New  | 2614 | 2017 | 178 |           |
+| [NaN](https://www.movoto.com/home/102-smokehouse-ln-cary-nc-27513-413_2338133) | 367,200.00 | 102 Smokehouse Ln | 3   | 3    | 2040 | 159   | New  | 0.32 | 1984 | 0   | Open 8/22 |

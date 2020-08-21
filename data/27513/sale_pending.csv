@@ -1,16 +1,15 @@
 Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,Year,HOA,Open,Link
-300000,350779,208000,532000,,8914 Chapel Hill Rd,3,2,1573,191,7,1.00,Acre,1961,0,,https://www.movoto.com/home/8914-chapel-hill-rd-cary-nc-27513-413_2336552
-499500,312176,291000,499000,,742 Crabtree Crossing Pkwy,3,2,1744,286,8,5663,Sqft,1995,175,,https://www.movoto.com/home/742-crabtree-crossing-pkwy-cary-nc-27513-413_2336427
-435000,457380,430000,516000,,105 Yorkhill Dr,4,3,2772,157,12,0.26,Acres,1996,0,,https://www.movoto.com/home/105-yorkhill-dr-cary-nc-27513-413_2249407
-389000,326522,305000,389000,,224 Custer Trl,4,3,1967,198,19,10454,Sqft,1992,13,,https://www.movoto.com/home/224-custer-trl-cary-nc-27513-pid_zt2x43b5jh
-329900,300608,265000,342000,,103 Oakmist Dr,3,3,1708,193,25,8276,Sqft,1992,10,,https://www.movoto.com/home/103-oakmist-dr-cary-nc-27513-413_2333166
-305000,361080,306000,381000,,812 N Harrison Ave,4,3,2040,150,26,0.30,Acres,1975,0,,https://www.movoto.com/home/812-n-harrison-ave-cary-nc-27513-413_2332967
-340000,,339000,471000,,111 Canyon Run,3,3,2356,144,27,7841,Sqft,1991,14,,https://www.movoto.com/home/111-canyon-run-cary-nc-27513-413_2332839
-275000,308752,275000,334000,,721 Davenbury Way,3,3,1678,164,27,1307,Sqft,2015,135,,https://www.movoto.com/home/721-davenbury-way-cary-nc-27513-413_2194064
-349900,388080,342000,441000,,119 Waterfall Ct,4,3,2205,,,,,,,,https://www.movoto.com/home/119-waterfall-ct-cary-nc-27513-413_2331235
-365000,363374,339000,407000,,125 Trailing Oak,4,3,2189,167,41,10454,Sqft,1992,15,,https://www.movoto.com/home/125-trailing-oak-cary-nc-27513-413_2329934
-250000,238326,228000,254000,,214 Kronos Ln,3,3,1518,165,44,5663,Sqft,1992,17,,https://www.movoto.com/home/214-kronos-ln-cary-nc-27513-413_2329140
-349900,384625,340000,425000,10000,106 Larkspur Ln,4,3,2125,,,,,,,,https://www.movoto.com/home/106-larkspur-ln-cary-nc-27513-pid_cziy43b5jh
-315000,276404,244000,315000,,203 Gettysburg Dr,3,3,1607,196,51,7841,Sqft,1989,0,,https://www.movoto.com/home/203-gettysburg-dr-cary-nc-27513-413_2327870
-469900,440496,366000,500000,,709 Flip Trl,3,3,2576,182,54,4792,Sqft,2019,70,,https://www.movoto.com/home/709-flip-trl-cary-nc-27513-413_2230576
-344900,371385,320000,456000,,316 Trafalgar Ln,3,3,1965,176,54,0.31,Acres,1994,41,,https://www.movoto.com/home/316-trafalgar-ln-cary-nc-27513-pid_71ey43b5jh
+300000,295724,208000,365000,,8914 Chapel Hill Rd,3,2,1573,191,8,1.00,Acre,1961,0,,https://www.movoto.com/home/8914-chapel-hill-rd-cary-nc-27513-413_2336552
+499500,317408,298000,499000,,742 Crabtree Crossing Pkwy,3,2,1744,286,9,5663,Sqft,1995,175,,https://www.movoto.com/home/742-crabtree-crossing-pkwy-cary-nc-27513-413_2336427
+435000,457380,430000,516000,,105 Yorkhill Dr,4,3,2772,,,,,,,,https://www.movoto.com/home/105-yorkhill-dr-cary-nc-27513-413_2249407
+389000,326522,305000,389000,,224 Custer Trl,4,3,1967,198,20,10454,Sqft,1992,13,,https://www.movoto.com/home/224-custer-trl-cary-nc-27513-pid_zt2x43b5jh
+329900,317688,273000,342000,,103 Oakmist Dr,3,3,1708,193,26,8276,Sqft,1992,10,,https://www.movoto.com/home/103-oakmist-dr-cary-nc-27513-413_2333166
+305000,352920,306000,404000,,812 N Harrison Ave,4,3,2040,150,27,0.30,Acres,1975,0,,https://www.movoto.com/home/812-n-harrison-ave-cary-nc-27513-413_2332967
+340000,,339000,471000,,111 Canyon Run,3,3,2356,144,28,7841,Sqft,1991,14,,https://www.movoto.com/home/111-canyon-run-cary-nc-27513-413_2332839
+275000,308752,275000,334000,,721 Davenbury Way,3,3,1678,164,28,1307,Sqft,2015,135,,https://www.movoto.com/home/721-davenbury-way-cary-nc-27513-413_2194064
+349900,407925,351000,441000,,119 Waterfall Ct,4,3,2205,,,,,,,,https://www.movoto.com/home/119-waterfall-ct-cary-nc-27513-413_2331235
+365000,374319,344000,407000,,125 Trailing Oak,4,3,2189,167,42,10454,Sqft,1992,15,,https://www.movoto.com/home/125-trailing-oak-cary-nc-27513-413_2329934
+250000,238326,228000,254000,,214 Kronos Ln,3,3,1518,165,45,5663,Sqft,1992,17,,https://www.movoto.com/home/214-kronos-ln-cary-nc-27513-413_2329140
+349900,384625,340000,425000,10000,106 Larkspur Ln,4,3,2125,165,48,8712,Sqft,1993,14,,https://www.movoto.com/home/106-larkspur-ln-cary-nc-27513-pid_cziy43b5jh
+315000,276404,244000,315000,,203 Gettysburg Dr,3,3,1607,196,52,7841,Sqft,1989,0,,https://www.movoto.com/home/203-gettysburg-dr-cary-nc-27513-413_2327870
+469900,440496,366000,500000,,709 Flip Trl,3,3,2576,182,55,4792,Sqft,2019,70,,https://www.movoto.com/home/709-flip-trl-cary-nc-27513-413_2230576
