@@ -1,21 +1,20 @@
 Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,Year,HOA,Open,Link
-235000,214305,184000,235000,3000,209 Canyon Lake Cir,3,3,1365,,,,,,,,https://www.movoto.com/home/209-canyon-lake-cir-morrisville-nc-27560-413_2334776
-444900,460824,420000,510000,5000,1109 Forest Willow Ln,4,3,2743,,,,,,,,https://www.movoto.com/home/1109-forest-willow-ln-morrisville-nc-27560-413_2333883
-444000,,383000,529000,6000,6325 Kit Creek Rd,4,3,3060,,,,,,,,https://www.movoto.com/home/6325-kit-creek-rd-morrisville-nc-27560-413_2332227
-365000,382184,342000,440000,20000,1405 Hopedale Dr #48,3,4,2222,164,33,2265,Sqft,2020,90,,https://www.movoto.com/home/1405-hopedale-dr-apt-48-morrisville-nc-27560-413_2331498
-449900,528915,449000,546000,15000,400 Star Magnolia Dr,4,3,2859,157,34,6098,Sqft,2006,57,,https://www.movoto.com/home/400-star-magnolia-dr-morrisville-nc-27560-413_2328907
-365000,379107,341000,439000,14000,1409 Hopedale Dr #47,3,4,2217,165,36,2265,Sqft,2020,90,,https://www.movoto.com/home/1409-hopedale-dr-apt-47-morrisville-nc-27560-413_2330747
-345000,,346000,356000,14000,1421 Hopedale Dr #44,3,3,1763,196,41,2265,Sqft,2020,90,,https://www.movoto.com/home/1421-hopedale-dr-apt-44-morrisville-nc-27560-413_2329936
-345000,,346000,367000,11000,1425 Hopedale Dr #43,3,3,1763,,,,,,,,https://www.movoto.com/home/1425-hopedale-dr-apt-43-morrisville-nc-27560-413_2329914
-374900,,353000,386000,15000,1025 Urbana Dr #32,3,4,2217,169,55,2788,Sqft,2020,90,,https://www.movoto.com/home/1025-urbana-dr-apt-32-morrisville-nc-27560-413_2327033
-475000,469278,423000,523000,1000,140 Cotten Dr,4,4,2697,176,89,5663,Sqft,2021,125,,https://www.movoto.com/home/140-cotten-dr-morrisville-nc-27560-413_2320708
-450000,373572,357000,450000,15000,172 Cotten Dr,4,4,2306,195,96,3920,Sqft,2020,125,,https://www.movoto.com/home/172-cotten-dr-morrisville-nc-27560-413_2319420
-425000,436500,376000,536000,10000,1005 Craigmeade Dr,4,3,2425,,,,,,,,https://www.movoto.com/home/1005-craigmeade-dr-morrisville-nc-27560-413_2318350
-376000,,364000,386000,23000,1029 Urbana Dr #33,3,4,2217,170,112,2570,Sqft,2020,90,,https://www.movoto.com/home/1029-urbana-dr-apt-33-morrisville-nc-27560-413_2316105
-312500,341388,304000,388000,3000,303 Founders Walk Dr,3,3,1962,159,124,3485,Sqft,2002,110,,https://www.movoto.com/home/303-founders-walk-dr-morrisville-nc-27560-413_2285568
-380000,,364000,386000,19000,1021 Urbana Dr #31,3,4,2217,171,138,2526,Sqft,2020,90,,https://www.movoto.com/home/1021-urbana-dr-apt-31-morrisville-nc-27560-413_2311854
-345500,355503,336000,369000,2000,492 Church St,3,4,2181,158,172,2091,Sqft,2020,130,,https://www.movoto.com/home/492-church-st-morrisville-nc-27560-413_2304867
-360900,376052,360000,388000,3000,494 Church St,3,4,2293,157,172,2614,Sqft,2020,130,,https://www.movoto.com/home/494-church-st-morrisville-nc-27560-413_2304852
-359900,382398,359000,396000,2000,506 Church St,4,4,2346,153,193,2047,Sqft,2020,130,,https://www.movoto.com/home/506-church-st-morrisville-nc-27560-413_2300959
-348000,355503,336000,369000,2000,508 Church St,3,4,2181,160,194,2091,Sqft,2020,130,,https://www.movoto.com/home/508-church-st-morrisville-nc-27560-413_2300890
-475000,476934,430000,524000,14000,206 Cotten Dr,4,4,2741,,,,,,,,https://www.movoto.com/home/206-cotten-dr-morrisville-nc-27560-413_2299475
+235000,218400,184000,236000,3000,209 Canyon Lake Cir,3,3,1365,,,,,,,,https://www.movoto.com/home/209-canyon-lake-cir-morrisville-nc-27560-413_2334776
+444900,436137,343000,510000,5000,1109 Forest Willow Ln,4,3,2743,,,,,,,,https://www.movoto.com/home/1109-forest-willow-ln-morrisville-nc-27560-413_2333883
+444000,,383000,529000,6000,6325 Kit Creek Rd,4,3,3060,145,30,6098,Sqft,2005,70,,https://www.movoto.com/home/6325-kit-creek-rd-morrisville-nc-27560-413_2332227
+365000,382184,342000,440000,20000,1405 Hopedale Dr #48,3,4,2222,164,34,2265,Sqft,2020,90,,https://www.movoto.com/home/1405-hopedale-dr-apt-48-morrisville-nc-27560-413_2331498
+440000,508902,440000,546000,10000,400 Star Magnolia Dr,4,3,2859,154,35,6098,Sqft,2006,57,Open 8/23,https://www.movoto.com/home/400-star-magnolia-dr-morrisville-nc-27560-413_2328907
+365000,379107,341000,439000,14000,1409 Hopedale Dr #47,3,4,2217,165,37,2265,Sqft,2020,90,,https://www.movoto.com/home/1409-hopedale-dr-apt-47-morrisville-nc-27560-413_2330747
+345000,,346000,356000,14000,1421 Hopedale Dr #44,3,3,1763,,,,,,,,https://www.movoto.com/home/1421-hopedale-dr-apt-44-morrisville-nc-27560-413_2329936
+345000,,346000,367000,11000,1425 Hopedale Dr #43,3,3,1763,196,42,2526,Sqft,2020,90,,https://www.movoto.com/home/1425-hopedale-dr-apt-43-morrisville-nc-27560-413_2329914
+374900,,353000,386000,15000,1025 Urbana Dr #32,3,4,2217,169,56,2788,Sqft,2020,90,,https://www.movoto.com/home/1025-urbana-dr-apt-32-morrisville-nc-27560-413_2327033
+475000,469278,415000,523000,1000,140 Cotten Dr,4,4,2697,176,90,5663,Sqft,2021,125,,https://www.movoto.com/home/140-cotten-dr-morrisville-nc-27560-413_2320708
+450000,373572,357000,450000,15000,172 Cotten Dr,4,4,2306,195,97,3920,Sqft,2020,125,,https://www.movoto.com/home/172-cotten-dr-morrisville-nc-27560-413_2319420
+376000,,364000,386000,23000,1029 Urbana Dr #33,3,4,2217,170,113,2570,Sqft,2020,90,,https://www.movoto.com/home/1029-urbana-dr-apt-33-morrisville-nc-27560-413_2316105
+312500,341388,304000,388000,3000,303 Founders Walk Dr,3,3,1962,159,125,3485,Sqft,2002,110,,https://www.movoto.com/home/303-founders-walk-dr-morrisville-nc-27560-413_2285568
+380000,,364000,386000,19000,1021 Urbana Dr #31,3,4,2217,171,139,2526,Sqft,2020,90,,https://www.movoto.com/home/1021-urbana-dr-apt-31-morrisville-nc-27560-413_2311854
+345500,355503,336000,369000,2000,492 Church St,3,4,2181,158,173,2091,Sqft,2020,130,,https://www.movoto.com/home/492-church-st-morrisville-nc-27560-413_2304867
+360900,376052,360000,388000,3000,494 Church St,3,4,2293,157,173,2614,Sqft,2020,130,,https://www.movoto.com/home/494-church-st-morrisville-nc-27560-413_2304852
+359900,382398,359000,396000,2000,506 Church St,4,4,2346,,,,,,,,https://www.movoto.com/home/506-church-st-morrisville-nc-27560-413_2300959
+348000,355503,336000,369000,2000,508 Church St,3,4,2181,,,,,,,,https://www.movoto.com/home/508-church-st-morrisville-nc-27560-413_2300890
+475000,474193,422000,524000,14000,206 Cotten Dr,4,4,2741,173,202,4792,Sqft,2020,125,,https://www.movoto.com/home/206-cotten-dr-morrisville-nc-27560-413_2299475

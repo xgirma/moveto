@@ -1,4 +1,5 @@
-| Price                                                                                      | Est.       | Address         | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :----------------------------------------------------------------------------------------- | :--------- | :-------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [339,900.00](https://www.movoto.com/home/102-fairwood-dr-morrisville-nc-27560-413_2337816) | 374,806.00 | 102 Fairwood Dr | 4   | 3    | 1942 | 175   | 1    | 0.35 | 1992 | 0   |      |
-| [276,500.00](https://www.movoto.com/home/108-apricot-cir-morrisville-nc-27560-413_2337840) | 272,646.00 | 108 Apricot Cir | 3   | 3    | 1683 | 164   | New  | 3485 | 2002 | 110 |      |
+| Price                                                                                                  | Est.       | Address                  | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :----------------------------------------------------------------------------------------------------- | :--------- | :----------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [276,500.00](https://www.movoto.com/home/108-apricot-cir-morrisville-nc-27560-413_2337840)             | 289,476.00 | 108 Apricot Cir          | 3   | 3    | 1683 | 164   | 1    | 3485 | 2002 | 110 |      |
+| [239,500.00](https://www.movoto.com/home/203-canyon-lake-cir-morrisville-nc-27560-413_2338345)         | 221,760.00 | 203 Canyon Lake Cir      | 3   | 3    | 1386 | 173   | New  | 1742 | 2001 | 101 |      |
+| [230,000.00](https://www.movoto.com/home/705-keystone-park-dr-apt-13-morrisville-nc-27560-413_2338228) | 260,820.00 | 705 Keystone Park Dr #13 | 3   | 3    | 1610 | 143   | New  | 1307 | 2008 | 154 |      |
