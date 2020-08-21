@@ -1,5 +1,3 @@
-| Price                                                                                      | Est.       | Address              | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
-| :----------------------------------------------------------------------------------------- | :--------- | :------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
-| [499,000.00](https://www.movoto.com/home/410-riggsbee-farm-dr-cary-nc-27519-413_2337853)   | 437,410.00 | 410 Riggsbee Farm Dr | 4   | 3    | 2635 | 189   | New  | 0.30 | 1997 | 55  | Open 8/22 |
-| [389,900.00](https://www.movoto.com/home/846-firebrick-dr-cary-nc-27519-413_2338031)       | 392,000.00 | 846 Firebrick Dr     | 3   | 3    | 2000 | 195   | New  | 2178 | 2019 | 148 |           |
-| [249,900.00](https://www.movoto.com/home/2031-summerhouse-rd-cary-nc-27519-pid_hosx43b5jh) | 0.00       | 2031 Summerhouse Rd  | 3   | 3    | 1750 | 143   | 4    | 1307 | 2013 | 160 |           |
+| Price                                                                                | Est.       | Address          | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :----------------------------------------------------------------------------------- | :--------- | :--------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [389,900.00](https://www.movoto.com/home/846-firebrick-dr-cary-nc-27519-413_2338031) | 403,368.00 | 846 Firebrick Dr | 3   | 3    | 2058 | 189   | 1    | 2178 | 2019 | 148 |      |

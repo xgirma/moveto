@@ -1,2 +1,3 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
+| Price                                                                         | Est.       | Address          | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
+| :---------------------------------------------------------------------------- | :--------- | :--------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
+| [NaN](https://www.movoto.com/home/532-fumagalli-dr-cary-nc-27519-413_2338152) | 388,467.00 | 532 Fumagalli Dr | 3   | 4    | 2539 | 161   | New  | 2614 | 2016 | 116 | Open 8/22 |
