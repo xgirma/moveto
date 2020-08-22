@@ -54,20 +54,20 @@ Extract RTP listing data from moveto.com.
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27513/coming_soon.md) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27513/listed_today.md) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27513/price_reduced.md) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27513/for_sale.md) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27513/open_house.md)
 #### Data
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27513/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27513/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27513/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27513/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27513/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27513/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27513/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27513/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27513/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27513/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27513/in_contract.csv)
-## Cary, 27518, NC - Aug 20th 2020 
+## Cary, 27518, NC - Aug 21st 2020 
  
 ![Cary, 27518, NC :](https://github.com/xgirma/moveto/workflows/Cary,%2027518,%20NC%20:/badge.svg)
 
 ```json
 {
-  "date": "August 20th 2020, 11:04:48 pm EST",
-  "listings": 46,
+  "date": "August 21st 2020, 11:06:56 pm EST",
+  "listings": 45,
   "coming_soon": 1,
   "price_reduced": 13,
-  "for_sale": 22,
+  "for_sale": 23,
   "open_house": 1,
-  "under_contract": 13,
-  "sale_pending": 10,
+  "under_contract": 12,
+  "sale_pending": 9,
   "city": "Cary",
   "state": "NC",
   "zip": 27518

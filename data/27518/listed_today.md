@@ -1,2 +1,3 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
+| Price                                                                        | Est.       | Address         | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :--------------------------------------------------------------------------- | :--------- | :-------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [NaN](https://www.movoto.com/home/108-glenrose-ln-cary-nc-27518-413_2338528) | 498,451.00 | 108 Glenrose Ln | 4   | 3    | 3301 | 145   | New  | 0.27 | 1990 | 51  |      |
