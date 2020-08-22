@@ -1,3 +1,5 @@
-| Price                                                                         | Est.       | Address          | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
-| :---------------------------------------------------------------------------- | :--------- | :--------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
-| [NaN](https://www.movoto.com/home/532-fumagalli-dr-cary-nc-27519-413_2338152) | 388,467.00 | 532 Fumagalli Dr | 3   | 4    | 2539 | 161   | New  | 2614 | 2016 | 116 | Open 8/22 |
+| Price                                                                            | Est.       | Address             | Bed | Bath | Size | Value | Days | Lot   | Year | HOA | Open      |
+| :------------------------------------------------------------------------------- | :--------- | :------------------ | :-- | :--- | :--- | :---- | :--- | :---- | :--- | :-- | :-------- |
+| [NaN](https://www.movoto.com/home/208-wedgemere-st-cary-nc-27519-413_2338393)    | 374,445.00 | 208 Wedgemere St    | 3   | 3    | 2385 | 168   | New  | 0.28  | 1999 | 60  |           |
+| [NaN](https://www.movoto.com/home/318-wedgemere-dr-cary-nc-27519-413_2338404)    | 409,745.00 | 318 Wedgemere Dr    | 4   | 3    | 2545 | 157   | New  | 10019 | 2000 | 60  | Open 8/23 |
+| [NaN](https://www.movoto.com/home/109-dove-cottage-ln-cary-nc-27519-413_2338435) | 275,273.00 | 109 Dove Cottage Ln | 3   | 4    | 1823 | 137   | New  | 1307  | 2007 | 160 |           |
