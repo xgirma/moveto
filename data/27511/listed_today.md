@@ -1,4 +1,2 @@
-| Price                                                                           | Est.       | Address            | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
-| :------------------------------------------------------------------------------ | :--------- | :----------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
-| [NaN](https://www.movoto.com/home/622-sloan-dr-cary-nc-27511-413_2338504)       | 274,384.00 | 622 Sloan Dr       | 3   | 2    | 1559 | 212   | New  | 0.29 | 1974 | 0   |           |
-| [NaN](https://www.movoto.com/home/1124-manchester-dr-cary-nc-27511-413_2338588) | 295,314.00 | 1124 Manchester Dr | 4   | 3    | 1779 | 183   | New  | 0.35 | 1973 | 0   | Open 8/22 |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
