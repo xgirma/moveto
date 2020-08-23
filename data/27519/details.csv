@@ -1,129 +1,101 @@
 Status,Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,Year,HOA,Open,Link
-FOR SALE,250000,275273,250000,303000,,109 Dove Cottage Ln,3,4,1823,137,Listed Today,1307,Sqft,2007,160, ,https://www.movoto.com/home/109-dove-cottage-ln-cary-nc-27519-413_2338435
-FOR SALE,399900,409745,384000,435000,,318 Wedgemere Dr,4,3,2545,157,Listed Today,10019,Sqft,2000,60,Open 8/23,https://www.movoto.com/home/318-wedgemere-dr-cary-nc-27519-413_2338404
-Coming Soon - 08/21,497900,571995,498000,632000,,211 Forest Brook Dr,5,4,3345,149,Listed Today,0.33,Acres,1996,47, ,https://www.movoto.com/home/211-forest-brook-dr-cary-nc-27519-413_2338396
-FOR SALE,400000,374445,355000,401000,,208 Wedgemere St,3,3,2385,168,Listed Today,0.28,Acres,1999,60, ,https://www.movoto.com/home/208-wedgemere-st-cary-nc-27519-413_2338393
-FOR SALE,409900,393545,358000,409000,,532 Fumagalli Dr,3,4,2539,,,,,,,Open 8/22,https://www.movoto.com/home/532-fumagalli-dr-cary-nc-27519-413_2338152
-FOR SALE,389900,403368,387000,432000,,846 Firebrick Dr,3,3,2058,189,2,2178,Sqft,2019,148, ,https://www.movoto.com/home/846-firebrick-dr-cary-nc-27519-413_2338031
-FOR SALE,499000,447950,414000,498000,,410 Riggsbee Farm Dr,4,3,2635,189,2,0.30,Acres,1997,55,Open 8/22,https://www.movoto.com/home/410-riggsbee-farm-dr-cary-nc-27519-413_2337853
-FOR SALE,358730,363132,358000,370000,,110 Ashlar Ct,3,3,1834,,,,,,, ,https://www.movoto.com/home/110-ashlar-ct-cary-nc-27519-413_2337505
+FOR SALE,499000,568100,499000,664000,,706 Toms Creek Rd,4,3,2990,167,Listed Today,0.29,Acres,2013,99, ,https://www.movoto.com/home/706-toms-creek-rd-cary-nc-27519-413_2338639
+FOR SALE,250000,275273,250000,303000,,109 Dove Cottage Ln,3,4,1823,137,1,1307,Sqft,2007,160, ,https://www.movoto.com/home/109-dove-cottage-ln-cary-nc-27519-413_2338435
+FOR SALE,399900,409745,382000,435000,,318 Wedgemere Dr,4,3,2545,157,1,10019,Sqft,2000,60,Open 8/23,https://www.movoto.com/home/318-wedgemere-dr-cary-nc-27519-413_2338404
+Coming Soon - 08/21,497900,571995,498000,632000,,211 Forest Brook Dr,5,4,3345,,,,,,, ,https://www.movoto.com/home/211-forest-brook-dr-cary-nc-27519-413_2338396
+FOR SALE,400000,374445,355000,401000,,208 Wedgemere St,3,3,2385,168,1,0.28,Acres,1999,60, ,https://www.movoto.com/home/208-wedgemere-st-cary-nc-27519-413_2338393
+FOR SALE,409900,393545,358000,409000,,532 Fumagalli Dr,3,4,2539,161,2,2614,Sqft,2016,116,Open 8/23,https://www.movoto.com/home/532-fumagalli-dr-cary-nc-27519-413_2338152
+FOR SALE,389900,403368,387000,432000,,846 Firebrick Dr,3,3,2058,,,,,,, ,https://www.movoto.com/home/846-firebrick-dr-cary-nc-27519-413_2338031
+FOR SALE,499000,447950,414000,498000,,410 Riggsbee Farm Dr,4,3,2635,189,3,0.30,Acres,1997,55,Open 8/23,https://www.movoto.com/home/410-riggsbee-farm-dr-cary-nc-27519-413_2337853
+FOR SALE,358730,363132,358000,370000,,110 Ashlar Ct,3,3,1834,196,5,4356,Sqft,2020,154, ,https://www.movoto.com/home/110-ashlar-ct-cary-nc-27519-413_2337505
 FOR SALE,362740,363132,358000,370000,,102 Ashlar Ct,3,3,1834,,,,,,, ,https://www.movoto.com/home/102-ashlar-ct-cary-nc-27519-413_2337496
-FOR SALE,373130,363268,360000,372000,,210 Adobe Pl,3,3,1844,202,4,4356,Sqft,2020,154, ,https://www.movoto.com/home/210-adobe-pl-cary-nc-27519-413_2337486
-FOR SALE,364180,365112,360000,372000,,136 Ashlar Ct,3,3,1844,197,4,4356,Sqft,2020,154, ,https://www.movoto.com/home/136-ashlar-ct-cary-nc-27519-413_2337485
-FOR SALE,249900,,249000,301000,,2031 Summerhouse Rd,3,3,1815,,,,,,, ,https://www.movoto.com/home/2031-summerhouse-rd-cary-nc-27519-pid_hosx43b5jh
-FOR SALE,430000,425340,358000,533000,,261 Daymire Glen Ln,3,4,2502,172,7,2614,Sqft,2016,135, ,https://www.movoto.com/home/261-daymire-glen-ln-cary-nc-27519-413_2337234
-FOR SALE,475000,516420,429000,586000,,521 Mesquite Ridge Pl,5,3,3020,157,7,8276,Sqft,2009,64, ,https://www.movoto.com/home/521-mesquite-ridge-pl-cary-nc-27519-413_2205731
-FOR SALE,299900,329700,300000,369000,,202 Anniston Ct,3,3,1884,159,7,2614,Sqft,1999,237, ,https://www.movoto.com/home/202-anniston-ct-cary-nc-27519-413_2337054
-FOR SALE,427000,529728,427000,544000,,103 Presidents Walk Ln,4,3,2848,150,8,6098,Sqft,2006,90,Open 8/22,https://www.movoto.com/home/103-presidents-walk-ln-cary-nc-27519-413_2120657
-FOR SALE,275000,271490,248000,313000,,604 Baucom Grove Ct,3,3,1597,172,8,1307,Sqft,2006,178, ,https://www.movoto.com/home/604-baucom-grove-ct-cary-nc-27519-413_2162761
-FOR SALE,385000,383349,328000,434000,,320 Northlands Dr,3,3,2411,160,9,5227,Sqft,2006,83,Open 8/23,https://www.movoto.com/home/320-northlands-dr-cary-nc-27519-413_2336591
-FOR SALE,459900,447828,356000,604000,,1628 Vineyard Mist Dr,3,3,2228,206,12,6098,Sqft,2017,242,Open 8/22,https://www.movoto.com/home/1628-vineyard-mist-dr-cary-nc-27519-413_2336097
-FOR SALE,495975,481140,457000,525000,,2905 Hampton Hedge Lane #70 - HARLEY A-2,3,3,2430,,,,,,, ,https://www.movoto.com/home/2905-hampton-hedge-lane-apt-70-harley-a-2-cary-nc-27519-413_2335766
-FOR SALE,380665,382356,360000,438000,,320 Clementine Dr #9,4,4,2236,170,17,1873,Sqft,2020,141, ,https://www.movoto.com/home/320-clementine-dr-apt-9-cary-nc-27519-413_2335018
-FOR SALE,376400,352630,272000,384000,2000,413 King Closer Dr,4,4,1970,191,25,436,Sqft,2020,154, ,https://www.movoto.com/home/413-king-closer-dr-cary-nc-27519-413_2333441
-FOR SALE,369200,374022,365000,382000,2000,411 King Closer Dr,4,4,1889,195,25,4356,Sqft,2020,154, ,https://www.movoto.com/home/411-king-closer-dr-cary-nc-27519-413_2333422
-FOR SALE,423900,523992,424000,561000,100,1131 Brookhill Way,3,3,3119,136,28,5227,Sqft,2006,88,Open 8/22,https://www.movoto.com/home/1131-brookhill-way-cary-nc-27519-413_2332924
-FOR SALE,475000,511901,451000,572000,23000,108 Bergeron Way,5,4,3029,157,34,0.30,Acres,1995,55, ,https://www.movoto.com/home/108-bergeron-way-cary-nc-27519-413_2331863
-FOR SALE,424900,469938,426000,517000,10000,5013 Lake Grove Blvd,3,3,2338,182,34,6970,Sqft,2007,70,Open 8/22,https://www.movoto.com/home/5013-lake-grove-blvd-cary-nc-27519-413_2331776
-FOR SALE,439900,362912,328000,439000,10000,204 Sunstone Dr,3,3,2062,,,,,,,Open 8/22,https://www.movoto.com/home/204-sunstone-dr-cary-nc-27519-413_2170590
-FOR SALE,469900,480600,438000,518000,,737 Toms Creek Rd,4,3,2670,,,,,,,Open 8/23,https://www.movoto.com/home/737-toms-creek-rd-cary-nc-27519-413_2331416
-FOR SALE,499900,519248,443000,581000,10000,1623 Vineyard Mist Dr,3,3,2822,177,38,6970,Sqft,2017,240,Open 8/22,https://www.movoto.com/home/1623-vineyard-mist-dr-cary-nc-27519-413_2148417
-FOR SALE,475000,544270,474000,580000,15000,313 Millsfield Dr,4,3,2942,,,,,,, ,https://www.movoto.com/home/313-millsfield-dr-cary-nc-27519-413_2330453
-FOR SALE,495000,,401000,526000,5000,1646 Vineyard Mist Dr,3,3,2553,194,43,7057,Sqft,2018,242,Open 8/22,https://www.movoto.com/home/1646-vineyard-mist-dr-cary-nc-27519-413_2329876
-FOR SALE,458000,437396,399000,481000,,203 Hickorywood Blvd,4,3,2543,180,43,0.31,Acres,1998,55, ,https://www.movoto.com/home/203-hickorywood-blvd-cary-nc-27519-413_2329844
-FOR SALE,345000,,334000,456000,10000,120 Franklin Hills Pt,3,3,2113,163,43,0.28,Acres,2007,187,Open 8/22,https://www.movoto.com/home/120-franklin-hills-pt-cary-nc-27519-413_2329783
-FOR SALE,325000,312800,267000,359000,4000,204 Skyros Loop,3,3,1700,,,,,,, ,https://www.movoto.com/home/204-skyros-loop-cary-nc-27519-413_2329008
-FOR SALE,499900,543176,464000,622000,,408 Burnbank Dr,3,3,3158,158,54,0.34,Acres,1998,95, ,https://www.movoto.com/home/408-burnbank-dr-cary-nc-27519-413_2327733
-FOR SALE,489990,423829,415000,490000,1000,149 Mazarin Ln #86,3,4,2219,221,58,4356,Sqft,2020,133, ,https://www.movoto.com/home/149-mazarin-ln-apt-86-cary-nc-27519-413_2326924
-FOR SALE,355988,366466,355000,380000,13000,4206 Mahal Ave,4,4,1889,,,,,,, ,https://www.movoto.com/home/4206-mahal-ave-cary-nc-27519-413_2326834
-FOR SALE,426831,433784,420000,449000,6000,4211 Mahal Ave,3,3,2236,,,,,,, ,https://www.movoto.com/home/4211-mahal-ave-cary-nc-27519-413_2326820
-FOR SALE,401367,380663,375000,401000,2000,4217 Mahal Ave,3,3,1993,201,58,3920,Sqft,2020,154, ,https://www.movoto.com/home/4217-mahal-ave-cary-nc-27519-413_2326817
-FOR SALE,426962,433784,420000,449000,2000,4219 Mahal Ave,3,3,2236,191,58,4356,Sqft,2020,154, ,https://www.movoto.com/home/4219-mahal-ave-cary-nc-27519-413_2326808
-FOR SALE,357500,354496,349000,362000,2000,415 King Closer Dr,4,4,1856,,,,,,, ,https://www.movoto.com/home/415-king-closer-dr-cary-nc-27519-413_2326786
-FOR SALE,430590,423963,419000,442000,,519 Gathering Park Cir #16,3,4,2601,166,60,2352,Sqft,2020,261, ,https://www.movoto.com/home/519-gathering-park-cir-apt-16-cary-nc-27519-413_2292545
-FOR SALE,399900,423963,401000,429000,,525 Gathering Park Cir #15,3,4,2601,154,60,0.54,Acres,2019,261, ,https://www.movoto.com/home/525-gathering-park-cir-apt-15-cary-nc-27519-413_2251661
-FOR SALE,418145,429165,419000,442000,,1709 Gathering Park Cir #12,3,4,2601,161,60,2396,Sqft,2020,261, ,https://www.movoto.com/home/1709-gathering-park-cir-apt-12-cary-nc-27519-413_2319980
+FOR SALE,373130,363268,360000,372000,,210 Adobe Pl,3,3,1844,202,5,4356,Sqft,2020,154, ,https://www.movoto.com/home/210-adobe-pl-cary-nc-27519-413_2337486
+FOR SALE,364180,365112,360000,372000,,136 Ashlar Ct,3,3,1844,,,,,,, ,https://www.movoto.com/home/136-ashlar-ct-cary-nc-27519-413_2337485
+FOR SALE,249900,,249000,301000,,2031 Summerhouse Rd,3,3,1815,138,7,1307,Sqft,2013,160, ,https://www.movoto.com/home/2031-summerhouse-rd-cary-nc-27519-pid_hosx43b5jh
+FOR SALE,430000,425340,358000,533000,,261 Daymire Glen Ln,3,4,2502,,,,,,, ,https://www.movoto.com/home/261-daymire-glen-ln-cary-nc-27519-413_2337234
+FOR SALE,475000,489240,411000,586000,,521 Mesquite Ridge Pl,5,3,3020,157,8,8276,Sqft,2009,64, ,https://www.movoto.com/home/521-mesquite-ridge-pl-cary-nc-27519-413_2205731
+FOR SALE,299900,329700,300000,369000,,202 Anniston Ct,3,3,1884,159,8,2614,Sqft,1999,237, ,https://www.movoto.com/home/202-anniston-ct-cary-nc-27519-413_2337054
+FOR SALE,427000,529728,427000,544000,,103 Presidents Walk Ln,4,3,2848,,,,,,, ,https://www.movoto.com/home/103-presidents-walk-ln-cary-nc-27519-413_2120657
+FOR SALE,275000,271490,248000,313000,,604 Baucom Grove Ct,3,3,1597,172,9,1307,Sqft,2006,178, ,https://www.movoto.com/home/604-baucom-grove-ct-cary-nc-27519-413_2162761
+FOR SALE,385000,409870,328000,489000,,320 Northlands Dr,3,3,2411,,,,,,,Open 8/23,https://www.movoto.com/home/320-northlands-dr-cary-nc-27519-413_2336591
+FOR SALE,459900,461196,356000,604000,,1628 Vineyard Mist Dr,3,3,2228,206,13,6098,Sqft,2017,242, ,https://www.movoto.com/home/1628-vineyard-mist-dr-cary-nc-27519-413_2336097
+FOR SALE,495975,481140,457000,525000,,2905 Hampton Hedge Lane #70 - HARLEY A-2,3,3,2430,204,15,6098,Sqft,2020,89, ,https://www.movoto.com/home/2905-hampton-hedge-lane-apt-70-harley-a-2-cary-nc-27519-413_2335766
+FOR SALE,380665,382356,360000,438000,,320 Clementine Dr #9,4,4,2236,170,18,1873,Sqft,2020,141, ,https://www.movoto.com/home/320-clementine-dr-apt-9-cary-nc-27519-413_2335018
+FOR SALE,376400,352630,272000,384000,2000,413 King Closer Dr,4,4,1970,191,26,436,Sqft,2020,154, ,https://www.movoto.com/home/413-king-closer-dr-cary-nc-27519-413_2333441
+FOR SALE,369200,374022,365000,382000,2000,411 King Closer Dr,4,4,1889,,,,,,, ,https://www.movoto.com/home/411-king-closer-dr-cary-nc-27519-413_2333422
+FOR SALE,423900,523992,424000,561000,100,1131 Brookhill Way,3,3,3119,,,,,,, ,https://www.movoto.com/home/1131-brookhill-way-cary-nc-27519-413_2332924
+FOR SALE,475000,511901,451000,572000,23000,108 Bergeron Way,5,4,3029,157,35,0.30,Acres,1995,55, ,https://www.movoto.com/home/108-bergeron-way-cary-nc-27519-413_2331863
+FOR SALE,424900,469938,426000,517000,10000,5013 Lake Grove Blvd,3,3,2338,182,35,6970,Sqft,2007,70, ,https://www.movoto.com/home/5013-lake-grove-blvd-cary-nc-27519-413_2331776
+FOR SALE,439900,362912,328000,439000,10000,204 Sunstone Dr,3,3,2062,213,36,2178,Sqft,2009,242, ,https://www.movoto.com/home/204-sunstone-dr-cary-nc-27519-413_2170590
+FOR SALE,469900,480600,446000,518000,,737 Toms Creek Rd,4,3,2670,176,37,0.25,Acres,2015,99,Open 8/23,https://www.movoto.com/home/737-toms-creek-rd-cary-nc-27519-413_2331416
+FOR SALE,499900,519248,443000,573000,10000,1623 Vineyard Mist Dr,3,3,2822,177,39,6970,Sqft,2017,240, ,https://www.movoto.com/home/1623-vineyard-mist-dr-cary-nc-27519-413_2148417
+FOR SALE,475000,544270,474000,580000,15000,313 Millsfield Dr,4,3,2942,161,42,6534,Sqft,2006,56, ,https://www.movoto.com/home/313-millsfield-dr-cary-nc-27519-413_2330453
+FOR SALE,495000,,452000,526000,5000,1646 Vineyard Mist Dr,3,3,2553,194,44,7057,Sqft,2018,242,Open 8/23,https://www.movoto.com/home/1646-vineyard-mist-dr-cary-nc-27519-413_2329876
+FOR SALE,458000,437396,399000,481000,,203 Hickorywood Blvd,4,3,2543,180,44,0.31,Acres,1998,55, ,https://www.movoto.com/home/203-hickorywood-blvd-cary-nc-27519-413_2329844
+FOR SALE,345000,,334000,456000,10000,120 Franklin Hills Pt,3,3,2113,,,,,,,Open 8/23,https://www.movoto.com/home/120-franklin-hills-pt-cary-nc-27519-413_2329783
+FOR SALE,325000,312800,267000,359000,4000,204 Skyros Loop,3,3,1700,191,49,2178,Sqft,2013,91, ,https://www.movoto.com/home/204-skyros-loop-cary-nc-27519-413_2329008
+FOR SALE,499900,555808,499000,622000,,408 Burnbank Dr,3,3,3158,158,55,0.34,Acres,1998,95, ,https://www.movoto.com/home/408-burnbank-dr-cary-nc-27519-413_2327733
+FOR SALE,489990,423829,415000,490000,1000,149 Mazarin Ln #86,3,4,2219,221,59,4356,Sqft,2020,133, ,https://www.movoto.com/home/149-mazarin-ln-apt-86-cary-nc-27519-413_2326924
+FOR SALE,355988,366466,355000,380000,13000,4206 Mahal Ave,4,4,1889,188,59,1742,Sqft,2020,154, ,https://www.movoto.com/home/4206-mahal-ave-cary-nc-27519-413_2326834
+FOR SALE,426831,433784,420000,449000,6000,4211 Mahal Ave,3,3,2236,191,59,4356,Sqft,2020,154, ,https://www.movoto.com/home/4211-mahal-ave-cary-nc-27519-413_2326820
+FOR SALE,401367,380663,375000,401000,2000,4217 Mahal Ave,3,3,1993,,,,,,, ,https://www.movoto.com/home/4217-mahal-ave-cary-nc-27519-413_2326817
+FOR SALE,426962,433784,420000,449000,2000,4219 Mahal Ave,3,3,2236,191,59,4356,Sqft,2020,154, ,https://www.movoto.com/home/4219-mahal-ave-cary-nc-27519-413_2326808
+FOR SALE,357500,354496,349000,362000,2000,415 King Closer Dr,4,4,1856,193,59,1742,Sqft,2020,154, ,https://www.movoto.com/home/415-king-closer-dr-cary-nc-27519-413_2326786
+FOR SALE,430590,423963,419000,442000,,519 Gathering Park Cir #16,3,4,2601,,,,,,, ,https://www.movoto.com/home/519-gathering-park-cir-apt-16-cary-nc-27519-413_2292545
+FOR SALE,399900,423963,401000,429000,,525 Gathering Park Cir #15,3,4,2601,154,61,0.54,Acres,2019,261, ,https://www.movoto.com/home/525-gathering-park-cir-apt-15-cary-nc-27519-413_2251661
+FOR SALE,418145,429165,419000,442000,,1709 Gathering Park Cir #12,3,4,2601,161,61,2396,Sqft,2020,261, ,https://www.movoto.com/home/1709-gathering-park-cir-apt-12-cary-nc-27519-413_2319980
 FOR SALE,418900,429165,419000,442000,,1515 Gathering Park Cir #5,3,4,2601,,,,,,, ,https://www.movoto.com/home/1515-gathering-park-cir-apt-5-cary-nc-27519-413_2292511
-FOR SALE,419900,429165,419000,442000,,1519 Gathering Park Cir #7,3,4,2601,,,,,,, ,https://www.movoto.com/home/1519-gathering-park-cir-apt-7-cary-nc-27519-413_2292539
-FOR SALE,389900,418761,390000,421000,,1505 Gathering Park Cir #3,3,4,2601,150,60,0.45,Acres,2019,261, ,https://www.movoto.com/home/1505-gathering-park-cir-apt-3-cary-nc-27519-413_2250615
-FOR SALE,420525,410958,390000,421000,275,1707 Gathering Park Cir #11,3,4,2601,162,60,0.46,Acres,2020,261, ,https://www.movoto.com/home/1707-gathering-park-cir-apt-11-cary-nc-27519-413_2319958
-FOR SALE,414005,413559,390000,421000,,1703 Gathering Park Cir #9,3,4,2601,159,60,0.46,Acres,2020,261, ,https://www.movoto.com/home/1703-gathering-park-cir-apt-9-cary-nc-27519-413_2319869
+FOR SALE,419900,429165,419000,442000,,1519 Gathering Park Cir #7,3,4,2601,161,61,2352,Sqft,2019,261, ,https://www.movoto.com/home/1519-gathering-park-cir-apt-7-cary-nc-27519-413_2292539
+FOR SALE,389900,418761,390000,421000,,1505 Gathering Park Cir #3,3,4,2601,150,61,0.45,Acres,2019,261, ,https://www.movoto.com/home/1505-gathering-park-cir-apt-3-cary-nc-27519-413_2250615
+FOR SALE,420525,410958,390000,421000,275,1707 Gathering Park Cir #11,3,4,2601,162,61,0.46,Acres,2020,261, ,https://www.movoto.com/home/1707-gathering-park-cir-apt-11-cary-nc-27519-413_2319958
+FOR SALE,414005,413559,390000,421000,,1703 Gathering Park Cir #9,3,4,2601,159,61,0.46,Acres,2020,261, ,https://www.movoto.com/home/1703-gathering-park-cir-apt-9-cary-nc-27519-413_2319869
 FOR SALE,421675,410958,390000,421000,,1705 Gathering Park Cir #10,3,4,2601,,,,,,, ,https://www.movoto.com/home/1705-gathering-park-cir-apt-10-cary-nc-27519-413_2319891
-FOR SALE,428095,418761,401000,429000,,1701 Gathering Park Cir #8,3,4,2601,165,60,0.55,Acres,2020,261, ,https://www.movoto.com/home/1701-gathering-park-cir-apt-8-cary-nc-27519-413_2319814
-FOR SALE,429675,418761,401000,429000,,529 Gathering Park Cir #13,3,4,2601,165,60,0.54,Acres,2019,261, ,https://www.movoto.com/home/529-gathering-park-cir-apt-13-cary-nc-27519-413_2251642
-FOR SALE,420800,410958,390000,421000,800,517 Gathering Park Cir #17,3,4,2601,,,,,,, ,https://www.movoto.com/home/517-gathering-park-cir-apt-17-cary-nc-27519-413_2292552
-FOR SALE,419990,353430,345000,420000,6000,108 Mazarin Ln #73,3,4,2142,196,66,1873,Sqft,2020,141, ,https://www.movoto.com/home/108-mazarin-ln-apt-73-cary-nc-27519-413_2325298
-FOR SALE,274000,,266000,322000,6000,147 Braeside Ct,3,4,1938,141,72,1307,Sqft,2007,155, ,https://www.movoto.com/home/147-braeside-ct-cary-nc-27519-413_2324125
-FOR SALE,339983,302304,254000,339000,2000,1608 Clayfire Dr,3,3,1608,211,72,2352,Sqft,2020,154, ,https://www.movoto.com/home/1608-clayfire-dr-cary-nc-27519-413_2324054
-FOR SALE,339967,304184,256000,341000,3000,1606 Clayfire Dr,3,3,1618,210,72,2352,Sqft,2020,154, ,https://www.movoto.com/home/1606-clayfire-dr-cary-nc-27519-413_2324051
-FOR SALE,341500,351405,331000,362000,,703 Mountain Pine Dr,3,3,2055,166,73,0.90,Acres,2013,241, ,https://www.movoto.com/home/703-mountain-pine-dr-cary-nc-27519-413_2323920
+FOR SALE,428095,418761,401000,429000,,1701 Gathering Park Cir #8,3,4,2601,165,61,0.55,Acres,2020,261, ,https://www.movoto.com/home/1701-gathering-park-cir-apt-8-cary-nc-27519-413_2319814
+FOR SALE,429675,418761,401000,429000,,529 Gathering Park Cir #13,3,4,2601,165,61,0.54,Acres,2019,261, ,https://www.movoto.com/home/529-gathering-park-cir-apt-13-cary-nc-27519-413_2251642
+FOR SALE,420800,410958,390000,421000,800,517 Gathering Park Cir #17,3,4,2601,162,64,0.45,Acres,2019,261, ,https://www.movoto.com/home/517-gathering-park-cir-apt-17-cary-nc-27519-413_2292552
+FOR SALE,419990,353430,345000,420000,6000,108 Mazarin Ln #73,3,4,2142,196,67,1873,Sqft,2020,141, ,https://www.movoto.com/home/108-mazarin-ln-apt-73-cary-nc-27519-413_2325298
+FOR SALE,274000,,266000,322000,6000,147 Braeside Ct,3,4,1938,141,73,1307,Sqft,2007,155, ,https://www.movoto.com/home/147-braeside-ct-cary-nc-27519-413_2324125
+FOR SALE,339983,302304,254000,339000,2000,1608 Clayfire Dr,3,3,1608,211,73,2352,Sqft,2020,154, ,https://www.movoto.com/home/1608-clayfire-dr-cary-nc-27519-413_2324054
+FOR SALE,339967,304184,256000,341000,3000,1606 Clayfire Dr,3,3,1618,210,73,2352,Sqft,2020,154, ,https://www.movoto.com/home/1606-clayfire-dr-cary-nc-27519-413_2324051
+FOR SALE,341500,353460,341000,362000,,703 Mountain Pine Dr,3,3,2055,,,,,,, ,https://www.movoto.com/home/703-mountain-pine-dr-cary-nc-27519-413_2323920
 FOR SALE,399990,426258,401000,473000,9000,306 Clementine Dr #LOT 3,3,4,2142,,,,,,, ,https://www.movoto.com/home/306-clementine-dr-lot-3-cary-nc-27519-413_2313794
-FOR SALE,411190,399791,392000,412000,2000,4213 Mahal Ave,3,3,2009,205,129,3920,Sqft,2020,154, ,https://www.movoto.com/home/4213-mahal-ave-cary-nc-27519-413_2313583
-FOR SALE,421453,438165,422000,452000,2000,4215 Mahal Ave,3,3,2247,188,129,3920,Sqft,2020,154, ,https://www.movoto.com/home/4215-mahal-ave-cary-nc-27519-413_2313571
-FOR SALE,378500,409665,373000,426000,11000,1016 Indigo Ridge Pl,4,4,2643,,,,,,, ,https://www.movoto.com/home/1016-indigo-ridge-pl-cary-nc-27518-413_2303529
-FOR SALE,337900,359480,339000,365000,6000,2032 Chipley Dr,3,3,1892,179,210,2004,Sqft,2020,135, ,https://www.movoto.com/home/2032-chipley-dr-cary-nc-27519-413_2298176
-FOR SALE,398000,,294000,446000,6000,4000 Jockey Club Cir,4,3,2164,184,234,5227,Sqft,2007,83, ,https://www.movoto.com/home/4000-jockey-club-cir-cary-nc-27519-413_2287124
-FOR SALE,399990,368424,345000,420000,3000,140 Mazarin Ln #LOT 63,4,4,2142,187,310,1917,Sqft,2020,141, ,https://www.movoto.com/home/140-mazarin-ln-lot-63-cary-nc-27519-413_2284298
-FOR SALE,376990,368424,341000,420000,2000,318 Clementine Dr #LOT 8,4,4,2142,176,310,1786,Sqft,2019,141, ,https://www.movoto.com/home/318-clementine-dr-lot-8-cary-nc-27519-413_2284245
-FOR SALE,379900,429020,379000,436000,12000,2046 Chipley Dr,3,3,2258,168,461,2439,Sqft,2019,135, ,https://www.movoto.com/home/2046-chipley-dr-cary-nc-27519-413_2255991
-FOR SALE,424900,560000,426000,602000,,721 Quartz Crystal Pl,5,4,3200,133,1919,0.28,Acres,2006,111, ,https://www.movoto.com/home/721-quartz-crystal-pl-cary-nc-27519-413_2009117
-SALE PENDING,495000,494361,439000,542000,,126 Beckingham Loop,3,3,2793,,,,,,, ,https://www.movoto.com/home/126-beckingham-loop-cary-nc-27519-413_2337492
-IN CONTRACT,445000,399875,375000,446000,,720 Arbor Brook Dr,3,2,2285,195,6,0.25,Acres,2007,231, ,https://www.movoto.com/home/720-arbor-brook-dr-cary-nc-27519-413_2337308
-IN CONTRACT,279000,270432,257000,300000,,332 Kinellan Ln,3,3,1878,149,6,1307,Sqft,2004,155, ,https://www.movoto.com/home/332-kinellan-ln-cary-nc-27519-413_2337300
-SALE PENDING,345000,364872,284000,422000,,373 Luke Meadow Ln,3,3,1983,174,7,3485,Sqft,2005,182, ,https://www.movoto.com/home/373-luke-meadow-ln-cary-nc-27519-413_2337082
-IN CONTRACT,369900,413672,370000,514000,5000,255 Murray Glen Dr,3,3,2324,,,,,,, ,https://www.movoto.com/home/255-murray-glen-dr-cary-nc-27519-413_2337032
-IN CONTRACT,287750,283030,250000,303000,,1308 Seattle Slew Ln,3,3,1826,158,8,1742,Sqft,2009,187, ,https://www.movoto.com/home/1308-seattle-slew-ln-cary-nc-27519-413_2336783
-IN CONTRACT,500000,409360,366000,501000,,6824 Branton Dr,3,3,2408,208,8,4.39,Acres,1976,0, ,https://www.movoto.com/home/6824-branton-dr-cary-nc-27519-413_2336715
-SALE PENDING,364948,358208,349000,373000,,4210 Mahal Ave,3,3,1856,197,14,1742,Sqft,2020,154, ,https://www.movoto.com/home/4210-mahal-ave-cary-nc-27519-413_2335931
-IN CONTRACT,474900,449790,406000,489000,,307 Cranborne Ln,4,3,2585,184,14,0.30,Acres,1995,55, ,https://www.movoto.com/home/307-cranborne-ln-cary-nc-27519-413_2335856
-IN CONTRACT,370000,381600,326000,432000,,804 Transom View Way,3,3,2400,154,14,5227,Sqft,2013,190, ,https://www.movoto.com/home/804-transom-view-way-cary-nc-27519-413_2335805
-IN CONTRACT,339900,,288000,366000,,509 Catlin Rd,4,3,1934,176,14,0.35,Acres,1994,17, ,https://www.movoto.com/home/509-catlin-rd-cary-nc-27519-413_2335786
-IN CONTRACT,425000,415121,371000,518000,,241 Elverson Pl,3,2,1913,222,14,6534,Sqft,2011,231, ,https://www.movoto.com/home/241-elverson-pl-cary-nc-27519-413_2335753
-IN CONTRACT,350900,420291,328000,659000,,107 Carswell Ln,3,3,2091,168,15,10454,Sqft,1999,27, ,https://www.movoto.com/home/107-carswell-ln-cary-nc-27519-413_2335556
-IN CONTRACT,440000,446040,396000,537000,,231 Daymire Glen Ln,3,4,2520,175,15,3049,Sqft,2016,135, ,https://www.movoto.com/home/231-daymire-glen-ln-cary-nc-27519-413_2335505
-IN CONTRACT,275000,,274000,361000,,543 Berry Chase Way,3,4,1841,149,15,1307,Sqft,2013,175, ,https://www.movoto.com/home/543-berry-chase-way-cary-nc-27519-413_2335424
-IN CONTRACT,320000,305045,283000,341000,,308 Caraway Ln,3,3,1805,177,15,0.26,Acres,1997,27, ,https://www.movoto.com/home/308-caraway-ln-cary-nc-27519-413_2335407
-IN CONTRACT,400000,388376,361000,465000,,4022 Overcup Oak Ln,3,3,2258,177,17,4051,Sqft,2014,91, ,https://www.movoto.com/home/4022-overcup-oak-ln-cary-nc-27519-413_2335053
-IN CONTRACT,415000,429198,379000,449000,,109 Bridgegate Dr,4,3,2787,,,,,,, ,https://www.movoto.com/home/109-bridgegate-dr-cary-nc-27519-413_2295562
-IN CONTRACT,325000,443178,326000,486000,,475 Panorama Park Pl,4,4,2547,128,17,2178,Sqft,2009,184, ,https://www.movoto.com/home/475-panorama-park-pl-cary-nc-27519-413_2335025
-SALE PENDING,404900,377910,316000,471000,,440 Methven Grove Dr,3,3,2210,183,17,2614,Sqft,2015,125, ,https://www.movoto.com/home/440-methven-grove-dr-cary-nc-27519-413_2148498
-IN CONTRACT,269900,288108,261000,359000,,5017 Lalex Ln,3,4,1908,141,18,1307,Sqft,2014,163, ,https://www.movoto.com/home/5017-lalex-ln-cary-nc-27519-413_2334873
-IN CONTRACT,326000,325632,292000,361000,,209 Trent Woods Way,3,3,1696,192,20,5097,Sqft,1996,47, ,https://www.movoto.com/home/209-trent-woods-way-cary-nc-27519-413_2334604
-IN CONTRACT,337500,314795,285000,362000,,406 Brook Creek Dr,3,2,1885,179,21,10454,Sqft,1994,47, ,https://www.movoto.com/home/406-brook-creek-dr-cary-nc-27519-413_2334255
-IN CONTRACT,360000,398112,359000,432000,,207 Castlebury Creek Ct,4,3,2288,157,21,0.26,Acres,1998,47, ,https://www.movoto.com/home/207-castlebury-creek-ct-cary-nc-27519-413_2334239
-IN CONTRACT,350000,342317,311000,376000,5000,609 Balsam Fir Dr,4,4,2267,154,22,1742,Sqft,2016,241, ,https://www.movoto.com/home/609-balsam-fir-dr-cary-nc-27519-413_2313673
-IN CONTRACT,320000,322560,289000,358000,,102 New Holland Pl,3,3,1680,190,24,5227,Sqft,1995,47, ,https://www.movoto.com/home/102-new-holland-pl-cary-nc-27519-413_2333717
-IN CONTRACT,400000,430276,380000,450000,,115 Bridgegate Dr,4,3,2794,143,25,4356,Sqft,2002,38, ,https://www.movoto.com/home/115-bridgegate-dr-cary-nc-27519-413_2333469
-SALE PENDING,383280,408775,384000,436000,,1645 Clayfire Dr,4,4,2075,185,25,4356,Sqft,2020,154, ,https://www.movoto.com/home/1645-clayfire-dr-cary-nc-27519-413_2333462
-IN CONTRACT,355000,389607,334000,441000,,112 Deep Gap Run,3,3,2129,167,26,9148,Sqft,1995,47, ,https://www.movoto.com/home/112-deep-gap-run-cary-nc-27519-413_2333304
-IN CONTRACT,429900,435708,405000,480000,,211 Cove Creek Dr,4,3,2793,,,,,,, ,https://www.movoto.com/home/211-cove-creek-dr-cary-nc-27519-413_2333159
-IN CONTRACT,300000,354114,295000,410000,,1033 Kingston Grove Dr,3,3,1854,,,,,,, ,https://www.movoto.com/home/1033-kingston-grove-dr-cary-nc-27519-413_2333078
-IN CONTRACT,389900,364350,339000,393000,,118 Bromfield Way,4,3,2082,187,28,0.30,Acres,1993,55, ,https://www.movoto.com/home/118-bromfield-way-cary-nc-27519-413_2333027
-IN CONTRACT,399900,378765,317000,472000,,421 Methven Grove Dr,3,3,2215,181,28,2614,Sqft,2015,125, ,https://www.movoto.com/home/421-methven-grove-dr-cary-nc-27519-413_2332904
-DELISTED,350000,394794,351000,405000,,1068 Kingston Grove Dr,3,3,2437,144,28,2614,Sqft,2007,0, ,https://www.movoto.com/home/1068-kingston-grove-dr-cary-nc-27519-413_2332899
-SALE PENDING,410000,432768,390000,460000,,6636 Lewey Dr,4,3,2688,153,28,8276,Sqft,1997,47, ,https://www.movoto.com/home/6636-lewey-dr-cary-nc-27519-413_2332886
-IN CONTRACT,384500,389774,344000,407000,,416 Fly Bridge Dr,3,3,2531,,,,,,, ,https://www.movoto.com/home/416-fly-bridge-dr-cary-nc-27519-413_2248096
-SALE PENDING,495000,477636,454000,514000,,100 Parkspring Ct,4,4,3004,165,29,10019,Sqft,1992,53, ,https://www.movoto.com/home/100-parkspring-ct-cary-nc-27519-413_2332613
-SALE PENDING,400000,414327,390000,474000,,1217 Sand Pine Dr,4,4,2481,161,30,3049,Sqft,2016,241, ,https://www.movoto.com/home/1217-sand-pine-dr-cary-nc-27519-413_2332468
-IN CONTRACT,489000,502502,485000,517000,,801 Wellbrook Station Rd,5,3,3514,139,30,7841,Sqft,2007,73, ,https://www.movoto.com/home/801-wellbrook-station-rd-cary-nc-27519-413_2332414
-IN CONTRACT,339500,,250000,340000,,410 Fly Bridge Dr,3,3,1827,186,31,3049,Sqft,2012,241, ,https://www.movoto.com/home/410-fly-bridge-dr-cary-nc-27519-413_2332364
-IN CONTRACT,455000,425340,378000,456000,,4105 Plum Branch Dr,4,3,2780,164,31,7841,Sqft,2012,57, ,https://www.movoto.com/home/4105-plum-branch-dr-cary-nc-27519-413_2332337
-IN CONTRACT,474900,482164,447000,531000,,2015 Ollivander Dr,4,3,3236,147,34,8712,Sqft,2008,73, ,https://www.movoto.com/home/2015-ollivander-dr-cary-nc-27519-413_2331760
-SALE PENDING,415000,425194,375000,445000,,118 Naperville Dr,4,3,2761,,,,,,, ,https://www.movoto.com/home/118-naperville-dr-cary-nc-27519-413_2151761
-IN CONTRACT,340000,357760,333000,374000,,710 Delta Downs Dr,4,3,2080,163,37,6098,Sqft,2006,90, ,https://www.movoto.com/home/710-delta-downs-dr-cary-nc-27519-413_2331125
-IN CONTRACT,325000,330624,296000,367000,,103 Morgans Corner Run,3,3,1722,189,42,5227,Sqft,1995,47, ,https://www.movoto.com/home/103-morgans-corner-run-cary-nc-27519-413_2330318
-SALE PENDING,429000,479718,430000,521000,10000,304 Parkknoll Ln,4,3,2757,156,42,0.28,Acres,1992,52, ,https://www.movoto.com/home/304-parkknoll-ln-cary-nc-27519-413_2330063
-IN CONTRACT,500000,462054,395000,523000,,1002 Bluff Oak Dr,4,4,2906,172,43,4356,Sqft,2014,91, ,https://www.movoto.com/home/1002-bluff-oak-dr-cary-nc-27519-413_2330031
-SALE PENDING,289999,295243,274000,334000,,1924 Whirlaway Ct,3,3,1747,166,43,1742,Sqft,2009,189, ,https://www.movoto.com/home/1924-whirlaway-ct-cary-nc-27519-413_2330026
-IN CONTRACT,283999,284832,271000,316000,2000,134 Braeside Ct,4,4,1978,,,,,,, ,https://www.movoto.com/home/134-braeside-ct-cary-nc-27519-413_2329885
-SALE PENDING,419947,,419000,520000,,309 Riversville Ct,4,3,2652,158,43,0.25,Acres,2010,70, ,https://www.movoto.com/home/309-riversville-ct-cary-nc-27519-413_2329822
-SALE PENDING,449990,486157,450000,540000,,112 Mazarin Ln #71,4,4,2443,184,44,3920,Sqft,2020,141, ,https://www.movoto.com/home/112-mazarin-ln-apt-71-cary-nc-27519-413_2329642
-IN CONTRACT,364900,335100,306000,364000,,155 Alamosa Pl,3,3,2234,163,44,3049,Sqft,2015,115, ,https://www.movoto.com/home/155-alamosa-pl-cary-nc-27519-413_2142617
-SALE PENDING,485000,530618,405000,587000,,2823 Cameron Pond Dr,4,3,2981,,,,,,, ,https://www.movoto.com/home/2823-cameron-pond-dr-cary-nc-27519-413_2329489
-IN CONTRACT,315000,260440,222000,317000,,104 Maple Hill Dr,3,3,1532,,,,,,, ,https://www.movoto.com/home/104-maple-hill-dr-cary-nc-27519-413_2183251
-SALE PENDING,475000,437562,408000,475000,17000,117 Parkcrest Dr,5,3,2701,176,48,10454,Sqft,1992,53, ,https://www.movoto.com/home/117-parkcrest-dr-cary-nc-27519-413_2329047
-IN CONTRACT,400000,465596,399000,533000,,4035 Overcup Oak Ln,3,4,2788,143,49,2178,Sqft,2015,241, ,https://www.movoto.com/home/4035-overcup-oak-ln-cary-nc-27519-413_2328801
-IN CONTRACT,283000,268884,234000,289000,,104 Halls Mill Dr,3,3,1358,208,52,5663,Sqft,1993,47, ,https://www.movoto.com/home/104-halls-mill-dr-cary-nc-27519-413_2328115
-SALE PENDING,414990,384592,360000,438000,4000,110 Mazarin Ln #72,4,4,2236,186,52,1873,Sqft,2020,141, ,https://www.movoto.com/home/110-mazarin-ln-apt-72-cary-nc-27519-413_2327963
-IN CONTRACT,484900,504196,485000,517000,,101 Stagville Ct,4,3,3274,,,,,,, ,https://www.movoto.com/home/101-stagville-ct-cary-nc-27519-413_2327926
-IN CONTRACT,335000,349441,310000,425000,,705 Bradhurst Pl,3,2,1567,214,53,4269,Sqft,2011,231, ,https://www.movoto.com/home/705-bradhurst-pl-cary-nc-27519-413_2327916
+FOR SALE,411190,399791,392000,412000,2000,4213 Mahal Ave,3,3,2009,205,130,3920,Sqft,2020,154, ,https://www.movoto.com/home/4213-mahal-ave-cary-nc-27519-413_2313583
+FOR SALE,421453,438165,422000,452000,2000,4215 Mahal Ave,3,3,2247,188,130,3920,Sqft,2020,154, ,https://www.movoto.com/home/4215-mahal-ave-cary-nc-27519-413_2313571
+IN CONTRACT,350000,342317,311000,376000,5000,609 Balsam Fir Dr,4,4,2267,154,23,1742,Sqft,2016,241, ,https://www.movoto.com/home/609-balsam-fir-dr-cary-nc-27519-413_2313673
+SALE PENDING,405990,366282,345000,420000,,126 Mazarin Ln #69,4,4,2142,190,75,1873,Sqft,2020,141, ,https://www.movoto.com/home/126-mazarin-ln-apt-69-cary-nc-27519-413_2323808
+IN CONTRACT,407000,441364,390000,461000,2000,111 Bridgegate Dr,4,3,2866,,,,,,, ,https://www.movoto.com/home/111-bridgegate-dr-cary-nc-27519-413_2169830
+IN CONTRACT,435000,554928,435000,593000,,700 Pierside Dr,5,3,3153,138,77,8276,Sqft,2010,70, ,https://www.movoto.com/home/700-pierside-dr-cary-nc-27519-413_2255124
+IN CONTRACT,255000,,248000,290000,,3847 Cary Glen Blvd,3,4,1810,141,80,1307,Sqft,2007,160, ,https://www.movoto.com/home/3847-cary-glen-blvd-cary-nc-27519-413_2322762
+IN CONTRACT,330000,345204,307000,420000,8000,408 Horatio Ct,3,2,1548,213,80,4356,Sqft,2010,231, ,https://www.movoto.com/home/408-horatio-ct-cary-nc-27519-413_2322666
+SALE PENDING,499700,536912,467000,601000,13000,209 Wales Way,5,4,2918,171,84,5358,Sqft,2020,95, ,https://www.movoto.com/home/209-wales-way-cary-nc-27519-413_2322085
+SALE PENDING,379900,429020,379000,436000,,2030 Chipley Dr,3,3,2258,168,85,2526,Sqft,2020,135, ,https://www.movoto.com/home/2030-chipley-dr-cary-nc-27519-413_2321950
+SALE PENDING,424990,395766,393000,425000,5000,132 Mazarin Ln #LOT 66,4,4,2443,,,,,,, ,https://www.movoto.com/home/132-mazarin-ln-lot-66-cary-nc-27519-413_2321381
+IN CONTRACT,450000,384000,360000,451000,,207 Kelly Springs Ct,3,2,2400,188,90,0.40,Acres,1999,25, ,https://www.movoto.com/home/207-kelly-springs-ct-cary-nc-27519-413_2320982
+SALE PENDING,456000,550088,457000,564000,4000,102 Janey Brook Ct,4,3,3572,128,100,0.26,Acres,1999,47, ,https://www.movoto.com/home/102-janey-brook-ct-cary-nc-27519-413_2319218
+SALE PENDING,499000,436638,375000,499000,21000,229 Ellisview Dr,3,3,2386,209,107,8276,Sqft,2016,242, ,https://www.movoto.com/home/229-ellisview-dr-cary-nc-27519-413_2317710
+SALE PENDING,449000,419292,351000,522000,,433 Methven Grove Dr,4,3,2452,183,112,3485,Sqft,2015,125, ,https://www.movoto.com/home/433-methven-grove-dr-cary-nc-27519-413_2316806
+SALE PENDING,399900,457860,399000,472000,3000,2036 Chipley Dr,4,3,2348,170,114,3703,Sqft,2020,135, ,https://www.movoto.com/home/2036-chipley-dr-cary-nc-27519-413_2316340
+SALE PENDING,362810,363132,359000,370000,,1628 Clayfire Dr,3,3,1834,198,127,3920,Sqft,2020,154, ,https://www.movoto.com/home/1628-clayfire-dr-cary-nc-27519-413_2314168
+SALE PENDING,356860,307948,260000,376000,,1620 Clayfire Dr,3,3,1844,194,129,2352,Sqft,2020,154, ,https://www.movoto.com/home/1620-clayfire-dr-cary-nc-27519-413_2313721
+SALE PENDING,354980,306278,259000,374000,2000,1622 Clayfire Dr,3,3,1834,194,129,2352,Sqft,2020,154, ,https://www.movoto.com/home/1622-clayfire-dr-cary-nc-27519-413_2313717
+SALE PENDING,366510,370644,347000,389000,,1616 Clayfire Dr,3,3,1844,199,129,2352,Sqft,2020,154, ,https://www.movoto.com/home/1616-clayfire-dr-cary-nc-27519-413_2313698
+SALE PENDING,479900,501072,475000,535000,10000,107 Mintawood Ct,4,4,2847,169,136,0.25,Acres,2000,40, ,https://www.movoto.com/home/107-mintawood-ct-cary-nc-27519-413_2312580
+SALE PENDING,474990,442775,416000,492000,,125 Mazarin Ln #LOT 80,3,3,2225,213,137,4356,Sqft,2020,134, ,https://www.movoto.com/home/125-mazarin-ln-lot-80-cary-nc-27519-413_2312528
+SALE PENDING,359990,369740,360000,376000,17000,4027 Mahal Ave,4,4,1946,185,149,2178,Sqft,2020,154, ,https://www.movoto.com/home/4027-mahal-ave-cary-nc-27519-413_2310396
+SALE PENDING,369990,380210,370000,396000,10000,1114 Brickfield Dr,4,4,1970,188,149,3049,Sqft,2020,154, ,https://www.movoto.com/home/1114-brickfield-dr-cary-nc-27519-413_2310394
+SALE PENDING,339990,304384,254000,358000,8000,4035 Mahal Ave,4,4,1856,183,149,1742,Sqft,2020,154, ,https://www.movoto.com/home/4035-mahal-ave-cary-nc-27519-413_2310392
+SALE PENDING,359990,374300,361000,380000,4000,4033 Mahal Ave,4,4,1970,,,,,,, ,https://www.movoto.com/home/4033-mahal-ave-cary-nc-27519-413_2310389
+SALE PENDING,345990,334530,261000,365000,10000,4029 Mahal Ave,4,4,1890,183,149,1742,Sqft,2019,154, ,https://www.movoto.com/home/4029-mahal-ave-cary-nc-27519-413_2310387
+IN CONTRACT,485000,459330,394000,510000,10000,315 Beckingham Loop,3,2,2510,193,162,8276,Sqft,2007,231, ,https://www.movoto.com/home/315-beckingham-loop-cary-nc-27519-413_2307886
+SALE PENDING,434990,321953,296000,435000,10000,2537 Hayes Hill Place #124 - HARLEY B,3,2,1861,234,175,610,Sqft,2020,89, ,https://www.movoto.com/home/2537-hayes-hill-place-apt-124-harley-b-cary-nc-27519-413_2304834
+SALE PENDING,310000,335420,305000,348000,,348 Bridgegate Dr,3,4,2164,143,189,2178,Sqft,2004,225, ,https://www.movoto.com/home/348-bridgegate-dr-cary-nc-27519-413_2300942
+SALE PENDING,414040,362895,350000,413000,,2605 Hayes Hill Place #119 - HARLEY A,3,2,1861,222,191,6098,Sqft,2020,89, ,https://www.movoto.com/home/2605-hayes-hill-place-apt-119-harley-a-cary-nc-27519-413_2301952
+SALE PENDING,499500,524677,500000,538000,11000,773 Midori Cir #LOT 179,3,3,2747,182,194,5227,Sqft,2020,134, ,https://www.movoto.com/home/773-midori-cir-lot-179-cary-nc-27519-413_2301173
+SALE PENDING,345990,310780,260000,366000,4000,1016 Salt Glaze Ln,4,4,1895,183,260,1525,Sqft,2019,154, ,https://www.movoto.com/home/1016-salt-glaze-ln-cary-nc-27519-413_2291805
+SALE PENDING,349990,359133,280000,392000,5000,1014 Salt Glaze Ln,4,4,2029,,,,,,, ,https://www.movoto.com/home/1014-salt-glaze-ln-cary-nc-27519-413_2291783
+SALE PENDING,402900,457860,404000,472000,8000,2028 Chipley Dr,4,3,2348,,,,,,, ,https://www.movoto.com/home/2028-chipley-dr-cary-nc-27519-413_2291169
+SALE PENDING,342760,355482,325000,400000,40000,328 Poplar Leaf Way #1081C,3,3,2043,168,276,1307,Sqft,2019,115, ,https://www.movoto.com/home/328-poplar-leaf-way-apt-1081c-cary-nc-27519-413_2289648
+SALE PENDING,425255,395766,393000,425000,,136 Mazarin Ln #LOT 65,4,4,2443,174,305,3267,Sqft,2019,141, ,https://www.movoto.com/home/136-mazarin-ln-lot-65-cary-nc-27519-413_2285149
+SALE PENDING,393840,368424,345000,420000,,142 Mazarin Ln #LOT 62,4,4,2142,184,311,1917,Sqft,2019,141, ,https://www.movoto.com/home/142-mazarin-ln-lot-62-cary-nc-27519-413_2284296
+SALE PENDING,411990,371004,347000,423000,22000,128 Mazarin Ln #68,4,4,2157,191,337,1873,Sqft,2020,141, ,https://www.movoto.com/home/128-mazarin-ln-apt-68-cary-nc-27519-413_2279588
+IN CONTRACT,400000,517592,399000,554000,,5004 Highcroft Dr,4,3,2813,142,1928,6098,Sqft,2004,48, ,https://www.movoto.com/home/5004-highcroft-dr-cary-nc-27519-413_2005154

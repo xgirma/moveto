@@ -1,5 +1,3 @@
-| Price                                                                            | Est.       | Address             | Bed | Bath | Size | Value | Days | Lot   | Year | HOA | Open      |
-| :------------------------------------------------------------------------------- | :--------- | :------------------ | :-- | :--- | :--- | :---- | :--- | :---- | :--- | :-- | :-------- |
-| [NaN](https://www.movoto.com/home/208-wedgemere-st-cary-nc-27519-413_2338393)    | 374,445.00 | 208 Wedgemere St    | 3   | 3    | 2385 | 168   | New  | 0.28  | 1999 | 60  |           |
-| [NaN](https://www.movoto.com/home/318-wedgemere-dr-cary-nc-27519-413_2338404)    | 409,745.00 | 318 Wedgemere Dr    | 4   | 3    | 2545 | 157   | New  | 10019 | 2000 | 60  | Open 8/23 |
-| [NaN](https://www.movoto.com/home/109-dove-cottage-ln-cary-nc-27519-413_2338435) | 275,273.00 | 109 Dove Cottage Ln | 3   | 4    | 1823 | 137   | New  | 1307  | 2007 | 160 |           |
+| Price                                                                          | Est.       | Address           | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :----------------------------------------------------------------------------- | :--------- | :---------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [NaN](https://www.movoto.com/home/706-toms-creek-rd-cary-nc-27519-413_2338639) | 568,100.00 | 706 Toms Creek Rd | 4   | 3    | 2990 | 167   | New  | 0.29 | 2013 | 99  |      |
