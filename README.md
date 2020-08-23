@@ -104,20 +104,20 @@ Extract RTP listing data from moveto.com.
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27519/coming_soon.md) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27519/listed_today.md) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27519/price_reduced.md) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27519/for_sale.md) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27519/open_house.md)
 #### Data
 [Coming soon](https://github.com/xgirma/moveto/blob/master/data/27519/coming_soon.csv) | [Listed today](https://github.com/xgirma/moveto/blob/master/data/27519/listed_today.csv) | [Price Reduced](https://github.com/xgirma/moveto/blob/master/data/27519/price_reduced.csv) | [For sale](https://github.com/xgirma/moveto/blob/master/data/27519/for_sale.csv) | [Open house](https://github.com/xgirma/moveto/blob/master/data/27519/open_house.csv) | [Sorted by price](https://github.com/xgirma/moveto/blob/master/data/27519/by_price.csv) | [Sorted by size](https://github.com/xgirma/moveto/blob/master/data/27519/by_size.csv) | [Sorted by year built](https://github.com/xgirma/moveto/blob/master/data/27519/by_year.csv) | [Sorted by days listed](https://github.com/xgirma/moveto/blob/master/data/27519/by_days.csv) | [Sale pending](https://github.com/xgirma/moveto/blob/master/data/27519/sale_pending.csv) | [In contract](https://github.com/xgirma/moveto/blob/master/data/27519/in_contract.csv)
-## Morrisville, 27560, NC - Aug 21st 2020 
+## Morrisville, 27560, NC - Aug 23rd 2020 
  
 ![Morrisville, 27560, NC :](https://github.com/xgirma/moveto/workflows/Morrisville,%2027560,%20NC%20:/badge.svg)
 
 ```json
 {
-  "date": "August 21st 2020, 3:05:52 am EST",
-  "listings": 90,
-  "coming_soon": 3,
-  "price_reduced": 19,
-  "for_sale": 41,
+  "date": "August 23rd 2020, 3:05:12 am EST",
+  "listings": 118,
+  "coming_soon": 2,
+  "price_reduced": 17,
+  "for_sale": 42,
   "open_house": 2,
-  "under_contract": 31,
-  "sale_pending": 15,
+  "under_contract": 44,
+  "sale_pending": 30,
   "city": "Morrisville",
   "state": "NC",
   "zip": 27560
