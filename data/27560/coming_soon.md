@@ -1,4 +1,2 @@
-| Price                                                                                                  | Est.       | Address                  | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :----------------------------------------------------------------------------------------------------- | :--------- | :----------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [309,000.00](https://www.movoto.com/home/906-keystone-park-dr-morrisville-nc-27560-413_2338505)        | 348,390.00 | 906 Keystone Park Dr     | 4   | 3    | 2205 | 140   | 1    | 4182 | 2012 | 30  |      |
-| [230,000.00](https://www.movoto.com/home/705-keystone-park-dr-apt-13-morrisville-nc-27560-413_2338228) | 255,990.00 | 705 Keystone Park Dr #13 | 3   | 3    | 1610 | 143   | 2    | 1307 | 2008 | 154 |      |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
