@@ -1,3 +1,2 @@
-| Price                                                                          | Est.       | Address           | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :----------------------------------------------------------------------------- | :--------- | :---------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [NaN](https://www.movoto.com/home/706-toms-creek-rd-cary-nc-27519-413_2338639) | 568,100.00 | 706 Toms Creek Rd | 4   | 3    | 2990 | 167   | New  | 0.29 | 2013 | 99  |      |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
