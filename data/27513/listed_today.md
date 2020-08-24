@@ -1,3 +1,2 @@
-| Price                                                                          | Est.       | Address        | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :----------------------------------------------------------------------------- | :--------- | :------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [NaN](https://www.movoto.com/home/105-marsena-ln-cary-nc-27513-pid_9lg443b5jh) | 337,038.00 | 105 Marsena Ln | 3   | 3    | 1937 | 160   | New  | 1307 | 2012 | 135 |      |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
