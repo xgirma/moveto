@@ -1,34 +1,32 @@
 Year,Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,HOA,Open,Link
-2012,309900,337038,306000,354000,,105 Marsena Ln,3,3,1937,160,1,1307,Sqft,135,,https://www.movoto.com/home/105-marsena-ln-cary-nc-27513-pid_9lg443b5jh
-1992,315000,297040,264000,327000,,107 Lonesome Pine Dr,3,3,1580,199,2,8712,Sqft,13,,https://www.movoto.com/home/107-lonesome-pine-dr-cary-nc-27513-413_2138135
-,325000,,325000,376000,,317 Luxe Hall Ln,3,3,2054,,,,,,,https://www.movoto.com/home/317-luxe-hall-ln-cary-nc-27513-413_2338499
-2020,318580,299250,277000,320000,,307 Page Square Dr,3,4,1750,182,54,1742,Sqft,152,,https://www.movoto.com/home/307-page-square-dr-cary-nc-27513-413_2328097
-2018,419000,418779,348000,448000,,1028 Laurel Twist Rd,4,3,2449,171,64,3485,Sqft,150,,https://www.movoto.com/home/1028-laurel-twist-rd-cary-nc-27513-413_2161538
-2017,474900,553392,468000,600000,,632 Chronicle Dr,4,4,3294,144,3,2614,Sqft,178,,https://www.movoto.com/home/632-chronicle-dr-cary-nc-27513-413_2111240
-2017,469900,564642,469000,641000,,360 Roberts Ridge Dr,5,4,3302,142,38,3485,Sqft,140,,https://www.movoto.com/home/360-roberts-ridge-dr-cary-nc-27513-413_2110526
-1999,424900,421512,394000,440000,,206 Moravia Ln,4,3,2702,157,22,0.26,Acres,15,,https://www.movoto.com/home/206-moravia-ln-cary-nc-27513-413_2331439
-1998,399999,394197,364000,442000,,110 Carpenter Town Ln,3,3,2001,200,26,6098,Sqft,69,,https://www.movoto.com/home/110-carpenter-town-ln-cary-nc-27513-413_2333568
-1996,450000,425208,402000,486000,,501 Legault Dr,4,3,2531,178,15,0.30,Acres,13,,https://www.movoto.com/home/501-legault-dr-cary-nc-27513-413_2336023
-1996,479000,475320,445000,503000,28000,103 Roebling Ln,4,3,2796,171,98,0.31,Acres,33,,https://www.movoto.com/home/103-roebling-ln-cary-nc-27513-413_2319752
-1996,244200,283518,244000,302000,800,113 Grande Meadow Way,3,3,1658,147,109,2178,Sqft,175,,https://www.movoto.com/home/113-grande-meadow-way-cary-nc-27513-413_2317558
-1995,389900,357932,331000,389000,,323 Stromer Dr,4,3,2081,187,16,0.25,Acres,0,,https://www.movoto.com/home/323-stromer-dr-cary-nc-27513-413_2335797
-1995,460000,354039,330000,460000,10000,705 Modena Dr,3,3,2199,209,48,0.70,Acres,0,,https://www.movoto.com/home/705-modena-dr-cary-nc-27513-413_2329174
-1992,439900,441241,425000,482000,,108 Southwick Ct,4,4,2707,163,6,0.30,Acres,13,,https://www.movoto.com/home/108-southwick-ct-cary-nc-27513-413_2337623
-1992,489900,512940,491000,550000,,102 Pennsbury Ct,5,3,3090,159,9,0.31,Acres,7,,https://www.movoto.com/home/102-pennsbury-ct-cary-nc-27513-413_2133819
-1992,475990,499731,474000,519000,10000,316 Barthel Dr,5,4,3183,150,10,0.39,Acres,14,,https://www.movoto.com/home/316-barthel-dr-cary-nc-27513-413_2337007
-1992,444500,462392,419000,511000,400,320 Barthel Dr,4,3,2872,155,20,0.25,Acres,13,,https://www.movoto.com/home/320-barthel-dr-cary-nc-27513-413_2334906
-1990,340000,412080,341000,428000,,103 Wabash Cir,3,3,2040,167,52,8712,Sqft,40,,https://www.movoto.com/home/103-wabash-cir-cary-nc-27513-413_2328701
-1988,335500,299040,269000,336000,,119 Keystone Dr,3,2,1680,200,10,7841,Sqft,14,,https://www.movoto.com/home/119-keystone-dr-cary-nc-27513-413_2336966
-1986,266000,353288,267000,374000,1000,118 Oak Hill Loop,3,3,2054,130,144,3920,Sqft,23,,https://www.movoto.com/home/118-oak-hill-loop-cary-nc-27513-413_2311312
-1985,340000,377716,337000,397000,,304 Wyatts Pond Ln,3,3,2122,160,37,0.29,Acres,0,,https://www.movoto.com/home/304-wyatts-pond-ln-cary-nc-27513-413_2331717
-1984,324900,363120,324000,381000,,102 Smokehouse Ln,3,3,2040,159,3,0.32,Acres,0,,https://www.movoto.com/home/102-smokehouse-ln-cary-nc-27513-413_2338133
-1983,315000,237650,216000,315000,,1303 Castalia Dr,3,2,1358,232,5,0.33,Acres,0,,https://www.movoto.com/home/1303-castalia-dr-cary-nc-27513-pid_pgdy43b5jh
-,355000,327096,308000,356000,5000,1113 Laurel Twist Rd,3,3,1947,,,,,,,https://www.movoto.com/home/1113-laurel-twist-rd-cary-nc-27513-413_2132772
+2020,325000,,325000,376000,,317 Luxe Hall Ln,3,3,2054,158,3,1307,Sqft,75,,https://www.movoto.com/home/317-luxe-hall-ln-cary-nc-27513-413_2338499
+2020,485000,475380,395000,539000,5000,304 N West St,3,3,2780,174,87,6534,Sqft,0,,https://www.movoto.com/home/304-n-west-st-cary-nc-27513-413_2321937
+2018,419000,418779,348000,448000,,1028 Laurel Twist Rd,4,3,2449,171,65,3485,Sqft,150,,https://www.movoto.com/home/1028-laurel-twist-rd-cary-nc-27513-413_2161538
+2017,474900,553392,468000,600000,,632 Chronicle Dr,4,4,3294,144,4,2614,Sqft,178,,https://www.movoto.com/home/632-chronicle-dr-cary-nc-27513-413_2111240
+2017,355000,327096,308000,354000,5000,1113 Laurel Twist Rd,3,3,1947,182,31,3049,Sqft,150,,https://www.movoto.com/home/1113-laurel-twist-rd-cary-nc-27513-413_2132772
+2017,469900,564642,469000,641000,,360 Roberts Ridge Dr,5,4,3302,142,39,3485,Sqft,140,,https://www.movoto.com/home/360-roberts-ridge-dr-cary-nc-27513-413_2110526
+2012,309900,340912,306000,354000,,105 Marsena Ln,3,3,1937,160,2,1307,Sqft,135,,https://www.movoto.com/home/105-marsena-ln-cary-nc-27513-pid_9lg443b5jh
+2000,355000,421344,355000,451000,12000,308 Tecumseh Ct,4,3,2464,144,136,0.29,Acres,0,,https://www.movoto.com/home/308-tecumseh-ct-cary-nc-27513-413_2313026
+1999,424900,416108,394000,430000,,206 Moravia Ln,4,3,2702,157,23,0.26,Acres,15,,https://www.movoto.com/home/206-moravia-ln-cary-nc-27513-413_2331439
+1996,450000,420146,392000,486000,,501 Legault Dr,4,3,2531,178,16,0.30,Acres,13,,https://www.movoto.com/home/501-legault-dr-cary-nc-27513-413_2336023
+1996,479000,469728,433000,503000,28000,103 Roebling Ln,4,3,2796,171,99,0.31,Acres,33,,https://www.movoto.com/home/103-roebling-ln-cary-nc-27513-413_2319752
+1996,244200,283518,244000,302000,800,113 Grande Meadow Way,3,3,1658,147,110,2178,Sqft,175,,https://www.movoto.com/home/113-grande-meadow-way-cary-nc-27513-413_2317558
+1995,460000,354039,330000,460000,10000,705 Modena Dr,3,3,2199,209,49,0.70,Acres,0,,https://www.movoto.com/home/705-modena-dr-cary-nc-27513-413_2329174
+1994,424900,379842,335000,425000,,208 Lippershey Ct,3,3,2146,198,Listed Today,0.36,Acres,33,,https://www.movoto.com/home/208-lippershey-ct-cary-nc-27513-413_2256666
+1992,479900,509850,479000,550000,10000,102 Pennsbury Ct,5,3,3090,155,10,0.31,Acres,7,,https://www.movoto.com/home/102-pennsbury-ct-cary-nc-27513-413_2133819
+1992,475990,509280,474000,567000,10000,316 Barthel Dr,5,4,3183,150,11,0.39,Acres,14,,https://www.movoto.com/home/316-barthel-dr-cary-nc-27513-413_2337007
+1992,444500,456648,419000,511000,400,320 Barthel Dr,4,3,2872,155,21,0.25,Acres,13,,https://www.movoto.com/home/320-barthel-dr-cary-nc-27513-413_2334906
+1990,340000,405960,341000,428000,,103 Wabash Cir,3,3,2040,167,53,8712,Sqft,40,,https://www.movoto.com/home/103-wabash-cir-cary-nc-27513-413_2328701
+1988,330000,299040,269000,329000,6000,119 Keystone Dr,3,2,1680,196,11,7841,Sqft,14,,https://www.movoto.com/home/119-keystone-dr-cary-nc-27513-413_2336966
+1988,450000,,397000,456000,500,101 Pinehill Way,4,3,2494,180,95,0.34,Acres,21,,https://www.movoto.com/home/101-pinehill-way-cary-nc-27513-413_2320575
+1985,340000,377716,337000,397000,,304 Wyatts Pond Ln,3,3,2122,160,38,0.29,Acres,0,,https://www.movoto.com/home/304-wyatts-pond-ln-cary-nc-27513-413_2331717
+1984,324900,363120,324000,381000,,102 Smokehouse Ln,3,3,2040,159,4,0.32,Acres,0,,https://www.movoto.com/home/102-smokehouse-ln-cary-nc-27513-413_2338133
+,389900,357932,331000,389000,,323 Stromer Dr,4,3,2081,,,,,,,https://www.movoto.com/home/323-stromer-dr-cary-nc-27513-413_2335797
+,399999,394197,364000,442000,,110 Carpenter Town Ln,3,3,2001,,,,,,,https://www.movoto.com/home/110-carpenter-town-ln-cary-nc-27513-413_2333568
 ,465000,422880,375000,481000,,626 Chronicle Dr,4,4,2643,,,,,,,https://www.movoto.com/home/626-chronicle-dr-cary-nc-27513-413_2107344
-,485000,475380,395000,539000,5000,304 N West St,3,3,2780,,,,,,,https://www.movoto.com/home/304-n-west-st-cary-nc-27513-413_2321937
-,450000,,397000,456000,500,101 Pinehill Way,4,3,2494,,,,,,,https://www.movoto.com/home/101-pinehill-way-cary-nc-27513-413_2320575
+,318580,299250,277000,320000,,307 Page Square Dr,3,4,1750,,,,,,,https://www.movoto.com/home/307-page-square-dr-cary-nc-27513-413_2328097
 ,415000,458419,410000,479000,10000,322 Stromer Dr,4,3,2561,,,,,,,https://www.movoto.com/home/322-stromer-dr-cary-nc-27513-pid_9fiy43b5jh
-,355000,421344,355000,451000,12000,308 Tecumseh Ct,4,3,2464,,,,,,,https://www.movoto.com/home/308-tecumseh-ct-cary-nc-27513-413_2313026
-1965,415000,744720,414000,1.18M,17000,1133 Evans Rd,5,3,3480,119,1596,0.97,Acres,0,,https://www.movoto.com/home/1133-evans-rd-cary-nc-27513-413_2060271
-1961,270000,251940,211000,308000,10000,309 Middleton Ave,4,2,1326,204,145,0.33,Acres,0,,https://www.movoto.com/home/309-middleton-ave-cary-nc-27513-413_2228546
-,429900,492326,430000,505000,5000,524 Cedar Ridge Rd,4,3,2474,,,,,,,https://www.movoto.com/home/524-cedar-ridge-rd-cary-nc-27513-413_2133553
+,266000,353288,267000,374000,1000,118 Oak Hill Loop,3,3,2054,,,,,,,https://www.movoto.com/home/118-oak-hill-loop-cary-nc-27513-413_2311312
+1961,270000,228072,211000,271000,10000,309 Middleton Ave,4,2,1326,204,146,0.33,Acres,0,,https://www.movoto.com/home/309-middleton-ave-cary-nc-27513-413_2228546
+,429900,489852,430000,505000,5000,524 Cedar Ridge Rd,4,3,2474,,,,,,,https://www.movoto.com/home/524-cedar-ridge-rd-cary-nc-27513-413_2133553
+,415000,716880,414000,1.18M,17000,1133 Evans Rd,5,3,3480,,,,,,,https://www.movoto.com/home/1133-evans-rd-cary-nc-27513-413_2060271

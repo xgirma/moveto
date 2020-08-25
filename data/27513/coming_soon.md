@@ -1,9 +1,10 @@
 | Price                                                                                  | Est.       | Address            | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
 | :------------------------------------------------------------------------------------- | :--------- | :----------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [450,000.00](https://www.movoto.com/home/105-southwick-ct-cary-nc-27513-413_2155308)   | 469,440.00 | 105 Southwick Ct   | 4   | 3    | 2880 | 156   | 3    | 0.40 | 1992 | 13  |      |
-| [440,000.00](https://www.movoto.com/home/522-wood-st-cary-nc-27513-413_2224000)        | 0.00       | 522 Wood St        | 4   | 4    | 2400 | 183   | 2    | 2178 | 2019 | 125 |      |
-| [400,000.00](https://www.movoto.com/home/105-fawn-ct-cary-nc-27513-413_2336095)        | 508,200.00 | 105 Fawn Ct        | 4   | 4    | 3025 |       |      |      |      |     |      |
-| [375,000.00](https://www.movoto.com/home/109-saddlehorn-ct-cary-nc-27513-413_2338586)  | 336,432.00 | 109 Saddlehorn Ct  | 3   | 3    | 1956 |       |      |      |      |     |      |
-| [360,000.00](https://www.movoto.com/home/118-cibola-ct-cary-nc-27513-413_2338547)      | 392,710.00 | 118 Cibola Ct      | 3   | 3    | 2270 | 159   | 2    | 0.30 | 1995 | 11  |      |
-| [330,000.00](https://www.movoto.com/home/104-frohlich-dr-cary-nc-27513-413_2338551)    | 304,072.00 | 104 Frohlich Dr    | 3   | 3    | 1592 |       |      |      |      |     |      |
-| [285,900.00](https://www.movoto.com/home/113-wood-hollow-dr-cary-nc-27513-413_2337960) | 0.00       | 113 Wood Hollow Dr | 3   | 3    | 1539 | 186   | 4    | 0.27 | 1990 | 0   |      |
+| [450,000.00](https://www.movoto.com/home/105-southwick-ct-cary-nc-27513-413_2155308)   | 489,600.00 | 105 Southwick Ct   | 4   | 3    | 2880 |       |      |      |      |     |      |
+| [440,000.00](https://www.movoto.com/home/522-wood-st-cary-nc-27513-413_2224000)        | 0.00       | 522 Wood St        | 4   | 4    | 2400 | 183   | 3    | 2178 | 2019 | 125 |      |
+| [400,000.00](https://www.movoto.com/home/105-fawn-ct-cary-nc-27513-413_2336095)        | 512,022.00 | 105 Fawn Ct        | 4   | 4    | 3066 |       |      |      |      |     |      |
+| [375,000.00](https://www.movoto.com/home/109-saddlehorn-ct-cary-nc-27513-413_2338586)  | 332,520.00 | 109 Saddlehorn Ct  | 3   | 3    | 1956 | 192   | 3    | 0.29 | 1992 | 13  |      |
+| [360,000.00](https://www.movoto.com/home/110-mcwaine-ln-cary-nc-27513-413_2338914)     | 408,196.00 | 110 Mcwaine Ln     | 3   | 3    | 2489 | 145   | New  | 0.54 | 1987 | 0   |      |
+| [360,000.00](https://www.movoto.com/home/118-cibola-ct-cary-nc-27513-413_2338547)      | 388,170.00 | 118 Cibola Ct      | 3   | 3    | 2270 | 159   | 3    | 0.30 | 1995 | 11  |      |
+| [330,000.00](https://www.movoto.com/home/104-frohlich-dr-cary-nc-27513-413_2338551)    | 284,968.00 | 104 Frohlich Dr    | 3   | 3    | 1592 | 207   | 3    | 7841 | 1992 | 13  |      |
+| [285,900.00](https://www.movoto.com/home/113-wood-hollow-dr-cary-nc-27513-413_2337960) | 0.00       | 113 Wood Hollow Dr | 3   | 3    | 1539 |       |      |      |      |     |      |

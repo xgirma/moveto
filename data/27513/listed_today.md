@@ -1,2 +1,3 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
+| Price                                                                          | Est.       | Address           | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :----------------------------------------------------------------------------- | :--------- | :---------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [NaN](https://www.movoto.com/home/208-lippershey-ct-cary-nc-27513-413_2256666) | 379,842.00 | 208 Lippershey Ct | 3   | 3    | 2146 | 198   | New  | 0.36 | 1994 | 33  |      |
