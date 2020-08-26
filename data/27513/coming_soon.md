@@ -1,10 +1,11 @@
-| Price                                                                                  | Est.       | Address            | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :------------------------------------------------------------------------------------- | :--------- | :----------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [450,000.00](https://www.movoto.com/home/105-southwick-ct-cary-nc-27513-413_2155308)   | 489,600.00 | 105 Southwick Ct   | 4   | 3    | 2880 |       |      |      |      |     |      |
-| [440,000.00](https://www.movoto.com/home/522-wood-st-cary-nc-27513-413_2224000)        | 0.00       | 522 Wood St        | 4   | 4    | 2400 | 183   | 3    | 2178 | 2019 | 125 |      |
-| [400,000.00](https://www.movoto.com/home/105-fawn-ct-cary-nc-27513-413_2336095)        | 512,022.00 | 105 Fawn Ct        | 4   | 4    | 3066 |       |      |      |      |     |      |
-| [375,000.00](https://www.movoto.com/home/109-saddlehorn-ct-cary-nc-27513-413_2338586)  | 332,520.00 | 109 Saddlehorn Ct  | 3   | 3    | 1956 | 192   | 3    | 0.29 | 1992 | 13  |      |
-| [360,000.00](https://www.movoto.com/home/110-mcwaine-ln-cary-nc-27513-413_2338914)     | 408,196.00 | 110 Mcwaine Ln     | 3   | 3    | 2489 | 145   | New  | 0.54 | 1987 | 0   |      |
-| [360,000.00](https://www.movoto.com/home/118-cibola-ct-cary-nc-27513-413_2338547)      | 388,170.00 | 118 Cibola Ct      | 3   | 3    | 2270 | 159   | 3    | 0.30 | 1995 | 11  |      |
-| [330,000.00](https://www.movoto.com/home/104-frohlich-dr-cary-nc-27513-413_2338551)    | 284,968.00 | 104 Frohlich Dr    | 3   | 3    | 1592 | 207   | 3    | 7841 | 1992 | 13  |      |
-| [285,900.00](https://www.movoto.com/home/113-wood-hollow-dr-cary-nc-27513-413_2337960) | 0.00       | 113 Wood Hollow Dr | 3   | 3    | 1539 |       |      |      |      |     |      |
+| Price                                                                                  | Est.       | Address            | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
+| :------------------------------------------------------------------------------------- | :--------- | :----------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
+| [450,000.00](https://www.movoto.com/home/105-southwick-ct-cary-nc-27513-413_2155308)   | 489,600.00 | 105 Southwick Ct   | 4   | 3    | 2880 |       |      |      |      |     |           |
+| [440,000.00](https://www.movoto.com/home/522-wood-st-cary-nc-27513-413_2224000)        | 0.00       | 522 Wood St        | 4   | 4    | 2400 | 183   | 4    | 2178 | 2019 | 125 |           |
+| [400,000.00](https://www.movoto.com/home/105-fawn-ct-cary-nc-27513-413_2336095)        | 512,022.00 | 105 Fawn Ct        | 4   | 4    | 3066 | 130   | 17   | 0.44 | 1986 | 0   |           |
+| [375,000.00](https://www.movoto.com/home/109-saddlehorn-ct-cary-nc-27513-413_2338586)  | 327,760.00 | 109 Saddlehorn Ct  | 4   | 3    | 1928 | 195   | 4    | 0.29 | 1992 | 13  |           |
+| [360,000.00](https://www.movoto.com/home/110-mcwaine-ln-cary-nc-27513-413_2338914)     | 408,196.00 | 110 Mcwaine Ln     | 3   | 3    | 2489 | 145   | 1    | 0.54 | 1987 | 0   | Open 8/29 |
+| [360,000.00](https://www.movoto.com/home/118-cibola-ct-cary-nc-27513-413_2338547)      | 388,170.00 | 118 Cibola Ct      | 3   | 3    | 2270 |       |      |      |      |     |           |
+| [330,000.00](https://www.movoto.com/home/104-frohlich-dr-cary-nc-27513-413_2338551)    | 284,968.00 | 104 Frohlich Dr    | 3   | 3    | 1592 | 207   | 4    | 7841 | 1992 | 13  |           |
+| [285,900.00](https://www.movoto.com/home/113-wood-hollow-dr-cary-nc-27513-413_2337960) | 0.00       | 113 Wood Hollow Dr | 3   | 3    | 1539 | 186   | 6    | 0.27 | 1990 | 0   |           |
+| [275,000.00](https://www.movoto.com/home/846-madison-ave-cary-nc-27513-413_2339050)    | 238,948.00 | 846 Madison Ave    | 3   | 2    | 1271 | 216   | New  | 9148 | 1989 | 0   |           |
