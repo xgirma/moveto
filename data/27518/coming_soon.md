@@ -1,2 +1,4 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
+| Price                                                                                | Est.       | Address          | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
+| :----------------------------------------------------------------------------------- | :--------- | :--------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
+| [469,900.00](https://www.movoto.com/home/101-weatherly-pl-cary-nc-27518-413_2339053) | 455,469.00 | 101 Weatherly Pl | 4   | 3    | 2829 |       |      |      |      |     | Open 8/29 |
+| [324,900.00](https://www.movoto.com/home/113-tiercel-ct-cary-nc-27518-413_2339048)   | 268,150.00 | 113 Tiercel Ct   | 3   | 2    | 1550 | 210   | New  | 4792 | 1985 | 13  |           |

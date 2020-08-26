@@ -1,25 +1,23 @@
 Year,Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,HOA,Open,Link
-2021,495000,426400,372000,510000,50000,109 Putney Dr,4,3,2600,190,224,8015,Sqft,40,,https://www.movoto.com/home/109-putney-dr-cary-nc-27518-413_2296285
-2020,475000,521520,475000,579000,,613 Churton Pl,3,3,2120,224,32,6273,Sqft,180,,https://www.movoto.com/home/613-churton-pl-cary-nc-27518-413_2332808
-2020,459900,403104,387000,460000,17000,813 Churton Pl,3,2,1824,252,36,5009,Sqft,180,,https://www.movoto.com/home/813-churton-pl-cary-nc-27518-413_2331958
-2020,409900,387144,360000,428000,10000,805 Churton Pl,3,3,1698,241,104,3049,Sqft,180,,https://www.movoto.com/home/805-churton-pl-cary-nc-27539-413_2318575
-2020,465000,521118,465000,561000,,809 Churton Pl,3,3,2227,209,104,4792,Sqft,180,,https://www.movoto.com/home/809-churton-pl-cary-nc-27539-413_2318565
-2020,439900,424992,395000,470000,4000,801 Churton Pl,3,3,1864,236,104,5227,Sqft,180,,https://www.movoto.com/home/801-churton-pl-cary-nc-27539-413_2318560
-2020,500000,479668,447000,499000,30000,926 Regency Cottage Pl #LOT 117,4,4,3241,154,256,4356,Sqft,265,,https://www.movoto.com/home/926-regency-cottage-pl-lot-117-cary-nc-27518-413_2292478
-2018,465000,416160,375000,465000,4000,1016 Regency Cottage Pl,4,3,2720,171,167,5663,Sqft,265,,https://www.movoto.com/home/1016-regency-cottage-pl-cary-nc-27518-413_2198538
-2016,489000,550836,487000,600000,10000,1018 Regency Cottage Pl,4,4,3531,138,60,6229,Sqft,260,,https://www.movoto.com/home/1018-regency-cottage-pl-cary-nc-27518-413_2327142
-2011,499900,672400,500000,804000,25000,932 Bentbury Way,6,4,4100,122,76,6098,Sqft,65,,https://www.movoto.com/home/932-bentbury-way-cary-nc-27518-413_2323897
-2000,415000,343091,307000,416000,15000,310 Canon Gate Dr,4,3,2131,195,81,0.34,Acres,48,,https://www.movoto.com/home/310-canon-gate-dr-cary-nc-27518-413_2295981
-1999,459900,462450,444000,515000,8000,106 Scots Fir Ln,4,3,3083,149,49,9148,Sqft,50,,https://www.movoto.com/home/106-scots-fir-ln-cary-nc-27518-pid_ceqy43b5jh
-1998,409000,505300,409000,558000,,103 Jaslie Dr,4,3,3100,132,45,0.36,Acres,51,,https://www.movoto.com/home/103-jaslie-dr-cary-nc-27518-413_2250425
-1997,415000,462553,414000,537000,,112 Felspar Way,4,3,2873,144,4,0.27,Acres,57,,https://www.movoto.com/home/112-felspar-way-cary-nc-27518-pid_85ly43b5jh
-1997,444900,457320,420000,516000,,105 Aspen Hollow Ct,4,3,3090,144,17,0.31,Acres,0,,https://www.movoto.com/home/105-aspen-hollow-ct-cary-nc-27518-413_2320329
-1994,370000,437168,371000,496000,,100 Royce Dr,4,3,2456,151,15,0.53,Acres,16,,https://www.movoto.com/home/100-royce-dr-cary-nc-27518-413_2211163
-1990,480000,498451,475000,551000,,108 Glenrose Ln,4,3,3301,145,3,0.27,Acres,51,,https://www.movoto.com/home/108-glenrose-ln-cary-nc-27518-413_2338528
-1990,459900,,337000,459000,,108 Buckden Pl,4,3,2552,180,5,0.36,Acres,27,,https://www.movoto.com/home/108-buckden-pl-cary-nc-27518-413_2337918
-,430000,,366000,588000,,920 Bentbury Way,5,3,3002,,,,,,,https://www.movoto.com/home/920-bentbury-way-cary-nc-27518-413_2215229
-1990,459900,371300,338000,461000,30000,319 Fairwinds Dr,4,3,2350,196,19,6534,Sqft,51,,https://www.movoto.com/home/319-fairwinds-dr-cary-nc-27518-413_2335202
-1985,399300,414831,368000,511000,5000,201 E Wind Ln,3,3,2609,153,24,4792,Sqft,301,,https://www.movoto.com/home/201-e-wind-ln-cary-nc-27518-413_2305406
-,375000,,288000,375000,,126 Talon Dr,3,3,2003,,,,,,,https://www.movoto.com/home/126-talon-dr-cary-nc-27518-413_2318750
-1983,399900,804000,399000,1.51M,15000,102 Dewberry Ct,4,4,3350,119,77,0.94,Acres,0,,https://www.movoto.com/home/102-dewberry-ct-cary-nc-27518-413_2323687
-1960,299900,203648,179000,300000,,2601 Pink Acres St,3,2,1184,253,168,0.59,Acres,0,,https://www.movoto.com/home/2601-pink-acres-st-cary-nc-27518-413_2306811
+2020,459900,403104,387000,460000,17000,813 Churton Pl,3,2,1824,252,37,5009,Sqft,180,,https://www.movoto.com/home/813-churton-pl-cary-nc-27518-413_2331958
+2020,409900,387144,360000,428000,10000,805 Churton Pl,3,3,1698,241,105,3049,Sqft,180,,https://www.movoto.com/home/805-churton-pl-cary-nc-27539-413_2318575
+2020,465000,521118,465000,561000,,809 Churton Pl,3,3,2227,209,105,4792,Sqft,180,,https://www.movoto.com/home/809-churton-pl-cary-nc-27539-413_2318565
+2020,500000,479668,447000,499000,30000,926 Regency Cottage Pl #LOT 117,4,4,3241,154,257,4356,Sqft,265,,https://www.movoto.com/home/926-regency-cottage-pl-lot-117-cary-nc-27518-413_2292478
+2018,465000,416160,375000,465000,4000,1016 Regency Cottage Pl,4,3,2720,171,168,5663,Sqft,265,,https://www.movoto.com/home/1016-regency-cottage-pl-cary-nc-27518-413_2198538
+2010,430000,,423000,582000,,920 Bentbury Way,5,3,3002,143,19,6534,Sqft,65,,https://www.movoto.com/home/920-bentbury-way-cary-nc-27518-413_2215229
+2000,415000,343091,307000,416000,15000,310 Canon Gate Dr,4,3,2131,195,82,0.34,Acres,48,,https://www.movoto.com/home/310-canon-gate-dr-cary-nc-27518-413_2295981
+1999,459900,462450,444000,515000,8000,106 Scots Fir Ln,4,3,3083,149,50,9148,Sqft,50,,https://www.movoto.com/home/106-scots-fir-ln-cary-nc-27518-pid_ceqy43b5jh
+1997,415000,462553,414000,537000,,112 Felspar Way,4,3,2873,144,5,0.27,Acres,57,,https://www.movoto.com/home/112-felspar-way-cary-nc-27518-pid_85ly43b5jh
+1997,444900,457320,420000,516000,,105 Aspen Hollow Ct,4,3,3090,144,18,0.31,Acres,0,,https://www.movoto.com/home/105-aspen-hollow-ct-cary-nc-27518-413_2320329
+1994,370000,415064,371000,442000,,100 Royce Dr,4,3,2456,151,16,0.53,Acres,16,,https://www.movoto.com/home/100-royce-dr-cary-nc-27518-413_2211163
+1994,375000,,288000,375000,,126 Talon Dr,3,3,2003,187,26,0.25,Acres,13,,https://www.movoto.com/home/126-talon-dr-cary-nc-27518-413_2318750
+1990,480000,498451,475000,551000,,108 Glenrose Ln,4,3,3301,145,4,0.27,Acres,51,,https://www.movoto.com/home/108-glenrose-ln-cary-nc-27518-413_2338528
+1990,459900,,337000,459000,,108 Buckden Pl,4,3,2552,180,6,0.36,Acres,27,,https://www.movoto.com/home/108-buckden-pl-cary-nc-27518-413_2337918
+,399300,425267,368000,548000,5000,201 E Wind Ln,3,3,2609,,,,,,,https://www.movoto.com/home/201-e-wind-ln-cary-nc-27518-413_2305406
+,475000,521520,475000,579000,,613 Churton Pl,3,3,2120,,,,,,,https://www.movoto.com/home/613-churton-pl-cary-nc-27518-413_2332808
+,409000,523900,409000,558000,,103 Jaslie Dr,4,3,3100,,,,,,,https://www.movoto.com/home/103-jaslie-dr-cary-nc-27518-413_2250425
+,489000,600270,487000,742000,10000,1018 Regency Cottage Pl,4,4,3531,,,,,,,https://www.movoto.com/home/1018-regency-cottage-pl-cary-nc-27518-413_2327142
+,399900,747050,399000,1.51M,15000,102 Dewberry Ct,4,4,3350,,,,,,,https://www.movoto.com/home/102-dewberry-ct-cary-nc-27518-413_2323687
+,439900,424992,395000,470000,4000,801 Churton Pl,3,3,1864,,,,,,,https://www.movoto.com/home/801-churton-pl-cary-nc-27539-413_2318560
+1960,299900,192992,179000,300000,,2601 Pink Acres St,3,2,1184,253,169,0.59,Acres,0,,https://www.movoto.com/home/2601-pink-acres-st-cary-nc-27518-413_2306811
+,495000,418600,372000,494000,50000,109 Putney Dr,4,3,2600,,,,,,,https://www.movoto.com/home/109-putney-dr-cary-nc-27518-413_2296285
