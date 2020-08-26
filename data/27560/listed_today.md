@@ -1,3 +1,6 @@
-| Price                                                                             | Est.       | Address       | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :-------------------------------------------------------------------------------- | :--------- | :------------ | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [NaN](https://www.movoto.com/home/150-cotten-dr-morrisville-nc-27560-413_2338830) | 515,060.00 | 150 Cotten Dr | 4   | 3    | 2830 | 175   | New  | 5227 | 2021 | 125 |      |
+| Price                                                                                     | Est.       | Address            | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
+| :---------------------------------------------------------------------------------------- | :--------- | :----------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
+| [NaN](https://www.movoto.com/home/154-grande-dr-morrisville-nc-27560-413_2327168)         | 438,563.00 | 154 Grande Dr      | 3   | 3    | 2423 | 163   | New  | 2178 | 2002 | 205 | Open 8/29 |
+| [NaN](https://www.movoto.com/home/1001-urbana-dr-apt-26-morrisville-nc-27560-413_2339095) | 371,334.00 | 1001 Urbana Dr #26 | 3   | 3    | 1866 | 197   | New  | 2526 | 2020 | 90  |           |
+| [NaN](https://www.movoto.com/home/1009-urbana-dr-apt-28-morrisville-nc-27560-413_2339138) | 360,510.00 | 1009 Urbana Dr #28 | 3   | 3    | 1830 | 194   | New  | 2526 | 2020 | 90  |           |
+| [NaN](https://www.movoto.com/home/1005-urbana-dr-apt-27-morrisville-nc-27560-413_2339114) | 350,837.00 | 1005 Urbana Dr #27 | 3   | 3    | 1763 | 198   | New  | 2526 | 2020 | 90  |           |
