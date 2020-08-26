@@ -1,5 +1,5 @@
 | Price                                                                                   | Est.       | Address             | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
 | :-------------------------------------------------------------------------------------- | :--------- | :------------------ | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [497,900.00](https://www.movoto.com/home/211-forest-brook-dr-cary-nc-27519-413_2338396) | 545,235.00 | 211 Forest Brook Dr | 5   | 4    | 3345 | 149   | 3    | 0.33 | 1996 | 47  |      |
-| [440,000.00](https://www.movoto.com/home/203-bromfield-way-cary-nc-27519-413_2338986)   | 0.00       | 203 Bromfield Way   | 4   | 3    | 2402 | 183   | New  | 0.34 | 1993 | 55  |      |
-| [350,000.00](https://www.movoto.com/home/731-grace-hodge-way-cary-nc-27519-413_2338851) | 297,560.00 | 731 Grace Hodge Way | 3   | 3    | 1730 |       |      |      |      |     |      |
+| [497,900.00](https://www.movoto.com/home/211-forest-brook-dr-cary-nc-27519-413_2338396) | 565,305.00 | 211 Forest Brook Dr | 5   | 4    | 3345 | 149   | 4    | 0.33 | 1996 | 47  |      |
+| [440,000.00](https://www.movoto.com/home/203-bromfield-way-cary-nc-27519-413_2338986)   | 0.00       | 203 Bromfield Way   | 4   | 3    | 2402 | 183   | 1    | 0.34 | 1993 | 55  |      |
+| [350,000.00](https://www.movoto.com/home/731-grace-hodge-way-cary-nc-27519-413_2338851) | 295,830.00 | 731 Grace Hodge Way | 3   | 3    | 1730 | 202   | 1    | 2614 | 2009 | 181 |      |
