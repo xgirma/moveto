@@ -1,5 +1,5 @@
 | Price                                                                                           | Est.       | Address              | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
 | :---------------------------------------------------------------------------------------------- | :--------- | :------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
-| [309,000.00](https://www.movoto.com/home/906-keystone-park-dr-morrisville-nc-27560-413_2338505) | 337,365.00 | 906 Keystone Park Dr | 4   | 3    | 2205 |       |      |      |      |     |           |
-| [300,000.00](https://www.movoto.com/home/5543-jessip-st-morrisville-nc-27560-413_2338843)       | 318,864.00 | 5543 Jessip St       | 3   | 3    | 2044 | 147   | 1    | 2570 | 2016 | 143 | Open 8/29 |
-| [274,900.00](https://www.movoto.com/home/3-trolley-ct-morrisville-nc-27560-413_2339043)         | 252,472.00 | 3 Trolley Ct         | 3   | 3    | 1661 | 166   | New  | 4182 | 2011 | 30  |           |
+| [309,000.00](https://www.movoto.com/home/906-keystone-park-dr-morrisville-nc-27560-413_2338505) | 359,415.00 | 906 Keystone Park Dr | 4   | 3    | 2205 | 140   | 5    | 4182 | 2012 | 30  |           |
+| [300,000.00](https://www.movoto.com/home/5543-jessip-st-morrisville-nc-27560-413_2338843)       | 327,040.00 | 5543 Jessip St       | 3   | 3    | 2044 | 147   | 2    | 2570 | 2016 | 143 | Open 8/29 |
+| [274,900.00](https://www.movoto.com/home/3-trolley-ct-morrisville-nc-27560-413_2339043)         | 259,116.00 | 3 Trolley Ct         | 3   | 3    | 1661 | 166   | 1    | 4182 | 2011 | 30  |           |
