@@ -1,2 +1,3 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
+| Price                                                                         | Est. | Address          | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :---------------------------------------------------------------------------- | :--- | :--------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [NaN](https://www.movoto.com/home/124-w-skyhawk-dr-cary-nc-27513-413_2214164) | 0.00 | 124 W Skyhawk Dr | 3   | 3    | 2184 | 160   | New  | 9583 | 1992 | 14  |      |
