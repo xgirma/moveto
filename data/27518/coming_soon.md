@@ -1,5 +1,4 @@
-| Price                                                                                   | Est.       | Address          | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
-| :-------------------------------------------------------------------------------------- | :--------- | :--------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
-| [469,900.00](https://www.movoto.com/home/101-weatherly-pl-cary-nc-27518-413_2339053)    | 455,469.00 | 101 Weatherly Pl | 4   | 3    | 2829 | 166   | 1    | 0.43 | 1992 | 27  | Open 8/29 |
-| [409,900.00](https://www.movoto.com/home/105-durington-pl-cary-nc-27518-pid_jp4y43b5jh) | 497,490.00 | 105 Durington Pl | 4   | 3    | 3090 |       |      |      |      |     |           |
-| [324,900.00](https://www.movoto.com/home/113-tiercel-ct-cary-nc-27518-413_2339048)      | 268,150.00 | 113 Tiercel Ct   | 3   | 2    | 1550 |       |      |      |      |     |           |
+| Price                                                                                   | Est.       | Address          | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :-------------------------------------------------------------------------------------- | :--------- | :--------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [409,900.00](https://www.movoto.com/home/105-durington-pl-cary-nc-27518-pid_jp4y43b5jh) | 497,490.00 | 105 Durington Pl | 4   | 3    | 3090 | 133   | 1    | 0.28 | 1990 | 52  |      |
+| [324,900.00](https://www.movoto.com/home/113-tiercel-ct-cary-nc-27518-413_2339048)      | 325,500.00 | 113 Tiercel Ct   | 3   | 2    | 1550 | 210   | 2    | 4792 | 1985 | 13  |      |
