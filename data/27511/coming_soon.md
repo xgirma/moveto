@@ -1,8 +1,2 @@
-| Price                                                                                     | Est.       | Address               | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
-| :---------------------------------------------------------------------------------------- | :--------- | :-------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
-| [425,000.00](https://www.movoto.com/home/200-coventry-ln-cary-nc-27511-413_2337631)       | 362,356.00 | 200 Coventry Ln       | 3   | 2    | 2308 | 184   | 9    | 0.27 | 1986 | 90  |           |
-| [399,900.00](https://www.movoto.com/home/104-eagle-ct-cary-nc-27511-413_2338570)          | 459,816.00 | 104 Eagle Ct          | 4   | 3    | 2737 | 146   | 5    | 0.38 | 1978 | 28  | Open 8/29 |
-| [349,900.00](https://www.movoto.com/home/113-flora-mcdonald-ln-cary-nc-27511-413_2335997) | 360,219.00 | 113 Flora Mcdonald Ln | 3   | 3    | 2157 |       |      |      |      |     |           |
-| [315,000.00](https://www.movoto.com/home/1607-dunblane-ct-cary-nc-27511-413_2337121)      | 257,256.00 | 1607 Dunblane Ct      | 4   | 2    | 1588 | 198   | 12   | 0.29 | 1976 | 0   |           |
-| [299,999.00](https://www.movoto.com/home/235-harbor-creek-dr-cary-nc-27511-413_2336595)   | 359,050.00 | 235 Harbor Creek Dr   | 4   | 3    | 2150 | 140   | 14   | 3049 | 2000 | 239 |           |
-| [208,000.00](https://www.movoto.com/home/112-charter-ct-cary-nc-27511-413_2333526)        | 208,818.00 | 112 Charter Ct        | 3   | 3    | 1289 | 161   | 29   | 1307 | 1994 | 221 | Open 8/29 |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
