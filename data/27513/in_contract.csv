@@ -1,25 +1,33 @@
 Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,Year,HOA,Open,Link
-315000,304940,264000,332000,,107 Lonesome Pine Dr,3,3,1580,199,5,8712,Sqft,1992,13,,https://www.movoto.com/home/107-lonesome-pine-dr-cary-nc-27513-413_2138135
-315000,239008,216000,315000,,1303 Castalia Dr,3,2,1358,232,8,0.33,Acres,1983,0,,https://www.movoto.com/home/1303-castalia-dr-cary-nc-27513-pid_pgdy43b5jh
-439900,424999,420000,441000,,108 Southwick Ct,4,4,2707,163,9,0.30,Acres,1992,13,,https://www.movoto.com/home/108-southwick-ct-cary-nc-27513-413_2337623
-429900,401802,373000,469000,,217 Custer Trl,4,3,2406,179,14,0.27,Acres,1992,13,,https://www.movoto.com/home/217-custer-trl-cary-nc-27513-413_2336581
-390000,454129,389000,542000,15000,215 Mccleary Ct,4,3,2509,,,,,,,,https://www.movoto.com/home/215-mccleary-ct-cary-nc-27513-413_2336366
-282500,,283000,347000,,202 Carrousel Ln,3,3,1606,176,15,6098,Sqft,1994,0,,https://www.movoto.com/home/202-carrousel-ln-cary-nc-27513-413_2336292
-370000,409072,362000,475000,,231 Churchview St,4,3,2764,,,,,,,,https://www.movoto.com/home/231-churchview-st-cary-nc-27513-413_2336279
-299900,262332,232000,300000,,103 Lonesome Pine Dr,3,2,1388,216,18,8276,Sqft,1992,13,,https://www.movoto.com/home/103-lonesome-pine-dr-cary-nc-27513-413_2336066
-450000,422677,392000,494000,,501 Legault Dr,4,3,2531,178,18,0.30,Acres,1996,13,,https://www.movoto.com/home/501-legault-dr-cary-nc-27513-413_2336023
-469500,511114,403000,582000,,106 Trinity Grove Dr,4,3,3079,152,19,9583,Sqft,2005,52,,https://www.movoto.com/home/106-trinity-grove-dr-cary-nc-27513-413_2335817
-375000,475590,376000,538000,,125 Joel Ct,4,3,2490,151,20,9148,Sqft,1985,3,,https://www.movoto.com/home/125-joel-ct-cary-nc-27513-413_2335656
-350000,438615,349000,469000,,806 Roanoke Dr,5,3,2565,,,,,,,,https://www.movoto.com/home/806-roanoke-dr-cary-nc-27513-413_2254930
-419900,400967,372000,468000,,212 Custer Trl,4,3,2401,175,21,0.27,Acres,1990,13,,https://www.movoto.com/home/212-custer-trl-cary-nc-27513-413_2335385
-330000,343288,331000,356000,,106 Smallwood Ct,3,3,1826,,,,,,,,https://www.movoto.com/home/106-smallwood-ct-cary-nc-27513-413_2334934
-329000,368940,316000,397000,,110 Bebington Dr,3,3,1892,174,26,7405,Sqft,1993,13,,https://www.movoto.com/home/110-bebington-dr-cary-nc-27513-413_2334237
-296500,294272,266000,331000,,104 Miramar Ct,3,2,1672,177,28,0.28,Acres,1989,15,,https://www.movoto.com/home/104-miramar-ct-cary-nc-27513-413_2333941
-469900,,424000,537000,,125 Hidden Rock Ct,4,3,2828,166,28,0.49,Acres,1995,0,,https://www.movoto.com/home/125-hidden-rock-ct-cary-nc-27513-413_2333894
-295000,262914,234000,295000,,101 Flintlock Ct,3,3,1511,,,,,,,,https://www.movoto.com/home/101-flintlock-ct-cary-nc-27513-413_2332864
-320000,406770,320000,483000,,122 Canterfield Rd,3,3,2235,,,,,,,,https://www.movoto.com/home/122-canterfield-rd-cary-nc-27513-413_2332826
-335000,369360,325000,408000,,116 Haddonfield Ln,3,3,1944,,,,,,,,https://www.movoto.com/home/116-haddonfield-ln-cary-nc-27513-413_2332723
-400000,,399000,488000,25000,605 Kingswood Dr,4,3,2611,,,,,,,,https://www.movoto.com/home/605-kingswood-dr-cary-nc-27513-pid_w8wy43b5jh
-345000,324392,300000,353000,,102 N Woodshed Ct,4,3,1886,183,34,0.33,Acres,1985,0,,https://www.movoto.com/home/102-n-woodshed-ct-cary-nc-27513-413_2234534
-299000,307800,257000,332000,,100 Ridge Hollow Ct,3,3,1539,194,34,8276,Sqft,1991,0,,https://www.movoto.com/home/100-ridge-hollow-ct-cary-nc-27513-413_2332603
-484900,480424,388000,624000,,303 Bradwyck Dr,5,3,2984,,,,,,,,https://www.movoto.com/home/303-bradwyck-dr-cary-nc-27513-413_2332578
+315000,300200,264000,327000,,107 Lonesome Pine Dr,3,3,1580,199,6,8712,Sqft,1992,13,,https://www.movoto.com/home/107-lonesome-pine-dr-cary-nc-27513-413_2138135
+315000,251230,216000,315000,,1303 Castalia Dr,3,2,1358,232,9,0.33,Acres,1983,0,,https://www.movoto.com/home/1303-castalia-dr-cary-nc-27513-pid_pgdy43b5jh
+439900,424999,420000,441000,,108 Southwick Ct,4,4,2707,163,10,0.30,Acres,1992,13,,https://www.movoto.com/home/108-southwick-ct-cary-nc-27513-413_2337623
+390000,454129,389000,542000,15000,215 Mccleary Ct,4,3,2509,155,16,9583,Sqft,1996,13,,https://www.movoto.com/home/215-mccleary-ct-cary-nc-27513-413_2336366
+282500,,283000,347000,,202 Carrousel Ln,3,3,1606,176,16,6098,Sqft,1994,0,,https://www.movoto.com/home/202-carrousel-ln-cary-nc-27513-413_2336292
+370000,431184,362000,492000,,231 Churchview St,4,3,2764,134,17,3485,Sqft,2006,131,,https://www.movoto.com/home/231-churchview-st-cary-nc-27513-413_2336279
+299900,263720,232000,300000,,103 Lonesome Pine Dr,3,2,1388,216,19,8276,Sqft,1992,13,,https://www.movoto.com/home/103-lonesome-pine-dr-cary-nc-27513-413_2336066
+450000,410022,392000,453000,,501 Legault Dr,4,3,2531,178,19,0.30,Acres,1996,13,,https://www.movoto.com/home/501-legault-dr-cary-nc-27513-413_2336023
+469500,548062,403000,647000,,106 Trinity Grove Dr,4,3,3079,152,20,9583,Sqft,2005,52,,https://www.movoto.com/home/106-trinity-grove-dr-cary-nc-27513-413_2335817
+375000,475590,376000,538000,,125 Joel Ct,4,3,2490,151,21,9148,Sqft,1985,3,,https://www.movoto.com/home/125-joel-ct-cary-nc-27513-413_2335656
+350000,438615,349000,469000,,806 Roanoke Dr,5,3,2565,136,21,0.34,Acres,1976,0,,https://www.movoto.com/home/806-roanoke-dr-cary-nc-27513-413_2254930
+419900,391363,372000,430000,,212 Custer Trl,4,3,2401,175,22,0.27,Acres,1990,13,,https://www.movoto.com/home/212-custer-trl-cary-nc-27513-413_2335385
+330000,368852,331000,438000,,106 Smallwood Ct,3,3,1826,,,,,,,,https://www.movoto.com/home/106-smallwood-ct-cary-nc-27513-413_2334934
+329000,384076,316000,431000,,110 Bebington Dr,3,3,1892,,,,,,,,https://www.movoto.com/home/110-bebington-dr-cary-nc-27513-413_2334237
+296500,302632,266000,333000,,104 Miramar Ct,3,2,1672,177,29,0.28,Acres,1989,15,,https://www.movoto.com/home/104-miramar-ct-cary-nc-27513-413_2333941
+469900,,424000,537000,,125 Hidden Rock Ct,4,3,2828,166,29,0.49,Acres,1995,0,,https://www.movoto.com/home/125-hidden-rock-ct-cary-nc-27513-413_2333894
+295000,278024,234000,301000,,101 Flintlock Ct,3,3,1511,195,34,0.32,Acres,1985,0,,https://www.movoto.com/home/101-flintlock-ct-cary-nc-27513-413_2332864
+335000,394632,325000,443000,,116 Haddonfield Ln,3,3,1944,172,35,6098,Sqft,1994,15,,https://www.movoto.com/home/116-haddonfield-ln-cary-nc-27513-413_2332723
+400000,,399000,488000,25000,605 Kingswood Dr,4,3,2611,153,35,0.27,Acres,1992,0,,https://www.movoto.com/home/605-kingswood-dr-cary-nc-27513-pid_w8wy43b5jh
+345000,324392,300000,353000,,102 N Woodshed Ct,4,3,1886,183,35,0.33,Acres,1985,0,,https://www.movoto.com/home/102-n-woodshed-ct-cary-nc-27513-413_2234534
+299000,307800,257000,332000,,100 Ridge Hollow Ct,3,3,1539,,,,,,,,https://www.movoto.com/home/100-ridge-hollow-ct-cary-nc-27513-413_2332603
+484900,501312,448000,624000,,303 Bradwyck Dr,5,3,2984,,,,,,,,https://www.movoto.com/home/303-bradwyck-dr-cary-nc-27513-413_2332578
+350000,360160,338000,389000,,211 Lost Tree Ln,3,3,2251,155,47,0.38,Acres,1994,7,,https://www.movoto.com/home/211-lost-tree-ln-cary-nc-27513-413_2330401
+365000,,364000,442000,10000,116 Silverridge Ct,4,4,2413,151,47,0.30,Acres,1992,14,,https://www.movoto.com/home/116-silverridge-ct-cary-nc-27513-413_2330398
+489000,426880,387000,488000,10000,213 Oakmere Dr,3,4,2668,,,,,,,,https://www.movoto.com/home/213-oakmere-dr-cary-nc-27513-413_2330095
+359900,372469,342000,420000,,118 Mariposa Dr,4,3,2153,167,49,0.28,Acres,1990,15,,https://www.movoto.com/home/118-mariposa-dr-cary-nc-27513-413_2186120
+425000,428016,376000,451000,,106 Barons Glenn Way,4,3,2892,147,49,0.38,Acres,1994,13,,https://www.movoto.com/home/106-barons-glenn-way-cary-nc-27513-413_2329849
+440000,461700,439000,510000,10000,104 Spring Needle Ct,4,3,2850,,,,,,,,https://www.movoto.com/home/104-spring-needle-ct-cary-nc-27513-413_2314895
+280000,304857,258000,348000,,101 Ferris Wheel Ct,3,3,1613,,,,,,,,https://www.movoto.com/home/101-ferris-wheel-ct-cary-nc-27513-413_2265961
+450000,429000,377000,473000,1000,314 Rose Valley Woods Dr,4,3,2600,173,71,0.40,Acres,1994,14,,https://www.movoto.com/home/314-rose-valley-woods-dr-cary-nc-27513-pid_4jjy43b5jh
+425000,473600,426000,536000,,307 Modena Dr,4,3,2960,144,71,10019,Sqft,1993,13,,https://www.movoto.com/home/307-modena-dr-cary-nc-27513-413_2325497
+484900,493740,461000,547000,,300 N West St,3,3,2532,192,90,8712,Sqft,2020,0,,https://www.movoto.com/home/300-n-west-st-cary-nc-27513-413_2321938

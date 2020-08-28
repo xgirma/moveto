@@ -1,9 +1,6 @@
-| Price                                                                                  | Est.       | Address            | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
-| :------------------------------------------------------------------------------------- | :--------- | :----------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
-| [450,000.00](https://www.movoto.com/home/105-southwick-ct-cary-nc-27513-413_2155308)   | 472,320.00 | 105 Southwick Ct   | 4   | 3    | 2880 | 156   | 6    | 0.40 | 1992 | 13  |           |
-| [400,000.00](https://www.movoto.com/home/105-fawn-ct-cary-nc-27513-413_2336095)        | 499,758.00 | 105 Fawn Ct        | 4   | 4    | 3066 | 130   | 18   | 0.44 | 1986 | 0   | Open 8/29 |
-| [375,000.00](https://www.movoto.com/home/109-saddlehorn-ct-cary-nc-27513-413_2338586)  | 337,400.00 | 109 Saddlehorn Ct  | 4   | 3    | 1928 | 195   | 5    | 0.29 | 1992 | 13  | Open 8/29 |
-| [360,000.00](https://www.movoto.com/home/110-mcwaine-ln-cary-nc-27513-413_2338914)     | 398,240.00 | 110 Mcwaine Ln     | 3   | 3    | 2489 | 145   | 2    | 0.54 | 1987 | 0   | Open 8/29 |
-| [330,000.00](https://www.movoto.com/home/104-frohlich-dr-cary-nc-27513-413_2338551)    | 284,968.00 | 104 Frohlich Dr    | 3   | 3    | 1592 | 207   | 5    | 7841 | 1992 | 13  |           |
-| [285,900.00](https://www.movoto.com/home/113-wood-hollow-dr-cary-nc-27513-413_2337960) | 0.00       | 113 Wood Hollow Dr | 3   | 3    | 1539 | 186   | 7    | 0.27 | 1990 | 0   |           |
-| [275,000.00](https://www.movoto.com/home/846-madison-ave-cary-nc-27513-413_2339050)    | 231,322.00 | 846 Madison Ave    | 3   | 2    | 1271 |       |      |      |      |     |           |
+| Price                                                                                | Est.       | Address          | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
+| :----------------------------------------------------------------------------------- | :--------- | :--------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
+| [450,000.00](https://www.movoto.com/home/105-southwick-ct-cary-nc-27513-413_2155308) | 495,360.00 | 105 Southwick Ct | 4   | 3    | 2880 |       |      |      |      |     |           |
+| [400,000.00](https://www.movoto.com/home/105-fawn-ct-cary-nc-27513-413_2336095)      | 499,758.00 | 105 Fawn Ct      | 4   | 4    | 3066 |       |      |      |      |     | Open 8/29 |
+| [330,000.00](https://www.movoto.com/home/104-frohlich-dr-cary-nc-27513-413_2338551)  | 315,216.00 | 104 Frohlich Dr  | 3   | 3    | 1592 |       |      |      |      |     |           |
+| [275,000.00](https://www.movoto.com/home/846-madison-ave-cary-nc-27513-413_2339050)  | 252,929.00 | 846 Madison Ave  | 3   | 2    | 1271 | 216   | 2    | 9148 | 1989 | 0   |           |
