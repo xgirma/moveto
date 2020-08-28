@@ -1,4 +1,2 @@
-| Price                                                                                   | Est.       | Address             | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :-------------------------------------------------------------------------------------- | :--------- | :------------------ | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [440,000.00](https://www.movoto.com/home/203-bromfield-way-cary-nc-27519-413_2338986)   | 0.00       | 203 Bromfield Way   | 4   | 3    | 2402 | 183   | 2    | 0.34 | 1993 | 55  |      |
-| [350,000.00](https://www.movoto.com/home/731-grace-hodge-way-cary-nc-27519-413_2338851) | 297,560.00 | 731 Grace Hodge Way | 3   | 3    | 1730 | 202   | 2    | 2614 | 2009 | 181 |      |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
