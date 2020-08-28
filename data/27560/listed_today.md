@@ -1,3 +1,2 @@
-| Price                                                                                     | Est.       | Address            | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :---------------------------------------------------------------------------------------- | :--------- | :----------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [NaN](https://www.movoto.com/home/1017-urbana-dr-apt-30-morrisville-nc-27560-413_2339221) | 363,870.00 | 1017 Urbana Dr #30 | 3   | 3    | 1866 | 198   | New  | 2526 | 2020 | 90  |      |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
