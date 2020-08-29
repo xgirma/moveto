@@ -1,2 +1,5 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
+| Price                                                                                     | Est.       | Address               | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :---------------------------------------------------------------------------------------- | :--------- | :-------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [425,000.00](https://www.movoto.com/home/200-coventry-ln-cary-nc-27511-413_2337631)       | 357,740.00 | 200 Coventry Ln       | 3   | 2    | 2308 | 184   | 11   | 0.27 | 1986 | 90  |      |
+| [349,900.00](https://www.movoto.com/home/113-flora-mcdonald-ln-cary-nc-27511-413_2335997) | 360,219.00 | 113 Flora Mcdonald Ln | 3   | 3    | 2157 |       |      |      |      |     |      |
+| [299,999.00](https://www.movoto.com/home/235-harbor-creek-dr-cary-nc-27511-413_2336595)   | 352,600.00 | 235 Harbor Creek Dr   | 4   | 3    | 2150 | 140   | 16   | 3049 | 2000 | 239 |      |

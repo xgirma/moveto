@@ -1,2 +1,3 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
+| Price                                                                           | Est.       | Address            | Bed | Bath | Size | Value | Days | Lot   | Year | HOA | Open |
+| :------------------------------------------------------------------------------ | :--------- | :----------------- | :-- | :--- | :--- | :---- | :--- | :---- | :--- | :-- | :--- |
+| [NaN](https://www.movoto.com/home/201-glen-bonnie-ln-cary-nc-27511-413_2339930) | 248,270.00 | 201 Glen Bonnie Ln | 3   | 2    | 1342 | 201   | New  | 10454 | 1979 | 28  |      |
