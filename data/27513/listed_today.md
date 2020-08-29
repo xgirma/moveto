@@ -1,3 +1,2 @@
-| Price                                                                        | Est.       | Address         | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :--------------------------------------------------------------------------- | :--------- | :-------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [NaN](https://www.movoto.com/home/100-yorkhill-dr-cary-nc-27513-413_2130239) | 393,848.00 | 100 Yorkhill Dr | 3   | 3    | 2164 | 155   | New  | 0.30 | 1997 | 0   |      |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
