@@ -1,3 +1,2 @@
-| Price                                                                       | Est.       | Address        | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
-| :-------------------------------------------------------------------------- | :--------- | :------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
-| [NaN](https://www.movoto.com/home/103-tiercel-ct-cary-nc-27518-413_2311892) | 417,368.00 | 103 Tiercel Ct | 3   | 2    | 2056 | 167   | New  | 7841 | 1985 | 13  | Open 8/29 |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
