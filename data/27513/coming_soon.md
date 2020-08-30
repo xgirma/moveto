@@ -1,6 +1,6 @@
 | Price                                                                                      | Est.       | Address                | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
 | :----------------------------------------------------------------------------------------- | :--------- | :--------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [450,000.00](https://www.movoto.com/home/105-southwick-ct-cary-nc-27513-413_2155308)       | 498,240.00 | 105 Southwick Ct       | 4   | 3    | 2880 |       |      |      |      |     |      |
-| [330,000.00](https://www.movoto.com/home/104-frohlich-dr-cary-nc-27513-413_2338551)        | 300,888.00 | 104 Frohlich Dr        | 3   | 3    | 1592 | 207   | 7    | 7841 | 1992 | 13  |      |
-| [280,000.00](https://www.movoto.com/home/1003-marigold-ridge-dr-cary-nc-27513-413_2339963) | 282,321.00 | 1003 Marigold Ridge Dr | 3   | 3    | 1651 |       |      |      |      |     |      |
-| [275,000.00](https://www.movoto.com/home/846-madison-ave-cary-nc-27513-413_2339050)        | 252,929.00 | 846 Madison Ave        | 3   | 2    | 1271 | 216   | 3    | 9148 | 1989 | 0   |      |
+| [450,000.00](https://www.movoto.com/home/105-southwick-ct-cary-nc-27513-413_2155308)       | 460,800.00 | 105 Southwick Ct       | 4   | 3    | 2880 | 156   | 9    | 0.40 | 1992 | 13  |      |
+| [330,000.00](https://www.movoto.com/home/104-frohlich-dr-cary-nc-27513-413_2338551)        | 299,943.00 | 104 Frohlich Dr        | 3   | 3    | 1587 | 208   | 8    | 7841 | 1992 | 13  |      |
+| [280,000.00](https://www.movoto.com/home/1003-marigold-ridge-dr-cary-nc-27513-413_2339963) | 282,321.00 | 1003 Marigold Ridge Dr | 3   | 3    | 1651 | 170   | 1    | 1307 | 2006 | 200 |      |
+| [275,000.00](https://www.movoto.com/home/846-madison-ave-cary-nc-27513-413_2339050)        | 245,765.00 | 846 Madison Ave        | 3   | 2    | 1235 | 223   | 4    | 9148 | 1989 | 0   |      |

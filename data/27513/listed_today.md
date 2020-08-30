@@ -1,2 +1,3 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
+| Price                                                                           | Est.       | Address            | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :------------------------------------------------------------------------------ | :--------- | :----------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [NaN](https://www.movoto.com/home/110-huntington-cir-cary-nc-27513-413_2340016) | 272,580.00 | 110 Huntington Cir | 3   | 3    | 1770 | 203   | New  | 0.43 | 1981 | 0   |      |
