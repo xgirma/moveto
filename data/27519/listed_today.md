@@ -1,3 +1,2 @@
-| Price                                                                          | Est.       | Address           | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :----------------------------------------------------------------------------- | :--------- | :---------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [NaN](https://www.movoto.com/home/607-rockcastle-dr-cary-nc-27519-413_2338919) | 345,600.00 | 607 Rockcastle Dr | 3   | 3    | 2160 | 169   | New  | 2614 | 2016 | 115 |      |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |

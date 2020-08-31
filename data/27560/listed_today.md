@@ -1,3 +1,2 @@
-| Price                                                                             | Est.       | Address       | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :-------------------------------------------------------------------------------- | :--------- | :------------ | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [NaN](https://www.movoto.com/home/150-cotten-dr-morrisville-nc-27560-413_2338830) | 515,060.00 | 150 Cotten Dr | 4   | 3    | 2830 | 175   | New  | 5227 | 2021 | 125 |      |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |

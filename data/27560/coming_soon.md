@@ -1,5 +1,2 @@
-| Price                                                                                                  | Est.       | Address                  | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
-| :----------------------------------------------------------------------------------------------------- | :--------- | :----------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
-| [309,000.00](https://www.movoto.com/home/906-keystone-park-dr-morrisville-nc-27560-413_2338505)        | 343,980.00 | 906 Keystone Park Dr     | 4   | 3    | 2205 | 140   | 3    | 4182 | 2012 | 30  |           |
-| [300,000.00](https://www.movoto.com/home/5543-jessip-st-morrisville-nc-27560-413_2338843)              | 320,908.00 | 5543 Jessip St           | 3   | 3    | 2044 | 147   | New  | 2570 | 2016 | 143 | Open 8/29 |
-| [230,000.00](https://www.movoto.com/home/705-keystone-park-dr-apt-13-morrisville-nc-27560-413_2338228) | 271,752.00 | 705 Keystone Park Dr #13 | 3   | 3    | 1608 |       |      |      |      |     |           |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
