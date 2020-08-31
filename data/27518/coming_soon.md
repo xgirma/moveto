@@ -1,2 +1,5 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
+| Price                                                                                   | Est.       | Address          | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :-------------------------------------------------------------------------------------- | :--------- | :--------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [409,900.00](https://www.movoto.com/home/105-durington-pl-cary-nc-27518-pid_jp4y43b5jh) | 559,290.00 | 105 Durington Pl | 4   | 3    | 3090 | 133   | 4    | 0.28 | 1990 | 52  |      |
+| [360,000.00](https://www.movoto.com/home/111-kemper-ln-cary-nc-27518-413_2339936)       | 331,240.00 | 111 Kemper Ln    | 3   | 3    | 1960 | 184   | 2    | 7405 | 1998 | 101 |      |
+| [324,900.00](https://www.movoto.com/home/113-tiercel-ct-cary-nc-27518-413_2339048)      | 328,650.00 | 113 Tiercel Ct   | 3   | 2    | 1565 | 208   | 5    | 4792 | 1985 | 13  |      |
