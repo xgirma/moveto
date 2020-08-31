@@ -1,16 +1,13 @@
 Year,Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,HOA,Open,Link
-1998,210000,,192000,285000,,201 Virens Dr,3,3,1452,145,2,1307,Sqft,81,Open 8/30,https://www.movoto.com/home/201-virens-dr-cary-nc-27511-413_2339668
-1994,208000,192061,175000,224000,,112 Charter Ct,3,3,1289,161,32,1307,Sqft,221,,https://www.movoto.com/home/112-charter-ct-cary-nc-27511-413_2333526
-1989,335000,359996,335000,385000,,911 Balmoral Dr,3,3,2093,160,6,0.28,Acres,0,,https://www.movoto.com/home/911-balmoral-dr-cary-nc-27511-413_2338798
-1987,282400,320350,282000,359000,3000,106 Silver Fox Ct,4,2,2150,131,111,6098,Sqft,14,,https://www.movoto.com/home/106-silver-fox-ct-cary-nc-27511-413_2239594
-1984,227000,256275,221000,328000,1000,107 Clancy Cir,3,3,1675,136,14,3920,Sqft,361,Open 8/30,https://www.movoto.com/home/107-clancy-cir-cary-nc-27511-413_2241220
-1984,382500,318280,296000,382000,5000,110 Prestwick Pl,3,3,2180,175,184,3049,Sqft,340,,https://www.movoto.com/home/110-prestwick-pl-cary-nc-27511-413_2261077
-1979,269900,248270,217000,270000,,201 Glen Bonnie Ln,3,2,1342,201,1,10454,Sqft,28,Open 8/30,https://www.movoto.com/home/201-glen-bonnie-ln-cary-nc-27511-413_2339930
-1978,315000,,278000,346000,,1616 Burnley Dr,4,3,1738,181,2,0.28,Acres,0,Open 8/30,https://www.movoto.com/home/1616-burnley-dr-cary-nc-27511-413_2339621
-1974,179900,235972,180000,267000,,1020 Randolph Ct,3,3,1364,132,2,1742,Sqft,170,,https://www.movoto.com/home/1020-randolph-ct-cary-nc-27511-413_2339417
-1973,319000,318318,274000,386000,,1126 Manchester Dr,4,3,2002,159,2,0.52,Acres,0,Open 8/30,https://www.movoto.com/home/1126-manchester-dr-cary-nc-27511-413_2257545
+1998,210000,,197000,285000,,201 Virens Dr,3,3,1452,145,3,1307,Sqft,81,,https://www.movoto.com/home/201-virens-dr-cary-nc-27511-413_2339668
+1989,335000,359996,335000,385000,,911 Balmoral Dr,3,3,2093,160,7,0.28,Acres,0,,https://www.movoto.com/home/911-balmoral-dr-cary-nc-27511-413_2338798
+1987,282400,320350,282000,359000,3000,106 Silver Fox Ct,4,2,2150,131,112,6098,Sqft,14,,https://www.movoto.com/home/106-silver-fox-ct-cary-nc-27511-413_2239594
+1984,382500,313920,296000,382000,5000,110 Prestwick Pl,3,3,2180,175,185,3049,Sqft,340,,https://www.movoto.com/home/110-prestwick-pl-cary-nc-27511-413_2261077
+1978,315000,,278000,344000,,1616 Burnley Dr,4,3,1738,181,3,0.28,Acres,0,,https://www.movoto.com/home/1616-burnley-dr-cary-nc-27511-413_2339621
+1978,335000,355696,331000,381000,10000,291 High Meadow Dr,3,2,2068,162,33,0.27,Acres,28,,https://www.movoto.com/home/291-high-meadow-dr-cary-nc-27511-413_2333554
+1974,350000,347516,309000,433000,,1119 Ralph Dr,4,3,2132,164,115,0.55,Acres,0,,https://www.movoto.com/home/1119-ralph-dr-cary-nc-27511-pid_5qsy43b5jh
+1973,319000,318318,274000,386000,,1126 Manchester Dr,4,3,2002,159,3,0.52,Acres,0,,https://www.movoto.com/home/1126-manchester-dr-cary-nc-27511-413_2257545
+,227000,288100,228000,348000,1000,107 Clancy Cir,3,3,1675,,,,,,,https://www.movoto.com/home/107-clancy-cir-cary-nc-27511-413_2241220
 ,315000,263608,254000,314000,,1607 Dunblane Ct,4,2,1588,,,,,,,https://www.movoto.com/home/1607-dunblane-ct-cary-nc-27511-413_2337121
-,335000,355696,331000,381000,10000,291 High Meadow Dr,3,2,2068,,,,,,,https://www.movoto.com/home/291-high-meadow-dr-cary-nc-27511-413_2333554
-1974,350000,347516,309000,433000,,1119 Ralph Dr,4,3,2132,164,114,0.55,Acres,0,,https://www.movoto.com/home/1119-ralph-dr-cary-nc-27511-pid_5qsy43b5jh
-1973,345000,363717,340000,421000,15000,1304 Lake Pine Dr,4,2,2127,162,60,0.33,Acres,0,,https://www.movoto.com/home/1304-lake-pine-dr-cary-nc-27511-413_2328019
-1969,325000,395623,325000,436000,12000,607 SE Maynard Rd,6,3,2369,137,64,0.33,Acres,0,,https://www.movoto.com/home/607-se-maynard-rd-cary-nc-27511-413_2327346
+,345000,348828,340000,368000,15000,1304 Lake Pine Dr,4,2,2127,,,,,,,https://www.movoto.com/home/1304-lake-pine-dr-cary-nc-27511-413_2328019
+1969,325000,395623,325000,436000,12000,607 SE Maynard Rd,6,3,2369,137,65,0.33,Acres,0,,https://www.movoto.com/home/607-se-maynard-rd-cary-nc-27511-413_2327346
