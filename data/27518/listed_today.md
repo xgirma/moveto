@@ -1,3 +1,2 @@
-| Price                                                                      | Est.       | Address       | Bed | Bath | Size | Value | Days | Lot   | Year | HOA | Open |
-| :------------------------------------------------------------------------- | :--------- | :------------ | :-- | :--- | :--- | :---- | :--- | :---- | :--- | :-- | :--- |
-| [NaN](https://www.movoto.com/home/200-danton-dr-cary-nc-27518-413_2331234) | 426,594.00 | 200 Danton Dr | 4   | 4    | 2902 | 153   | New  | 10019 | 1995 | 15  |      |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
