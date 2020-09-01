@@ -1,3 +1,2 @@
-| Price                                                                            | Est.       | Address             | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :------------------------------------------------------------------------------- | :--------- | :------------------ | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [NaN](https://www.movoto.com/home/107-black-angus-run-cary-nc-27513-413_2340106) | 306,900.00 | 107 Black Angus Run | 3   | 3    | 1650 | 176   | New  | 0.30 | 1984 | 0   |      |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
