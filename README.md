@@ -86,13 +86,13 @@ Extract RTP listing data from moveto.com.
 ```json
 {
   "date": "August 31st 2020, 6:01:55 am EST",
-  "listings": 59,
-  "coming_soon": 1,
-  "price_reduced": 39,
-  "for_sale": 56,
-  "open_house": 2,
-  "under_contract": 1,
-  "sale_pending": 1,
+  "listings": 0,
+  "coming_soon": 0,
+  "price_reduced": 0,
+  "for_sale": 0,
+  "open_house": 0,
+  "under_contract": 0,
+  "sale_pending": 0,
   "city": "Cary",
   "state": "NC",
   "zip": 27519
