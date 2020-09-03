@@ -1,2 +1,5 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
+| Price                                                                                    | Est.       | Address              | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :--------------------------------------------------------------------------------------- | :--------- | :------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [459,000.00](https://www.movoto.com/home/533-methven-grove-dr-cary-nc-27519-413_2340565) | 401,850.00 | 533 Methven Grove Dr | 4   | 3    | 2350 | 195   | New  | 3485 | 2014 | 125 |      |
+| [350,000.00](https://www.movoto.com/home/4254-vallonia-dr-cary-nc-27519-413_2340398)     | 385,566.00 | 4254 Vallonia Dr     | 3   | 3    | 2154 | 162   | 1    | 2178 | 2017 | 139 |      |
+| [324,900.00](https://www.movoto.com/home/623-grace-hodge-dr-cary-nc-27519-413_2340010)   | 336,160.00 | 623 Grace Hodge Dr   | 3   | 3    | 1760 | 185   | 4    | 3485 | 2009 | 172 |      |

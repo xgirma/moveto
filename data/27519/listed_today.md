@@ -1,2 +1,3 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
+| Price                                                                         | Est.       | Address          | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :---------------------------------------------------------------------------- | :--------- | :--------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [NaN](https://www.movoto.com/home/202-snow-camp-ct-cary-nc-27519-413_2340524) | 323,380.00 | 202 Snow Camp Ct | 3   | 3    | 1702 | 191   | New  | 5227 | 1994 | 47  |      |
