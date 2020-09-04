@@ -1,6 +1,5 @@
-| Price                                                                                      | Est.       | Address                | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :----------------------------------------------------------------------------------------- | :--------- | :--------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [450,000.00](https://www.movoto.com/home/105-southwick-ct-cary-nc-27513-413_2155308)       | 457,920.00 | 105 Southwick Ct       | 4   | 3    | 2880 | 156   | 11   | 0.40 | 1992 | 13  |      |
-| [330,000.00](https://www.movoto.com/home/104-frohlich-dr-cary-nc-27513-413_2338551)        | 285,660.00 | 104 Frohlich Dr        | 3   | 3    | 1587 | 208   | 10   | 7841 | 1992 | 13  |      |
-| [280,000.00](https://www.movoto.com/home/1003-marigold-ridge-dr-cary-nc-27513-413_2339963) | 279,019.00 | 1003 Marigold Ridge Dr | 3   | 3    | 1651 |       |      |      |      |     |      |
-| [275,000.00](https://www.movoto.com/home/846-madison-ave-cary-nc-27513-413_2339050)        | 245,765.00 | 846 Madison Ave        | 3   | 2    | 1235 | 223   | 6    | 9148 | 1989 | 0   |      |
+| Price                                                                                | Est.       | Address          | Bed | Bath | Size | Value | Days | Lot   | Year | HOA | Open |
+| :----------------------------------------------------------------------------------- | :--------- | :--------------- | :-- | :--- | :--- | :---- | :--- | :---- | :--- | :-- | :--- |
+| [469,900.00](https://www.movoto.com/home/107-bridlebit-ct-cary-nc-27513-413_2340805) | 483,320.00 | 107 Bridlebit Ct | 4   | 3    | 2810 | 167   | New  | 10019 | 1997 | 13  |      |
+| [450,000.00](https://www.movoto.com/home/105-southwick-ct-cary-nc-27513-413_2155308) | 469,440.00 | 105 Southwick Ct | 4   | 3    | 2880 | 156   | 14   | 0.40  | 1992 | 13  |      |
+| [360,000.00](https://www.movoto.com/home/301-amberglow-pl-cary-nc-27513-413_2340422) | 371,800.00 | 301 Amberglow Pl | 4   | 3    | 2200 | 164   | 2    | 10454 | 1993 | 11  |      |
