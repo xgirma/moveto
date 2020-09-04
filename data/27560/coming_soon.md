@@ -1,4 +1,2 @@
-| Price                                                                                           | Est.       | Address              | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :---------------------------------------------------------------------------------------------- | :--------- | :------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [309,000.00](https://www.movoto.com/home/906-keystone-park-dr-morrisville-nc-27560-413_2338505) | 343,980.00 | 906 Keystone Park Dr | 4   | 3    | 2205 |       |      |      |      |     |      |
-| [274,900.00](https://www.movoto.com/home/3-trolley-ct-morrisville-nc-27560-413_2339043)         | 279,048.00 | 3 Trolley Ct         | 3   | 3    | 1661 | 166   | 8    | 4182 | 2011 | 30  |      |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |

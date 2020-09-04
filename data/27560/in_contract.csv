@@ -1,42 +1,28 @@
 Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,Year,HOA,Open,Link
-301200,316624,295000,347000,,409 Dyersville Dr,3,3,1799,167,4,261,Sqft,2008,100,,https://www.movoto.com/home/409-dyersville-dr-morrisville-nc-27560-413_2340069
-399000,440496,386000,479000,,109 Crescendo,4,3,2576,155,5,9583,Sqft,2001,40,,https://www.movoto.com/home/109-crescendo-morrisville-nc-27560-413_2339720
-315000,331890,274000,364000,,703 Meeting Hall Dr,3,3,1794,176,6,3920,Sqft,2003,110,,https://www.movoto.com/home/703-meeting-hall-dr-morrisville-nc-27560-413_2339519
-364990,407493,346000,455000,,109 Huntersville Rd,4,3,2383,153,6,5663,Sqft,2002,40,,https://www.movoto.com/home/109-huntersville-rd-morrisville-nc-27560-413_2273354
-300000,324996,286000,345000,,5543 Jessip St,3,3,2044,147,9,2570,Sqft,2016,143,,https://www.movoto.com/home/5543-jessip-st-morrisville-nc-27560-413_2338843
-263900,348656,263000,384000,,501 Ruby Walk Dr,3,4,1981,,,,,,,,https://www.movoto.com/home/501-ruby-walk-dr-morrisville-nc-27560-413_2338574
-349000,383528,329000,414000,,4313 Pond Pine Trl,3,3,2008,174,13,3485,Sqft,2018,130,,https://www.movoto.com/home/4313-pond-pine-trl-morrisville-nc-27560-413_2338061
-276500,284427,276000,293000,,108 Apricot Cir,3,3,1683,164,14,3485,Sqft,2002,110,,https://www.movoto.com/home/108-apricot-cir-morrisville-nc-27560-413_2337840
-339900,367038,338000,388000,,102 Fairwood Dr,4,3,1942,175,15,0.35,Acres,1992,0,,https://www.movoto.com/home/102-fairwood-dr-morrisville-nc-27560-413_2337816
-300000,326289,273000,353000,,117 Kathleen Ct,3,3,1783,168,15,3485,Sqft,2012,129,,https://www.movoto.com/home/117-kathleen-ct-morrisville-nc-27560-413_2337758
-315000,348725,288000,369000,,600 Courthouse Dr,3,3,1885,167,18,3485,Sqft,2004,110,,https://www.movoto.com/home/600-courthouse-dr-morrisville-nc-27560-413_2337323
-299900,271500,231000,300000,,300 Downing Glen Dr,3,3,1500,,,,,,,,https://www.movoto.com/home/300-downing-glen-dr-morrisville-nc-27560-413_2336721
-430000,439757,339000,521000,,1405 Hemby Ridge Ln,5,3,2801,154,22,6534,Sqft,2008,70,,https://www.movoto.com/home/1405-hemby-ridge-ln-morrisville-nc-27560-413_2165705
-335000,329238,277000,353000,,142 Singer Way,3,3,1809,185,23,5227,Sqft,2007,70,,https://www.movoto.com/home/142-singer-way-morrisville-nc-27560-413_2336264
-270000,293062,269000,332000,,2148 Junewood Ln,3,3,1694,,,,,,,,https://www.movoto.com/home/2148-junewood-ln-morrisville-nc-27560-413_2335429
-349900,322322,300000,350000,,102 State House Dr,3,3,2002,175,28,0.28,Acres,2004,40,,https://www.movoto.com/home/102-state-house-dr-morrisville-nc-27560-413_2335142
-309000,324853,308000,327000,,809 Meeting Hall Dr,3,3,1649,187,30,4792,Sqft,2002,110,,https://www.movoto.com/home/809-meeting-hall-dr-morrisville-nc-27560-413_2334814
-329900,272895,254000,331000,10000,104 State House Dr,3,3,1695,,,,,,,,https://www.movoto.com/home/104-state-house-dr-morrisville-nc-27560-413_2334625
-237500,265600,237000,270000,,705 Keystone Park Dr #55,3,3,1600,148,33,,,2009,154,,https://www.movoto.com/home/705-keystone-park-dr-apt-55-morrisville-nc-27560-413_2334371
-315000,329238,277000,353000,,700 Meeting Hall Dr,3,3,1809,174,33,4792,Sqft,2002,110,,https://www.movoto.com/home/700-meeting-hall-dr-morrisville-nc-27560-pid_s64x43b5jh
-310000,328944,310000,362000,,339 Scotlow Way,3,3,1848,168,35,2614,Sqft,2012,119,,https://www.movoto.com/home/339-scotlow-way-morrisville-nc-27560-413_2333803
-430000,426284,326000,502000,,1404 Everette Fields Rd,4,3,2698,,,,,,,,https://www.movoto.com/home/1404-everette-fields-rd-morrisville-nc-27560-413_2333392
-454900,538772,456000,593000,,1132 Survada Ln,5,4,3188,143,40,0.29,Acres,2013,70,,https://www.movoto.com/home/1132-survada-ln-morrisville-nc-27560-413_2172963
-399900,496308,401000,547000,,301 Kirkeenan Cir,4,4,2804,143,41,3485,Sqft,2007,97,,https://www.movoto.com/home/301-kirkeenan-cir-morrisville-nc-27560-413_2332780
-329900,361080,314000,400000,5000,1016 Coreopsis Way,4,4,2040,162,43,1742,Sqft,2010,145,,https://www.movoto.com/home/1016-coreopsis-way-morrisville-nc-27560-413_2332164
-410000,438025,385000,488000,,404 Star Magnolia Dr,4,4,2503,164,44,6098,Sqft,2006,57,,https://www.movoto.com/home/404-star-magnolia-dr-morrisville-nc-27560-413_2267542
+270000,291368,269000,332000,,2148 Junewood Ln,3,3,1694,,,,,,,,https://www.movoto.com/home/2148-junewood-ln-morrisville-nc-27560-413_2335429
+349900,322322,300000,350000,,102 State House Dr,3,3,2002,175,30,0.28,Acres,2004,40,,https://www.movoto.com/home/102-state-house-dr-morrisville-nc-27560-413_2335142
+309000,324853,308000,327000,,809 Meeting Hall Dr,3,3,1649,,,,,,,,https://www.movoto.com/home/809-meeting-hall-dr-morrisville-nc-27560-413_2334814
+329900,272895,254000,331000,10000,104 State House Dr,3,3,1695,195,33,10454,Sqft,2004,31,,https://www.movoto.com/home/104-state-house-dr-morrisville-nc-27560-413_2334625
+237500,267200,237000,277000,,705 Keystone Park Dr #55,3,3,1600,148,34,,,2009,154,,https://www.movoto.com/home/705-keystone-park-dr-apt-55-morrisville-nc-27560-413_2334371
+315000,329238,277000,353000,,700 Meeting Hall Dr,3,3,1809,174,35,4792,Sqft,2002,110,,https://www.movoto.com/home/700-meeting-hall-dr-morrisville-nc-27560-pid_s64x43b5jh
+310000,328944,310000,362000,,339 Scotlow Way,3,3,1848,168,36,2614,Sqft,2012,119,,https://www.movoto.com/home/339-scotlow-way-morrisville-nc-27560-413_2333803
+430000,464056,405000,502000,,1404 Everette Fields Rd,4,3,2698,159,38,8712,Sqft,2012,49,,https://www.movoto.com/home/1404-everette-fields-rd-morrisville-nc-27560-413_2333392
+454900,538772,456000,593000,,1132 Survada Ln,5,4,3188,143,42,0.29,Acres,2013,70,,https://www.movoto.com/home/1132-survada-ln-morrisville-nc-27560-413_2172963
+399900,496308,401000,547000,,301 Kirkeenan Cir,4,4,2804,143,42,3485,Sqft,2007,97,,https://www.movoto.com/home/301-kirkeenan-cir-morrisville-nc-27560-413_2332780
+329900,361080,314000,400000,5000,1016 Coreopsis Way,4,4,2040,162,45,1742,Sqft,2010,145,,https://www.movoto.com/home/1016-coreopsis-way-morrisville-nc-27560-413_2332164
+410000,438025,385000,488000,,404 Star Magnolia Dr,4,4,2503,164,45,6098,Sqft,2006,57,,https://www.movoto.com/home/404-star-magnolia-dr-morrisville-nc-27560-413_2267542
 439000,543520,439000,581000,,304 Star Magnolia Dr,4,4,3160,,,,,,,,https://www.movoto.com/home/304-star-magnolia-dr-morrisville-nc-27560-413_2330021
-314800,362700,293000,421000,,127 Station Dr,4,3,2418,130,55,3920,Sqft,2011,30,,https://www.movoto.com/home/127-station-dr-morrisville-nc-27560-413_2329850
-409900,362500,303000,430000,,2029 Kirkhaven Rd,3,3,2500,,,,,,,,https://www.movoto.com/home/2029-kirkhaven-rd-morrisville-nc-27560-413_2328473
-369900,397735,332000,477000,4000,1129 Circandian Ct,4,3,2743,135,63,4356,Sqft,2008,66,,https://www.movoto.com/home/1129-circandian-ct-morrisville-nc-27560-413_2328301
+314800,357864,293000,401000,,127 Station Dr,4,3,2418,130,56,3920,Sqft,2011,30,,https://www.movoto.com/home/127-station-dr-morrisville-nc-27560-413_2329850
+409900,362500,303000,430000,,2029 Kirkhaven Rd,3,3,2500,164,64,6970,Sqft,2012,49,,https://www.movoto.com/home/2029-kirkhaven-rd-morrisville-nc-27560-413_2328473
+369900,392249,332000,455000,4000,1129 Circandian Ct,4,3,2743,135,64,4356,Sqft,2008,66,,https://www.movoto.com/home/1129-circandian-ct-morrisville-nc-27560-413_2328301
 405000,413036,367000,455000,5000,2212 Mayo Forest Ln,3,3,2444,,,,,,,,https://www.movoto.com/home/2212-mayo-forest-ln-morrisville-nc-27560-413_2328170
-369000,438572,370000,465000,19000,134 Prestonian Pl,3,3,2642,140,66,3920,Sqft,2000,206,,https://www.movoto.com/home/134-prestonian-pl-morrisville-nc-27560-413_2327714
-360000,345291,295000,378000,,1204 Midvale Ave,3,3,1929,187,70,3485,Sqft,2018,108,,https://www.movoto.com/home/1204-midvale-ave-morrisville-nc-27560-413_2326788
-237000,267180,237000,288000,,813 Hamlet Park Dr,3,3,1460,162,82,1307,Sqft,2003,132,,https://www.movoto.com/home/813-hamlet-park-dr-morrisville-nc-27560-413_2291728
-350000,402084,350000,457000,,308 Princess Pl,3,4,2754,127,82,4356,Sqft,2016,164,,https://www.movoto.com/home/308-princess-pl-morrisville-nc-27560-413_2324502
-344999,333592,311000,356000,5000,300 Valley Glen Dr,3,3,2072,167,93,10454,Sqft,2002,33,,https://www.movoto.com/home/300-valley-glen-dr-morrisville-nc-27560-413_2322217
-309990,356031,304000,390000,,1105 Garden Square Ln,3,3,1989,,,,,,,,https://www.movoto.com/home/1105-garden-square-ln-morrisville-nc-27560-413_2319720
-425000,441350,398000,536000,10000,1005 Craigmeade Dr,4,3,2425,175,115,4356,Sqft,2017,108,,https://www.movoto.com/home/1005-craigmeade-dr-morrisville-nc-27560-413_2318350
-312500,351198,300000,385000,3000,303 Founders Walk Dr,3,3,1962,159,138,3485,Sqft,2002,110,,https://www.movoto.com/home/303-founders-walk-dr-morrisville-nc-27560-413_2285568
+369000,454424,370000,473000,19000,134 Prestonian Pl,3,3,2642,,,,,,,,https://www.movoto.com/home/134-prestonian-pl-morrisville-nc-27560-413_2327714
+360000,356865,295000,378000,,1204 Midvale Ave,3,3,1929,187,71,3485,Sqft,2018,108,,https://www.movoto.com/home/1204-midvale-ave-morrisville-nc-27560-413_2326788
+237000,267180,237000,288000,,813 Hamlet Park Dr,3,3,1460,162,84,1307,Sqft,2003,132,,https://www.movoto.com/home/813-hamlet-park-dr-morrisville-nc-27560-413_2291728
+350000,432378,350000,532000,,308 Princess Pl,3,4,2754,127,84,4356,Sqft,2016,164,,https://www.movoto.com/home/308-princess-pl-morrisville-nc-27560-413_2324502
+344999,333592,311000,356000,5000,300 Valley Glen Dr,3,3,2072,167,95,10454,Sqft,2002,33,,https://www.movoto.com/home/300-valley-glen-dr-morrisville-nc-27560-413_2322217
+309990,367965,304000,390000,,1105 Garden Square Ln,3,3,1989,156,109,3485,Sqft,2010,150,,https://www.movoto.com/home/1105-garden-square-ln-morrisville-nc-27560-413_2319720
+425000,429225,371000,536000,10000,1005 Craigmeade Dr,4,3,2425,175,116,4356,Sqft,2017,108,,https://www.movoto.com/home/1005-craigmeade-dr-morrisville-nc-27560-413_2318350
+312500,362970,300000,385000,3000,303 Founders Walk Dr,3,3,1962,159,139,3485,Sqft,2002,110,,https://www.movoto.com/home/303-founders-walk-dr-morrisville-nc-27560-413_2285568
 301900,329400,277000,356000,8000,100 Kathleen Ct,3,3,1800,,,,,,,,https://www.movoto.com/home/100-kathleen-ct-morrisville-nc-27560-413_2311748
-475000,298116,265000,475000,360000,808 Church St,4,2,1764,,,,,,,,https://www.movoto.com/home/808-church-st-morrisville-nc-27560-413_2275343
+475000,298116,265000,475000,360000,808 Church St,4,2,1764,269,300,2.50,Acres,1981,0,,https://www.movoto.com/home/808-church-st-morrisville-nc-27560-413_2275343
