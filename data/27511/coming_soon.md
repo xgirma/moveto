@@ -1,7 +1,5 @@
-| Price                                                                                     | Est.       | Address               | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open     |
-| :---------------------------------------------------------------------------------------- | :--------- | :-------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :------- |
-| [425,000.00](https://www.movoto.com/home/118-castlewood-dr-cary-nc-27511-413_2340179)     | 490,312.00 | 118 Castlewood Dr     | 4   | 3    | 2936 | 145   | New  | 0.39 | 1979 | 4   | Open 9/5 |
-| [425,000.00](https://www.movoto.com/home/200-coventry-ln-cary-nc-27511-413_2337631)       | 357,740.00 | 200 Coventry Ln       | 3   | 2    | 2308 | 184   | 14   | 0.27 | 1986 | 90  |          |
-| [349,900.00](https://www.movoto.com/home/508-lochness-ln-cary-nc-27511-413_2209130)       | 288,090.00 | 508 Lochness Ln       | 3   | 2    | 1746 |       |      |      |      |     |          |
-| [349,900.00](https://www.movoto.com/home/113-flora-mcdonald-ln-cary-nc-27511-413_2335997) | 360,219.00 | 113 Flora Mcdonald Ln | 3   | 3    | 2157 | 162   | 24   | 0.30 | 1978 | 28  |          |
-| [299,999.00](https://www.movoto.com/home/235-harbor-creek-dr-cary-nc-27511-413_2336595)   | 333,250.00 | 235 Harbor Creek Dr   | 4   | 3    | 2150 | 140   | 19   | 3049 | 2000 | 239 |          |
+| Price                                                                                   | Est.       | Address             | Bed | Bath | Size | Value | Days | Lot   | Year | HOA | Open     |
+| :-------------------------------------------------------------------------------------- | :--------- | :------------------ | :-- | :--- | :--- | :---- | :--- | :---- | :--- | :-- | :------- |
+| [425,000.00](https://www.movoto.com/home/200-coventry-ln-cary-nc-27511-413_2337631)     | 373,896.00 | 200 Coventry Ln     | 3   | 2    | 2308 | 184   | 17   | 0.27  | 1986 | 90  |          |
+| [299,999.00](https://www.movoto.com/home/235-harbor-creek-dr-cary-nc-27511-413_2336595) | 318,200.00 | 235 Harbor Creek Dr | 4   | 3    | 2150 |       |      |       |      |     |          |
+| [295,000.00](https://www.movoto.com/home/109-cameron-ct-cary-nc-27511-413_2340684)      | 252,700.00 | 109 Cameron Ct      | 3   | 2    | 1444 | 204   | 1    | 10019 | 1979 | 29  | Open 9/6 |
