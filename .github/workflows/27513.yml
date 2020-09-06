@@ -1,7 +1,7 @@
 name: 'Cary, 27513, NC :'
 'on':
   schedule:
-    - cron: 1 7 */3 * *
+    - cron: 10 7 * WED
 jobs:
   build:
     runs-on: macOS-latest
