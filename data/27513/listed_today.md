@@ -1,5 +1,0 @@
-| Price                                                                              | Est.       | Address               | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :--------------------------------------------------------------------------------- | :--------- | :-------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [NaN](https://www.movoto.com/home/304-bayoak-dr-cary-nc-27513-413_2134900)         | 336,600.00 | 304 Bayoak Dr         | 3   | 3    | 1800 | 183   | New  | 0.27 | 1985 | 0   |      |
-| [NaN](https://www.movoto.com/home/156-madison-square-ln-cary-nc-27513-413_2340827) | 350,337.00 | 156 Madison Square Ln | 4   | 4    | 2073 | 146   | New  | 2178 | 2006 | 180 |      |
-| [NaN](https://www.movoto.com/home/104-cougar-ct-cary-nc-27513-413_2340961)         | 0.00       | 104 Cougar Ct         | 4   | 3    | 1704 | 170   | New  | 0.39 | 1981 | 0   |      |
