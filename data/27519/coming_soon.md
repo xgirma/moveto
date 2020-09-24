@@ -1,2 +1,10 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
+| Price                                                                                       | Est.       | Address                | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :------------------------------------------------------------------------------------------ | :--------- | :--------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [475,000.00](https://www.movoto.com/home/327-commons-walk-cir-cary-nc-27519-413_2341922)    | 514,876.00 | 327 Commons Walk Cir   | 3   | 3    | 2654 | 179   | 13   | 5663 | 2000 | 69  |      |
+| [459,000.00](https://www.movoto.com/home/533-methven-grove-dr-cary-nc-27519-413_2340565)    | 437,100.00 | 533 Methven Grove Dr   | 4   | 3    | 2350 |       |      |      |      |     |      |
+| [339,900.00](https://www.movoto.com/home/1040-kingston-grove-dr-cary-nc-27519-413_2342876)  | 323,466.00 | 1040 Kingston Grove Dr | 3   | 2    | 1914 | 178   | 8    | 2178 | 2007 | 173 |      |
+| [325,000.00](https://www.movoto.com/home/102-morgans-corner-run-cary-nc-27519-413_2344281)  | 322,740.00 | 102 Morgans Corner Run | 3   | 3    | 1630 | 199   | New  | 6970 | 1995 | 48  |      |
+| [300,000.00](https://www.movoto.com/home/104-sugar-hill-pl-cary-nc-27519-413_2343242)       | 276,705.00 | 104 Sugar Hill Pl      | 3   | 3    | 1419 | 211   | 6    | 5663 | 1996 | 47  |      |
+| [298,900.00](https://www.movoto.com/home/3919-brokenshire-st-cary-nc-27519-413_2341671)     | 314,088.00 | 3919 Brokenshire St    | 3   | 4    | 1707 | 175   | 15   | 1307 | 2015 | 167 |      |
+| [275,000.00](https://www.movoto.com/home/529-panorama-park-pl-cary-nc-27519-pid_xgkx43b5jh) | 277,455.00 | 529 Panorama Park Pl   | 3   | 3    | 1745 | 158   | 6    | 2178 | 2009 | 174 |      |
+| [255,000.00](https://www.movoto.com/home/1031-summerhouse-rd-cary-nc-27519-413_2271026)     | 0.00       | 1031 Summerhouse Rd    | 3   | 4    | 1800 | 142   | 2    | 3.00 | 2008 | 160 |      |

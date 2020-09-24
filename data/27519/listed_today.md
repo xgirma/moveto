@@ -1,2 +1,3 @@
-| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
-| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
+| Price                                                                      | Est.       | Address       | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :------------------------------------------------------------------------- | :--------- | :------------ | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [NaN](https://www.movoto.com/home/4103-sykes-st-cary-nc-27519-413_2344341) | 325,080.00 | 4103 Sykes St | 3   | 4    | 1806 | 166   | New  | 1742 | 2014 | 167 |      |
