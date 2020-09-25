@@ -1,10 +1,11 @@
-| Price                                                                                       | Est.       | Address                | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :------------------------------------------------------------------------------------------ | :--------- | :--------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [475,000.00](https://www.movoto.com/home/327-commons-walk-cir-cary-nc-27519-413_2341922)    | 514,876.00 | 327 Commons Walk Cir   | 3   | 3    | 2654 | 179   | 13   | 5663 | 2000 | 69  |      |
-| [459,000.00](https://www.movoto.com/home/533-methven-grove-dr-cary-nc-27519-413_2340565)    | 437,100.00 | 533 Methven Grove Dr   | 4   | 3    | 2350 |       |      |      |      |     |      |
-| [339,900.00](https://www.movoto.com/home/1040-kingston-grove-dr-cary-nc-27519-413_2342876)  | 323,466.00 | 1040 Kingston Grove Dr | 3   | 2    | 1914 | 178   | 8    | 2178 | 2007 | 173 |      |
-| [325,000.00](https://www.movoto.com/home/102-morgans-corner-run-cary-nc-27519-413_2344281)  | 322,740.00 | 102 Morgans Corner Run | 3   | 3    | 1630 | 199   | New  | 6970 | 1995 | 48  |      |
-| [300,000.00](https://www.movoto.com/home/104-sugar-hill-pl-cary-nc-27519-413_2343242)       | 276,705.00 | 104 Sugar Hill Pl      | 3   | 3    | 1419 | 211   | 6    | 5663 | 1996 | 47  |      |
-| [298,900.00](https://www.movoto.com/home/3919-brokenshire-st-cary-nc-27519-413_2341671)     | 314,088.00 | 3919 Brokenshire St    | 3   | 4    | 1707 | 175   | 15   | 1307 | 2015 | 167 |      |
-| [275,000.00](https://www.movoto.com/home/529-panorama-park-pl-cary-nc-27519-pid_xgkx43b5jh) | 277,455.00 | 529 Panorama Park Pl   | 3   | 3    | 1745 | 158   | 6    | 2178 | 2009 | 174 |      |
-| [255,000.00](https://www.movoto.com/home/1031-summerhouse-rd-cary-nc-27519-413_2271026)     | 0.00       | 1031 Summerhouse Rd    | 3   | 4    | 1800 | 142   | 2    | 3.00 | 2008 | 160 |      |
+| Price                                                                                       | Est.       | Address              | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :------------------------------------------------------------------------------------------ | :--------- | :------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [475,000.00](https://www.movoto.com/home/327-commons-walk-cir-cary-nc-27519-413_2341922)    | 506,914.00 | 327 Commons Walk Cir | 3   | 3    | 2654 |       |      |      |      |     |      |
+| [459,000.00](https://www.movoto.com/home/533-methven-grove-dr-cary-nc-27519-413_2340565)    | 507,600.00 | 533 Methven Grove Dr | 4   | 3    | 2350 | 195   | 22   | 3485 | 2014 | 125 |      |
+| [427,000.00](https://www.movoto.com/home/126-carswell-ln-cary-nc-27519-pid_qzsx43b5jh)      | 427,500.00 | 126 Carswell Ln      | 4   | 3    | 2500 | 171   | New  | 0.37 | 1999 | 27  |      |
+| [309,000.00](https://www.movoto.com/home/732-suffield-way-cary-nc-27519-413_2344651)        | 307,840.00 | 732 Suffield Way     | 4   | 4    | 1924 |       |      |      |      |     |      |
+| [300,000.00](https://www.movoto.com/home/104-sugar-hill-pl-cary-nc-27519-413_2343242)       | 265,353.00 | 104 Sugar Hill Pl    | 3   | 3    | 1419 | 211   | 7    | 5663 | 1996 | 47  |      |
+| [298,900.00](https://www.movoto.com/home/3919-brokenshire-st-cary-nc-27519-413_2341671)     | 291,897.00 | 3919 Brokenshire St  | 3   | 4    | 1707 | 175   | 16   | 1307 | 2015 | 167 |      |
+| [284,000.00](https://www.movoto.com/home/932-morris-dale-ln-cary-nc-27519-413_2228184)      | 296,360.00 | 932 Morris Dale Ln   | 4   | 4    | 1912 |       |      |      |      |     |      |
+| [275,000.00](https://www.movoto.com/home/529-panorama-park-pl-cary-nc-27519-pid_xgkx43b5jh) | 275,710.00 | 529 Panorama Park Pl | 3   | 3    | 1745 |       |      |      |      |     |      |
+| [255,000.00](https://www.movoto.com/home/1031-summerhouse-rd-cary-nc-27519-413_2271026)     | 0.00       | 1031 Summerhouse Rd  | 3   | 4    | 1800 | 142   | 3    | 3.00 | 2008 | 160 |      |
