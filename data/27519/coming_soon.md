@@ -1,11 +1,9 @@
-| Price                                                                                       | Est.       | Address              | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :------------------------------------------------------------------------------------------ | :--------- | :------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [475,000.00](https://www.movoto.com/home/327-commons-walk-cir-cary-nc-27519-413_2341922)    | 506,914.00 | 327 Commons Walk Cir | 3   | 3    | 2654 |       |      |      |      |     |      |
-| [459,000.00](https://www.movoto.com/home/533-methven-grove-dr-cary-nc-27519-413_2340565)    | 507,600.00 | 533 Methven Grove Dr | 4   | 3    | 2350 | 195   | 22   | 3485 | 2014 | 125 |      |
-| [427,000.00](https://www.movoto.com/home/126-carswell-ln-cary-nc-27519-pid_qzsx43b5jh)      | 427,500.00 | 126 Carswell Ln      | 4   | 3    | 2500 | 171   | New  | 0.37 | 1999 | 27  |      |
-| [309,000.00](https://www.movoto.com/home/732-suffield-way-cary-nc-27519-413_2344651)        | 307,840.00 | 732 Suffield Way     | 4   | 4    | 1924 |       |      |      |      |     |      |
-| [300,000.00](https://www.movoto.com/home/104-sugar-hill-pl-cary-nc-27519-413_2343242)       | 265,353.00 | 104 Sugar Hill Pl    | 3   | 3    | 1419 | 211   | 7    | 5663 | 1996 | 47  |      |
-| [298,900.00](https://www.movoto.com/home/3919-brokenshire-st-cary-nc-27519-413_2341671)     | 291,897.00 | 3919 Brokenshire St  | 3   | 4    | 1707 | 175   | 16   | 1307 | 2015 | 167 |      |
-| [284,000.00](https://www.movoto.com/home/932-morris-dale-ln-cary-nc-27519-413_2228184)      | 296,360.00 | 932 Morris Dale Ln   | 4   | 4    | 1912 |       |      |      |      |     |      |
-| [275,000.00](https://www.movoto.com/home/529-panorama-park-pl-cary-nc-27519-pid_xgkx43b5jh) | 275,710.00 | 529 Panorama Park Pl | 3   | 3    | 1745 |       |      |      |      |     |      |
-| [255,000.00](https://www.movoto.com/home/1031-summerhouse-rd-cary-nc-27519-413_2271026)     | 0.00       | 1031 Summerhouse Rd  | 3   | 4    | 1800 | 142   | 3    | 3.00 | 2008 | 160 |      |
+| Price                                                                                      | Est.       | Address                | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open      |
+| :----------------------------------------------------------------------------------------- | :--------- | :--------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :-------- |
+| [465,000.00](https://www.movoto.com/home/104-pine-stroll-dr-cary-nc-27519-413_2345279)     | 523,894.00 | 104 Pine Stroll Dr     | 4   | 3    | 3254 | 143   | New  | 0.34 | 1996 | 47  |           |
+| [459,000.00](https://www.movoto.com/home/533-methven-grove-dr-cary-nc-27519-413_2340565)   | 498,200.00 | 533 Methven Grove Dr   | 4   | 3    | 2350 | 195   | 26   | 3485 | 2014 | 125 |           |
+| [427,000.00](https://www.movoto.com/home/126-carswell-ln-cary-nc-27519-pid_qzsx43b5jh)     | 382,500.00 | 126 Carswell Ln        | 4   | 3    | 2500 | 171   | 4    | 0.37 | 1999 | 27  |           |
+| [415,000.00](https://www.movoto.com/home/516-alden-bridge-dr-cary-nc-27519-413_2344901)    | 356,772.00 | 516 Alden Bridge Dr    | 3   | 3    | 2287 | 181   | 3    | 4356 | 2005 | 38  |           |
+| [384,900.00](https://www.movoto.com/home/551-catalina-grande-dr-cary-nc-27519-413_2345142) | 286,905.00 | 551 Catalina Grande Dr | 3   | 3    | 1851 | 208   | 1    | 3049 | 2018 | 210 | Open 10/3 |
+| [298,900.00](https://www.movoto.com/home/3919-brokenshire-st-cary-nc-27519-413_2341671)    | 290,190.00 | 3919 Brokenshire St    | 3   | 4    | 1707 | 175   | 20   | 1307 | 2015 | 167 |           |
+| [255,000.00](https://www.movoto.com/home/1031-summerhouse-rd-cary-nc-27519-413_2271026)    | 0.00       | 1031 Summerhouse Rd    | 3   | 4    | 1800 | 142   | 7    | 3.00 | 2008 | 160 |           |

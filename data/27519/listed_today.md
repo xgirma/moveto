@@ -1,4 +1,3 @@
-| Price                                                                           | Est.       | Address            | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :------------------------------------------------------------------------------ | :--------- | :----------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [NaN](https://www.movoto.com/home/106-carterwood-ct-cary-nc-27519-413_2344732)  | 581,704.00 | 106 Carterwood Ct  | 5   | 4    | 3382 | 126   | New  | 0.25 | 1997 | 27  |      |
-| [NaN](https://www.movoto.com/home/211-joshua-glen-ln-cary-nc-27519-413_2344689) | 397,005.00 | 211 Joshua Glen Ln | 4   | 3    | 1995 | 163   | New  | 3093 | 2002 | 182 |      |
+| Price                                                                                | Est.       | Address                 | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
+| :----------------------------------------------------------------------------------- | :--------- | :---------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
+| [NaN](https://www.movoto.com/home/1043-remington-oaks-cir-cary-nc-27519-413_2345210) | 261,592.00 | 1043 Remington Oaks Cir | 3   | 3    | 1721 | 170   | New  | 2178 | 2006 | 189 |      |
