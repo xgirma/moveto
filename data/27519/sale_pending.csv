@@ -1,19 +1,10 @@
 Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,Year,HOA,Open,Link
-385000,390582,374000,436000,,320 Northlands Dr,3,3,2411,160,47,5227,Sqft,2006,83,,https://www.movoto.com/home/320-northlands-dr-cary-nc-27519-413_2336591
-350000,344584,333000,356000,5000,609 Balsam Fir Dr,4,4,2267,154,60,1742,Sqft,2016,241,,https://www.movoto.com/home/609-balsam-fir-dr-cary-nc-27519-413_2313673
-430406,444964,429000,452000,4000,4211 Mahal Ave,3,3,2236,192,96,4356,Sqft,2020,154,,https://www.movoto.com/home/4211-mahal-ave-cary-nc-27519-413_2326820
-499990,538356,499000,570000,,2517 Hayes Hill Place #81 - ANSLEY A-2,3,3,2639,189,108,6098,Sqft,2020,89,,https://www.movoto.com/home/2517-hayes-hill-place-apt-81-ansley-a-2-cary-nc-27519-413_2324731
-429990,444626,384000,501000,5000,124 Mazarin Ln #70,3,4,2443,176,110,3746,Sqft,2020,141,,https://www.movoto.com/home/124-mazarin-ln-apt-70-cary-nc-27519-413_2324021
-499700,484388,446000,540000,13000,209 Wales Way,5,4,2918,171,121,5358,Sqft,2020,95,,https://www.movoto.com/home/209-wales-way-cary-nc-27519-413_2322085
-379900,410956,373000,470000,,2030 Chipley Dr,3,3,2258,168,122,2526,Sqft,2020,135,,https://www.movoto.com/home/2030-chipley-dr-cary-nc-27519-413_2321950
-399900,439076,387000,488000,3000,2036 Chipley Dr,4,3,2348,170,151,3703,Sqft,2020,135,,https://www.movoto.com/home/2036-chipley-dr-cary-nc-27519-413_2316340
-421453,447153,422000,454000,2000,4215 Mahal Ave,3,3,2247,188,167,3920,Sqft,2020,154,,https://www.movoto.com/home/4215-mahal-ave-cary-nc-27519-413_2313571
-310000,341912,309000,368000,,348 Bridgegate Dr,3,4,2164,,,,,,,,https://www.movoto.com/home/348-bridgegate-dr-cary-nc-27519-413_2300942
-414040,374061,367000,413000,,2605 Hayes Hill Place #119 - HARLEY A,3,2,1861,222,228,6098,Sqft,2020,89,,https://www.movoto.com/home/2605-hayes-hill-place-apt-119-harley-a-cary-nc-27519-413_2301952
-499500,532918,500000,563000,11000,773 Midori Cir #LOT 179,3,3,2747,182,231,5227,Sqft,2020,134,,https://www.movoto.com/home/773-midori-cir-lot-179-cary-nc-27519-413_2301173
-398000,,331000,407000,6000,4000 Jockey Club Cir,4,3,2249,177,272,5227,Sqft,2007,83,,https://www.movoto.com/home/4000-jockey-club-cir-cary-nc-27519-413_2287124
-402900,434380,387000,470000,8000,2028 Chipley Dr,4,3,2348,172,301,4269,Sqft,2020,160,,https://www.movoto.com/home/2028-chipley-dr-cary-nc-27519-413_2291169
-425255,427525,384000,474000,,136 Mazarin Ln #LOT 65,4,4,2443,174,342,3267,Sqft,2019,141,,https://www.movoto.com/home/136-mazarin-ln-lot-65-cary-nc-27519-413_2285149
-399990,349146,308000,401000,3000,140 Mazarin Ln #LOT 63,4,4,2142,,,,,,,,https://www.movoto.com/home/140-mazarin-ln-lot-63-cary-nc-27519-413_2284298
-393840,349146,308000,394000,,142 Mazarin Ln #LOT 62,4,4,2142,184,348,1917,Sqft,2019,141,,https://www.movoto.com/home/142-mazarin-ln-lot-62-cary-nc-27519-413_2284296
-375000,410956,373000,470000,5000,2046 Chipley Dr,3,3,2258,166,498,2439,Sqft,2019,135,,https://www.movoto.com/home/2046-chipley-dr-cary-nc-27519-413_2255991
+421453,447153,422000,454000,2000,4215 Mahal Ave,3,3,2247,188,,3920 Sqft,Size,2020,154,,https://www.movoto.com/home/4215-mahal-ave-cary-nc-27519-413_2313571
+310000,337584,307000,368000,,348 Bridgegate Dr,3,4,2164,143,,2178 Sqft,Size,2004,225,,https://www.movoto.com/home/348-bridgegate-dr-cary-nc-27519-413_2300942
+414040,374061,367000,413000,,2605 Hayes Hill Place #119 - HARLEY A,3,2,1861,222,,6098 Sqft,Size,2020,89,,https://www.movoto.com/home/2605-hayes-hill-place-apt-119-harley-a-cary-nc-27519-413_2301952
+499500,532918,500000,563000,11000,773 Midori Cir #LOT 179,3,3,2747,182,,5227 Sqft,Size,2020,134,,https://www.movoto.com/home/773-midori-cir-lot-179-cary-nc-27519-413_2301173
+398000,,319000,468000,6000,4000 Jockey Club Cir,4,3,2249,177,,5227 Sqft,Size,2007,83,,https://www.movoto.com/home/4000-jockey-club-cir-cary-nc-27519-413_2287124
+402900,432032,387000,470000,8000,2028 Chipley Dr,4,3,2348,172,,4269 Sqft,Size,2020,160,,https://www.movoto.com/home/2028-chipley-dr-cary-nc-27519-413_2291169
+425255,427525,384000,474000,,136 Mazarin Ln #LOT 65,4,4,2443,174,,3267 Sqft,Size,2019,141,,https://www.movoto.com/home/136-mazarin-ln-lot-65-cary-nc-27519-413_2285149
+399990,349146,308000,401000,3000,140 Mazarin Ln #LOT 63,4,4,2142,187,,1917 Sqft,Size,2020,141,,https://www.movoto.com/home/140-mazarin-ln-lot-63-cary-nc-27519-413_2284298
+375000,408698,373000,470000,5000,2046 Chipley Dr,3,3,2258,166,,2439 Sqft,Size,2019,135,,https://www.movoto.com/home/2046-chipley-dr-cary-nc-27519-413_2255991

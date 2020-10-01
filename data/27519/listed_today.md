@@ -1,3 +1,2 @@
-| Price                                                                                | Est.       | Address                 | Bed | Bath | Size | Value | Days | Lot  | Year | HOA | Open |
-| :----------------------------------------------------------------------------------- | :--------- | :---------------------- | :-- | :--- | :--- | :---- | :--- | :--- | :--- | :-- | :--- |
-| [NaN](https://www.movoto.com/home/1043-remington-oaks-cir-cary-nc-27519-413_2345210) | 261,592.00 | 1043 Remington Oaks Cir | 3   | 3    | 1721 | 170   | New  | 2178 | 2006 | 189 |      |
+| Price | Est. | Address | Bed | Bath | Size | Value | Days | Lot | Year | HOA | Open |
+| :---- | :--- | :------ | :-- | :--- | :--- | :---- | :--- | :-- | :--- | :-- | :--- |
