@@ -1,9 +1,5 @@
-| Price                                                                                      | Est.       | Address                | Bed | Bath | Size | Value | Days | Lot        | Year | HOA | Open      |
-| :----------------------------------------------------------------------------------------- | :--------- | :--------------------- | :-- | :--- | :--- | :---- | :--- | :--------- | :--- | :-- | :-------- |
-| [465,000.00](https://www.movoto.com/home/104-pine-stroll-dr-cary-nc-27519-413_2345279)     | 588,974.00 | 104 Pine Stroll Dr     | 4   | 3    | 3254 | 143   |      | 0.34 Acres | 1996 | 47  |           |
-| [459,000.00](https://www.movoto.com/home/533-methven-grove-dr-cary-nc-27519-413_2340565)   | 573,400.00 | 533 Methven Grove Dr   | 4   | 3    | 2350 | 195   |      | 3485 Sqft  | 2014 | 125 |           |
-| [435,000.00](https://www.movoto.com/home/1050-residents-club-dr-cary-nc-27519-413_2345392) | 430,745.00 | 1050 Residents Club Dr | 3   | 4    | 2779 | 157   |      | 2178 Sqft  | 2016 | 235 | Open 10/3 |
-| [415,000.00](https://www.movoto.com/home/516-alden-bridge-dr-cary-nc-27519-413_2344901)    | 354,485.00 | 516 Alden Bridge Dr    | 3   | 3    | 2287 | 181   |      | 4356 Sqft  | 2005 | 38  |           |
-| [384,900.00](https://www.movoto.com/home/551-catalina-grande-dr-cary-nc-27519-413_2345142) | 285,054.00 | 551 Catalina Grande Dr | 3   | 3    | 1851 | 208   |      | 3049 Sqft  | 2018 | 210 | Open 10/3 |
-| [298,900.00](https://www.movoto.com/home/3919-brokenshire-st-cary-nc-27519-413_2341671)    | 293,604.00 | 3919 Brokenshire St    | 3   | 4    | 1707 | 175   |      | 1307 Sqft  | 2015 | 167 |           |
-| [255,000.00](https://www.movoto.com/home/1031-summerhouse-rd-cary-nc-27519-413_2271026)    | 0.00       | 1031 Summerhouse Rd    | 3   | 4    | 1800 | 142   |      | 3.00 Acres | 2008 | 160 | Open 10/2 |
+| Price                                                                                  | Est.       | Address            | Bed | Bath | Size | Value | Days | Lot        | Year | HOA | Open |
+| :------------------------------------------------------------------------------------- | :--------- | :----------------- | :-- | :--- | :--- | :---- | :--- | :--------- | :--- | :-- | :--- |
+| [465,000.00](https://www.movoto.com/home/104-pine-stroll-dr-cary-nc-27519-413_2345279) | 572,704.00 | 104 Pine Stroll Dr | 4   | 3    | 3254 | 143   |      | 0.34 Acres | 1996 | 47  |      |
+| [435,000.00](https://www.movoto.com/home/2313-pindos-dr-cary-nc-27519-413_2223808)     | 505,300.00 | 2313 Pindos Dr     | 5   | 4    | 3100 | 140   |      | 5227 Sqft  | 2013 | 67  |      |
+| [434,900.00](https://www.movoto.com/home/203-lyncroft-ln-cary-nc-27519-413_2346384)    | 477,416.00 | 203 Lyncroft Ln    | 5   | 3    | 2876 | 151   |      | 10019 Sqft | 1994 | 22  |      |
