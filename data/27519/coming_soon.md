@@ -1,6 +1,3 @@
-| Price                                                                                       | Est.       | Address                 | Bed | Bath | Size | Value | Days | Lot        | Year | HOA | Open |
-| :------------------------------------------------------------------------------------------ | :--------- | :---------------------- | :-- | :--- | :--- | :---- | :--- | :--------- | :--- | :-- | :--- |
-| [500,000.00](https://www.movoto.com/home/1022-ventnor-pl-cary-nc-27519-413_2323167)         | 559,482.00 | 1022 Ventnor Pl         | 3   | 3    | 3633 | 138   |      | 7667 Sqft  | 2007 | 231 |      |
-| [495,000.00](https://www.movoto.com/home/102-mintawood-ct-cary-nc-27519-413_2347086)        | 560,000.00 | 102 Mintawood Ct        | 4   | 4    | 2800 | 177   |      | 0.26 Acres | 2001 | 40  |      |
-| [464,900.00](https://www.movoto.com/home/446-golden-harvest-loop-cary-nc-27519-413_2347630) | 565,060.00 | 446 Golden Harvest Loop | 5   | 4    | 2974 | 156   |      | 6970 Sqft  | 2008 | 83  |      |
-| [304,900.00](https://www.movoto.com/home/1806-affirmed-way-cary-nc-27519-413_2157816)       | 317,832.00 | 1806 Affirmed Way       | 3   | 3    | 1938 | 157   |      | 1742 Sqft  | 2008 | 179 |      |
+| Price                                                                                | Est.       | Address          | Bed | Bath | Size | Value | Days | Lot       | Year | HOA | Open |
+| :----------------------------------------------------------------------------------- | :--------- | :--------------- | :-- | :--- | :--- | :---- | :--- | :-------- | :--- | :-- | :--- |
+| [338,000.00](https://www.movoto.com/home/4186-vallonia-dr-cary-nc-27519-413_2350458) | 362,520.00 | 4186 Vallonia Dr | 3   | 3    | 2120 | 159   |      | 2178 Sqft | 2016 | 139 |      |
