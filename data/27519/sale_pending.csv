@@ -1,17 +1,46 @@
 Price,Est.,Min.,Max.,Reduced,Address,Bed,Bath,Size,Value,Days,Lot,Unit,Year,HOA,Open,Link
-400410,393400,371000,423000,,2012 Chipley Dr,3,3,2248,178,,2614 Sqft,Size,2021,135,,https://www.movoto.com/home/2012-chipley-dr-cary-nc-27519-413_2356614
-403990,409590,372000,452000,,310 Clementine Dr #5,4,4,2214,182,,1742 Sqft,Size,2020,141,,https://www.movoto.com/home/310-clementine-dr-lot-5-cary-nc-27519-413_2313794
-349210,276678,233000,349000,,134 Ashlar Ct,3,3,1618,216,,4356 Sqft,Size,2020,154,,https://www.movoto.com/home/134-ashlar-ct-cary-nc-27519-413_2352957
-372120,324618,264000,372000,,204 Adobe Pl,3,3,1834,203,,4356 Sqft,Size,2020,154,,https://www.movoto.com/home/204-adobe-pl-cary-nc-27519-413_2352905
-374630,361424,293000,398000,,130 Ashlar Ct,3,3,1844,203,,4356 Sqft,Size,2020,154,,https://www.movoto.com/home/130-ashlar-ct-cary-nc-27519-413_2352897
-361710,324544,266000,361000,,118 Ashlar Ct,3,3,1844,196,,4356 Sqft,Size,2020,154,,https://www.movoto.com/home/118-ashlar-ct-cary-nc-27519-413_2352892
-338100,318746,257000,349000,,120 Ashlar Ct,3,3,1618,209,,4356 Sqft,Size,2020,154,,https://www.movoto.com/home/120-ashlar-ct-cary-nc-27519-413_2352861
-338000,360400,337000,375000,,4186 Vallonia Dr,3,3,2120,159,,2178 Sqft,Size,2016,139,,https://www.movoto.com/home/4186-vallonia-dr-cary-nc-27519-413_2350458
-400090,393400,371000,423000,1000,2002 Chipley Dr,3,3,2248,178,,2614 Sqft,Size,2021,135,,https://www.movoto.com/home/2002-chipley-dr-cary-nc-27519-413_2350438
-373587,423000,374000,479000,14000,220 Mazarin Ln #46,4,4,2350,159,,1873 Sqft,Size,2021,141,,https://www.movoto.com/home/220-mazarin-ln-apt-46-cary-nc-27519-413_2349290
-370259,437100,371000,479000,14000,222 Mazarin Ln #45,4,4,2350,158,,1873 Sqft,Size,2021,141,,https://www.movoto.com/home/222-mazarin-ln-apt-45-cary-nc-27519-413_2349284
-374990,425350,376000,479000,,208 Mazarin Ln #51,4,4,2350,160,,1873 Sqft,Size,2021,141,,https://www.movoto.com/home/208-mazarin-ln-apt-51-cary-nc-27519-413_2349266
+310000,,310000,353000,,432 Chanson Dr,3,3,1876,165,,2614 Sqft,Size,2015,115,,https://www.movoto.com/home/432-chanson-dr-cary-nc-27519-413_2274876
+400410,395648,371000,423000,,2012 Chipley Dr,3,3,2248,178,,2614 Sqft,Size,2021,135,,https://www.movoto.com/home/2012-chipley-dr-cary-nc-27519-413_2356614
+403990,378594,314000,452000,,310 Clementine Dr #5,4,4,2214,182,,1742 Sqft,Size,2020,141,,https://www.movoto.com/home/310-clementine-dr-lot-5-cary-nc-27519-413_2313794
+346020,302304,256000,347000,,122 Ashlar Ct,3,3,1608,215,,4356 Sqft,Size,2020,154,,https://www.movoto.com/home/122-ashlar-ct-cary-nc-27519-413_2352960
+349210,289622,257000,349000,,134 Ashlar Ct,3,3,1618,216,,4356 Sqft,Size,2020,154,,https://www.movoto.com/home/134-ashlar-ct-cary-nc-27519-413_2352957
+372120,328286,292000,372000,,204 Adobe Pl,3,3,1834,203,,4356 Sqft,Size,2020,154,,https://www.movoto.com/home/204-adobe-pl-cary-nc-27519-413_2352905
+374630,346672,293000,398000,,130 Ashlar Ct,3,3,1844,203,,4356 Sqft,Size,2020,154,,https://www.movoto.com/home/130-ashlar-ct-cary-nc-27519-413_2352897
+361710,330076,293000,361000,,118 Ashlar Ct,3,3,1844,196,,4356 Sqft,Size,2020,154,,https://www.movoto.com/home/118-ashlar-ct-cary-nc-27519-413_2352892
+338100,304184,257000,349000,,120 Ashlar Ct,3,3,1618,209,,4356 Sqft,Size,2020,154,,https://www.movoto.com/home/120-ashlar-ct-cary-nc-27519-413_2352861
+338000,349800,301000,377000,,4186 Vallonia Dr,3,3,2120,159,,2178 Sqft,Size,2016,139,,https://www.movoto.com/home/4186-vallonia-dr-cary-nc-27519-413_2350458
+400090,395648,371000,423000,1000,2002 Chipley Dr,3,3,2248,178,,2614 Sqft,Size,2021,135,,https://www.movoto.com/home/2002-chipley-dr-cary-nc-27519-413_2350438
+373587,420650,334000,479000,14000,220 Mazarin Ln #46,4,4,2350,159,,1873 Sqft,Size,2021,141,,https://www.movoto.com/home/220-mazarin-ln-apt-46-cary-nc-27519-413_2349290
+370259,411250,334000,479000,14000,222 Mazarin Ln #45,4,4,2350,158,,1873 Sqft,Size,2021,141,,https://www.movoto.com/home/222-mazarin-ln-apt-45-cary-nc-27519-413_2349284
+419730,443344,358000,514000,25000,212 Mazarin Ln #49,4,4,2519,167,,1873 Sqft,Size,2021,141,,https://www.movoto.com/home/212-mazarin-ln-apt-49-cary-nc-27519-413_2349292
+403303,450901,358000,514000,,426 Clementine Dr #34,4,4,2519,160,,1873 Sqft,Size,2021,141,,https://www.movoto.com/home/426-clementine-dr-apt-34-cary-nc-27519-413_2349274
+374990,420650,334000,479000,,208 Mazarin Ln #51,4,4,2350,160,,1873 Sqft,Size,2021,141,,https://www.movoto.com/home/208-mazarin-ln-apt-51-cary-nc-27519-413_2349266
+489000,588115,490000,649000,,408 Burnbank Dr,3,3,3179,154,,0.34 Acres,Size,1997,95,,https://www.movoto.com/home/408-burnbank-dr-cary-nc-27519-413_2327733
+405990,391932,364000,438000,1000,210 Mazarin Ln #LOT 50,4,4,2292,177,,4356 Sqft,Size,2020,141,,https://www.movoto.com/home/210-mazarin-ln-lot-50-cary-nc-27519-413_2348161
+411834,374684,317000,430000,,4225 Mahal Ave,3,3,1993,207,,3920 Sqft,Size,2020,154,,https://www.movoto.com/home/4225-mahal-ave-cary-nc-27519-413_2347926
+379790,342780,280000,380000,,4228 Mahal Ave,4,4,1970,193,,436 Sqft,Size,2020,154,,https://www.movoto.com/home/4228-mahal-ave-cary-nc-27519-413_2347661
+378790,325050,280000,378000,,225 Adobe Pl,4,4,1970,192,,436 Sqft,Size,2020,154,,https://www.movoto.com/home/225-adobe-pl-cary-nc-27519-413_2347615
+379900,404624,379000,432000,,2018 Chipley Dr,3,3,2299,165,,2614 Sqft,Size,2021,135,,https://www.movoto.com/home/2018-chipley-dr-cary-nc-27519-413_2345056
+426020,427336,406000,441000,20000,2024 Chipley Dr,4,3,2348,181,,3485 Sqft,Size,2021,135,,https://www.movoto.com/home/2024-chipley-dr-cary-nc-27519-413_2340958
+309000,309764,273000,327000,,732 Suffield Way,4,4,1924,161,,1742 Sqft,Size,2016,165,,https://www.movoto.com/home/732-suffield-way-cary-nc-27519-413_2344651
+399990,415950,334000,479000,3000,218 Mazarin Ln #47,4,4,2350,170,,1873 Sqft,Size,2021,141,,https://www.movoto.com/home/218-mazarin-ln-apt-47-cary-nc-27519-413_2339134
+358730,344792,292000,396000,4000,110 Ashlar Ct,3,3,1834,196,,4356 Sqft,Size,2020,154,,https://www.movoto.com/home/110-ashlar-ct-cary-nc-27519-413_2337505
+366240,344792,292000,396000,4000,102 Ashlar Ct,3,3,1834,200,,4356 Sqft,Size,2020,154,,https://www.movoto.com/home/102-ashlar-ct-cary-nc-27519-413_2337496
+364180,348516,293000,398000,4000,136 Ashlar Ct,3,3,1844,197,,4356 Sqft,Size,2020,154,,https://www.movoto.com/home/136-ashlar-ct-cary-nc-27519-413_2337485
+498990,451980,408000,498000,1000,2905 Hampton Hedge Lane #70 - HARLEY A-2,3,3,2430,205,,6098 Sqft,Size,2020,89,,https://www.movoto.com/home/2905-hampton-hedge-lane-apt-70-harley-a-2-cary-nc-27519-413_2335766
+385665,382356,318000,456000,5000,320 Clementine Dr #9,4,4,2236,172,,1873 Sqft,Size,2020,141,,https://www.movoto.com/home/320-clementine-dr-apt-9-cary-nc-27519-413_2335018
 426962,402480,356000,427000,2000,4219 Mahal Ave,3,3,2236,191,,4356 Sqft,Size,2020,154,,https://www.movoto.com/home/4219-mahal-ave-cary-nc-27519-413_2326808
+358793,304384,264000,358000,2000,415 King Closer Dr,4,4,1856,193,,1742 Sqft,Size,2020,154,,https://www.movoto.com/home/415-king-closer-dr-cary-nc-27519-413_2326786
+442680,448468,406000,507000,,2016 Chipley Dr,4,3,2348,189,,4835 Sqft,Size,2020,135,,https://www.movoto.com/home/2016-chipley-dr-cary-nc-27519-413_2326768
+419900,465579,369000,531000,11000,519 Gathering Park Cir #16,3,4,2601,161,,2352 Sqft,Size,2020,261,,https://www.movoto.com/home/519-gathering-park-cir-apt-16-cary-nc-27519-413_2292545
+379900,465579,369000,531000,26000,1515 Gathering Park Cir #5,3,4,2601,146,,2352 Sqft,Size,2019,261,,https://www.movoto.com/home/1515-gathering-park-cir-apt-5-cary-nc-27519-413_2292511
 375900,517599,377000,544000,24000,525 Gathering Park Cir #15,3,4,2601,145,,0.54 Acres,Size,2019,261,,https://www.movoto.com/home/525-gathering-park-cir-apt-15-cary-nc-27519-413_2251661
+375900,488988,377000,544000,14000,1505 Gathering Park Cir #3,3,4,2601,145,,0.45 Acres,Size,2019,261,,https://www.movoto.com/home/1505-gathering-park-cir-apt-3-cary-nc-27519-413_2250615
+374900,517599,375000,544000,24000,1707 Gathering Park Cir #11,3,4,2601,144,,0.46 Acres,Size,2020,261,,https://www.movoto.com/home/1707-gathering-park-cir-apt-11-cary-nc-27519-413_2319958
+382900,488988,382000,544000,25000,1701 Gathering Park Cir #8,3,4,2601,147,,0.55 Acres,Size,2020,261,,https://www.movoto.com/home/1701-gathering-park-cir-apt-8-cary-nc-27519-413_2319814
+382900,517599,382000,544000,32000,529 Gathering Park Cir #13,3,4,2601,147,,0.54 Acres,Size,2019,261,,https://www.movoto.com/home/529-gathering-park-cir-apt-13-cary-nc-27519-413_2251642
 383900,517599,385000,544000,26000,517 Gathering Park Cir #17,3,4,2601,148,,0.45 Acres,Size,2019,261,,https://www.movoto.com/home/517-gathering-park-cir-apt-17-cary-nc-27519-413_2292552
+499700,516486,371000,730000,13000,209 Wales Way,5,4,2918,171,,5358 Sqft,Size,2020,95,,https://www.movoto.com/home/209-wales-way-cary-nc-27519-413_2322085
 411290,377692,319000,434000,100,4213 Mahal Ave,3,3,2009,205,,3920 Sqft,Size,2020,154,,https://www.movoto.com/home/4213-mahal-ave-cary-nc-27519-413_2313583
+499500,538412,461000,574000,11000,773 Midori Cir #LOT 179,3,3,2747,182,,5227 Sqft,Size,2020,134,,https://www.movoto.com/home/773-midori-cir-lot-179-cary-nc-27519-413_2301173
+408990,366282,304000,437000,27000,322 Clementine Dr #LOT 10,4,4,2142,191,,1786 Sqft,Size,2019,141,,https://www.movoto.com/home/322-clementine-dr-lot-10-cary-nc-27519-413_2284245
