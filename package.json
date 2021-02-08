@@ -47,7 +47,7 @@
     "js-yaml": "3.14.0",
     "jsdom": "16.4.0",
     "markdown-table": "2.0.0",
-    "moment": "2.29.0",
+    "moment": "2.29.1",
     "playwright": "1.4.1",
     "rimraf": "3.0.2",
     "yargs": "16.0.3",
